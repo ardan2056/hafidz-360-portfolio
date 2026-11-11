@@ -2310,7 +2310,7 @@
     let latitudeRingMeshes = [];
     let kineticRingZenith = null, kineticRingNadir = null, starPointsMesh = null;
     let studioEnvGroup;
-    const SPHERE_RADIUS = 22;
+    const SPHERE_RADIUS = 25;
 
 
     function extractYouTubeId(url) {
@@ -2658,16 +2658,16 @@
       const sIdx = project.currentSlide || 0;
       const slideObj = (project.slides && project.slides[sIdx]) || {};
       const ratio = getSlideAspectRatio(project, slideObj);
-      const baseScale = projectIndex === 0 ? 7.8 : (project.tier === 'equator' ? 7.0 : 6.0);
+      const baseScale = projectIndex === 0 ? 5.8 : (project.tier === 'equator' ? 5.2 : 4.6);
 
       let cardW, cardH;
       if (ratio >= 1) {
-        // Landscape (e.g. 16:9 = 1.778, 4:3 = 1.333) -> wide card geometry matching photo
-        cardW = baseScale * 1.25;
+        // Landscape (e.g. 16:9 = 1.778, 4:3 = 1.333) -> spacious clean landscape card
+        cardW = baseScale * 1.12;
         cardH = cardW / ratio;
       } else {
-        // Portrait (e.g. 3:4 = 0.75, 9:16 = 0.5625) -> tall card geometry matching photo
-        cardH = baseScale * 1.15;
+        // Portrait (e.g. 3:4 = 0.75, 9:16 = 0.5625) -> elegant portrait card
+        cardH = baseScale * 1.05;
         cardW = cardH * ratio;
       }
 
@@ -3024,21 +3024,21 @@
         transparent: true,
         depthWrite: false
       });
-      const floorMesh = new THREE.Mesh(new THREE.CircleGeometry(48, 64), floorMat);
+      const floorMesh = new THREE.Mesh(new THREE.CircleGeometry(52, 64), floorMat);
       floorMesh.rotation.x = -Math.PI / 2;
-      floorMesh.position.set(0, -11.6, 0);
+      floorMesh.position.set(0, -13.0, 0);
       studioEnvGroup.add(floorMesh);
 
       // ROBIN PAYOT SIGNATURE PERSPECTIVE DOTTED CONCENTRIC RINGS
       const floorDotPositions = [];
-      const radii = [4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46];
+      const radii = [4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49];
       radii.forEach(r => {
         const count = Math.max(16, Math.floor((2 * Math.PI * r) / 1.15));
         for (let i = 0; i < count; i++) {
           const angle = (i / count) * Math.PI * 2;
           floorDotPositions.push(
             Math.cos(angle) * r,
-            -11.52,
+            -12.92,
             Math.sin(angle) * r
           );
         }
@@ -3049,10 +3049,10 @@
         const ang = (s / 12) * Math.PI * 2;
         const cosA = Math.cos(ang);
         const sinA = Math.sin(ang);
-        for (let d = 4.5; d <= 45; d += 1.5) {
+        for (let d = 4.5; d <= 48; d += 1.5) {
           floorDotPositions.push(
             cosA * d,
-            -11.52,
+            -12.92,
             sinA * d
           );
         }
@@ -3129,12 +3129,12 @@
         p.pitchDeg = 0;
       });
       upItems.forEach((p, i) => {
-        p.yawDeg = (22.5 + i * (360 / Math.max(1, upItems.length))) % 360;
-        p.pitchDeg = 14;
+        p.yawDeg = (20 + i * (360 / Math.max(1, upItems.length))) % 360;
+        p.pitchDeg = 19;
       });
       lowItems.forEach((p, i) => {
-        p.yawDeg = (22.5 + i * (360 / Math.max(1, lowItems.length))) % 360;
-        p.pitchDeg = -13;
+        p.yawDeg = (20 + i * (360 / Math.max(1, lowItems.length))) % 360;
+        p.pitchDeg = -17;
       });
     }
 
@@ -3246,14 +3246,14 @@
         }
 
         const texture = new THREE.CanvasTexture(cardCanvas);
-        const baseScale = index === 0 ? 7.8 : (project.tier === 'equator' ? 7.0 : 6.0);
+        const baseScale = index === 0 ? 5.8 : (project.tier === 'equator' ? 5.2 : 4.6);
         const ratio = getSlideAspectRatio(project, slideObj);
         let cardW, cardH;
         if (ratio >= 1) {
-          cardW = baseScale * 1.25;
+          cardW = baseScale * 1.12;
           cardH = cardW / ratio;
         } else {
-          cardH = baseScale * 1.15;
+          cardH = baseScale * 1.05;
           cardW = cardH * ratio;
         }
 
