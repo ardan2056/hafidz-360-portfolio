@@ -83,7 +83,7 @@
       "code": "#02",
       "tier": "equator",
       "type": "video",
-      "yawDeg": 36,
+      "yawDeg": 40,
       "pitchDeg": 0,
       "title": "SHOWREEL MULTIMEDIA — M. Hafidz Ardan",
       "category": "Video Showreel & Motion Compilation",
@@ -112,7 +112,7 @@
       "code": "#03",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 72,
+      "yawDeg": 80,
       "pitchDeg": 0,
       "title": "EDUSPACE & EVENT HUB — UI/UX Figma Prototype",
       "category": "Mobile App UI/UX & Design System",
@@ -149,7 +149,7 @@
       "code": "#04",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 108,
+      "yawDeg": 120,
       "pitchDeg": 0,
       "title": "SISTEM WEB WPK & PORTAL DIGITAL — Web App",
       "category": "Full-Stack Web / Aplikasi WPK Interaktif",
@@ -186,7 +186,7 @@
       "code": "#05",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 144,
+      "yawDeg": 160,
       "pitchDeg": 0,
       "title": "CYBER ORBIT DEFENDER — Playable WebGL Game",
       "category": "Game Development & Interactive Arcade",
@@ -224,7 +224,7 @@
       "code": "#06",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 180,
+      "yawDeg": 200,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Aku Lagi Berkegiatan",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -261,7 +261,7 @@
       "code": "#07",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 216,
+      "yawDeg": 240,
       "pitchDeg": 0,
       "title": "FINFLOW & SMART WALLET — UI/UX Prototype",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -516,7 +516,10 @@
         {
           "title": "Slide 01 — Liputan Lapangan & Formasi Udara",
           "caption": "Bertugas mendokumentasikan ribuan peserta dari panggung utama dan udara.",
-          "isRealImage": false
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/1794397350357-IMG_2262.jpeg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.75
         },
         {
           "title": "Slide 02 — Same-Day Edit (SDE) Penutupan",
@@ -721,7 +724,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "yawDeg": 252,
+      "yawDeg": 280,
       "pitchDeg": 0,
       "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
     },
@@ -754,39 +757,9 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "yawDeg": 288,
+      "yawDeg": 320,
       "pitchDeg": 0,
       "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
-    },
-    {
-      "id": "work-1794397179431",
-      "code": "#24",
-      "tier": "equator",
-      "type": "uiux",
-      "year": "2026",
-      "title": "P",
-      "category": "UI/UX & FIGMA",
-      "externalUrl": "",
-      "directLink": "",
-      "description": "Karya oleh M. Hafidz Ardan.",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 01 — P",
-          "caption": "P",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/1794397175988-IMG_2262.jpeg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.75
-        },
-        {
-          "title": "Slide 02 — Dokumentasi & Detail",
-          "caption": "Rincian proses kerja.",
-          "isRealImage": false
-        }
-      ],
-      "yawDeg": 324,
-      "pitchDeg": 0
     }
   ]
 }
