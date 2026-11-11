@@ -1323,18 +1323,49 @@
           </p>
         </div>
 
+        <!-- OPSI UTAMA: GITHUB CLOUD DIRECT (EDIT & UPLOAD LANGSUNG DARI HP) -->
+        <div class="p-3.5 rounded-xl bg-blue-500/10 border border-blue-500/25 space-y-2.5">
+          <div class="font-bold text-slate-900 dark:text-white flex items-center justify-between">
+            <span class="flex items-center gap-1.5 text-xs text-blue-600 dark:text-blue-400">
+              <i class="ph-bold ph-git-commit text-sm"></i>
+              <span>GitHub Cloud Direct (Edit Langsung dari HP)</span>
+            </span>
+            <span id="gh-sync-status-badge" class="text-[10px] px-2 py-0.5 rounded-full font-semibold bg-slate-200 dark:bg-slate-800 text-slate-700 dark:text-slate-300">
+              Memeriksa...
+            </span>
+          </div>
+          <p class="text-[11px] text-slate-600 dark:text-slate-400 leading-relaxed">
+            Fitur ini membuat kamu bisa <strong>menambah karya, mengganti foto, dan mengedit profil langsung dari browser HP</strong> tanpa perlu menyentuh laptop sama sekali!
+          </p>
+          <div class="space-y-1.5 pt-1">
+            <div class="flex items-center gap-1.5">
+              <input id="gh-token-input" type="password" placeholder="Tempel Token GitHub di sini..." class="flex-1 bg-white dark:bg-slate-950 border border-slate-300 dark:border-slate-700 rounded-lg px-2.5 py-1.5 text-xs focus:outline-none focus:border-blue-500 text-slate-900 dark:text-white" />
+              <button onclick="saveGitHubTokenFromInput()" class="px-3 py-1.5 rounded-lg bg-blue-600 hover:bg-blue-500 active:scale-95 text-white text-xs font-semibold whitespace-nowrap shadow-sm shadow-blue-500/25 transition-all">
+                Simpan di HP
+              </button>
+            </div>
+            <div class="flex items-center justify-between text-[10px] text-slate-500 pt-0.5">
+              <span>Repositori: <strong class="text-slate-700 dark:text-slate-300">ardan2056/hafidz-360-portfolio</strong></span>
+              <button onclick="copyAutoPairLink()" class="text-blue-600 dark:text-blue-400 hover:underline font-semibold flex items-center gap-1">
+                <i class="ph-bold ph-link text-xs"></i>
+                <span>Salin Link Pairing HP</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
           <div class="p-3.5 rounded-lg bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 space-y-2">
             <div class="font-bold text-slate-900 dark:text-white flex items-center gap-1.5">
-              <i class="ph-bold ph-cloud-arrow-up text-brand-500"></i>
-              <span>Opsi 1: Backend Server (Node.js/Express)</span>
+              <i class="ph-bold ph-cloud-arrow-up text-blue-600"></i>
+              <span>Opsi 2: Backend Server (Node.js/Express)</span>
             </div>
             <p class="text-[11px] text-slate-500 leading-relaxed">
               Terkoneksi langsung ke API server lokal atau cloud (Render / Railway / VPS).
             </p>
             <div class="flex items-center gap-2 pt-1">
-              <input id="api-server-url" type="text" placeholder="Default: /api/portfolio (Otomatis)" class="flex-1 bg-white dark:bg-slate-950 border border-slate-300 dark:border-slate-700 rounded-md px-2.5 py-1.5 text-xs focus:outline-none focus:border-brand-500" />
-              <button onclick="testServerSyncConnection()" class="px-3 py-1.5 rounded-md bg-brand-600 text-white text-xs font-semibold whitespace-nowrap">
+              <input id="api-server-url" type="text" placeholder="Default: /api/portfolio (Otomatis)" class="flex-1 bg-white dark:bg-slate-950 border border-slate-300 dark:border-slate-700 rounded-md px-2.5 py-1.5 text-xs focus:outline-none focus:border-blue-500" />
+              <button onclick="testServerSyncConnection()" class="px-3 py-1.5 rounded-md bg-blue-600 text-white text-xs font-semibold whitespace-nowrap">
                 Tes Sync
               </button>
             </div>
@@ -1343,10 +1374,10 @@
           <div class="p-3.5 rounded-lg bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 space-y-2">
             <div class="font-bold text-slate-900 dark:text-white flex items-center gap-1.5">
               <i class="ph-bold ph-fire text-amber-500"></i>
-              <span>Opsi 2: Firebase Realtime Database (Gratis 100%)</span>
+              <span>Opsi 3: Firebase Realtime Database (Gratis 100%)</span>
             </div>
             <p class="text-[11px] text-slate-500 leading-relaxed">
-              Bisa langsung dipasang di static host (Vercel / Netlify / GitHub Pages) tanpa perlu server backend!
+              Bisa langsung dipasang di static host tanpa server backend tambahan.
             </p>
             <button onclick="openFirebaseConfigPrompt()" class="w-full py-1.5 rounded-md bg-slate-200 dark:bg-slate-800 hover:bg-slate-300 dark:hover:bg-slate-700 text-slate-800 dark:text-slate-200 font-semibold text-xs transition-colors">
               Hubungkan Firebase Realtime DB
@@ -1608,6 +1639,239 @@
       firebaseConnected: false
     };
 
+    /*************************************************************************
+     * GITHUB CLOUD DIRECT SYNC ENGINE (100% FREE - NO LAPTOP NEEDED)
+     * Memungkinkan edit & upload karya langsung dari HP/Web via GitHub API
+     *************************************************************************/
+    const GITHUB_CLOUD_CONFIG = {
+      repo: 'ardan2056/hafidz-360-portfolio',
+      token: localStorage.getItem('hafidz_github_token') || '',
+      get connected() {
+        return Boolean(this.token);
+      }
+    };
+
+    function unicodeStringToBase64(str) {
+      const utf8Bytes = new TextEncoder().encode(str);
+      let binary = '';
+      const len = utf8Bytes.byteLength;
+      for (let i = 0; i < len; i += 8192) {
+        const chunk = utf8Bytes.subarray(i, Math.min(i + 8192, len));
+        binary += String.fromCharCode.apply(null, chunk);
+      }
+      return btoa(binary);
+    }
+
+    async function fileToBase64(file) {
+      return new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = () => {
+          const res = reader.result || '';
+          const base64 = res.split(',')[1] || '';
+          resolve(base64);
+        };
+        reader.onerror = reject;
+        reader.readAsDataURL(file);
+      });
+    }
+
+    async function fileToDataUrl(file) {
+      return new Promise((resolve) => {
+        const reader = new FileReader();
+        reader.onload = (e) => resolve(e.target.result);
+        reader.readAsDataURL(file);
+      });
+    }
+
+    async function syncToGitHubRepo(payload) {
+      const token = GITHUB_CLOUD_CONFIG.token;
+      if (!token) return false;
+
+      const repo = GITHUB_CLOUD_CONFIG.repo;
+      const apiUrl = `https://api.github.com/repos/${repo}/contents/data/db.json`;
+
+      showToast('Menyimpan perubahan langsung ke GitHub Cloud...');
+
+      let sha = null;
+      try {
+        const getRes = await fetch(apiUrl, {
+          headers: {
+            'Authorization': `Bearer ${token}`,
+            'Accept': 'application/vnd.github.v3+json'
+          }
+        });
+        if (getRes.ok) {
+          const fileData = await getRes.json();
+          sha = fileData.sha;
+        }
+      } catch (e) {
+        console.warn('Gagal ambil SHA data/db.json:', e);
+      }
+
+      const contentBase64 = unicodeStringToBase64(JSON.stringify(payload, null, 2));
+
+      const putRes = await fetch(apiUrl, {
+        method: 'PUT',
+        headers: {
+          'Authorization': `Bearer ${token}`,
+          'Content-Type': 'application/json',
+          'Accept': 'application/vnd.github.v3+json'
+        },
+        body: JSON.stringify({
+          message: `Update portfolio via Web Admin (${new Date().toLocaleDateString('id-ID')} ${new Date().toLocaleTimeString('id-ID')})`,
+          content: contentBase64,
+          sha: sha || undefined,
+          branch: 'main'
+        })
+      });
+
+      if (putRes.ok) {
+        updateCloudSyncUI('online', '24H GITHUB CLOUD LIVE');
+        showToast('Tersimpan di GitHub Cloud! Semua pengunjung otomatis terupdate.');
+        return true;
+      } else {
+        const errJson = await putRes.json().catch(() => ({}));
+        console.error('GitHub API Commit Error:', errJson);
+        showToast('Gagal simpan ke GitHub: ' + (errJson.message || 'Cek token'));
+        return false;
+      }
+    }
+
+    async function uploadMediaFile(file) {
+      if (!file) return null;
+
+      // 1. Coba upload via server Node.js lokal jika aktif
+      try {
+        const formData = new FormData();
+        formData.append('mediaFile', file);
+        const res = await fetch('/api/upload', {
+          method: 'POST',
+          body: formData
+        });
+        if (res.ok) {
+          const data = await res.json();
+          if (data && data.url) return data.url;
+        }
+      } catch (_) {}
+
+      // 2. Upload langsung ke GitHub Cloud (public/uploads/) via GitHub API (Bisa dari HP!)
+      if (GITHUB_CLOUD_CONFIG.token) {
+        try {
+          showToast('Mengunggah file ke GitHub Cloud...');
+          const timestamp = Date.now();
+          const cleanName = file.name.replace(/[^a-zA-Z0-9.-]/g, '_');
+          const filePath = `public/uploads/${timestamp}-${cleanName}`;
+          const apiUrl = `https://api.github.com/repos/${GITHUB_CLOUD_CONFIG.repo}/contents/${filePath}`;
+
+          const base64Content = await fileToBase64(file);
+
+          const putRes = await fetch(apiUrl, {
+            method: 'PUT',
+            headers: {
+              'Authorization': `Bearer ${GITHUB_CLOUD_CONFIG.token}`,
+              'Content-Type': 'application/json',
+              'Accept': 'application/vnd.github.v3+json'
+            },
+            body: JSON.stringify({
+              message: `Upload media via Mobile Web: ${cleanName}`,
+              content: base64Content,
+              branch: 'main'
+            })
+          });
+
+          if (putRes.ok) {
+            showToast('Foto karya berhasil tersimpan di GitHub Cloud!');
+            return filePath;
+          } else {
+            console.warn('GitHub direct upload failed, fallback to Data URL');
+          }
+        } catch (e) {
+          console.warn('GitHub upload exception, fallback to Data URL:', e);
+        }
+      }
+
+      // 3. Fallback ke Data URL base64 agar proses edit tidak pernah gagal
+      return await fileToDataUrl(file);
+    }
+
+    function checkAutoPairToken() {
+      let token = null;
+      if (window.location.hash && window.location.hash.includes('setup_admin=')) {
+        const match = window.location.hash.match(/setup_admin=([a-zA-Z0-9_]+)/);
+        if (match) token = match[1];
+      } else {
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.has('admin_token')) {
+          token = urlParams.get('admin_token');
+        }
+      }
+
+      if (token) {
+        localStorage.setItem('hafidz_github_token', token);
+        GITHUB_CLOUD_CONFIG.token = token;
+        try {
+          window.history.replaceState({}, document.title, window.location.pathname);
+        } catch (_) {}
+        setTimeout(() => {
+          showToast('HP kamu sekarang terhubung ke GitHub Cloud! Mode Web Admin Aktif.');
+          updateCloudSyncUI('online', '24H GITHUB CLOUD LIVE');
+          updateGitHubSyncStatusUI();
+        }, 1200);
+      }
+    }
+
+    function updateGitHubSyncStatusUI() {
+      const badge = document.getElementById('gh-sync-status-badge');
+      const input = document.getElementById('gh-token-input');
+      const hasToken = Boolean(GITHUB_CLOUD_CONFIG.token);
+
+      if (badge) {
+        if (hasToken) {
+          badge.className = 'text-[10px] px-2 py-0.5 rounded-full font-semibold bg-blue-500/20 text-blue-600 dark:text-blue-400 border border-blue-500/30';
+          badge.textContent = 'Terhubung (ardan2056)';
+        } else {
+          badge.className = 'text-[10px] px-2 py-0.5 rounded-full font-semibold bg-amber-500/20 text-amber-600 dark:text-amber-400 border border-amber-500/30';
+          badge.textContent = 'Belum Terhubung';
+        }
+      }
+
+      if (input && hasToken) {
+        input.value = GITHUB_CLOUD_CONFIG.token;
+      }
+    }
+
+    function saveGitHubTokenFromInput() {
+      const input = document.getElementById('gh-token-input');
+      const val = (input ? input.value : '').trim();
+      if (!val) {
+        showToast('Masukkan Token GitHub yang valid!');
+        return;
+      }
+      localStorage.setItem('hafidz_github_token', val);
+      GITHUB_CLOUD_CONFIG.token = val;
+      updateGitHubSyncStatusUI();
+      showToast('Token GitHub tersimpan di HP ini! Kamu bisa edit langsung.');
+      syncDataToCloud();
+    }
+
+    function copyAutoPairLink() {
+      const token = GITHUB_CLOUD_CONFIG.token || '';
+      if (!token) {
+        showToast('Masukkan & simpan Token GitHub terlebih dahulu!');
+        return;
+      }
+      const link = `https://ardan2056.github.io/hafidz-360-portfolio/#setup_admin=${token}`;
+      if (navigator.clipboard) {
+        navigator.clipboard.writeText(link).then(() => {
+          showToast('Link Pairing otomatis tersalin! Buka di HP kamu.');
+        }).catch(() => {
+          prompt('Salin link pairing ini dan buka di HP kamu:', link);
+        });
+      } else {
+        prompt('Salin link pairing ini dan buka di HP kamu:', link);
+      }
+    }
+
     // Global in-memory state
     let ownerProfile = {
       name: 'M. HAFIDZ ARDAN',
@@ -1693,24 +1957,24 @@
       // 1. Always update LocalStorage immediately for instant local UI responsiveness
       persistToLocalStorage();
 
-      // 2. Sync to Node.js / Express Server API (/api/portfolio)
-      try {
-        const payload = {
-          pin: ownerProfile.pin || '1234',
-          ownerProfile,
-          portfolioProjects: portfolioProjects.map(p => ({
-            ...p,
-            slides: p.slides.map(s => ({
-              title: s.title,
-              caption: s.caption,
-              imageSrc: s.imageSrc,
-              videoSrc: s.videoSrc,
-              isRealImage: Boolean(s.isRealImage),
-              aspectRatio: s.aspectRatio
-            }))
+      const payload = {
+        pin: ownerProfile.pin || '1234',
+        ownerProfile,
+        portfolioProjects: portfolioProjects.map(p => ({
+          ...p,
+          slides: (p.slides || []).map(s => ({
+            title: s.title,
+            caption: s.caption,
+            imageSrc: s.imageSrc,
+            videoSrc: s.videoSrc,
+            isRealImage: Boolean(s.isRealImage),
+            aspectRatio: s.aspectRatio
           }))
-        };
+        }))
+      };
 
+      // 2. Sync to Node.js / Express Server API (/api/portfolio) jika di localhost
+      try {
         const res = await fetch('/api/portfolio', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -1718,16 +1982,25 @@
         });
 
         if (res.ok) {
-          const data = await res.json();
           updateCloudSyncUI('online', '24H SERVER SYNCED');
           showToast('Tersimpan di Cloud Server 24 Jam!');
           return true;
         }
       } catch (err) {
-        console.warn('Server API tidak terjangkau (Offline/Static Mode):', err);
+        // Static hosting mode (GitHub Pages)
       }
 
-      // 3. Sync to Firebase Realtime DB if connected
+      // 3. Direct Sync ke GitHub Cloud via GitHub API (Bisa langsung dari HP tanpa laptop!)
+      if (GITHUB_CLOUD_CONFIG.token) {
+        try {
+          const ghOk = await syncToGitHubRepo(payload);
+          if (ghOk) return true;
+        } catch (ghErr) {
+          console.warn('GitHub API sync error:', ghErr);
+        }
+      }
+
+      // 4. Sync to Firebase Realtime DB if connected
       if (CLOUD_CONFIG.firebaseConnected && window.firebaseDatabaseRef) {
         try {
           await window.firebaseDatabaseRef.set({
@@ -1783,7 +2056,27 @@
         }
       } catch (_) {}
 
-      // 2. If on GitHub Pages or Static Cloud Hosting: Fetch Central Database data/db.json directly from GitHub!
+      // 1.5. Coba raw.githubusercontent.com untuk mendapatkan perubahan terbaru dalam 1 detik!
+      if (!loadedFromCloud && (window.location.hostname.includes('github.io') || GITHUB_CLOUD_CONFIG.token)) {
+        try {
+          const rawUrl = 'https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/data/db.json' + cacheBuster;
+          const res = await fetch(rawUrl);
+          if (res.ok) {
+            const data = await res.json();
+            if (data && Array.isArray(data.portfolioProjects) && data.portfolioProjects.length > 0) {
+              portfolioProjects = data.portfolioProjects;
+              if (data.ownerProfile) {
+                Object.assign(ownerProfile, data.ownerProfile);
+              }
+              loadedFromCloud = true;
+              updateCloudSyncUI('online', '24H CLOUD LIVE');
+              console.log('[DATABASE] Berhasil memuat data instan dari Raw GitHub:', portfolioProjects.length, 'karya.');
+            }
+          }
+        } catch (_) {}
+      }
+
+      // 2. If on GitHub Pages or Static Cloud Hosting: Fetch Central Database data/db.json directly from GitHub Pages!
       if (!loadedFromCloud) {
         try {
           const base = window.location.pathname.endsWith('/') 
@@ -4987,14 +5280,10 @@
         isUploadedVideo = (file.type && file.type.startsWith('video/')) || /\.(mp4|webm|mov|mkv|avi|m4v|3gp)$/i.test(file.name);
         try {
           showToast(isUploadedVideo ? 'Mengunggah video karya...' : 'Mengunggah gambar karya...');
-          const formData = new FormData();
-          formData.append('mediaFile', file);
-          const upRes = await fetch('/api/upload', { method: 'POST', body: formData });
-          if (upRes.ok) {
-            const upData = await upRes.json();
-            uploadedPhotoUrl = upData.url;
-          }
-        } catch (e) {}
+          uploadedPhotoUrl = await uploadMediaFile(file);
+        } catch (e) {
+          console.warn('Gagal unggah media baru:', e);
+        }
 
         if (isUploadedVideo && uploadedPhotoUrl) {
           try {
@@ -5195,6 +5484,7 @@
         return;
       }
       if (tab === 'activity') renderActivityGallery();
+      if (tab === 'cloud') updateGitHubSyncStatusUI();
       ['overview', 'activity', 'cloud', 'admin'].forEach(t => {
         const pane = document.getElementById(`profile-pane-${t}`);
         const btn = document.getElementById(`prof-tab-${t}`);
@@ -5351,30 +5641,17 @@
       showToast('Mengunggah foto profil baru...');
       let mediaUrl = null;
       try {
-        const formData = new FormData();
-        formData.append('mediaFile', file);
-        const res = await fetch('/api/upload', {
-          method: 'POST',
-          body: formData
-        });
-        if (res.ok) {
-          const data = await res.json();
-          mediaUrl = data.url;
-        }
-      } catch (e) {}
-
-      if (!mediaUrl) {
-        mediaUrl = await new Promise(resolve => {
-          const reader = new FileReader();
-          reader.onload = e => resolve(e.target.result);
-          reader.readAsDataURL(file);
-        });
+        mediaUrl = await uploadMediaFile(file);
+      } catch (e) {
+        console.warn('Gagal unggah avatar:', e);
       }
 
-      ownerProfile.avatarSrc = mediaUrl;
-      syncProfileToDOM();
-      syncDataToCloud();
-      showToast(' Foto profil berhasil diperbarui & disimpan 24 jam!');
+      if (mediaUrl) {
+        ownerProfile.avatarSrc = mediaUrl;
+        syncProfileToDOM();
+        syncDataToCloud();
+        showToast('Foto profil berhasil diperbarui & disimpan 24 jam!');
+      }
       event.target.value = '';
     }
 
@@ -5407,24 +5684,9 @@
       for (const file of files) {
         let mediaUrl = null;
         try {
-          const formData = new FormData();
-          formData.append('mediaFile', file);
-          const res = await fetch('/api/upload', {
-            method: 'POST',
-            body: formData
-          });
-          if (res.ok) {
-            const data = await res.json();
-            mediaUrl = data.url;
-          }
-        } catch (e) {}
-
-        if (!mediaUrl) {
-          mediaUrl = await new Promise(resolve => {
-            const reader = new FileReader();
-            reader.onload = e => resolve(e.target.result);
-            reader.readAsDataURL(file);
-          });
+          mediaUrl = await uploadMediaFile(file);
+        } catch (e) {
+          console.warn('Gagal unggah foto kegiatan:', e);
         }
 
         if (currentUploadActivityTargetIndex !== null && ownerProfile.activities[currentUploadActivityTargetIndex]) {
@@ -5780,26 +6042,9 @@
         let mediaUrl = null;
 
         try {
-          const formData = new FormData();
-          formData.append('mediaFile', file);
-          const res = await fetch('/api/upload', {
-            method: 'POST',
-            body: formData
-          });
-          if (res.ok) {
-            const data = await res.json();
-            mediaUrl = data.url;
-          }
+          mediaUrl = await uploadMediaFile(file);
         } catch (e) {
-          console.warn('Gagal upload ke server API, gunakan fallback lokal:', e);
-        }
-
-        if (!mediaUrl) {
-          mediaUrl = await new Promise(resolve => {
-            const reader = new FileReader();
-            reader.onload = e => resolve(e.target.result);
-            reader.readAsDataURL(file);
-          });
+          console.warn('Gagal upload media slide:', e);
         }
 
         let posterUrl = null;
@@ -7066,6 +7311,8 @@
      * 9. INITIALIZATION
      *************************************************************************/
     window.onload = function () {
+      checkAutoPairToken();
+      updateGitHubSyncStatusUI();
       initThreeJS();
       loadPortfolioData();
       setupDragAndDropUpload();
