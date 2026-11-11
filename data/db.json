@@ -519,12 +519,7 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/1794397350357-IMG_2262.jpeg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.75
-        },
-        {
-          "title": "Slide 02 — Same-Day Edit (SDE) Penutupan",
-          "caption": "Penyuntingan kilat di ruang panitia untuk ditayangkan langsung sore harinya.",
-          "isRealImage": false
+          "aspectRatio": 0.5625
         }
       ]
     },
