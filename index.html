@@ -1781,7 +1781,8 @@
 
           if (putRes.ok) {
             showToast('Foto karya berhasil tersimpan di GitHub Cloud!');
-            return filePath;
+            const rawCdnUrl = `https://raw.githubusercontent.com/${GITHUB_CLOUD_CONFIG.repo}/main/${filePath}`;
+            return rawCdnUrl;
           } else {
             console.warn('GitHub direct upload failed, fallback to Data URL');
           }
@@ -2028,10 +2029,30 @@
         return url;
       }
       let clean = url.replace(/^\/+/, '');
-      // If path starts with public/ and file exists directly or in public
-      const base = window.location.pathname.endsWith('/') 
-        ? window.location.pathname 
-        : window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1);
+      while (clean.startsWith('hafidz-360-portfolio/')) {
+        clean = clean.replace('hafidz-360-portfolio/', '');
+      }
+      clean = clean.replace(/^\/+/, '');
+      if (clean.startsWith('uploads/')) {
+        clean = 'public/' + clean;
+      }
+
+      const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+      if (isLocal) {
+        return '/' + clean;
+      }
+
+      // On GitHub Pages or External Web: use raw.githubusercontent CDN directly for instant 0-second availability!
+      if (clean.startsWith('public/uploads/')) {
+        return `https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/${clean}`;
+      }
+      if (clean.startsWith('Artboard 1.jpg')) {
+        return `https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/Artboard%201.jpg`;
+      }
+
+      const base = window.location.pathname.includes('/hafidz-360-portfolio/') 
+        ? '/hafidz-360-portfolio/' 
+        : '/';
       return base + clean;
     }
 
@@ -3652,6 +3673,8 @@
 
       state.targetLon += diff;
       state.targetLat = targetPitch;
+      state.inertiaVelLon = 0;
+      state.inertiaVelLat = 0;
       if (slightZoom) state.targetFov = 50;
       state.activeIndex = index;
       updateBottomDockUI();
@@ -3830,9 +3853,10 @@
           grp.visible = true;
         }
 
-        // Zero-G gentle bobbing only when card is visible and settled
+        // Zero-G gentle bobbing only when card is visible and settled (anchored to baseY to eliminate drifting)
         if (grp.userData.targetScale > 0.5 && !isHovered) {
-          grp.position.y += Math.sin(t + idx * 0.65) * 0.05;
+          const baseY = (grp.userData && grp.userData.targetPos) ? grp.userData.targetPos.y : 0;
+          grp.position.y = baseY + Math.sin(t + idx * 0.65) * 0.22;
         }
       });
 
