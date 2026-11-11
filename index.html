@@ -525,19 +525,19 @@
   </nav>
 
   <!-- BOTTOM DOCK (GAMBAR 3: ROBIN PAYOT ETHEREAL GLASSMORPHIC DOCK) -->
-  <footer id="main-footer" class="fixed bottom-0 left-0 right-0 z-30 p-2 sm:p-3.5 pointer-events-none flex flex-col items-center transition-all duration-700">
-    <div class="robin-hud-glass rounded-2xl px-3 sm:px-4 py-2 sm:py-2.5 flex flex-col sm:flex-row flex-wrap lg:flex-nowrap items-stretch sm:items-center justify-between gap-2 sm:gap-4 pointer-events-auto max-w-[1120px] w-full shadow-2xl">
+  <footer id="main-footer" class="fixed bottom-0 left-0 right-0 z-30 p-2 sm:p-3.5 pb-[max(10px,env(safe-area-inset-bottom))] pointer-events-none flex flex-col items-center transition-all duration-700">
+    <div class="robin-hud-glass rounded-2xl px-2.5 sm:px-4 py-1.5 sm:py-2.5 flex flex-col sm:flex-row flex-wrap lg:flex-nowrap items-stretch sm:items-center justify-between gap-1.5 sm:gap-4 pointer-events-auto max-w-[1120px] w-full shadow-2xl">
       
       <!-- Left: Prev/Next Project in 360° Sphere -->
-      <div class="flex items-center gap-2 min-w-0 flex-1">
-        <button onclick="stepProject(-1)" class="w-8 h-8 rounded-xl bg-black/5 dark:bg-white/5 hover:bg-black/10 dark:hover:bg-white/15 text-slate-700 dark:text-slate-200 border border-slate-300/40 dark:border-white/10 flex items-center justify-center transition-all active:scale-95 flex-shrink-0 backdrop-blur-sm" title="Karya Sebelumnya">
+      <div class="flex items-center gap-1.5 sm:gap-2 min-w-0 w-full sm:w-auto flex-1 overflow-hidden">
+        <button onclick="stepProject(-1)" class="w-7 h-7 sm:w-8 sm:h-8 rounded-xl bg-black/5 dark:bg-white/5 hover:bg-black/10 dark:hover:bg-white/15 text-slate-700 dark:text-slate-200 border border-slate-300/40 dark:border-white/10 flex items-center justify-center transition-all active:scale-95 flex-shrink-0 backdrop-blur-sm" title="Karya Sebelumnya">
           <i class="ph-bold ph-caret-left text-xs"></i>
         </button>
 
-        <div onclick="openDetailModal(state.activeIndex)" class="min-w-0 flex-1 cursor-pointer group px-0.5">
-          <div class="flex items-center gap-1.5">
-            <span id="dock-project-code" class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-blue-600 text-white shadow-sm shadow-blue-500/20">#01</span>
-            <span id="dock-project-type-badge" class="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-black/5 dark:bg-white/5 text-slate-700 dark:text-slate-200 border border-slate-300/40 dark:border-white/10 flex items-center gap-1.5 backdrop-blur-sm">
+        <div onclick="openDetailModal(state.activeIndex)" class="min-w-0 flex-1 cursor-pointer group px-0.5 overflow-hidden">
+          <div class="flex items-center gap-1 sm:gap-1.5 flex-nowrap overflow-hidden">
+            <span id="dock-project-code" class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-blue-600 text-white shadow-sm shadow-blue-500/20 flex-shrink-0">#01</span>
+            <span id="dock-project-type-badge" class="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-black/5 dark:bg-white/5 text-slate-700 dark:text-slate-200 border border-slate-300/40 dark:border-white/10 flex items-center gap-1.5 backdrop-blur-sm flex-shrink-0">
               <span id="dock-badge-text">Desain</span>
               <span class="inline-flex items-center gap-0.5 opacity-75">
                 <span class="w-0.5 h-2 bg-blue-500 rounded-full animate-pulse"></span>
@@ -545,25 +545,25 @@
                 <span class="w-0.5 h-1.5 bg-blue-500 rounded-full animate-pulse [animation-delay:0.3s]"></span>
               </span>
             </span>
-            <span id="dock-project-year" class="text-[10px] font-semibold px-1.5 py-0.5 rounded bg-black/5 dark:bg-white/5 text-slate-600 dark:text-slate-300 border border-slate-300/40 dark:border-white/10 backdrop-blur-sm">2025</span>
+            <span id="dock-project-year" class="text-[10px] font-semibold px-1.5 py-0.5 rounded bg-black/5 dark:bg-white/5 text-slate-600 dark:text-slate-300 border border-slate-300/40 dark:border-white/10 backdrop-blur-sm flex-shrink-0">2025</span>
             <span class="text-slate-400 dark:text-slate-500 text-[10px] hidden md:inline">•</span>
             <span id="dock-project-category" class="text-[11px] font-medium text-slate-600 dark:text-slate-400 truncate hidden md:inline">Brand Identity</span>
           </div>
-          <div id="dock-project-title" class="text-xs sm:text-sm font-bold text-slate-900 dark:text-white truncate mt-0.5 group-hover:text-blue-500 transition-colors">
+          <div id="dock-project-title" class="text-xs sm:text-sm font-bold text-slate-900 dark:text-white truncate mt-0.5 block max-w-full group-hover:text-blue-500 transition-colors">
             OCTAGRAM — Branding Portfolio
           </div>
         </div>
 
-        <button onclick="stepProject(1)" class="w-8 h-8 rounded-xl bg-black/5 dark:bg-white/5 hover:bg-black/10 dark:hover:bg-white/15 text-slate-700 dark:text-slate-200 border border-slate-300/40 dark:border-white/10 flex items-center justify-center transition-all active:scale-95 flex-shrink-0 backdrop-blur-sm" title="Karya Berikutnya">
+        <button onclick="stepProject(1)" class="w-7 h-7 sm:w-8 sm:h-8 rounded-xl bg-black/5 dark:bg-white/5 hover:bg-black/10 dark:hover:bg-white/15 text-slate-700 dark:text-slate-200 border border-slate-300/40 dark:border-white/10 flex items-center justify-center transition-all active:scale-95 flex-shrink-0 backdrop-blur-sm" title="Karya Berikutnya">
           <i class="ph-bold ph-caret-right text-xs"></i>
         </button>
       </div>
 
       <!-- Right Controls -->
-      <div class="flex items-center justify-between sm:justify-end gap-1.5 sm:gap-2.5 pt-1.5 sm:pt-0 border-t sm:border-t-0 border-slate-200/50 dark:border-white/10">
+      <div class="flex items-center justify-between sm:justify-end gap-1 sm:gap-2.5 pt-1 sm:pt-0 border-t sm:border-t-0 border-slate-200/50 dark:border-white/10 w-full sm:w-auto flex-nowrap overflow-hidden">
         <!-- Slide Switcher -->
-        <div class="flex items-center gap-1.5 sm:gap-2 bg-black/5 dark:bg-white/5 border border-slate-300/40 dark:border-white/10 rounded-xl px-2.5 py-1 flex-shrink-0 backdrop-blur-sm">
-          <button onclick="stepActiveCardSlide(-1)" class="w-6 h-6 rounded-lg hover:bg-black/10 dark:hover:bg-white/15 text-slate-700 dark:text-slate-300 flex items-center justify-center transition-colors" title="Slide Sebelumnya">
+        <div class="flex items-center gap-1 sm:gap-2 bg-black/5 dark:bg-white/5 border border-slate-300/40 dark:border-white/10 rounded-xl px-1.5 sm:px-2.5 py-0.5 sm:py-1 flex-shrink-0 backdrop-blur-sm h-7 sm:h-8">
+          <button onclick="stepActiveCardSlide(-1)" class="w-5 h-5 sm:w-6 sm:h-6 rounded-lg hover:bg-black/10 dark:hover:bg-white/15 text-slate-700 dark:text-slate-300 flex items-center justify-center transition-colors" title="Slide Sebelumnya">
             <i class="ph-bold ph-arrow-left text-xs"></i>
           </button>
           <div class="flex flex-col items-center px-0.5">
@@ -572,32 +572,32 @@
             </span>
             <div id="dock-slide-dots" class="flex items-center gap-1 mt-0.5"></div>
           </div>
-          <button onclick="stepActiveCardSlide(1)" class="w-6 h-6 rounded-lg hover:bg-black/10 dark:hover:bg-white/15 text-slate-700 dark:text-slate-300 flex items-center justify-center transition-colors" title="Slide Berikutnya">
+          <button onclick="stepActiveCardSlide(1)" class="w-5 h-5 sm:w-6 sm:h-6 rounded-lg hover:bg-black/10 dark:hover:bg-white/15 text-slate-700 dark:text-slate-300 flex items-center justify-center transition-colors" title="Slide Berikutnya">
             <i class="ph-bold ph-arrow-right text-xs"></i>
           </button>
         </div>
 
         <!-- Orbit, Edit, Delete, Detail -->
         <div class="flex items-center gap-1 sm:gap-1.5 flex-shrink-0">
-          <button id="btn-autorotate" onclick="toggleAutoRotate()" class="px-2.5 sm:px-3 h-8 rounded-xl bg-black/5 dark:bg-white/5 hover:bg-black/10 dark:hover:bg-white/15 text-slate-700 dark:text-slate-200 border border-slate-300/40 dark:border-white/10 flex items-center gap-1.5 transition-all text-[11px] font-semibold backdrop-blur-sm" title="Putar Otomatis (Default: OFF)">
-            <i id="autorotate-icon" class="ph-bold ph-arrows-clockwise text-sm" style="animation-duration: 7s;"></i>
+          <button id="btn-autorotate" onclick="toggleAutoRotate()" class="w-7 h-7 sm:w-auto sm:px-3 sm:h-8 rounded-xl bg-black/5 dark:bg-white/5 hover:bg-black/10 dark:hover:bg-white/15 text-slate-700 dark:text-slate-200 border border-slate-300/40 dark:border-white/10 flex items-center justify-center sm:gap-1.5 transition-all text-[11px] font-semibold backdrop-blur-sm flex-shrink-0" title="Putar Otomatis (Default: OFF)">
+            <i id="autorotate-icon" class="ph-bold ph-arrows-clockwise text-xs sm:text-sm" style="animation-duration: 7s;"></i>
             <span id="autorotate-label" class="hidden md:inline">Orbit OFF</span>
           </button>
 
-          <div id="dock-owner-actions" class="hidden items-center bg-black/5 dark:bg-white/5 border border-slate-300/40 dark:border-white/10 rounded-xl p-0.5 backdrop-blur-sm">
-            <button onclick="openEditPortfolioByIndex(state.activeIndex)" class="px-2 py-1 rounded-lg hover:bg-black/10 dark:hover:bg-white/15 text-slate-700 dark:text-slate-200 text-[11px] font-medium flex items-center gap-1 transition-colors" title="Edit Portofolio">
+          <div id="dock-owner-actions" class="hidden items-center bg-black/5 dark:bg-white/5 border border-slate-300/40 dark:border-white/10 rounded-xl p-0.5 backdrop-blur-sm h-7 sm:h-8 flex-shrink-0">
+            <button onclick="openEditPortfolioByIndex(state.activeIndex)" class="w-6 h-6 sm:w-auto sm:px-2 sm:py-1 rounded-lg hover:bg-black/10 dark:hover:bg-white/15 text-slate-700 dark:text-slate-200 text-[11px] font-medium flex items-center justify-center gap-1 transition-colors" title="Edit Portofolio">
               <i class="ph-bold ph-pencil-simple text-xs"></i>
               <span class="hidden sm:inline">Edit</span>
             </button>
             <div class="w-px h-3.5 bg-slate-300/50 dark:bg-white/15"></div>
-            <button onclick="promptDeletePortfolioByIndex(state.activeIndex)" class="px-2 py-1 rounded-lg hover:bg-black/10 dark:hover:bg-white/15 text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white text-[11px] font-medium flex items-center gap-1 transition-colors" title="Hapus Portofolio">
+            <button onclick="promptDeletePortfolioByIndex(state.activeIndex)" class="w-6 h-6 sm:w-auto sm:px-2 sm:py-1 rounded-lg hover:bg-black/10 dark:hover:bg-white/15 text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white text-[11px] font-medium flex items-center justify-center gap-1 transition-colors" title="Hapus Portofolio">
               <i class="ph-bold ph-trash text-xs"></i>
               <span class="hidden sm:inline">Hapus</span>
             </button>
           </div>
 
-          <button onclick="openDetailModal(state.activeIndex)" class="px-3 sm:px-4 h-8 rounded-xl bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold flex items-center gap-1.5 transition-all active:scale-95 shadow-md shadow-blue-500/25">
-            <i id="dock-action-icon" class="ph-bold ph-corners-out text-sm"></i>
+          <button onclick="openDetailModal(state.activeIndex)" class="px-2.5 sm:px-4 h-7 sm:h-8 rounded-xl bg-blue-600 hover:bg-blue-500 text-white text-[11px] sm:text-xs font-semibold flex items-center gap-1 transition-all active:scale-95 shadow-md shadow-blue-500/25 flex-shrink-0">
+            <i id="dock-action-icon" class="ph-bold ph-corners-out text-xs sm:text-sm"></i>
             <span id="dock-action-text" class="whitespace-nowrap">Detail</span>
           </button>
         </div>
