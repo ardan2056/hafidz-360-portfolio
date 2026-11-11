@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
   <title>M. HAFIDZ ARDAN — 360° Full-Sphere Multimedia & Design Portfolio</title>
   <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -177,6 +177,17 @@
     .no-scrollbar {
       -ms-overflow-style: none;
       scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    /* iOS Safe Area & Mobile Header Fluid Sizing */
+    @supports (padding-top: env(safe-area-inset-top)) {
+      #main-header {
+        padding-top: max(8px, env(safe-area-inset-top));
+      }
+      #main-footer {
+        padding-bottom: max(8px, env(safe-area-inset-bottom));
+      }
     }
 
     /* Robin Payot Ethereal Glass Surfaces */
@@ -314,25 +325,25 @@
   <!-- MASTER STUDIO HEADER (IDENTITY & TOOLS ONLY, CATEGORIES SEPARATE) -->
   <header id="main-header" class="fixed top-0 left-0 right-0 z-30 p-2 sm:p-2.5 pointer-events-none transition-all duration-700">
     <div class="max-w-[1400px] mx-auto">
-      <div class="robin-hud-glass rounded-2xl px-3 sm:px-4 py-2 flex items-center justify-between gap-2.5 sm:gap-4 pointer-events-auto">
+      <div class="robin-hud-glass rounded-2xl px-2.5 sm:px-4 py-1.5 sm:py-2 flex flex-wrap sm:flex-nowrap items-center justify-between gap-y-1.5 gap-x-2 sm:gap-4 pointer-events-auto">
         
         <!-- 1. LEFT: Creator Identity & Social Contact -->
-        <div class="flex items-center gap-2.5 sm:gap-3 flex-shrink-0">
-          <div onclick="openProfileModal('overview')" class="cursor-pointer flex items-center gap-2.5 group" title="Buka Profil Lengkap M. Hafidz Ardan">
+        <div class="order-1 sm:order-1 flex items-center gap-2 sm:gap-3 min-w-0 flex-1 sm:flex-initial">
+          <div onclick="openProfileModal('overview')" class="cursor-pointer flex items-center gap-2 sm:gap-2.5 group min-w-0" title="Buka Profil Lengkap M. Hafidz Ardan">
             <div class="w-8 h-8 sm:w-9 sm:h-9 rounded-xl overflow-hidden border border-white/20 dark:border-white/15 bg-slate-900/60 shadow-md group-hover:border-blue-500 transition-colors flex items-center justify-center flex-shrink-0 backdrop-blur-md">
               <img id="header-avatar-img" src="Artboard 1.jpg" alt="M. Hafidz Ardan" class="w-full h-full object-cover" />
             </div>
             <div class="flex flex-col min-w-0">
-              <div class="flex items-center gap-2 flex-wrap">
+              <div class="flex items-center gap-1.5 sm:gap-2 flex-wrap">
                 <span id="header-profile-name" class="text-xs sm:text-sm font-bold text-slate-900 dark:text-white group-hover:text-blue-500 transition-colors whitespace-nowrap">
                   M. HAFIDZ ARDAN
                 </span>
-                <span id="cloud-sync-badge" onclick="handleCloudBadgeClick(event)" class="inline-flex items-center gap-1 text-[9px] font-semibold px-2 py-0.5 rounded-full bg-blue-500/15 text-blue-600 dark:text-blue-400 border border-blue-500/30 cursor-pointer backdrop-blur-md" title="Sinkronisasi Cloud 24 Jam (Khusus Admin)">
+                <span id="cloud-sync-badge" onclick="handleCloudBadgeClick(event)" class="inline-flex items-center gap-1 text-[9px] font-semibold px-1.5 sm:px-2 py-0.5 rounded-full bg-blue-500/15 text-blue-600 dark:text-blue-400 border border-blue-500/30 cursor-pointer backdrop-blur-md" title="Sinkronisasi Cloud 24 Jam (Khusus Admin)">
                   <span class="w-1.5 h-1.5 rounded-full bg-blue-500 animate-pulse"></span>
                   <span id="cloud-sync-text">24H LIVE</span>
                 </span>
               </div>
-              <p id="header-profile-role" class="text-[10px] text-slate-600 dark:text-slate-400 font-medium truncate max-w-[140px] sm:max-w-[210px]">
+              <p id="header-profile-role" class="text-[10px] text-slate-600 dark:text-slate-400 font-medium truncate max-w-[130px] sm:max-w-[210px] hidden sm:block">
                 ITK • UI/UX &amp; Web Developer
               </p>
             </div>
@@ -350,25 +361,25 @@
         </div>
 
         <!-- 2. CENTER: Unified Segmented View Switcher (360° | Katalog | Kegiatan) -->
-        <div class="flex items-center justify-center flex-shrink-0">
-          <div class="bg-black/5 dark:bg-white/5 border border-slate-300/40 dark:border-white/10 rounded-xl p-0.5 flex items-center h-8 sm:h-8.5 backdrop-blur-md shadow-inner">
-            <button id="btn-mode-360" onclick="switchViewMode('360')" class="px-2.5 sm:px-3 h-full rounded-lg text-xs font-semibold flex items-center gap-1.5 transition-all bg-blue-600/90 text-white shadow-sm" title="Mode Galeri 360°">
+        <div class="order-3 sm:order-2 flex items-center justify-center w-full sm:w-auto flex-shrink-0">
+          <div class="bg-black/5 dark:bg-white/5 border border-slate-300/40 dark:border-white/10 rounded-xl p-0.5 flex items-center justify-center h-7 sm:h-8.5 backdrop-blur-md shadow-inner w-full sm:w-auto">
+            <button id="btn-mode-360" onclick="switchViewMode('360')" class="flex-1 sm:flex-initial px-2.5 sm:px-3 h-full rounded-lg text-[11px] sm:text-xs font-semibold flex items-center justify-center gap-1.5 transition-all bg-blue-600/90 text-white shadow-sm" title="Mode Galeri 360°">
               <i class="ph-bold ph-globe-hemisphere-west text-xs"></i>
               <span>360°</span>
             </button>
-            <button id="btn-mode-grid" onclick="switchViewMode('grid')" class="px-2.5 sm:px-3 h-full rounded-lg text-xs font-medium flex items-center gap-1.5 transition-all text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-black/5 dark:hover:bg-white/10" title="Mode Katalog Grid">
+            <button id="btn-mode-grid" onclick="switchViewMode('grid')" class="flex-1 sm:flex-initial px-2.5 sm:px-3 h-full rounded-lg text-[11px] sm:text-xs font-medium flex items-center justify-center gap-1.5 transition-all text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-black/5 dark:hover:bg-white/10" title="Mode Katalog Grid">
               <i class="ph-bold ph-squares-four text-xs"></i>
               <span>Katalog</span>
             </button>
-            <button id="btn-mode-activity" onclick="openProfileModal('activity')" class="px-2.5 sm:px-3 h-full rounded-lg text-xs font-medium flex items-center gap-1.5 transition-all text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-black/5 dark:hover:bg-white/10" title="Galeri Dokumentasi Kegiatan">
+            <button id="btn-mode-activity" onclick="openProfileModal('activity')" class="flex-1 sm:flex-initial px-2.5 sm:px-3 h-full rounded-lg text-[11px] sm:text-xs font-medium flex items-center justify-center gap-1.5 transition-all text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-black/5 dark:hover:bg-white/10" title="Galeri Dokumentasi Kegiatan">
               <i class="ph-bold ph-camera text-xs"></i>
-              <span class="hidden sm:inline">Kegiatan</span>
+              <span>Kegiatan</span>
             </button>
           </div>
         </div>
 
         <!-- 3. RIGHT: Cohesive Studio Utilities (Audio, Theme, Owner Lock) -->
-        <div class="flex items-center gap-1.5 sm:gap-2 flex-shrink-0">
+        <div class="order-2 sm:order-3 flex items-center gap-1.5 sm:gap-2 flex-shrink-0">
           
           <!-- Kelola Button (Owner Only) -->
           <button id="btn-header-manage" onclick="openManagePortfoliosModal()" style="display: none;" class="hidden px-2.5 h-8 sm:h-8.5 rounded-xl bg-blue-600/90 hover:bg-blue-500 active:scale-95 transition-all text-white font-semibold text-xs items-center gap-1.5 shadow-md shadow-blue-500/25" title="Kelola Portofolio (Khusus Pemilik)">
@@ -466,8 +477,8 @@
   </header>
 
   <!-- FLOATING CATEGORY FILTER HUD (GAMBAR 2: ROBIN PAYOT ETHEREAL GLASSMORPHIC BAR) -->
-  <nav id="category-filter-hud" class="fixed top-[74px] sm:top-[80px] left-1/2 -translate-x-1/2 z-20 pointer-events-auto max-w-[95vw]">
-    <div class="robin-hud-glass p-1 sm:p-1.5 rounded-full flex items-center gap-1 sm:gap-1.5 whitespace-nowrap overflow-x-auto no-scrollbar shadow-2xl">
+  <nav id="category-filter-hud" class="fixed top-[112px] sm:top-[76px] left-1/2 -translate-x-1/2 z-20 pointer-events-auto max-w-[96vw] sm:max-w-none">
+    <div class="robin-hud-glass p-1 sm:p-1.5 rounded-full flex items-center gap-1 sm:gap-1.5 whitespace-nowrap overflow-x-auto no-scrollbar shadow-2xl px-2">
       <button onclick="setTypeFilter('all')" id="type-btn-all" class="type-btn flex-shrink-0 px-2.5 sm:px-3.5 py-1 sm:py-1.5 rounded-full text-xs font-semibold transition-all bg-blue-600/90 hover:bg-blue-600 text-white flex items-center gap-1.5 whitespace-nowrap shadow-md shadow-blue-500/25 active:scale-95">
         <i class="ph-bold ph-sparkle text-xs"></i>
         <span>Semua</span>
@@ -3791,9 +3802,11 @@
       const b360 = document.getElementById('btn-mode-360');
       const bGrid = document.getElementById('btn-mode-grid');
       const bAct = document.getElementById('btn-mode-activity');
-      if (b360) b360.className = mode === '360' ? 'px-2.5 sm:px-3 h-full rounded-lg text-xs font-semibold flex items-center gap-1.5 transition-all bg-blue-600/90 text-white shadow-sm' : 'px-2.5 sm:px-3 h-full rounded-lg text-xs font-medium flex items-center gap-1.5 transition-all text-slate-700 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-black/5 dark:hover:bg-white/10';
-      if (bGrid) bGrid.className = mode === 'grid' ? 'px-2.5 sm:px-3 h-full rounded-lg text-xs font-semibold flex items-center gap-1.5 transition-all bg-blue-600/90 text-white shadow-sm' : 'px-2.5 sm:px-3 h-full rounded-lg text-xs font-medium flex items-center gap-1.5 transition-all text-slate-700 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-black/5 dark:hover:bg-white/10';
-      if (bAct) bAct.className = 'px-2.5 sm:px-3 h-full rounded-lg text-xs font-medium flex items-center gap-1.5 transition-all text-slate-700 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-black/5 dark:hover:bg-white/10';
+      const activeClass = 'flex-1 sm:flex-initial px-2.5 sm:px-3 h-full rounded-lg text-[11px] sm:text-xs font-semibold flex items-center justify-center gap-1.5 transition-all bg-blue-600/90 text-white shadow-sm';
+      const inactiveClass = 'flex-1 sm:flex-initial px-2.5 sm:px-3 h-full rounded-lg text-[11px] sm:text-xs font-medium flex items-center justify-center gap-1.5 transition-all text-slate-700 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-black/5 dark:hover:bg-white/10';
+      if (b360) b360.className = mode === '360' ? activeClass : inactiveClass;
+      if (bGrid) bGrid.className = mode === 'grid' ? activeClass : inactiveClass;
+      if (bAct) bAct.className = inactiveClass;
     }
 
     function renderBentoGrid() {
