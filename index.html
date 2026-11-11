@@ -323,7 +323,7 @@
 
   <!-- UNIFIED MASTER STUDIO NAVIGATION BAR (ROBIN PAYOT ETHEREAL GLASSMORPHISM) -->
   <!-- MASTER STUDIO HEADER (IDENTITY & TOOLS ONLY, CATEGORIES SEPARATE) -->
-  <header id="main-header" class="fixed top-0 left-0 right-0 z-30 p-2 sm:p-2.5 pointer-events-none transition-all duration-700">
+  <header id="main-header" style="padding-top: max(0.5rem, env(safe-area-inset-top));" class="fixed top-0 left-0 right-0 z-30 px-2 sm:px-2.5 pb-1 pointer-events-none transition-all duration-700">
     <div class="max-w-[1400px] mx-auto">
       <div class="robin-hud-glass rounded-2xl px-2.5 sm:px-4 py-1.5 sm:py-2 flex flex-wrap sm:flex-nowrap items-center justify-between gap-y-1.5 gap-x-2 sm:gap-4 pointer-events-auto">
         
@@ -2077,8 +2077,8 @@
         }
       } catch (_) {}
 
-      // 1.5. Coba raw.githubusercontent.com untuk mendapatkan perubahan terbaru dalam 1 detik!
-      if (!loadedFromCloud && (window.location.hostname.includes('github.io') || GITHUB_CLOUD_CONFIG.token)) {
+      // 1.5. Coba raw.githubusercontent.com untuk sinkronisasi 1 Database Pusat ke semua pengunjung & perangkat!
+      if (!loadedFromCloud) {
         try {
           const rawUrl = 'https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/data/db.json' + cacheBuster;
           const res = await fetch(rawUrl);
@@ -3130,11 +3130,11 @@
       });
       upItems.forEach((p, i) => {
         p.yawDeg = (22.5 + i * (360 / Math.max(1, upItems.length))) % 360;
-        p.pitchDeg = 34;
+        p.pitchDeg = 14;
       });
       lowItems.forEach((p, i) => {
         p.yawDeg = (22.5 + i * (360 / Math.max(1, lowItems.length))) % 360;
-        p.pitchDeg = -34;
+        p.pitchDeg = -13;
       });
     }
 
@@ -3658,12 +3658,12 @@
       if (!proj) return;
 
       const grp = cardGroups[index];
-      let targetYaw = proj.yawDeg;
-      let targetPitch = proj.pitchDeg;
-      if (grp && grp.userData.targetPos && state.typeFilter !== 'all') {
+      let targetYaw = (proj.yawDeg !== undefined) ? proj.yawDeg : 0;
+      let targetPitch = (proj.pitchDeg !== undefined) ? proj.pitchDeg : 0;
+      if (grp && grp.userData && grp.userData.targetPos) {
         const tp = grp.userData.targetPos;
-        targetYaw = THREE.MathUtils.radToDeg(Math.atan2(tp.x, -tp.z));
-        targetPitch = THREE.MathUtils.radToDeg(Math.atan2(tp.y, Math.sqrt(tp.x * tp.x + tp.z * tp.z)));
+        targetYaw = (THREE.MathUtils.radToDeg(Math.atan2(tp.x, -tp.z)) + 360) % 360;
+        targetPitch = THREE.MathUtils.radToDeg(Math.atan2(tp.y, Math.hypot(tp.x, tp.z)));
       }
 
       let currentMod = ((state.targetLon % 360) + 360) % 360;
@@ -7334,7 +7334,19 @@
     /*************************************************************************
      * 9. INITIALIZATION
      *************************************************************************/
+    function updateHeaderLayoutOffsets() {
+      const header = document.getElementById('main-header');
+      const catNav = document.getElementById('category-filter-hud');
+      if (header && catNav) {
+        const h = header.offsetHeight || 56;
+        catNav.style.top = `${h + 8}px`;
+      }
+    }
+    window.addEventListener('resize', updateHeaderLayoutOffsets);
+    window.addEventListener('orientationchange', updateHeaderLayoutOffsets);
+
     window.onload = function () {
+      updateHeaderLayoutOffsets();
       checkAutoPairToken();
       updateGitHubSyncStatusUI();
       initThreeJS();
