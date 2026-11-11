@@ -3,6 +3,7 @@ const cors = require('cors');
 const path = require('path');
 const fs = require('fs');
 const multer = require('multer');
+const { exec } = require('child_process');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -60,6 +61,19 @@ function writeDatabase(data) {
   }
 }
 
+// Helper: Auto-push ke GitHub repository
+function autoGitPushToGitHub(actionName = 'Update portfolio') {
+  const timestamp = new Date().toLocaleString('id-ID');
+  const cmd = `git add data/db.json public/uploads && git commit -m "${actionName} via Laptop Server (${timestamp})" && git push origin main`;
+  exec(cmd, { cwd: __dirname }, (err, stdout, stderr) => {
+    if (err) {
+      console.warn('[AUTO GIT PUSH] Catatan push git:', err.message);
+    } else {
+      console.log('[AUTO GIT PUSH] Berhasil push perubahan ke GitHub live:', stdout.trim());
+    }
+  });
+}
+
 // API Routes
 
 // 1. Health check & status
@@ -114,6 +128,8 @@ app.post('/api/portfolio', (req, res) => {
 
   if (success) {
     console.log(`[SYNC 24H] Portfolio berhasil diperbarui pada ${new Date().toISOString()}`);
+    // Auto push ke GitHub agar laptop dan HP otomatis 100% sinkron ke semua orang!
+    autoGitPushToGitHub('Update portfolio');
     res.json({
       success: true,
       message: 'Portofolio berhasil disimpan secara global dan live 24 jam untuk semua pengunjung!',
