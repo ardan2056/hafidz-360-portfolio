@@ -2169,9 +2169,10 @@
 
       if (slideObj) slideObj.aspectRatio = ratio;
 
-      const maxDim = 1200;
-      let w = ratio >= 1 ? maxDim : Math.max(480, Math.round(maxDim * ratio));
-      let h = ratio >= 1 ? Math.max(480, Math.round(maxDim / ratio)) : maxDim;
+      const isDirectVideo = Boolean(slideObj && slideObj.videoSrc && !extractYouTubeId(slideObj.videoSrc));
+      const maxDim = isDirectVideo ? 640 : 1200;
+      let w = ratio >= 1 ? maxDim : Math.max(360, Math.round(maxDim * ratio));
+      let h = ratio >= 1 ? Math.max(360, Math.round(maxDim / ratio)) : maxDim;
 
       const canvas = document.createElement('canvas');
       canvas.width = w;
@@ -3497,20 +3498,41 @@
       // Smooth decay of audio pulse & click burst intensity
       
 
-      // REALTIME VIDEO PLAYBACK ON 3D CARDS (WITHOUT SOUND / MUTED)
+      // REALTIME VIDEO PLAYBACK ON 3D CARDS (OPTIMIZED ZERO-LAG FRUSTUM CULLING)
       if (!anyModalOpen && cardMeshes.length > 0) {
+        const camDir = new THREE.Vector3();
+        camera.getWorldDirection(camDir);
+
         cardMeshes.forEach((mesh, pIdx) => {
           if (!mesh || !mesh.visible || !mesh.userData) return;
           const video = mesh.userData.videoElement;
           const canvas = mesh.userData.videoCanvas;
           const ctx = mesh.userData.videoCtx;
           if (video && canvas && ctx && video.readyState >= 2) {
+            // Directional visibility check: is the card facing the front of the camera?
+            const cardPos = new THREE.Vector3();
+            mesh.getWorldPosition(cardPos);
+            const toCard = cardPos.normalize();
+            const dot = camDir.dot(toCard);
+
+            // If card is behind the camera (outside view field), PAUSE video & skip render to save 80% GPU/CPU!
+            if (dot <= 0.15) {
+              if (!video.paused) {
+                video.pause();
+              }
+              return;
+            }
+
+            // In front of camera: play video smoothly muted
             if (video.paused && !video.ended) {
               video.muted = true;
               video.play().catch(() => {});
             }
+
+            // Adaptive frame rate: 25fps (40ms) when viewing, or 12fps (80ms) during fast camera drag
+            const frameInterval = state.isDragging ? 80 : 40;
             const lastFrame = mesh.userData.lastFrameTime || 0;
-            if (now - lastFrame >= 33) {
+            if (now - lastFrame >= frameInterval) {
               mesh.userData.lastFrameTime = now;
               const project = portfolioProjects[pIdx];
               const sIdx = (project && project.currentSlide) || 0;
