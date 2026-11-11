@@ -67,6 +67,14 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.75
+        },
+        {
+          "title": "Slide 02 — IMG 2257",
+          "caption": "Dokumentasi visual tambahan untuk OCTAGRAM — Branding Portfolio.",
+          "imageSrc": "public/uploads/1794385800398-IMG_2257.jpeg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.75
         }
       ]
     },
@@ -594,14 +602,6 @@
         {
           "title": "Slide 01 — Stage Highlight Cut (Play Video)",
           "caption": "Rekaman atmosfer panggung dan sorot lampu spektakuler.",
-          "imageSrc": "https://img.youtube.com/vi/LXb3EKWsInQ/hqdefault.jpg",
-          "videoSrc": "https://www.youtube.com/watch?v=LXb3EKWsInQ",
-          "isRealImage": true,
-          "aspectRatio": 1.3333333333333333
-        },
-        {
-          "title": "Slide 02 — Low-Light Color Grading",
-          "caption": "Menjaga ketajaman warna dan detail di kondisi panggung minim cahaya.",
           "imageSrc": "https://img.youtube.com/vi/LXb3EKWsInQ/hqdefault.jpg",
           "videoSrc": "https://www.youtube.com/watch?v=LXb3EKWsInQ",
           "isRealImage": true,
