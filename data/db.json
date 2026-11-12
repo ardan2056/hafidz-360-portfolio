@@ -234,7 +234,7 @@
       "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
       "description": "Kumpulan foto dokumentasi M. Hafidz Ardan saat sedang berkegiatan aktif di lapangan: memegang kamera produksi, mengarahkan kru panggung, hingga merancang UI/UX.",
       "accent": "#6366f1",
-      "currentSlide": 0,
+      "currentSlide": 4,
       "slides": [
         {
           "title": "Slide 01 — Bertugas Pegang Kamera (Koor Multimedia)",
@@ -252,6 +252,22 @@
           "title": "Slide 03 — Eksplorasi Desain & Coding",
           "caption": "Proses kerja di balik layar merancang UI/UX Figma dan kode aplikasi web.",
           "isRealImage": false
+        },
+        {
+          "title": "Slide 04 — Artboard 22",
+          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+          "imageSrc": "/uploads/1794470092382-721703565-Artboard_22.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.75
+        },
+        {
+          "title": "Slide 05 — Artboard 23",
+          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+          "imageSrc": "/uploads/1794470092403-756444519-Artboard_23.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.75
         }
       ]
     },
@@ -756,5 +772,5 @@
       "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
     }
   ],
-  "lastUpdated": "2026-11-11T14:13:30.766Z"
+  "lastUpdated": "2026-11-12T07:54:52.639Z"
 }
