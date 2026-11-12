@@ -2313,12 +2313,12 @@
     let latitudeRingMeshes = [];
     let kineticRingZenith = null, kineticRingNadir = null, starPointsMesh = null;
     let studioEnvGroup;
-    const SPHERE_RADIUS = 32;
+    const SPHERE_RADIUS = 35;
 
 
     function extractYouTubeId(url) {
       if (!url || typeof url !== 'string') return null;
-      const match = url.match(/(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=|shorts\/))([\w-]{11})/i);
+      const match = url.match(/(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=|shorts\/|live\/))([\w-]{11})/i);
       return match ? match[1] : null;
     }
 
