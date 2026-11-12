@@ -1034,27 +1034,44 @@
       "category": "Government Social Media & Campaign",
       "year": "2024",
       "tools": "Adobe Photoshop / Illustrator",
-      "description": "Desain carousel kampanye edukasi bahaya narkoba dan pencegahan SIAGA untuk Dinas Pangan, Pertanian, dan Perikanan Kota Balikpapan.",
+      "description": "Poster kampanye edukasi bahaya narkoba untuk Dinas Pangan, Pertanian, dan Perikanan Kota Balikpapan.",
       "accent": "#15803d",
       "currentSlide": 0,
       "slides": [
         {
-          "title": "Cover Kampanye Stop Narkoba — DP3 Balikpapan",
+          "title": "Poster Kampanye Stop Narkoba — DP3 Balikpapan",
           "caption": "Kenali bahaya narkoba dan dampaknya bagi kehidupan.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dp3-stop-narkoba.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.8
-        },
+          "aspectRatio": 0.7948
+        }
+      ],
+      "code": "#24",
+      "yawDeg": 9.473684210526315,
+      "pitchDeg": 22
+    },
+    {
+      "id": "design-dp3-stop-narkoba-02",
+      "tier": "upper",
+      "type": "design",
+      "title": "INFOGRAFIS 6 BAHAYA NARKOBA & CEGAH SIAGA — DP3 Balikpapan",
+      "category": "Government Social Media & Campaign",
+      "year": "2024",
+      "tools": "Adobe Photoshop / Illustrator",
+      "description": "Poster infografis edukasi 6 bahaya narkoba bagi kesehatan fisik dan mental serta langkah pencegahan SIAGA untuk DP3 Kota Balikpapan.",
+      "accent": "#15803d",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Infografis 6 Bahaya Narkoba & Cegah Dengan SIAGA",
-          "caption": "Slide 2 edukasi bahaya narkoba bagi kesehatan fisik dan mental serta langkah pencegahan SIAGA.",
+          "caption": "Edukasi bahaya narkoba bagi kesehatan fisik dan mental serta langkah pencegahan SIAGA.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dp3-stop-narkoba-02.jpg",
           "isRealImage": true,
           "aspectRatio": 0.8
         }
       ],
-      "code": "#24",
-      "yawDeg": 9.473684210526315,
+      "code": "#24b",
+      "yawDeg": 18.0,
       "pitchDeg": 22
     },
     {
