@@ -76,7 +76,7 @@
       "code": "#02",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 25.714285714285715,
+      "yawDeg": 22.5,
       "pitchDeg": 0,
       "title": "EDUSPACE & EVENT HUB — UI/UX Figma Prototype",
       "category": "Mobile App UI/UX & Design System",
@@ -113,7 +113,7 @@
       "code": "#03",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 51.42857142857143,
+      "yawDeg": 45,
       "pitchDeg": 0,
       "title": "SISTEM WEB WPK & PORTAL DIGITAL — Web App",
       "category": "Full-Stack Web / Aplikasi WPK Interaktif",
@@ -150,7 +150,7 @@
       "code": "#04",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 77.14285714285714,
+      "yawDeg": 67.5,
       "pitchDeg": 0,
       "title": "CYBER ORBIT DEFENDER — Playable WebGL Game",
       "category": "Game Development & Interactive Arcade",
@@ -188,7 +188,7 @@
       "code": "#05",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 102.85714285714286,
+      "yawDeg": 90,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Aku Lagi Berkegiatan",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -487,7 +487,7 @@
       "code": "#06",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 128.57142857142858,
+      "yawDeg": 112.5,
       "pitchDeg": 0,
       "title": "FINFLOW & SMART WALLET — UI/UX Prototype",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -519,7 +519,7 @@
       "code": "#07",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 20,
+      "yawDeg": 12,
       "pitchDeg": 19,
       "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
@@ -549,7 +549,7 @@
       "code": "#08",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 47.69230769230769,
+      "yawDeg": 36,
       "pitchDeg": 19,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
@@ -578,7 +578,7 @@
       "code": "#09",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 75.38461538461539,
+      "yawDeg": 60,
       "pitchDeg": 19,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
@@ -606,7 +606,7 @@
       "code": "#10",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 103.07692307692308,
+      "yawDeg": 84,
       "pitchDeg": 19,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
@@ -631,7 +631,7 @@
       "code": "#11",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 130.76923076923077,
+      "yawDeg": 108,
       "pitchDeg": 19,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
@@ -660,7 +660,7 @@
       "code": "#12",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 154.28571428571428,
+      "yawDeg": 135,
       "pitchDeg": 0,
       "title": "KULIAH UMUM OCTAGRAM — Poster Utama (Keynote Kepala BRIN)",
       "category": "Event Poster & Key Visual",
@@ -685,7 +685,7 @@
       "code": "#13",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 158.46153846153845,
+      "yawDeg": 132,
       "pitchDeg": 19,
       "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
       "category": "Merchandise & Product Mockup",
@@ -710,7 +710,7 @@
       "code": "#14",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 20,
+      "yawDeg": 12,
       "pitchDeg": -17,
       "title": "MERCHANDISE OCTAGRAM 2026 — Poster Pre-Order Sticker & Keychain",
       "category": "Promotional Poster & Merch",
@@ -735,7 +735,7 @@
       "code": "#15",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 180,
+      "yawDeg": 157.5,
       "pitchDeg": 0,
       "title": "LIVE REPORT OCTAGRAM — Instagram Story Frame Template",
       "category": "Social Media & Live Report",
@@ -760,7 +760,7 @@
       "code": "#16",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 186.15384615384616,
+      "yawDeg": 156,
       "pitchDeg": 19,
       "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
       "category": "Social Media & Documentation",
@@ -785,7 +785,7 @@
       "code": "#17",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 71.42857142857143,
+      "yawDeg": 52,
       "pitchDeg": -17,
       "title": "STAFF KONSUMSI OCTAGRAM — H. Ardan Profile Card",
       "category": "Identity & Staff Card Design",
@@ -810,7 +810,7 @@
       "code": "#18",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 205.71428571428572,
+      "yawDeg": 180,
       "pitchDeg": 0,
       "title": "DANA USAHA OCTAGRAM 2026 — Poster Menu & Lokasi",
       "category": "Promotional Poster & Danus",
@@ -835,7 +835,7 @@
       "code": "#19",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 213.84615384615387,
+      "yawDeg": 180,
       "pitchDeg": 19,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Fireside Talks Yulianta (OJK)",
       "category": "X-Banner & Print Media",
@@ -860,7 +860,7 @@
       "code": "#20",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 122.85714285714286,
+      "yawDeg": 92,
       "pitchDeg": -17,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Utama Event 2026",
       "category": "X-Banner & Print Media",
@@ -885,7 +885,7 @@
       "code": "#21",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 231.42857142857144,
+      "yawDeg": 202.5,
       "pitchDeg": 0,
       "title": "QR CODE BISNIS DIGITAL ITK — Instagram @BISNISDIGITAL.ITK",
       "category": "Social Media & Graphic Asset",
@@ -910,7 +910,7 @@
       "code": "#22",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 241.53846153846155,
+      "yawDeg": 204,
       "pitchDeg": 19,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Moderator Dekan FSTI ITK",
       "category": "X-Banner & Print Media",
@@ -935,7 +935,7 @@
       "code": "#23",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 174.28571428571428,
+      "yawDeg": 132,
       "pitchDeg": -17,
       "title": "KULIAH UMUM OCTAGRAM — Template Slide & Sertifikat Resmi",
       "category": "Presentation & Layout System",
@@ -960,7 +960,7 @@
       "code": "#24",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 257.14285714285717,
+      "yawDeg": 225,
       "pitchDeg": 0,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Sambutan Rektor ITK",
       "category": "X-Banner & Print Media",
@@ -985,7 +985,7 @@
       "code": "#25",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 269.2307692307692,
+      "yawDeg": 228,
       "pitchDeg": 19,
       "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Teaser Poster & Campaign",
@@ -1010,7 +1010,7 @@
       "code": "#26",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 225.71428571428572,
+      "yawDeg": 172,
       "pitchDeg": -17,
       "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
       "category": "Stage Frame & Event Overlay",
@@ -1049,7 +1049,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 282.8571428571429,
+      "yawDeg": 247.5,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1074,7 +1074,7 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 296.9230769230769,
+      "yawDeg": 252,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1099,7 +1099,7 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 277.14285714285717,
+      "yawDeg": 212,
       "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1156,7 +1156,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 308.57142857142856,
+      "yawDeg": 270,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1197,7 +1197,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 324.61538461538464,
+      "yawDeg": 276,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1230,7 +1230,7 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 328.57142857142856,
+      "yawDeg": 252,
       "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1255,7 +1255,7 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 334.2857142857143,
+      "yawDeg": 292.5,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1280,11 +1280,217 @@
           "aspectRatio": 0.6953125
         }
       ],
-      "yawDeg": 352.3076923076923,
+      "yawDeg": 300,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#34"
+    },
+    {
+      "id": "octagram-design-24",
+      "tier": "equator",
+      "type": "design",
+      "title": "KULIAH UMUM OCTAGRAM — Key Visual Banner Landscape",
+      "category": "Event Key Visual & Banner",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator",
+      "description": "Key visual banner landscape Kuliah Umum OCTAGRAM Bisnis Digital ITK menampilkan Dekan FSTI (Moderator), Kepala BRIN (Keynote Speaker), dan Rektor ITK (Sambutan).",
+      "slides": [
+        {
+          "title": "Key Visual Banner Landscape — Kuliah Umum OCTAGRAM",
+          "caption": "Tema: Shaping an Innovation-Driven and Inclusive Digital Economy.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-31-key-visual-landscape.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "yawDeg": 315,
+      "pitchDeg": 0,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#35"
+    },
+    {
+      "id": "bionic-design-2026",
+      "tier": "upper",
+      "type": "design",
+      "title": "BIONIC INOVASI SOSIAL 2026 — Instagram Feeds, Logo & Staff Card",
+      "category": "Branding, Logo & Social Media",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Paket lengkap identitas visual BIONIC Inovasi Sosial 2026 (#INSOSITK2026): desain grid Instagram 15-panel, filosofi logo BIONIC, hingga kartu staf Publikasi dan Dokumentasi.",
+      "slides": [
+        {
+          "title": "Instagram Feeds Grid BIONIC — Inovasi Sosial 2026",
+          "caption": "Layout grid 15-panel menyatu: Coming Soon, Rilis Lokasi, Filosofi Logo, & Pengenalan Divisi.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/creative-showcase-banner.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.45
+        },
+        {
+          "title": "Our Logo & Filosofi BIONIC",
+          "caption": "Logo identitas utama BIONIC Inovasi Sosial 2026.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/bionic-02-logo-bionic.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 1
+        },
+        {
+          "title": "Staff Card — M Hafidz Ardan (Publikasi dan Dokumentasi)",
+          "caption": "Kartu perkenalan staf Publikasi dan Dokumentasi BIONIC 2026.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/bionic-01-staff-card-ardan.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.6437
+        }
+      ],
+      "yawDeg": 324,
+      "pitchDeg": 19,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#36"
+    },
+    {
+      "id": "econiq-ch3-2026",
+      "tier": "lower",
+      "type": "design",
+      "title": "ECONIQ CHAPTER 3 (DIES NATALIS KE-3) — Work Jacket, Backdrop & Staff",
+      "category": "Apparel Design & Event Branding",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator",
+      "description": "Desain Work Jacket Dua Sisi Econiq Chapter 3 Bisnis Digital (Baby Canvas & Cotton Twill), spesifikasi detail bordir, backdrop kompetisi, dan kartu staf.",
+      "slides": [
+        {
+          "title": "Poster Pre-Order Work Jacket Dua Sisi Econiq Ch.3",
+          "caption": "Jaket bolak-balik bahan Baby Canvas & Cotton Twill edisi Econiq Chapter 3.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-01-poster-jaket-duasisi.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.7061
+        },
+        {
+          "title": "Design Spec Detail Work Jacket Econiq Ch.3",
+          "caption": "Rincian penempatan patch, bordir punggung, dan palet warna bahan.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-02-spec-jaket-ch3.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.7061
+        },
+        {
+          "title": "Backdrop Econiq Ch.3 — Digital Bisnis Competition",
+          "caption": "Backdrop utama acara Digital Bisnis Competition.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-03-backdrop-competition.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        },
+        {
+          "title": "Staff Card — Lutfiah Afifah (Koor Public Relation)",
+          "caption": "Desain kartu perkenalan panitia Dies Natalis ke-3 Bisnis Digital.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-04-staff-card-pr.png",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.5886
+        }
+      ],
+      "yawDeg": 292,
+      "pitchDeg": -17,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#37"
+    },
+    {
+      "id": "action-uiux-2nd-winner",
+      "tier": "equator",
+      "type": "uiux",
+      "title": "2ND WINNER UI/UX ACTION — Kompetisi Nasional & Dokumentasi",
+      "category": "UI/UX Competition & Achievement",
+      "year": "2026",
+      "tools": "Figma, Adobe Photoshop",
+      "description": "Pencapaian Juara 2 Nasional Cabang UI/UX dalam ajang ACTION (Academic Competition of Data Science) di Surabaya (#OKBOTWSURABAYA).",
+      "slides": [
+        {
+          "title": "2nd Winner Cabang UI/UX — ACTION (Academic Competition of Data Science)",
+          "caption": "Penyerahan piala dan plakat Juara 2 Cabang UI/UX Nasional.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/action-01-juara2-uiux.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.8761
+        },
+        {
+          "title": "Poster Kolase Juara 2 UI/UX — #OKBOTWSURABAYA",
+          "caption": "Dokumentasi tim saat memenangkan Juara 2 di Surabaya.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/action-02-kolase-okbotwsurabaya.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.7441
+        }
+      ],
+      "yawDeg": 337.5,
+      "pitchDeg": 0,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#38"
+    },
+    {
+      "id": "fsti-teach-zone-2026",
+      "tier": "upper",
+      "type": "design",
+      "title": "FSTI TEACH ZONE — 3D Booth Mockup & Key Visual (Aardan Creative)",
+      "category": "3D Booth Mockup & Event Visual",
+      "year": "2026",
+      "tools": "Adobe Photoshop, 3D Mockup, Illustrator",
+      "description": "Desain Key Visual dan Mockup 3D Booth / Photobooth FSTI TEACH ZONE (Fakultas Sains dan Teknologi Informasi) oleh Aardan Creative Design.",
+      "slides": [
+        {
+          "title": "3D Booth / Photobooth Mockup — FSTI TEACH ZONE",
+          "caption": "Visualisasi 3D booth pameran #FSTIPrestasi oleh Aardan Creative Design.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/fsti-02-teachzone-3d-booth.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 1.5015
+        },
+        {
+          "title": "Key Visual Banner — FSTI TEACH ZONE",
+          "caption": "Grafis dinding utama FSTI TEACH ZONE.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/fsti-01-teachzone-banner.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 2.0039
+        }
+      ],
+      "yawDeg": 348,
+      "pitchDeg": 19,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#39"
+    },
+    {
+      "id": "motion-elemen-video-01",
+      "tier": "lower",
+      "type": "video",
+      "title": "MOTION GRAPHIC ELEMENT — Bumper & Animasi Visual (MP4)",
+      "category": "Motion Graphics & Video Element",
+      "year": "2026",
+      "tools": "Adobe After Effects, Premiere Pro",
+      "description": "Klip elemen animasi motion graphics beresolusi tinggi untuk kebutuhan transisi video dan visual panggung.",
+      "slides": [
+        {
+          "title": "Motion Graphic Element — ELEMEN (1).mp4",
+          "caption": "Klip video animasi elemen visual.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-31-key-visual-landscape.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/motion-elemen-01.mp4",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "yawDeg": 332,
+      "pitchDeg": -17,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#40"
     }
   ],
   "lastUpdated": "2026-11-12T08:15:46.143Z"
