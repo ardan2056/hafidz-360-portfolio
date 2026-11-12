@@ -1928,8 +1928,8 @@
       lat: 0,
       targetLon: 0,
       targetLat: 0,
-      fov: window.innerWidth < 640 ? 74 : 62,
-      targetFov: window.innerWidth < 640 ? 74 : 62,
+      fov: window.innerWidth < 640 ? 68 : 56,
+      targetFov: window.innerWidth < 640 ? 68 : 56,
       pinchStartDist: 0,
       uploadTargetIndex: 0,
       uploadMode: 'add',
@@ -2313,7 +2313,7 @@
     let latitudeRingMeshes = [];
     let kineticRingZenith = null, kineticRingNadir = null, starPointsMesh = null;
     let studioEnvGroup;
-    const SPHERE_RADIUS = 37;
+    const SPHERE_RADIUS = 24;
 
 
     function extractYouTubeId(url) {
@@ -3029,7 +3029,7 @@
       });
       const floorMesh = new THREE.Mesh(new THREE.CircleGeometry(56, 64), floorMat);
       floorMesh.rotation.x = -Math.PI / 2;
-      floorMesh.position.set(0, -14.0, 0);
+      floorMesh.position.set(0, -15.5, 0);
       studioEnvGroup.add(floorMesh);
 
       // ROBIN PAYOT SIGNATURE PERSPECTIVE DOTTED CONCENTRIC RINGS
@@ -3041,7 +3041,7 @@
           const angle = (i / count) * Math.PI * 2;
           floorDotPositions.push(
             Math.cos(angle) * r,
-            -13.92,
+            -15.42,
             Math.sin(angle) * r
           );
         }
@@ -3055,7 +3055,7 @@
         for (let d = 4.5; d <= 51; d += 1.5) {
           floorDotPositions.push(
             cosA * d,
-            -13.92,
+            -15.42,
             sinA * d
           );
         }
@@ -3119,25 +3119,41 @@
 
     function recalculateSphereCoordinates() {
       if (!portfolioProjects.length) return;
-      const eqItems = [], upItems = [], lowItems = [];
+      const total = portfolioProjects.length;
       portfolioProjects.forEach((p, idx) => {
-        if (p.tier === 'upper') upItems.push(p);
-        else if (p.tier === 'lower') lowItems.push(p);
-        else eqItems.push(p);
         p.code = `#${String(idx + 1).padStart(2, '0')}`;
       });
 
-      eqItems.forEach((p, i) => {
-        p.yawDeg = (i * (360 / Math.max(1, eqItems.length))) % 360;
-        p.pitchDeg = 0;
-      });
-      upItems.forEach((p, i) => {
-        p.yawDeg = (20 + i * (360 / Math.max(1, upItems.length))) % 360;
-        p.pitchDeg = 19;
-      });
-      lowItems.forEach((p, i) => {
-        p.yawDeg = (20 + i * (360 / Math.max(1, lowItems.length))) % 360;
-        p.pitchDeg = -17;
+      // Distribute all projects across 4 neat, staggered spherical rings so cards form a round 360° globe with zero overlap
+      const ringConfigs = [
+        { pitch: 8, weight: 0.29, offsetFrac: 0 },
+        { pitch: -9, weight: 0.29, offsetFrac: 0.5 },
+        { pitch: 25, weight: 0.21, offsetFrac: 0.25 },
+        { pitch: -26, weight: 0.21, offsetFrac: 0.75 }
+      ];
+
+      if (total <= 14) {
+        portfolioProjects.forEach((p, i) => {
+          p.yawDeg = (i * (360 / total)) % 360;
+          p.pitchDeg = 0;
+        });
+        return;
+      }
+
+      const counts = ringConfigs.map(r => Math.max(1, Math.round(total * r.weight)));
+      let sum = counts.reduce((a, b) => a + b, 0);
+      while (sum > total) { counts[0]--; sum--; }
+      while (sum < total) { counts[1]++; sum++; }
+
+      let cursor = 0;
+      ringConfigs.forEach((cfg, rIdx) => {
+        const n = counts[rIdx];
+        const step = 360 / Math.max(1, n);
+        for (let i = 0; i < n && cursor < total; i++, cursor++) {
+          const p = portfolioProjects[cursor];
+          p.yawDeg = (i * step + cfg.offsetFrac * step) % 360;
+          p.pitchDeg = cfg.pitch;
+        }
       });
     }
 
@@ -3249,7 +3265,7 @@
         }
 
         const texture = new THREE.CanvasTexture(cardCanvas);
-        const baseScale = index === 0 ? 5.8 : (project.tier === 'equator' ? 5.2 : 4.6);
+        const baseScale = index === 0 ? 4.9 : (project.tier === 'equator' ? 4.5 : 4.2);
         const ratio = getSlideAspectRatio(project, slideObj);
         let cardW, cardH;
         if (ratio >= 1) {
@@ -3588,7 +3604,7 @@
         e.preventDefault();
         markUserInteraction();
         if (e.ctrlKey) {
-          state.targetFov = Math.max(28, Math.min(82, state.targetFov + e.deltaY * 0.04));
+          state.targetFov = Math.max(32, Math.min(72, state.targetFov + e.deltaY * 0.04));
         } else {
           // Robin Payot smooth carousel wheel rotation
           const delta = (Math.abs(e.deltaY) > Math.abs(e.deltaX) ? e.deltaY : e.deltaX);
@@ -3989,34 +4005,64 @@
         }
 
         const centerLon = ((state.targetLon % 360) + 360) % 360;
-        // Spacing: 27.5 degrees provides ~10.5 units arc distance, ensuring generous breathing room between wide landscape cards
-        const angularSpacing = 27.5;
-
-        visibleIndices.forEach((projIdx, k) => {
-          const grp = cardGroups[projIdx];
-          if (!grp) return;
-          grp.visible = true;
-          if (grp.userData) grp.userData.targetScale = 1.0;
-          if (cardMeshes[projIdx]) {
-            cardMeshes[projIdx].visible = true;
-            if (cardMeshes[projIdx].scale.x < 0.2) {
-              cardMeshes[projIdx].scale.set(0.6, 0.6, 1.0);
+        if (M <= 12) {
+          // Single clean eye-level ring with guaranteed no wrap-around overlap
+          const angularSpacing = Math.min(28, 336 / Math.max(1, M));
+          visibleIndices.forEach((projIdx, k) => {
+            const grp = cardGroups[projIdx];
+            if (!grp) return;
+            grp.visible = true;
+            if (grp.userData) grp.userData.targetScale = 1.0;
+            if (cardMeshes[projIdx]) {
+              cardMeshes[projIdx].visible = true;
+              if (cardMeshes[projIdx].scale.x < 0.2) {
+                cardMeshes[projIdx].scale.set(0.6, 0.6, 1.0);
+              }
             }
-          }
+            const offsetDeg = (k - activePos) * angularSpacing;
+            const targetYawDeg = (centerLon + offsetDeg + 360) % 360;
+            const yawRad = THREE.MathUtils.degToRad(targetYawDeg);
+            const tx = SPHERE_RADIUS * Math.sin(yawRad);
+            const ty = 0;
+            const tz = -SPHERE_RADIUS * Math.cos(yawRad);
+            if (grp.userData && grp.userData.targetPos) {
+              grp.userData.targetPos.set(tx, ty, tz);
+            }
+          });
+        } else {
+          // Multi-ring neat spherical dome for larger filtered sets (e.g. 28+ Desain cards)
+          const ringPitches = M > 24 ? [0, 17, -17] : [11, -11];
+          const ringCounts = new Array(ringPitches.length).fill(0);
+          visibleIndices.forEach((_, k) => ringCounts[k % ringPitches.length]++);
+          const ringCursors = new Array(ringPitches.length).fill(0);
 
-          // Active card is at offsetDeg = 0 (right in front of the camera!)
-          const offsetDeg = (k - activePos) * angularSpacing;
-          const targetYawDeg = (centerLon + offsetDeg + 360) % 360;
-          const yawRad = THREE.MathUtils.degToRad(targetYawDeg);
-
-          const tx = SPHERE_RADIUS * Math.sin(yawRad);
-          const ty = 0; // Exactly 1 row at eye level
-          const tz = -SPHERE_RADIUS * Math.cos(yawRad);
-
-          if (grp.userData && grp.userData.targetPos) {
-            grp.userData.targetPos.set(tx, ty, tz);
-          }
-        });
+          visibleIndices.forEach((projIdx, k) => {
+            const grp = cardGroups[projIdx];
+            if (!grp) return;
+            grp.visible = true;
+            if (grp.userData) grp.userData.targetScale = 1.0;
+            if (cardMeshes[projIdx]) {
+              cardMeshes[projIdx].visible = true;
+              if (cardMeshes[projIdx].scale.x < 0.2) {
+                cardMeshes[projIdx].scale.set(0.6, 0.6, 1.0);
+              }
+            }
+            const rIdx = k % ringPitches.length;
+            const posInRing = ringCursors[rIdx]++;
+            const step = 360 / Math.max(1, ringCounts[rIdx]);
+            const stagger = rIdx * (step * 0.5);
+            const targetYawDeg = (centerLon + posInRing * step + stagger) % 360;
+            const yawRad = THREE.MathUtils.degToRad(targetYawDeg);
+            const pitchRad = THREE.MathUtils.degToRad(ringPitches[rIdx]);
+            const cosP = Math.cos(pitchRad);
+            const tx = SPHERE_RADIUS * cosP * Math.sin(yawRad);
+            const ty = SPHERE_RADIUS * Math.sin(pitchRad);
+            const tz = -SPHERE_RADIUS * cosP * Math.cos(yawRad);
+            if (grp.userData && grp.userData.targetPos) {
+              grp.userData.targetPos.set(tx, ty, tz);
+            }
+          });
+        }
 
         // Hide / shrink non-matching cards smoothly
         portfolioProjects.forEach((_, idx) => {
@@ -7157,12 +7203,12 @@
     }
 
     function playCinematicEntranceAnimation() {
-      // 1. Initial Camera Position: Majestic cinematic swoop
-      state.fov = 98;
-      state.targetFov = window.innerWidth < 640 ? 74 : 62;
-      state.lat = 22;
+      // 1. Initial Camera Position: Smooth close-in spherical entrance
+      state.fov = 70;
+      state.targetFov = window.innerWidth < 640 ? 68 : 56;
+      state.lat = 10;
       state.targetLat = 0;
-      state.lon = -46;
+      state.lon = -28;
       state.targetLon = 0;
 
       // 2. Hide HUD elements initially for smooth staggered glide-in
