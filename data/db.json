@@ -76,7 +76,7 @@
       "code": "#02",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 45,
+      "yawDeg": 51.42857142857143,
       "pitchDeg": 0,
       "title": "EDUSPACE & EVENT HUB — UI/UX Figma Prototype",
       "category": "Mobile App UI/UX & Design System",
@@ -113,7 +113,7 @@
       "code": "#03",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 90,
+      "yawDeg": 102.85714285714286,
       "pitchDeg": 0,
       "title": "SISTEM WEB WPK & PORTAL DIGITAL — Web App",
       "category": "Full-Stack Web / Aplikasi WPK Interaktif",
@@ -150,7 +150,7 @@
       "code": "#04",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 135,
+      "yawDeg": 154.28571428571428,
       "pitchDeg": 0,
       "title": "CYBER ORBIT DEFENDER — Playable WebGL Game",
       "category": "Game Development & Interactive Arcade",
@@ -188,7 +188,7 @@
       "code": "#05",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 180,
+      "yawDeg": 205.71428571428572,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Aku Lagi Berkegiatan",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -487,7 +487,7 @@
       "code": "#06",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 225,
+      "yawDeg": 257.14285714285717,
       "pitchDeg": 0,
       "title": "FINFLOW & SMART WALLET — UI/UX Prototype",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -946,43 +946,10 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "yawDeg": 270,
-      "pitchDeg": 0,
-      "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
-    },
-    {
-      "id": "work-1794369946749",
-      "code": "#22",
-      "tier": "equator",
-      "type": "video",
-      "year": "2026",
-      "title": "aaaaaa",
-      "category": "VIDEO & MOTION",
-      "externalUrl": "https://www.youtube.com/watch?v=avUsTRL5XS0",
-      "description": "Karya oleh M. Hafidz Ardan.",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 01 — aaaaaa",
-          "caption": "aaaaaa",
-          "imageSrc": "https://img.youtube.com/vi/avUsTRL5XS0/hqdefault.jpg",
-          "videoSrc": "https://www.youtube.com/watch?v=avUsTRL5XS0",
-          "isRealImage": true,
-          "aspectRatio": 1.3333333333333333
-        },
-        {
-          "title": "Slide 02 — Dokumentasi & Detail",
-          "caption": "Rincian proses kerja.",
-          "imageSrc": "https://img.youtube.com/vi/avUsTRL5XS0/hqdefault.jpg",
-          "videoSrc": "https://www.youtube.com/watch?v=avUsTRL5XS0",
-          "isRealImage": true,
-          "aspectRatio": 1.3333333333333333
-        }
-      ],
-      "yawDeg": 315,
+      "yawDeg": 308.57142857142856,
       "pitchDeg": 0,
       "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
     }
   ],
-  "lastUpdated": "2026-11-12T08:00:08.989Z"
+  "lastUpdated": "2026-11-12T08:00:18.727Z"
 }
