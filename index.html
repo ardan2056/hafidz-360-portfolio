@@ -1943,8 +1943,8 @@
       lat: 0,
       targetLon: 0,
       targetLat: 0,
-      fov: window.innerWidth < 640 ? 58 : 48,
-      targetFov: window.innerWidth < 640 ? 58 : 48,
+      fov: window.innerWidth < 640 ? 74 : 66,
+      targetFov: window.innerWidth < 640 ? 74 : 66,
       pinchStartDist: 0,
       uploadTargetIndex: 0,
       uploadMode: 'add',
@@ -3632,7 +3632,7 @@
         e.preventDefault();
         markUserInteraction();
         if (e.ctrlKey) {
-          state.targetFov = Math.max(32, Math.min(72, state.targetFov + e.deltaY * 0.04));
+          state.targetFov = Math.max(32, Math.min(85, state.targetFov + e.deltaY * 0.04));
         } else {
           // Robin Payot smooth carousel wheel rotation
           const delta = (Math.abs(e.deltaY) > Math.abs(e.deltaX) ? e.deltaY : e.deltaX);
@@ -7282,9 +7282,9 @@
     }
 
     function playCinematicEntranceAnimation() {
-      // 1. Initial Camera Position: Smooth close-in spherical entrance
-      state.fov = 70;
-      state.targetFov = window.innerWidth < 640 ? 68 : 56;
+      // 1. Initial Camera Position: Balanced wide spherical entrance
+      state.fov = 80;
+      state.targetFov = window.innerWidth < 640 ? 74 : 66;
       state.lat = 10;
       state.targetLat = 0;
       state.lon = -28;
