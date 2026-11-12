@@ -19,6 +19,20 @@
     "bgStyle": "studio",
     "activities": [
       {
+        "id": "act-humas-fsti-1",
+        "title": "Humas FSTI ITK — Photostrip Tim",
+        "caption": "Dokumentasi tim Humas FSTI ITK.",
+        "year": "2025",
+        "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/humas-fsti-01.jpg"
+      },
+      {
+        "id": "act-humas-fsti-2",
+        "title": "Humas FSTI ITK — Dokumentasi (IMG_2158)",
+        "caption": "Dokumentasi kegiatan Humas FSTI ITK.",
+        "year": "2025",
+        "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/humas-fsti-img2158.jpg"
+      },
+      {
         "id": "act-econiq-ch2-1",
         "title": "PDD Econiq Ch.2 — Closing Ceremony (1)",
         "caption": "Tim Divisi PDD di Closing Ceremony Econiq Chapter 2.",
@@ -225,7 +239,7 @@
       "code": "#03",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 29,
+      "yawDeg": 28,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 23",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -253,7 +267,7 @@
       "code": "#04",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 43,
+      "yawDeg": 42,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 1 copy",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -281,7 +295,7 @@
       "code": "#05",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 58,
+      "yawDeg": 55,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 1",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -309,7 +323,7 @@
       "code": "#06",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 72,
+      "yawDeg": 69,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 4",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -337,7 +351,7 @@
       "code": "#07",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 86,
+      "yawDeg": 83,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 5 copy",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -365,7 +379,7 @@
       "code": "#08",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 101,
+      "yawDeg": 97,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 3 copy 5",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -393,7 +407,7 @@
       "code": "#09",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 115,
+      "yawDeg": 111,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 3 copy 6",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -421,7 +435,7 @@
       "code": "#10",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 130,
+      "yawDeg": 125,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 12",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -449,7 +463,7 @@
       "code": "#11",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 144,
+      "yawDeg": 138,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 20",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -477,7 +491,7 @@
       "code": "#12",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 158,
+      "yawDeg": 152,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 21",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -505,7 +519,7 @@
       "code": "#13",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 173,
+      "yawDeg": 166,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 22",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -533,7 +547,7 @@
       "code": "#14",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 187,
+      "yawDeg": 180,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 23",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -561,7 +575,7 @@
       "code": "#15",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 202,
+      "yawDeg": 194,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 9 copy 2",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -589,7 +603,7 @@
       "code": "#16",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 216,
+      "yawDeg": 208,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 9 copy 8",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -617,7 +631,7 @@
       "code": "#17",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 230,
+      "yawDeg": 222,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 9 copy 10",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -645,7 +659,7 @@
       "code": "#18",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 245,
+      "yawDeg": 235,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 9 copy 11",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -673,7 +687,7 @@
       "code": "#19",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 259,
+      "yawDeg": 249,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 15",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -701,7 +715,7 @@
       "code": "#20",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 274,
+      "yawDeg": 263,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 16 copy 2",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -729,7 +743,7 @@
       "code": "#21",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 288,
+      "yawDeg": 277,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 18",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -757,7 +771,7 @@
       "code": "#22",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 302,
+      "yawDeg": 291,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 19",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -785,7 +799,7 @@
       "code": "#23",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 317,
+      "yawDeg": 305,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 1 copy 5",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -813,7 +827,7 @@
       "code": "#24",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 331,
+      "yawDeg": 318,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 1 copy 8",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -841,7 +855,7 @@
       "code": "#25",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 346,
+      "yawDeg": 332,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 4 copy 13",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -869,8 +883,8 @@
       "code": "#26",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 8,
-      "pitchDeg": 16,
+      "yawDeg": 346,
+      "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 9 copy 12",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
       "year": "2026",
@@ -897,7 +911,7 @@
       "code": "#27",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 23,
+      "yawDeg": 8,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 9 copy",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -925,7 +939,7 @@
       "code": "#28",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 38,
+      "yawDeg": 23,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17 copy 2",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -953,7 +967,7 @@
       "code": "#29",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 53,
+      "yawDeg": 38,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17 copy 3",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -981,7 +995,7 @@
       "code": "#30",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 68,
+      "yawDeg": 53,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17 copy 4",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1009,7 +1023,7 @@
       "code": "#31",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 83,
+      "yawDeg": 68,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17 copy",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1037,7 +1051,7 @@
       "code": "#32",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 98,
+      "yawDeg": 83,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1065,7 +1079,7 @@
       "code": "#33",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 113,
+      "yawDeg": 98,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 1 copy 6",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1093,7 +1107,7 @@
       "code": "#34",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 128,
+      "yawDeg": 113,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 4 copy 3",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1121,7 +1135,7 @@
       "code": "#35",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 143,
+      "yawDeg": 128,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 4 copy 14",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1149,7 +1163,7 @@
       "code": "#36",
       "tier": "lower",
       "type": "uiux",
-      "yawDeg": 158,
+      "yawDeg": 143,
       "pitchDeg": 16,
       "title": "High-Fidelity Mobile Screens",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -1176,7 +1190,7 @@
       "code": "#37",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 173,
+      "yawDeg": 158,
       "pitchDeg": 16,
       "title": "Interactive Prototype Flow",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -1200,7 +1214,7 @@
       "code": "#38",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 188,
+      "yawDeg": 173,
       "pitchDeg": 16,
       "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
@@ -1230,7 +1244,7 @@
       "code": "#39",
       "tier": "lower",
       "type": "video",
-      "yawDeg": 203,
+      "yawDeg": 188,
       "pitchDeg": 16,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
@@ -1259,7 +1273,7 @@
       "code": "#40",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 218,
+      "yawDeg": 203,
       "pitchDeg": 16,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
@@ -1287,7 +1301,7 @@
       "code": "#41",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 233,
+      "yawDeg": 218,
       "pitchDeg": 16,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
@@ -1312,7 +1326,7 @@
       "code": "#42",
       "tier": "lower",
       "type": "video",
-      "yawDeg": 248,
+      "yawDeg": 233,
       "pitchDeg": 16,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
@@ -1341,7 +1355,7 @@
       "code": "#43",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 263,
+      "yawDeg": 248,
       "pitchDeg": 16,
       "title": "KULIAH UMUM OCTAGRAM — Poster Utama (Keynote Kepala BRIN)",
       "category": "Event Poster & Key Visual",
@@ -1366,7 +1380,7 @@
       "code": "#44",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 278,
+      "yawDeg": 263,
       "pitchDeg": 16,
       "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
       "category": "Merchandise & Product Mockup",
@@ -1391,7 +1405,7 @@
       "code": "#45",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 293,
+      "yawDeg": 278,
       "pitchDeg": 16,
       "title": "MERCHANDISE OCTAGRAM 2026 — Poster Pre-Order Sticker & Keychain",
       "category": "Promotional Poster & Merch",
@@ -1416,7 +1430,7 @@
       "code": "#46",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 308,
+      "yawDeg": 293,
       "pitchDeg": 16,
       "title": "LIVE REPORT OCTAGRAM — Instagram Story Frame Template",
       "category": "Social Media & Live Report",
@@ -1441,7 +1455,7 @@
       "code": "#47",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 323,
+      "yawDeg": 308,
       "pitchDeg": 16,
       "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
       "category": "Social Media & Documentation",
@@ -1466,7 +1480,7 @@
       "code": "#48",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 338,
+      "yawDeg": 323,
       "pitchDeg": 16,
       "title": "STAFF KONSUMSI OCTAGRAM — H. Ardan Profile Card",
       "category": "Identity & Staff Card Design",
@@ -1491,7 +1505,7 @@
       "code": "#49",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 353,
+      "yawDeg": 338,
       "pitchDeg": 16,
       "title": "DANA USAHA OCTAGRAM 2026 — Poster Menu & Lokasi",
       "category": "Promotional Poster & Danus",
@@ -1516,8 +1530,8 @@
       "code": "#50",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 4,
-      "pitchDeg": -16,
+      "yawDeg": 353,
+      "pitchDeg": 16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Fireside Talks Yulianta (OJK)",
       "category": "X-Banner & Print Media",
       "year": "2026",
@@ -1541,7 +1555,7 @@
       "code": "#51",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 20,
+      "yawDeg": 4,
       "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Utama Event 2026",
       "category": "X-Banner & Print Media",
@@ -1566,7 +1580,7 @@
       "code": "#52",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 35,
+      "yawDeg": 20,
       "pitchDeg": -16,
       "title": "QR CODE BISNIS DIGITAL ITK — Instagram @BISNISDIGITAL.ITK",
       "category": "Social Media & Graphic Asset",
@@ -1591,7 +1605,7 @@
       "code": "#53",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 51,
+      "yawDeg": 35,
       "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Moderator Dekan FSTI ITK",
       "category": "X-Banner & Print Media",
@@ -1616,7 +1630,7 @@
       "code": "#54",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 67,
+      "yawDeg": 51,
       "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — Template Slide & Sertifikat Resmi",
       "category": "Presentation & Layout System",
@@ -1641,7 +1655,7 @@
       "code": "#55",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 82,
+      "yawDeg": 67,
       "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Sambutan Rektor ITK",
       "category": "X-Banner & Print Media",
@@ -1666,7 +1680,7 @@
       "code": "#56",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 98,
+      "yawDeg": 82,
       "pitchDeg": -16,
       "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Teaser Poster & Campaign",
@@ -1691,7 +1705,7 @@
       "code": "#57",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 113,
+      "yawDeg": 98,
       "pitchDeg": -16,
       "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
       "category": "Stage Frame & Event Overlay",
@@ -1730,7 +1744,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 129,
+      "yawDeg": 113,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1755,7 +1769,7 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 145,
+      "yawDeg": 129,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1780,7 +1794,7 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 160,
+      "yawDeg": 145,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1805,7 +1819,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 176,
+      "yawDeg": 160,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1830,7 +1844,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 192,
+      "yawDeg": 176,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1855,7 +1869,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 207,
+      "yawDeg": 192,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1880,7 +1894,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 223,
+      "yawDeg": 207,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1905,7 +1919,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 239,
+      "yawDeg": 223,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1930,7 +1944,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 254,
+      "yawDeg": 239,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1955,7 +1969,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 270,
+      "yawDeg": 254,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1980,7 +1994,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 286,
+      "yawDeg": 270,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2005,7 +2019,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 301,
+      "yawDeg": 286,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2030,7 +2044,7 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 317,
+      "yawDeg": 301,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2055,7 +2069,7 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 333,
+      "yawDeg": 317,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2080,7 +2094,7 @@
           "aspectRatio": 0.6953125
         }
       ],
-      "yawDeg": 348,
+      "yawDeg": 333,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2105,8 +2119,8 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 14,
-      "pitchDeg": 32,
+      "yawDeg": 348,
+      "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#73"
@@ -2130,7 +2144,7 @@
           "aspectRatio": 0.45
         }
       ],
-      "yawDeg": 33,
+      "yawDeg": 14,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2155,7 +2169,7 @@
           "aspectRatio": 1
         }
       ],
-      "yawDeg": 52,
+      "yawDeg": 33,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2180,7 +2194,7 @@
           "aspectRatio": 0.6436781609195402
         }
       ],
-      "yawDeg": 71,
+      "yawDeg": 52,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2205,7 +2219,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 90,
+      "yawDeg": 71,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2230,7 +2244,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 109,
+      "yawDeg": 90,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2255,7 +2269,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 128,
+      "yawDeg": 109,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2280,7 +2294,7 @@
           "aspectRatio": 0.5886454183266933
         }
       ],
-      "yawDeg": 147,
+      "yawDeg": 128,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2305,7 +2319,7 @@
           "aspectRatio": 0.8760907504363001
         }
       ],
-      "yawDeg": 166,
+      "yawDeg": 147,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2330,7 +2344,7 @@
           "aspectRatio": 0.744140625
         }
       ],
-      "yawDeg": 185,
+      "yawDeg": 166,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2355,7 +2369,7 @@
           "aspectRatio": 1.501466275659824
         }
       ],
-      "yawDeg": 204,
+      "yawDeg": 185,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2380,7 +2394,7 @@
           "aspectRatio": 2.003913894324853
         }
       ],
-      "yawDeg": 223,
+      "yawDeg": 204,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2405,7 +2419,7 @@
           "aspectRatio": 0.7076648841354723
         }
       ],
-      "yawDeg": 242,
+      "yawDeg": 223,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2435,7 +2449,7 @@
         }
       ],
       "code": "#86",
-      "yawDeg": 261,
+      "yawDeg": 242,
       "pitchDeg": 32
     },
     {
@@ -2462,7 +2476,7 @@
         }
       ],
       "code": "#87",
-      "yawDeg": 279,
+      "yawDeg": 261,
       "pitchDeg": 32
     },
     {
@@ -2489,7 +2503,7 @@
         }
       ],
       "code": "#88",
-      "yawDeg": 298,
+      "yawDeg": 279,
       "pitchDeg": 32
     },
     {
@@ -2516,7 +2530,7 @@
         }
       ],
       "code": "#89",
-      "yawDeg": 317,
+      "yawDeg": 298,
       "pitchDeg": 32
     },
     {
@@ -2543,7 +2557,7 @@
         }
       ],
       "code": "#90",
-      "yawDeg": 336,
+      "yawDeg": 317,
       "pitchDeg": 32
     },
     {
@@ -2570,7 +2584,7 @@
         }
       ],
       "code": "#91",
-      "yawDeg": 355,
+      "yawDeg": 336,
       "pitchDeg": 32
     },
     {
@@ -2597,8 +2611,8 @@
         }
       ],
       "code": "#92",
-      "yawDeg": 8,
-      "pitchDeg": -32
+      "yawDeg": 355,
+      "pitchDeg": 32
     },
     {
       "id": "motion-ini-1-video",
@@ -2622,7 +2636,7 @@
         }
       ],
       "code": "#93",
-      "yawDeg": 27,
+      "yawDeg": 8,
       "pitchDeg": -32
     },
     {
@@ -2648,7 +2662,7 @@
         }
       ],
       "code": "#94",
-      "yawDeg": 45,
+      "yawDeg": 27,
       "pitchDeg": -32
     },
     {
@@ -2674,7 +2688,7 @@
         }
       ],
       "code": "#95",
-      "yawDeg": 64,
+      "yawDeg": 45,
       "pitchDeg": -32
     },
     {
@@ -2700,7 +2714,7 @@
         }
       ],
       "code": "#96",
-      "yawDeg": 83,
+      "yawDeg": 64,
       "pitchDeg": -32
     },
     {
@@ -2726,7 +2740,7 @@
         }
       ],
       "code": "#97",
-      "yawDeg": 102,
+      "yawDeg": 83,
       "pitchDeg": -32
     },
     {
@@ -2752,7 +2766,7 @@
         }
       ],
       "code": "#98",
-      "yawDeg": 121,
+      "yawDeg": 102,
       "pitchDeg": -32
     },
     {
@@ -2778,7 +2792,7 @@
         }
       ],
       "code": "#99",
-      "yawDeg": 140,
+      "yawDeg": 121,
       "pitchDeg": -32
     },
     {
@@ -2803,7 +2817,7 @@
         }
       ],
       "code": "#100",
-      "yawDeg": 159,
+      "yawDeg": 140,
       "pitchDeg": -32
     },
     {
@@ -2828,7 +2842,7 @@
         }
       ],
       "code": "#101",
-      "yawDeg": 178,
+      "yawDeg": 159,
       "pitchDeg": -32
     },
     {
@@ -2887,7 +2901,7 @@
         }
       ],
       "code": "#102",
-      "yawDeg": 197,
+      "yawDeg": 178,
       "pitchDeg": -32
     },
     {
@@ -2932,7 +2946,7 @@
         }
       ],
       "code": "#103",
-      "yawDeg": 216,
+      "yawDeg": 197,
       "pitchDeg": -32
     },
     {
@@ -2972,7 +2986,7 @@
         }
       ],
       "code": "#104",
-      "yawDeg": 235,
+      "yawDeg": 216,
       "pitchDeg": -32
     },
     {
@@ -3018,7 +3032,7 @@
         }
       ],
       "code": "#105",
-      "yawDeg": 254,
+      "yawDeg": 235,
       "pitchDeg": -32
     },
     {
@@ -3050,7 +3064,7 @@
         }
       ],
       "code": "#106",
-      "yawDeg": 273,
+      "yawDeg": 254,
       "pitchDeg": -32
     },
     {
@@ -3081,7 +3095,7 @@
         }
       ],
       "code": "#107",
-      "yawDeg": 292,
+      "yawDeg": 273,
       "pitchDeg": -32
     },
     {
@@ -3143,7 +3157,7 @@
         }
       ],
       "code": "#108",
-      "yawDeg": 311,
+      "yawDeg": 292,
       "pitchDeg": -32
     },
     {
@@ -3168,7 +3182,7 @@
         }
       ],
       "code": "#109",
-      "yawDeg": 330,
+      "yawDeg": 311,
       "pitchDeg": -32
     },
     {
@@ -3199,9 +3213,40 @@
         }
       ],
       "code": "#110",
+      "yawDeg": 330,
+      "pitchDeg": -32
+    },
+    {
+      "id": "humas-fsti-docs",
+      "tier": "lower",
+      "type": "committee",
+      "title": "HUMAS FSTI — Dokumentasi & Kepanitiaan",
+      "category": "Dokumentasi Lapangan & Kepanitiaan",
+      "year": "2025",
+      "tools": "Public Relations, Event Documentation, Photostrip",
+      "description": "Dokumentasi kebersamaan dan kegiatan tim Humas Fakultas Sains dan Teknologi Informasi (FSTI) ITK.",
+      "accent": "#0ea5e9",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Tim Humas FSTI — Photostrip Collage",
+          "caption": "Kolase photostrip kebersamaan tim Humas FSTI ITK.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/humas-fsti-01.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Tim Humas FSTI — Dokumentasi (IMG_2158)",
+          "caption": "Dokumentasi kegiatan tim Humas FSTI ITK (IMG_2158).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/humas-fsti-img2158.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.75
+        }
+      ],
+      "code": "#111",
       "yawDeg": 349,
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T09:13:40.375Z"
+  "lastUpdated": "2026-11-12T09:14:26.848Z"
 }
