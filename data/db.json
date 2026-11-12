@@ -234,7 +234,7 @@
       "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
       "description": "Kumpulan foto dokumentasi M. Hafidz Ardan saat sedang berkegiatan aktif di lapangan: memegang kamera produksi, mengarahkan kru panggung, hingga merancang UI/UX.",
       "accent": "#6366f1",
-      "currentSlide": 4,
+      "currentSlide": 1,
       "slides": [
         {
           "title": "Slide 01 — Bertugas Pegang Kamera (Koor Multimedia)",
@@ -242,11 +242,6 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/Artboard%201.jpg",
           "isRealImage": true,
           "aspectRatio": 0.75
-        },
-        {
-          "title": "Slide 02 — Koordinasi Meja FOH & Live Cam",
-          "caption": "Mengarahkan perpindahan sudut kamera dan tayangan layar LED panggung.",
-          "isRealImage": false
         },
         {
           "title": "Slide 03 — Eksplorasi Desain & Coding",
@@ -259,7 +254,7 @@
           "imageSrc": "/uploads/1794470092382-721703565-Artboard_22.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.75
+          "aspectRatio": 0.643979057591623
         },
         {
           "title": "Slide 05 — Artboard 23",
@@ -267,7 +262,7 @@
           "imageSrc": "/uploads/1794470092403-756444519-Artboard_23.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.75
+          "aspectRatio": 0.643979057591623
         }
       ]
     },
@@ -772,5 +767,5 @@
       "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
     }
   ],
-  "lastUpdated": "2026-11-12T07:54:52.639Z"
+  "lastUpdated": "2026-11-12T07:54:55.211Z"
 }
