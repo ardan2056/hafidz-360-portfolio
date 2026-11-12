@@ -19,6 +19,13 @@
     "bgStyle": "studio",
     "activities": [
       {
+        "id": "act-doc-outdoor-1",
+        "title": "Liputan Lapangan Outdoor — Tim Dokumentasi",
+        "caption": "Dokumentasi bertugas di lapangan outdoor bersama tim kamera.",
+        "year": "2025",
+        "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/doc-outdoor-01.jpg"
+      },
+      {
         "id": "act-dies11-1",
         "title": "Panitia Dies Natalis 11 ITK (1)",
         "caption": "E-Sports Combat 2025 Dies Natalis 11 ITK.",
@@ -1816,7 +1823,7 @@
       "code": "#55",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 4,
+      "yawDeg": 3,
       "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Sambutan Rektor ITK",
       "category": "X-Banner & Print Media",
@@ -1841,7 +1848,7 @@
       "code": "#56",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 18,
+      "yawDeg": 17,
       "pitchDeg": -16,
       "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Teaser Poster & Campaign",
@@ -1866,7 +1873,7 @@
       "code": "#57",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 32,
+      "yawDeg": 31,
       "pitchDeg": -16,
       "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
       "category": "Stage Frame & Event Overlay",
@@ -1905,7 +1912,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 47,
+      "yawDeg": 45,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1930,7 +1937,7 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 61,
+      "yawDeg": 59,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1955,7 +1962,7 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 76,
+      "yawDeg": 73,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1980,7 +1987,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 90,
+      "yawDeg": 87,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2005,7 +2012,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 104,
+      "yawDeg": 100,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2030,7 +2037,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 119,
+      "yawDeg": 114,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2055,7 +2062,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 133,
+      "yawDeg": 128,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2080,7 +2087,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 148,
+      "yawDeg": 142,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2105,7 +2112,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 162,
+      "yawDeg": 156,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2130,7 +2137,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 176,
+      "yawDeg": 170,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2155,7 +2162,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 191,
+      "yawDeg": 183,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2180,7 +2187,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 205,
+      "yawDeg": 197,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2205,7 +2212,7 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 220,
+      "yawDeg": 211,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2230,7 +2237,7 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 234,
+      "yawDeg": 225,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2255,7 +2262,7 @@
           "aspectRatio": 0.6953125
         }
       ],
-      "yawDeg": 248,
+      "yawDeg": 239,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2280,7 +2287,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 263,
+      "yawDeg": 253,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2305,7 +2312,7 @@
           "aspectRatio": 0.45
         }
       ],
-      "yawDeg": 277,
+      "yawDeg": 267,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2330,7 +2337,7 @@
           "aspectRatio": 1
         }
       ],
-      "yawDeg": 292,
+      "yawDeg": 280,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2355,7 +2362,7 @@
           "aspectRatio": 0.6436781609195402
         }
       ],
-      "yawDeg": 306,
+      "yawDeg": 294,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2380,7 +2387,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 320,
+      "yawDeg": 308,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2405,7 +2412,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 335,
+      "yawDeg": 322,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2430,7 +2437,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 349,
+      "yawDeg": 336,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2455,8 +2462,8 @@
           "aspectRatio": 0.5886454183266933
         }
       ],
-      "yawDeg": 13,
-      "pitchDeg": 32,
+      "yawDeg": 350,
+      "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#80"
@@ -2480,7 +2487,7 @@
           "aspectRatio": 0.8760907504363001
         }
       ],
-      "yawDeg": 30,
+      "yawDeg": 13,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2505,7 +2512,7 @@
           "aspectRatio": 0.744140625
         }
       ],
-      "yawDeg": 47,
+      "yawDeg": 30,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2530,7 +2537,7 @@
           "aspectRatio": 1.501466275659824
         }
       ],
-      "yawDeg": 64,
+      "yawDeg": 47,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2555,7 +2562,7 @@
           "aspectRatio": 2.003913894324853
         }
       ],
-      "yawDeg": 81,
+      "yawDeg": 64,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2580,7 +2587,7 @@
           "aspectRatio": 0.7076648841354723
         }
       ],
-      "yawDeg": 99,
+      "yawDeg": 81,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2610,7 +2617,7 @@
         }
       ],
       "code": "#86",
-      "yawDeg": 116,
+      "yawDeg": 99,
       "pitchDeg": 32
     },
     {
@@ -2637,7 +2644,7 @@
         }
       ],
       "code": "#87",
-      "yawDeg": 133,
+      "yawDeg": 116,
       "pitchDeg": 32
     },
     {
@@ -2664,7 +2671,7 @@
         }
       ],
       "code": "#88",
-      "yawDeg": 150,
+      "yawDeg": 133,
       "pitchDeg": 32
     },
     {
@@ -2691,7 +2698,7 @@
         }
       ],
       "code": "#89",
-      "yawDeg": 167,
+      "yawDeg": 150,
       "pitchDeg": 32
     },
     {
@@ -2718,7 +2725,7 @@
         }
       ],
       "code": "#90",
-      "yawDeg": 184,
+      "yawDeg": 167,
       "pitchDeg": 32
     },
     {
@@ -2745,7 +2752,7 @@
         }
       ],
       "code": "#91",
-      "yawDeg": 201,
+      "yawDeg": 184,
       "pitchDeg": 32
     },
     {
@@ -2772,7 +2779,7 @@
         }
       ],
       "code": "#92",
-      "yawDeg": 219,
+      "yawDeg": 201,
       "pitchDeg": 32
     },
     {
@@ -2797,7 +2804,7 @@
         }
       ],
       "code": "#93",
-      "yawDeg": 236,
+      "yawDeg": 219,
       "pitchDeg": 32
     },
     {
@@ -2823,7 +2830,7 @@
         }
       ],
       "code": "#94",
-      "yawDeg": 253,
+      "yawDeg": 236,
       "pitchDeg": 32
     },
     {
@@ -2849,7 +2856,7 @@
         }
       ],
       "code": "#95",
-      "yawDeg": 270,
+      "yawDeg": 253,
       "pitchDeg": 32
     },
     {
@@ -2875,7 +2882,7 @@
         }
       ],
       "code": "#96",
-      "yawDeg": 287,
+      "yawDeg": 270,
       "pitchDeg": 32
     },
     {
@@ -2901,7 +2908,7 @@
         }
       ],
       "code": "#97",
-      "yawDeg": 304,
+      "yawDeg": 287,
       "pitchDeg": 32
     },
     {
@@ -2927,7 +2934,7 @@
         }
       ],
       "code": "#98",
-      "yawDeg": 321,
+      "yawDeg": 304,
       "pitchDeg": 32
     },
     {
@@ -2953,7 +2960,7 @@
         }
       ],
       "code": "#99",
-      "yawDeg": 339,
+      "yawDeg": 321,
       "pitchDeg": 32
     },
     {
@@ -2978,7 +2985,7 @@
         }
       ],
       "code": "#100",
-      "yawDeg": 356,
+      "yawDeg": 339,
       "pitchDeg": 32
     },
     {
@@ -3003,8 +3010,8 @@
         }
       ],
       "code": "#101",
-      "yawDeg": 7,
-      "pitchDeg": -32
+      "yawDeg": 356,
+      "pitchDeg": 32
     },
     {
       "id": "doc-pubdok-media-gallery",
@@ -3062,7 +3069,7 @@
         }
       ],
       "code": "#102",
-      "yawDeg": 24,
+      "yawDeg": 7,
       "pitchDeg": -32
     },
     {
@@ -3107,7 +3114,7 @@
         }
       ],
       "code": "#103",
-      "yawDeg": 41,
+      "yawDeg": 24,
       "pitchDeg": -32
     },
     {
@@ -3147,7 +3154,7 @@
         }
       ],
       "code": "#104",
-      "yawDeg": 58,
+      "yawDeg": 41,
       "pitchDeg": -32
     },
     {
@@ -3193,7 +3200,7 @@
         }
       ],
       "code": "#105",
-      "yawDeg": 75,
+      "yawDeg": 58,
       "pitchDeg": -32
     },
     {
@@ -3225,7 +3232,7 @@
         }
       ],
       "code": "#106",
-      "yawDeg": 93,
+      "yawDeg": 75,
       "pitchDeg": -32
     },
     {
@@ -3256,7 +3263,7 @@
         }
       ],
       "code": "#107",
-      "yawDeg": 110,
+      "yawDeg": 93,
       "pitchDeg": -32
     },
     {
@@ -3318,7 +3325,7 @@
         }
       ],
       "code": "#108",
-      "yawDeg": 127,
+      "yawDeg": 110,
       "pitchDeg": -32
     },
     {
@@ -3373,7 +3380,7 @@
         }
       ],
       "code": "#109",
-      "yawDeg": 144,
+      "yawDeg": 127,
       "pitchDeg": -32
     },
     {
@@ -3404,7 +3411,7 @@
         }
       ],
       "code": "#110",
-      "yawDeg": 161,
+      "yawDeg": 144,
       "pitchDeg": -32
     },
     {
@@ -3435,7 +3442,7 @@
         }
       ],
       "code": "#111",
-      "yawDeg": 178,
+      "yawDeg": 161,
       "pitchDeg": -32
     },
     {
@@ -3466,7 +3473,7 @@
         }
       ],
       "code": "#112",
-      "yawDeg": 195,
+      "yawDeg": 178,
       "pitchDeg": -32
     },
     {
@@ -3535,7 +3542,7 @@
         }
       ],
       "code": "#113",
-      "yawDeg": 213,
+      "yawDeg": 195,
       "pitchDeg": -32
     },
     {
@@ -3597,7 +3604,7 @@
         }
       ],
       "code": "#114",
-      "yawDeg": 230,
+      "yawDeg": 213,
       "pitchDeg": -32
     },
     {
@@ -3642,7 +3649,7 @@
         }
       ],
       "code": "#115",
-      "yawDeg": 247,
+      "yawDeg": 230,
       "pitchDeg": -32
     },
     {
@@ -3680,7 +3687,7 @@
         }
       ],
       "code": "#116",
-      "yawDeg": 264,
+      "yawDeg": 247,
       "pitchDeg": -32
     },
     {
@@ -3704,7 +3711,7 @@
         }
       ],
       "code": "#117",
-      "yawDeg": 281,
+      "yawDeg": 264,
       "pitchDeg": -32
     },
     {
@@ -3728,7 +3735,7 @@
         }
       ],
       "code": "#118",
-      "yawDeg": 298,
+      "yawDeg": 281,
       "pitchDeg": -32
     },
     {
@@ -3752,7 +3759,7 @@
         }
       ],
       "code": "#119",
-      "yawDeg": 315,
+      "yawDeg": 298,
       "pitchDeg": -32
     },
     {
@@ -3776,7 +3783,7 @@
         }
       ],
       "code": "#120",
-      "yawDeg": 333,
+      "yawDeg": 315,
       "pitchDeg": -32
     },
     {
@@ -3868,9 +3875,41 @@
         }
       ],
       "code": "#121",
+      "yawDeg": 333,
+      "pitchDeg": -32
+    },
+    {
+      "id": "doc-outdoor-liputan-01",
+      "tier": "upper",
+      "type": "committee",
+      "title": "DOKUMENTASI LIPUTAN OUTDOOR — Tim Pubdok & Kamera",
+      "category": "Dokumentasi Lapangan & Kepanitiaan",
+      "year": "2025",
+      "tools": "Canon DSLR, Action Cam / Monopod, Outdoor Coverage",
+      "description": "Dokumentasi foto dan video klip saat bertugas liputan lapangan outdoor bersama tim dokumentasi.",
+      "accent": "#10b981",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Liputan Outdoor — Foto Tim Dokumentasi",
+          "caption": "Momen bertugas di lapangan outdoor bersama rekan tim kamera.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/doc-outdoor-01.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Klip Video Liputan Outdoor (IMG_0270.MP4)",
+          "caption": "Rekaman video aktivitas liputan outdoor.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/doc-outdoor-01.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/doc-outdoor-img0270.mp4",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        }
+      ],
+      "code": "#122",
       "yawDeg": 350,
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T09:23:31.656Z"
+  "lastUpdated": "2026-11-12T09:24:59.220Z"
 }
