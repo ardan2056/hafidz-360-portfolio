@@ -1747,11 +1747,11 @@
       "externalUrl": "https://github.com/ardan2056",
       "slides": [
         {
-          "title": "ARDANPREM.STORE & POS System",
-          "caption": "Full-Stack Next.js + Prisma POS & Digital Store",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/app-pos-ardanprem-cover.svg",
+          "title": "ARDANPREMSTORE PRO — Digital Premium & Top Up Store",
+          "caption": "Tampilan live website ARDANPREMSTORE (Next.js, Prisma, Flash Sale, Katalog & Admin Portal).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/app-pos-ardanprem-real.png",
           "isRealImage": true,
-          "aspectRatio": 1.7777777777777777
+          "aspectRatio": 1.7778
         }
       ],
       "code": "#52",
@@ -3016,5 +3016,5 @@
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T10:03:26.696Z"
+  "lastUpdated": "2026-11-12T10:09:36.533Z"
 }
