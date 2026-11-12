@@ -2978,16 +2978,16 @@
 
       // Zenith & Nadir solid medallions
       const zenithTex = new THREE.CanvasTexture(createZenithDomeCanvas());
-      const zenithMesh = new THREE.Mesh(new THREE.PlaneGeometry(14, 14), new THREE.MeshBasicMaterial({ map: zenithTex, transparent: true, side: THREE.DoubleSide }));
-      zenithMesh.position.set(0, SPHERE_RADIUS - 0.5, 0);
+      const zenithMesh = new THREE.Mesh(new THREE.PlaneGeometry(18, 18), new THREE.MeshBasicMaterial({ map: zenithTex, transparent: true, side: THREE.DoubleSide }));
+      zenithMesh.position.set(0, SPHERE_RADIUS - 1.5, 0);
       zenithMesh.lookAt(0, 0, 0);
       zenithMesh.userData = { isDomeCap: 'zenith' };
       studioEnvGroup.add(zenithMesh);
       domeMeshes.push(zenithMesh);
 
       const nadirTex = new THREE.CanvasTexture(createNadirFloorCanvas());
-      const nadirMesh = new THREE.Mesh(new THREE.PlaneGeometry(14, 14), new THREE.MeshBasicMaterial({ map: nadirTex, transparent: true, side: THREE.DoubleSide }));
-      nadirMesh.position.set(0, -(SPHERE_RADIUS - 0.5), 0);
+      const nadirMesh = new THREE.Mesh(new THREE.PlaneGeometry(18, 18), new THREE.MeshBasicMaterial({ map: nadirTex, transparent: true, side: THREE.DoubleSide }));
+      nadirMesh.position.set(0, -(SPHERE_RADIUS - 1.5), 0);
       nadirMesh.lookAt(0, 0, 0);
       nadirMesh.userData = { isDomeCap: 'nadir' };
       studioEnvGroup.add(nadirMesh);
@@ -2996,19 +2996,19 @@
       const isDark = state.theme === 'dark';
 
       // KINETIC MOTION: Glowing kinetic ring around Zenith (Top)
-      const ringGeoZ = new THREE.RingGeometry(7.6, 7.85, 64);
+      const ringGeoZ = new THREE.RingGeometry(9.4, 9.75, 64);
       const ringMatZ = new THREE.MeshBasicMaterial({ color: isDark ? 0x38bdf8 : 0x2C99D6, side: THREE.DoubleSide, transparent: true, opacity: isDark ? 0.75 : 0.5 });
       kineticRingZenith = new THREE.Mesh(ringGeoZ, ringMatZ);
       kineticRingZenith.rotation.x = Math.PI / 2;
-      kineticRingZenith.position.y = SPHERE_RADIUS - 0.45;
+      kineticRingZenith.position.y = SPHERE_RADIUS - 1.45;
       studioEnvGroup.add(kineticRingZenith);
 
       // KINETIC MOTION: Glowing kinetic ring around Nadir (Bottom)
-      const ringGeoN = new THREE.RingGeometry(7.6, 7.85, 64);
+      const ringGeoN = new THREE.RingGeometry(9.4, 9.75, 64);
       const ringMatN = new THREE.MeshBasicMaterial({ color: isDark ? 0xEB2E33 : 0xEB2E33, side: THREE.DoubleSide, transparent: true, opacity: isDark ? 0.65 : 0.35 });
       kineticRingNadir = new THREE.Mesh(ringGeoN, ringMatN);
       kineticRingNadir.rotation.x = Math.PI / 2;
-      kineticRingNadir.position.y = -(SPHERE_RADIUS - 0.45);
+      kineticRingNadir.position.y = -(SPHERE_RADIUS - 1.45);
       studioEnvGroup.add(kineticRingNadir);
 
       // KINETIC MOTION: Cosmic floating star particles drifting through space
@@ -3142,11 +3142,11 @@
       // Distribute all projects across 4 or 5 neat, staggered spherical rings so cards form a round 360° globe with zero overlap
       const ringConfigs = total > 60
         ? [
-            { pitch: 0, weight: 0.23, offsetFrac: 0 },
-            { pitch: 16, weight: 0.21, offsetFrac: 0.5 },
-            { pitch: -16, weight: 0.21, offsetFrac: 0.25 },
-            { pitch: 32, weight: 0.175, offsetFrac: 0.75 },
-            { pitch: -32, weight: 0.175, offsetFrac: 0.4 }
+            { pitch: 0, weight: 0.27, offsetFrac: 0 },
+            { pitch: 22, weight: 0.215, offsetFrac: 0.5 },
+            { pitch: -22, weight: 0.215, offsetFrac: 0.25 },
+            { pitch: 44, weight: 0.15, offsetFrac: 0.75 },
+            { pitch: -44, weight: 0.15, offsetFrac: 0.4 }
           ]
         : [
             { pitch: 8, weight: 0.29, offsetFrac: 0 },
