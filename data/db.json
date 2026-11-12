@@ -43,48 +43,11 @@
   },
   "portfolioProjects": [
     {
-      "id": "work-05",
+      "id": "work-06",
       "code": "#01",
       "tier": "equator",
       "type": "webgame",
       "yawDeg": 0,
-      "pitchDeg": 0,
-      "title": "SISTEM WEB WPK & PORTAL DIGITAL — Web App",
-      "category": "Full-Stack Web / Aplikasi WPK Interaktif",
-      "year": "2026",
-      "committeeRole": "Full-Stack Web Developer",
-      "externalUrl": "https://github.com/",
-      "tools": "HTML5, Tailwind CSS, JavaScript, React / Web App Architecture",
-      "description": "Pengembangan aplikasi Web WPK responsif dengan dashboard analitik real-time, manajemen data terintegrasi, dan antarmuka modern bernuansa biru.",
-      "accent": "#10b981",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 01 — Dashboard Utama Web WPK",
-          "caption": "Tampilan antarmuka web modern yang cepat dan responsif di desktop maupun HP.",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/1794380063138-81096035-Artboard_1.png",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.5625
-        },
-        {
-          "title": "Slide 02 — Fitur Manajemen & Laporan",
-          "caption": "Sistem input data, filter dinamis, dan cetak laporan otomatis.",
-          "isRealImage": false
-        },
-        {
-          "title": "Slide 03 — Arsitektur & Optimasi Performa",
-          "caption": "Struktur kode modular dengan waktu muat instan.",
-          "isRealImage": false
-        }
-      ]
-    },
-    {
-      "id": "work-06",
-      "code": "#02",
-      "tier": "equator",
-      "type": "webgame",
-      "yawDeg": 25.714285714285715,
       "pitchDeg": 0,
       "title": "CYBER ORBIT DEFENDER — Playable WebGL Game",
       "category": "Game Development & Interactive Arcade",
@@ -119,10 +82,10 @@
     },
     {
       "id": "work-07",
-      "code": "#03",
+      "code": "#02",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 51.42857142857143,
+      "yawDeg": 27.692307692307693,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Aku Lagi Berkegiatan",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -418,10 +381,10 @@
     },
     {
       "id": "work-08",
-      "code": "#04",
+      "code": "#03",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 77.14285714285714,
+      "yawDeg": 55.38461538461539,
       "pitchDeg": 0,
       "title": "FINFLOW & SMART WALLET — UI/UX Prototype",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -450,7 +413,7 @@
     },
     {
       "id": "work-09",
-      "code": "#05",
+      "code": "#04",
       "tier": "upper",
       "type": "video",
       "yawDeg": 20,
@@ -480,7 +443,7 @@
     },
     {
       "id": "work-10",
-      "code": "#06",
+      "code": "#05",
       "tier": "upper",
       "type": "video",
       "yawDeg": 42.5,
@@ -509,7 +472,7 @@
     },
     {
       "id": "work-14",
-      "code": "#07",
+      "code": "#06",
       "tier": "upper",
       "type": "committee",
       "yawDeg": 65,
@@ -537,7 +500,7 @@
     },
     {
       "id": "work-15",
-      "code": "#08",
+      "code": "#07",
       "tier": "upper",
       "type": "design",
       "yawDeg": 87.5,
@@ -562,7 +525,7 @@
     },
     {
       "id": "work-16",
-      "code": "#09",
+      "code": "#08",
       "tier": "upper",
       "type": "video",
       "yawDeg": 110,
@@ -591,10 +554,10 @@
     },
     {
       "id": "octagram-design-01",
-      "code": "#10",
+      "code": "#09",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 102.85714285714286,
+      "yawDeg": 83.07692307692308,
       "pitchDeg": 0,
       "title": "KULIAH UMUM OCTAGRAM — Poster Utama (Keynote Kepala BRIN)",
       "category": "Event Poster & Key Visual",
@@ -616,7 +579,7 @@
     },
     {
       "id": "octagram-design-02",
-      "code": "#11",
+      "code": "#10",
       "tier": "upper",
       "type": "design",
       "yawDeg": 132.5,
@@ -641,7 +604,7 @@
     },
     {
       "id": "octagram-design-03",
-      "code": "#12",
+      "code": "#11",
       "tier": "lower",
       "type": "design",
       "yawDeg": 20,
@@ -666,10 +629,10 @@
     },
     {
       "id": "octagram-design-04",
-      "code": "#13",
+      "code": "#12",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 128.57142857142858,
+      "yawDeg": 110.76923076923077,
       "pitchDeg": 0,
       "title": "LIVE REPORT OCTAGRAM — Instagram Story Frame Template",
       "category": "Social Media & Live Report",
@@ -691,7 +654,7 @@
     },
     {
       "id": "octagram-design-05",
-      "code": "#14",
+      "code": "#13",
       "tier": "upper",
       "type": "design",
       "yawDeg": 155,
@@ -716,7 +679,7 @@
     },
     {
       "id": "octagram-design-06",
-      "code": "#15",
+      "code": "#14",
       "tier": "lower",
       "type": "design",
       "yawDeg": 42.5,
@@ -741,10 +704,10 @@
     },
     {
       "id": "octagram-design-07",
-      "code": "#16",
+      "code": "#15",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 154.28571428571428,
+      "yawDeg": 138.46153846153845,
       "pitchDeg": 0,
       "title": "DANA USAHA OCTAGRAM 2026 — Poster Menu & Lokasi",
       "category": "Promotional Poster & Danus",
@@ -766,7 +729,7 @@
     },
     {
       "id": "octagram-design-08",
-      "code": "#17",
+      "code": "#16",
       "tier": "upper",
       "type": "design",
       "yawDeg": 177.5,
@@ -791,7 +754,7 @@
     },
     {
       "id": "octagram-design-09",
-      "code": "#18",
+      "code": "#17",
       "tier": "lower",
       "type": "design",
       "yawDeg": 65,
@@ -816,10 +779,10 @@
     },
     {
       "id": "octagram-design-10",
-      "code": "#19",
+      "code": "#18",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 180,
+      "yawDeg": 166.15384615384616,
       "pitchDeg": 0,
       "title": "QR CODE BISNIS DIGITAL ITK — Instagram @BISNISDIGITAL.ITK",
       "category": "Social Media & Graphic Asset",
@@ -841,7 +804,7 @@
     },
     {
       "id": "octagram-design-11",
-      "code": "#20",
+      "code": "#19",
       "tier": "upper",
       "type": "design",
       "yawDeg": 200,
@@ -866,7 +829,7 @@
     },
     {
       "id": "octagram-design-12",
-      "code": "#21",
+      "code": "#20",
       "tier": "lower",
       "type": "design",
       "yawDeg": 87.5,
@@ -891,10 +854,10 @@
     },
     {
       "id": "octagram-design-13",
-      "code": "#22",
+      "code": "#21",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 205.71428571428572,
+      "yawDeg": 193.84615384615387,
       "pitchDeg": 0,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Sambutan Rektor ITK",
       "category": "X-Banner & Print Media",
@@ -916,7 +879,7 @@
     },
     {
       "id": "octagram-design-14",
-      "code": "#23",
+      "code": "#22",
       "tier": "upper",
       "type": "design",
       "yawDeg": 222.5,
@@ -941,7 +904,7 @@
     },
     {
       "id": "octagram-design-15",
-      "code": "#24",
+      "code": "#23",
       "tier": "lower",
       "type": "design",
       "yawDeg": 110,
@@ -983,11 +946,11 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 231.42857142857144,
+      "yawDeg": 221.53846153846155,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#25"
+      "code": "#24"
     },
     {
       "id": "octagram-design-17",
@@ -1012,7 +975,7 @@
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#26"
+      "code": "#25"
     },
     {
       "id": "octagram-design-18",
@@ -1037,7 +1000,7 @@
       "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#27"
+      "code": "#26"
     },
     {
       "id": "octagram-design-19",
@@ -1090,11 +1053,11 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 257.14285714285717,
+      "yawDeg": 249.23076923076923,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#28"
+      "code": "#27"
     },
     {
       "id": "octagram-design-20",
@@ -1135,7 +1098,7 @@
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#29"
+      "code": "#28"
     },
     {
       "id": "octagram-design-21",
@@ -1168,7 +1131,7 @@
       "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#30"
+      "code": "#29"
     },
     {
       "id": "octagram-design-22",
@@ -1189,11 +1152,11 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 282.8571428571429,
+      "yawDeg": 276.9230769230769,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#31"
+      "code": "#30"
     },
     {
       "id": "octagram-design-23",
@@ -1218,7 +1181,7 @@
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#32"
+      "code": "#31"
     },
     {
       "id": "octagram-design-24",
@@ -1239,11 +1202,11 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 308.57142857142856,
+      "yawDeg": 304.61538461538464,
       "pitchDeg": 0,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#33"
+      "code": "#32"
     },
     {
       "id": "bionic-design-2026",
@@ -1284,7 +1247,7 @@
       "pitchDeg": 19,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#34"
+      "code": "#33"
     },
     {
       "id": "econiq-ch3-2026",
@@ -1333,7 +1296,7 @@
       "pitchDeg": -17,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#35"
+      "code": "#34"
     },
     {
       "id": "action-uiux-2nd-winner",
@@ -1362,11 +1325,11 @@
           "aspectRatio": 0.744140625
         }
       ],
-      "yawDeg": 334.2857142857143,
+      "yawDeg": 332.3076923076923,
       "pitchDeg": 0,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#36"
+      "code": "#35"
     },
     {
       "id": "fsti-teach-zone-2026",
@@ -1399,7 +1362,7 @@
       "pitchDeg": 19,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#37"
+      "code": "#36"
     },
     {
       "id": "motion-elemen-video-01",
@@ -1424,7 +1387,7 @@
       "pitchDeg": -17,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#38"
+      "code": "#37"
     },
     {
       "id": "yt-okb-groo-action-2025",
@@ -1449,7 +1412,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#39",
+      "code": "#38",
       "yawDeg": 357.5,
       "pitchDeg": 19
     },
@@ -1476,7 +1439,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#40",
+      "code": "#39",
       "yawDeg": 222.5,
       "pitchDeg": -17
     },
@@ -1503,7 +1466,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#41",
+      "code": "#40",
       "yawDeg": 245,
       "pitchDeg": -17
     },
@@ -1530,7 +1493,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#42",
+      "code": "#41",
       "yawDeg": 267.5,
       "pitchDeg": -17
     },
@@ -1557,7 +1520,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#43",
+      "code": "#42",
       "yawDeg": 290,
       "pitchDeg": -17
     },
@@ -1584,7 +1547,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#44",
+      "code": "#43",
       "yawDeg": 312.5,
       "pitchDeg": -17
     },
@@ -1611,7 +1574,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#45",
+      "code": "#44",
       "yawDeg": 335,
       "pitchDeg": -17
     },
@@ -1636,10 +1599,10 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#46",
+      "code": "#45",
       "yawDeg": 357.5,
       "pitchDeg": -17
     }
   ],
-  "lastUpdated": "2026-11-12T08:27:34.197Z"
+  "lastUpdated": "2026-11-12T08:27:42.308Z"
 }
