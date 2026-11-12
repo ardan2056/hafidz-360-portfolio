@@ -234,7 +234,7 @@
       "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
       "description": "Kumpulan foto dokumentasi M. Hafidz Ardan saat sedang berkegiatan aktif di lapangan: memegang kamera produksi, mengarahkan kru panggung, hingga merancang UI/UX.",
       "accent": "#6366f1",
-      "currentSlide": 34,
+      "currentSlide": 35,
       "slides": [
         {
           "title": "Slide 01 — Bertugas Pegang Kamera (Koor Multimedia)",
@@ -511,6 +511,14 @@
           "title": "Slide 35 — Artboard 4 copy 14",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
           "imageSrc": "/uploads/1794470156986-738705691-Artboard_4_copy_14.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 1.7777777777777777
+        },
+        {
+          "title": "Slide 36 — Focused Cameraman on the Blue Stage",
+          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+          "imageSrc": "/uploads/1794470214331-398861653-Focused_Cameraman_on_the_Blue_Stage.png",
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.75
@@ -1018,5 +1026,5 @@
       "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
     }
   ],
-  "lastUpdated": "2026-11-12T07:55:57.167Z"
+  "lastUpdated": "2026-11-12T07:56:54.520Z"
 }
