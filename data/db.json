@@ -1779,15 +1779,15 @@
       "id": "app-pos-ardanprem-store",
       "tier": "lower",
       "type": "webgame",
-      "title": "ARDANPREM STORE",
-      "category": "Aplikasi POS & Full-Stack Web App",
+      "title": "ARDANPREM STORE — Website Top Up & Akun Digital Premium (Next.js + Prisma)",
+      "category": "Digital Store & Top Up Web App",
       "year": "2026",
       "tools": "Next.js 14, React, Prisma ORM, Tailwind CSS, Google Apps Script",
-      "description": "Aplikasi web Point of Sale (POS), manajemen order, dan store top up digital ARDANPREM.STORE berbasis Next.js dan Prisma.",
+      "description": "Website store & top up produk digital ARDANPREMSTORE PRO berbasis Next.js 14, Prisma, dan Tailwind CSS lengkap dengan flash sale, katalog produk, pelacakan order, dan admin portal.",
       "accent": "#6366f1",
       "currentSlide": 0,
-      "directLink": "https://github.com/ardan2056",
-      "externalUrl": "https://github.com/ardan2056",
+      "directLink": "https://github.com/ardan2056/ardanprem-store",
+      "externalUrl": "https://github.com/ardan2056/ardanprem-store",
       "slides": [
         {
           "title": "ARDANPREMSTORE PRO — Digital Premium & Top Up Store",
@@ -1800,6 +1800,30 @@
       "code": "#53",
       "yawDeg": 285,
       "pitchDeg": -16
+    },
+    {
+      "id": "app-kasir-tuntun-pos",
+      "tier": "lower",
+      "type": "webgame",
+      "title": "TUNTUN POS CLOUD — Aplikasi Kasir & Manajemen Multi-Toko (Flutter)",
+      "category": "Aplikasi Kasir & Point of Sale (POS)",
+      "year": "2026",
+      "tools": "Flutter, Dart, Web & Mobile POS",
+      "description": "Aplikasi kasir Point of Sale (POS) multi-toko Tuntun POS Cloud untuk manajemen kasir, produk, transaksi, shift, dan laporan toko berbasis Flutter.",
+      "accent": "#b45309",
+      "currentSlide": 0,
+      "directLink": "https://github.com/ardan2056/tuntun-pos",
+      "externalUrl": "https://github.com/ardan2056/tuntun-pos",
+      "slides": [
+        {
+          "title": "TUNTUN POS CLOUD — Sistem Kasir Multi-Toko",
+          "caption": "Tampilan aplikasi kasir Tuntun POS Cloud (Flutter & WebView POS).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/app-kasir-tuntun-pos-real.png",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "code": "#54"
     },
     {
       "id": "gh-saadah-bakery-pos",
@@ -1823,7 +1847,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#54",
+      "code": "#55",
       "yawDeg": 305,
       "pitchDeg": -16
     },
@@ -1849,7 +1873,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#55",
+      "code": "#56",
       "yawDeg": 325,
       "pitchDeg": -16
     },
@@ -1875,13 +1899,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#56",
+      "code": "#57",
       "yawDeg": 345,
       "pitchDeg": -16
     },
     {
       "id": "work-09",
-      "code": "#57",
+      "code": "#58",
       "tier": "upper",
       "type": "video",
       "yawDeg": 18,
@@ -1930,7 +1954,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#58",
+      "code": "#59",
       "yawDeg": 42,
       "pitchDeg": 32
     },
@@ -1955,13 +1979,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#59",
+      "code": "#60",
       "yawDeg": 66,
       "pitchDeg": 32
     },
     {
       "id": "work-16",
-      "code": "#60",
+      "code": "#61",
       "tier": "lower",
       "type": "video",
       "yawDeg": 90,
@@ -2011,11 +2035,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#61"
+      "code": "#62"
     },
     {
       "id": "work-10",
-      "code": "#62",
+      "code": "#63",
       "tier": "lower",
       "type": "video",
       "yawDeg": 138,
@@ -2063,7 +2087,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#63",
+      "code": "#64",
       "yawDeg": 162,
       "pitchDeg": 32
     },
@@ -2090,7 +2114,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#64",
+      "code": "#65",
       "yawDeg": 186,
       "pitchDeg": 32
     },
@@ -2117,7 +2141,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#65",
+      "code": "#66",
       "yawDeg": 210,
       "pitchDeg": 32
     },
@@ -2144,7 +2168,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#66",
+      "code": "#67",
       "yawDeg": 234,
       "pitchDeg": 32
     },
@@ -2171,7 +2195,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#67",
+      "code": "#68",
       "yawDeg": 258,
       "pitchDeg": 32
     },
@@ -2198,7 +2222,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#68",
+      "code": "#69",
       "yawDeg": 282,
       "pitchDeg": 32
     },
@@ -2225,7 +2249,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#69",
+      "code": "#70",
       "yawDeg": 306,
       "pitchDeg": 32
     },
@@ -2252,7 +2276,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#70",
+      "code": "#71",
       "yawDeg": 330,
       "pitchDeg": 32
     },
@@ -2283,7 +2307,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#71",
+      "code": "#72",
       "yawDeg": 354,
       "pitchDeg": 32
     },
@@ -2328,7 +2352,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#72",
+      "code": "#73",
       "yawDeg": 9.600000000000001,
       "pitchDeg": -32
     },
@@ -2359,7 +2383,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#73",
+      "code": "#74",
       "yawDeg": 33.6,
       "pitchDeg": -32
     },
@@ -2436,7 +2460,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#74",
+      "code": "#75",
       "yawDeg": 57.6,
       "pitchDeg": -32
     },
@@ -2468,7 +2492,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#75",
+      "code": "#76",
       "yawDeg": 81.6,
       "pitchDeg": -32
     },
@@ -2530,7 +2554,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#76",
+      "code": "#77",
       "yawDeg": 105.6,
       "pitchDeg": -32
     },
@@ -2599,7 +2623,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#77",
+      "code": "#78",
       "yawDeg": 129.6,
       "pitchDeg": -32
     },
@@ -2658,7 +2682,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#78",
+      "code": "#79",
       "yawDeg": 153.6,
       "pitchDeg": -32
     },
@@ -2750,7 +2774,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#79",
+      "code": "#80",
       "yawDeg": 177.6,
       "pitchDeg": -32
     },
@@ -2805,7 +2829,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#80",
+      "code": "#81",
       "yawDeg": 201.6,
       "pitchDeg": -32
     },
@@ -2864,7 +2888,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#81",
+      "code": "#82",
       "yawDeg": 225.6,
       "pitchDeg": -32
     },
@@ -2895,7 +2919,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#82",
+      "code": "#83",
       "yawDeg": 249.6,
       "pitchDeg": -32
     },
@@ -2954,7 +2978,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#83",
+      "code": "#84",
       "yawDeg": 273.6,
       "pitchDeg": -32
     },
@@ -3000,7 +3024,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#84",
+      "code": "#85",
       "yawDeg": 297.6,
       "pitchDeg": -32
     },
@@ -3040,13 +3064,13 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#85",
+      "code": "#86",
       "yawDeg": 321.6,
       "pitchDeg": -32
     },
     {
       "id": "work-14",
-      "code": "#86",
+      "code": "#87",
       "tier": "equator",
       "type": "committee",
       "yawDeg": 345.6,
@@ -3073,5 +3097,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-12T10:34:37.330Z"
+  "lastUpdated": "2026-11-12T10:38:56.809Z"
 }
