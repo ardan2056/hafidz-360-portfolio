@@ -326,13 +326,6 @@
             "caption": "Mengarahkan 25 personel divisi multimedia dan operator multicam sebelum acara dimulai."
           }
         ]
-      },
-      {
-        "id": "act-3",
-        "title": "Sesi Desain UI/UX Figma & Coding Web WPK",
-        "caption": "Proses wireframing prototipe aplikasi interaktif di Figma dan implementasi kode front-end.",
-        "year": "2026",
-        "imageSrc": null
       }
     ]
   },
@@ -2755,14 +2748,14 @@
           "caption": "Konsep 12-grid menyambung bertema Teratai, Merak, dan Batik.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-eshal-mafaza-grid.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.7588
+          "aspectRatio": 0.7587890625
         },
         {
           "title": "Poster Launching Official Video — Eshal Mafaza",
           "caption": "Poster promosi perilisan video resmi tamatan Putra & Putri di YouTube.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-eshal-mafaza-launching.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.7998
+          "aspectRatio": 0.7998046875
         }
       ],
       "code": "#77",
@@ -2786,14 +2779,14 @@
           "caption": "Komposisi feeds menyambung untuk akun kelas XI Multimedia 2.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-mm2-alrifaie-grid-01.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.752
+          "aspectRatio": 0.751953125
         },
         {
           "title": "Nominasi Lomba Twibbon Kemerdekaan RI ke-77",
           "caption": "Katalog 9 desain twibbon kemerdekaan karya siswa XI Multimedia 2.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-mm2-alrifaie-twibbon-grid.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.7461
+          "aspectRatio": 0.74609375
         }
       ],
       "code": "#78",
@@ -2841,7 +2834,7 @@
           "caption": "Desain poster ucapan spesial untuk Dr. KH. Ahmad Muflih Zamachsyari.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-sugeng-ambal-warsa.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.5605
+          "aspectRatio": 0.560546875
         }
       ],
       "code": "#80",
@@ -2865,7 +2858,7 @@
           "caption": "Perpustakaan Kota sebagai ruang tumbuhnya gagasan dan kolaborasi.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-infografis-perpustakaan-aksi.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.707
+          "aspectRatio": 0.70703125
         }
       ],
       "code": "#81",
@@ -2889,7 +2882,7 @@
           "caption": "Visualisasi data fakta literasi 2025 dan solusi kreatif Gen-Z.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-infografis-literasi-genz.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.707
+          "aspectRatio": 0.70703125
         }
       ],
       "code": "#82",
@@ -2913,14 +2906,14 @@
           "caption": "Slide pembuka laporan bidang pertanian tanaman pangan DP3 Balikpapan.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dp3-cover-bibit-2024.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.7998
+          "aspectRatio": 0.7998046875
         },
         {
           "title": "Tabel Data — Laporan Penyebaran Bibit Februari 2024",
           "caption": "Slide rincian data pemohon dan jumlah bibit cabai, terong, serta tomat.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dp3-laporan-bibit-feb2024.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.7998
+          "aspectRatio": 0.7998046875
         }
       ],
       "code": "#83",
@@ -2944,7 +2937,7 @@
           "caption": "Konten edukasi resmi Disperinkop UMKM Kota Balikpapan.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-disperinkop-tkdn-barang.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.7998
+          "aspectRatio": 0.7998046875
         }
       ],
       "code": "#84",
@@ -2968,7 +2961,7 @@
           "caption": "Eksperimen layout editorial threshold biru dan tipografi tebal.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-mercedes-190sl-vintage.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.7998
+          "aspectRatio": 0.7998046875
         }
       ],
       "code": "#85",
@@ -2976,5 +2969,5 @@
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T09:48:27.818Z"
+  "lastUpdated": "2026-11-12T09:51:54.410Z"
 }
