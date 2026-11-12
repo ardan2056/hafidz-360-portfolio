@@ -77,6 +77,18 @@
           {
             "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/doc-pubdok-03.jpg",
             "caption": "Foto bersama seluruh personel Divisi Publikasi & Dokumentasi."
+          },
+          {
+            "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pubdok-outdoor-action-01.jpg",
+            "caption": "Dokumentasi action shot Tim Pubdok ITK di lapangan (1)."
+          },
+          {
+            "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pubdok-outdoor-action-02.jpg",
+            "caption": "Dokumentasi action shot Tim Pubdok ITK di lapangan (2)."
+          },
+          {
+            "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pubdok-outdoor-action-03.jpg",
+            "caption": "Dokumentasi action shot Tim Pubdok ITK di lapangan (3)."
           }
         ]
       },
@@ -2967,6 +2979,27 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pubdok-batik-img3476.jpg",
           "isRealImage": true,
           "aspectRatio": 0.5625
+        },
+        {
+          "title": "Liputan Outdoor Tim Pubdok (1)",
+          "caption": "Mengambil footage video di tangga outdoor saat bertugas sebagai Tim Pubdok ITK.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pubdok-outdoor-action-01.jpg",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        },
+        {
+          "title": "Liputan Outdoor Tim Pubdok (2)",
+          "caption": "Momen membidik dokumentasi kegiatan lapangan menggunakan PDH ITK.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pubdok-outdoor-action-02.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Liputan Outdoor Tim Pubdok (3)",
+          "caption": "Pengambilan gambar dengan gimbal di area pagar kuning tangga outdoor.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pubdok-outdoor-action-03.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
         }
       ],
       "code": "#85",
@@ -3088,5 +3121,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-12T10:17:09.467Z"
+  "lastUpdated": "2026-11-12T10:18:38.194Z"
 }
