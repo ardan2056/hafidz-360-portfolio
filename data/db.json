@@ -656,35 +656,8 @@
       "externalUrl": "https://www.youtube.com/watch?v=L_LUpnjgPso"
     },
     {
-      "id": "work-24",
-      "code": "#12",
-      "tier": "lower",
-      "type": "design",
-      "yawDeg": 20,
-      "pitchDeg": -17,
-      "title": "INFINITY — 360° Interactive Dome Space",
-      "category": "Interactive WebGL Exhibition",
-      "year": "2026",
-      "tools": "Three.js, HTML5 Canvas, Tailwind CSS",
-      "description": "Perancangan ruang galeri bola 360° penuh ini sebagai medium presentasi karya Desain, Video, dan Kepanitiaan M. Hafidz Ardan.",
-      "accent": "#3b82f6",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 01 — Full-Sphere Architecture",
-          "caption": "Skema tata letak 24 kartu karya mengelilingi pengamat 360°.",
-          "isRealImage": false
-        },
-        {
-          "title": "Slide 02 — Light & Dark Blue Theme",
-          "caption": "Adaptasi tema ruang 3D dalam mode Gelap dan Terang.",
-          "isRealImage": false
-        }
-      ]
-    },
-    {
       "id": "octagram-design-01",
-      "code": "#13",
+      "code": "#12",
       "tier": "equator",
       "type": "design",
       "yawDeg": 154.28571428571428,
@@ -709,7 +682,7 @@
     },
     {
       "id": "octagram-design-02",
-      "code": "#14",
+      "code": "#13",
       "tier": "upper",
       "type": "design",
       "yawDeg": 158.46153846153845,
@@ -734,10 +707,10 @@
     },
     {
       "id": "octagram-design-03",
-      "code": "#15",
+      "code": "#14",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 65,
+      "yawDeg": 20,
       "pitchDeg": -17,
       "title": "MERCHANDISE OCTAGRAM 2026 — Poster Pre-Order Sticker & Keychain",
       "category": "Promotional Poster & Merch",
@@ -759,7 +732,7 @@
     },
     {
       "id": "octagram-design-04",
-      "code": "#16",
+      "code": "#15",
       "tier": "equator",
       "type": "design",
       "yawDeg": 180,
@@ -784,7 +757,7 @@
     },
     {
       "id": "octagram-design-05",
-      "code": "#17",
+      "code": "#16",
       "tier": "upper",
       "type": "design",
       "yawDeg": 186.15384615384616,
@@ -809,10 +782,10 @@
     },
     {
       "id": "octagram-design-06",
-      "code": "#18",
+      "code": "#17",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 110,
+      "yawDeg": 71.42857142857143,
       "pitchDeg": -17,
       "title": "STAFF KONSUMSI OCTAGRAM — H. Ardan Profile Card",
       "category": "Identity & Staff Card Design",
@@ -834,7 +807,7 @@
     },
     {
       "id": "octagram-design-07",
-      "code": "#19",
+      "code": "#18",
       "tier": "equator",
       "type": "design",
       "yawDeg": 205.71428571428572,
@@ -859,7 +832,7 @@
     },
     {
       "id": "octagram-design-08",
-      "code": "#20",
+      "code": "#19",
       "tier": "upper",
       "type": "design",
       "yawDeg": 213.84615384615387,
@@ -884,10 +857,10 @@
     },
     {
       "id": "octagram-design-09",
-      "code": "#21",
+      "code": "#20",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 155,
+      "yawDeg": 122.85714285714286,
       "pitchDeg": -17,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Utama Event 2026",
       "category": "X-Banner & Print Media",
@@ -909,7 +882,7 @@
     },
     {
       "id": "octagram-design-10",
-      "code": "#22",
+      "code": "#21",
       "tier": "equator",
       "type": "design",
       "yawDeg": 231.42857142857144,
@@ -934,7 +907,7 @@
     },
     {
       "id": "octagram-design-11",
-      "code": "#23",
+      "code": "#22",
       "tier": "upper",
       "type": "design",
       "yawDeg": 241.53846153846155,
@@ -959,10 +932,10 @@
     },
     {
       "id": "octagram-design-12",
-      "code": "#24",
+      "code": "#23",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 200,
+      "yawDeg": 174.28571428571428,
       "pitchDeg": -17,
       "title": "KULIAH UMUM OCTAGRAM — Template Slide & Sertifikat Resmi",
       "category": "Presentation & Layout System",
@@ -984,7 +957,7 @@
     },
     {
       "id": "octagram-design-13",
-      "code": "#25",
+      "code": "#24",
       "tier": "equator",
       "type": "design",
       "yawDeg": 257.14285714285717,
@@ -1009,7 +982,7 @@
     },
     {
       "id": "octagram-design-14",
-      "code": "#26",
+      "code": "#25",
       "tier": "upper",
       "type": "design",
       "yawDeg": 269.2307692307692,
@@ -1034,10 +1007,10 @@
     },
     {
       "id": "octagram-design-15",
-      "code": "#27",
+      "code": "#26",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 245,
+      "yawDeg": 225.71428571428572,
       "pitchDeg": -17,
       "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
       "category": "Stage Frame & Event Overlay",
@@ -1080,7 +1053,7 @@
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#28"
+      "code": "#27"
     },
     {
       "id": "octagram-design-17",
@@ -1105,7 +1078,7 @@
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#29"
+      "code": "#28"
     },
     {
       "id": "octagram-design-18",
@@ -1126,11 +1099,11 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 290,
+      "yawDeg": 277.14285714285717,
       "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#30"
+      "code": "#29"
     },
     {
       "id": "octagram-design-19",
@@ -1187,7 +1160,7 @@
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#31"
+      "code": "#30"
     },
     {
       "id": "octagram-design-20",
@@ -1228,7 +1201,7 @@
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#32"
+      "code": "#31"
     },
     {
       "id": "octagram-design-21",
@@ -1257,11 +1230,11 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 335,
+      "yawDeg": 328.57142857142856,
       "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#33"
+      "code": "#32"
     },
     {
       "id": "octagram-design-22",
@@ -1286,7 +1259,7 @@
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#34"
+      "code": "#33"
     },
     {
       "id": "octagram-design-23",
@@ -1311,8 +1284,8 @@
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#35"
+      "code": "#34"
     }
   ],
-  "lastUpdated": "2026-11-12T08:15:42.293Z"
+  "lastUpdated": "2026-11-12T08:15:46.143Z"
 }
