@@ -2313,7 +2313,7 @@
     let latitudeRingMeshes = [];
     let kineticRingZenith = null, kineticRingNadir = null, starPointsMesh = null;
     let studioEnvGroup;
-    const SPHERE_RADIUS = 24;
+    const SPHERE_RADIUS = 28;
 
 
     function extractYouTubeId(url) {
@@ -3029,7 +3029,7 @@
       });
       const floorMesh = new THREE.Mesh(new THREE.CircleGeometry(56, 64), floorMat);
       floorMesh.rotation.x = -Math.PI / 2;
-      floorMesh.position.set(0, -15.5, 0);
+      floorMesh.position.set(0, -19.5, 0);
       studioEnvGroup.add(floorMesh);
 
       // ROBIN PAYOT SIGNATURE PERSPECTIVE DOTTED CONCENTRIC RINGS
@@ -3041,7 +3041,7 @@
           const angle = (i / count) * Math.PI * 2;
           floorDotPositions.push(
             Math.cos(angle) * r,
-            -15.42,
+            -19.42,
             Math.sin(angle) * r
           );
         }
@@ -3055,7 +3055,7 @@
         for (let d = 4.5; d <= 51; d += 1.5) {
           floorDotPositions.push(
             cosA * d,
-            -15.42,
+            -19.42,
             sinA * d
           );
         }
@@ -3124,13 +3124,21 @@
         p.code = `#${String(idx + 1).padStart(2, '0')}`;
       });
 
-      // Distribute all projects across 4 neat, staggered spherical rings so cards form a round 360° globe with zero overlap
-      const ringConfigs = [
-        { pitch: 8, weight: 0.29, offsetFrac: 0 },
-        { pitch: -9, weight: 0.29, offsetFrac: 0.5 },
-        { pitch: 25, weight: 0.21, offsetFrac: 0.25 },
-        { pitch: -26, weight: 0.21, offsetFrac: 0.75 }
-      ];
+      // Distribute all projects across 4 or 5 neat, staggered spherical rings so cards form a round 360° globe with zero overlap
+      const ringConfigs = total > 60
+        ? [
+            { pitch: 0, weight: 0.23, offsetFrac: 0 },
+            { pitch: 16, weight: 0.21, offsetFrac: 0.5 },
+            { pitch: -16, weight: 0.21, offsetFrac: 0.25 },
+            { pitch: 32, weight: 0.175, offsetFrac: 0.75 },
+            { pitch: -32, weight: 0.175, offsetFrac: 0.4 }
+          ]
+        : [
+            { pitch: 8, weight: 0.29, offsetFrac: 0 },
+            { pitch: -9, weight: 0.29, offsetFrac: 0.5 },
+            { pitch: 25, weight: 0.21, offsetFrac: 0.25 },
+            { pitch: -26, weight: 0.21, offsetFrac: 0.75 }
+          ];
 
       if (total <= 14) {
         portfolioProjects.forEach((p, i) => {
@@ -3265,7 +3273,7 @@
         }
 
         const texture = new THREE.CanvasTexture(cardCanvas);
-        const baseScale = index === 0 ? 4.9 : (project.tier === 'equator' ? 4.5 : 4.2);
+        const baseScale = index === 0 ? 4.4 : 4.0;
         const ratio = getSlideAspectRatio(project, slideObj);
         let cardW, cardH;
         if (ratio >= 1) {
@@ -4030,8 +4038,8 @@
             }
           });
         } else {
-          // Multi-ring neat spherical dome for larger filtered sets (e.g. 28+ Desain cards)
-          const ringPitches = M > 24 ? [0, 17, -17] : [11, -11];
+          // Multi-ring neat spherical dome for larger filtered sets
+          const ringPitches = M > 36 ? [24, 8, -8, -24] : (M > 24 ? [0, 17, -17] : [11, -11]);
           const ringCounts = new Array(ringPitches.length).fill(0);
           visibleIndices.forEach((_, k) => ringCounts[k % ringPitches.length]++);
           const ringCursors = new Array(ringPitches.length).fill(0);

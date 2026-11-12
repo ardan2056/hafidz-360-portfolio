@@ -43,22 +43,22 @@
   },
   "portfolioProjects": [
     {
-      "id": "work-07",
+      "id": "work-07-part-01",
       "code": "#01",
       "tier": "equator",
       "type": "committee",
       "yawDeg": 0,
       "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Aku Lagi Berkegiatan",
+      "title": "ON DUTY GALLERY — Bertugas Pegang Kamera (Koor Multimedia)",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
       "year": "2026",
       "committeeRole": "Koor Div Multimedia • In Action",
       "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
       "committeeScale": "Multi-Event 2023–2026",
       "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Kumpulan foto dokumentasi M. Hafidz Ardan saat sedang berkegiatan aktif di lapangan: memegang kamera produksi, mengarahkan kru panggung, hingga merancang UI/UX.",
+      "description": "In-frame M. Hafidz Ardan bersama kamera Sony di sela-sela produksi acara.",
       "accent": "#6366f1",
-      "currentSlide": 16,
+      "currentSlide": 0,
       "slides": [
         {
           "title": "Slide 01 — Bertugas Pegang Kamera (Koor Multimedia)",
@@ -66,7 +66,27 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/Artboard%201.jpg",
           "isRealImage": true,
           "aspectRatio": 0.75
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-02",
+      "code": "#02",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 16,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 22",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 04 — Artboard 22",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -74,7 +94,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.643979057591623
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-03",
+      "code": "#03",
+      "tier": "lower",
+      "type": "committee",
+      "yawDeg": 31,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 23",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 05 — Artboard 23",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -82,7 +122,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.643979057591623
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-04",
+      "code": "#04",
+      "tier": "equator",
+      "type": "committee",
+      "yawDeg": 47,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 1 copy",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 04 — Artboard 1 copy",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -90,7 +150,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 2.3972278566599052
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-05",
+      "code": "#05",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 63,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 1",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 05 — Artboard 1",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -98,7 +178,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-06",
+      "code": "#06",
+      "tier": "lower",
+      "type": "committee",
+      "yawDeg": 78,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 4",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 06 — Artboard 4",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -106,7 +206,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 5.770152505446623
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-07",
+      "code": "#07",
+      "tier": "equator",
+      "type": "committee",
+      "yawDeg": 94,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 5 copy",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 07 — Artboard 5 copy",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -114,7 +234,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.7068062827225131
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-08",
+      "code": "#08",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 110,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 3 copy 5",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 08 — Artboard 3 copy 5",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -122,7 +262,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-09",
+      "code": "#09",
+      "tier": "lower",
+      "type": "committee",
+      "yawDeg": 125,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 3 copy 6",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 09 — Artboard 3 copy 6",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -130,7 +290,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-10",
+      "code": "#10",
+      "tier": "equator",
+      "type": "committee",
+      "yawDeg": 141,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 12",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 10 — Artboard 12",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -138,7 +318,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.7068062827225131
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-11",
+      "code": "#11",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 157,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 20",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 11 — Artboard 20",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -146,7 +346,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.7068062827225131
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-12",
+      "code": "#12",
+      "tier": "lower",
+      "type": "committee",
+      "yawDeg": 172,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 21",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 12 — Artboard 21",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -154,7 +374,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.7068062827225131
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-13",
+      "code": "#13",
+      "tier": "equator",
+      "type": "committee",
+      "yawDeg": 188,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 22",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 13 — Artboard 22",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -162,7 +402,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.643979057591623
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-14",
+      "code": "#14",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 203,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 23",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 14 — Artboard 23",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -170,7 +430,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.643979057591623
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-15",
+      "code": "#15",
+      "tier": "lower",
+      "type": "committee",
+      "yawDeg": 219,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 9 copy 2",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 15 — Artboard 9 copy 2",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -178,7 +458,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.3338842975206612
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-16",
+      "code": "#16",
+      "tier": "equator",
+      "type": "committee",
+      "yawDeg": 235,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 9 copy 8",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 16 — Artboard 9 copy 8",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -186,7 +486,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.3338842975206612
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-17",
+      "code": "#17",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 250,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 9 copy 10",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 17 — Artboard 9 copy 10",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -194,7 +514,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.3338842975206612
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-18",
+      "code": "#18",
+      "tier": "lower",
+      "type": "committee",
+      "yawDeg": 266,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 9 copy 11",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 18 — Artboard 9 copy 11",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -202,7 +542,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.3338842975206612
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-19",
+      "code": "#19",
+      "tier": "equator",
+      "type": "committee",
+      "yawDeg": 282,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 15",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 19 — Artboard 15",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -210,7 +570,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1.7785765636232926
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-20",
+      "code": "#20",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 297,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 16 copy 2",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 20 — Artboard 16 copy 2",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -218,7 +598,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1.7785765636232926
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-21",
+      "code": "#21",
+      "tier": "lower",
+      "type": "committee",
+      "yawDeg": 313,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 18",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 21 — Artboard 18",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -226,7 +626,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1.7785765636232926
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-22",
+      "code": "#22",
+      "tier": "equator",
+      "type": "committee",
+      "yawDeg": 329,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 19",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 22 — Artboard 19",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -234,7 +654,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.6956521739130435
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-23",
+      "code": "#23",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 344,
+      "pitchDeg": 0,
+      "title": "ON DUTY GALLERY — Artboard 1 copy 5",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 23 — Artboard 1 copy 5",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -242,7 +682,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1.7777777777777777
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-24",
+      "code": "#24",
+      "tier": "lower",
+      "type": "committee",
+      "yawDeg": 9,
+      "pitchDeg": 16,
+      "title": "ON DUTY GALLERY — Artboard 1 copy 8",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 24 — Artboard 1 copy 8",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -250,7 +710,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1.7777777777777777
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-25",
+      "code": "#25",
+      "tier": "equator",
+      "type": "committee",
+      "yawDeg": 26,
+      "pitchDeg": 16,
+      "title": "ON DUTY GALLERY — Artboard 4 copy 13",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 25 — Artboard 4 copy 13",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -258,7 +738,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-26",
+      "code": "#26",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 43,
+      "pitchDeg": 16,
+      "title": "ON DUTY GALLERY — Artboard 9 copy 12",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 26 — Artboard 9 copy 12",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -266,7 +766,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.3338842975206612
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-27",
+      "code": "#27",
+      "tier": "lower",
+      "type": "committee",
+      "yawDeg": 60,
+      "pitchDeg": 16,
+      "title": "ON DUTY GALLERY — Artboard 9 copy",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 27 — Artboard 9 copy",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -274,7 +794,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.3338842975206612
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-28",
+      "code": "#28",
+      "tier": "equator",
+      "type": "committee",
+      "yawDeg": 77,
+      "pitchDeg": 16,
+      "title": "ON DUTY GALLERY — Artboard 17 copy 2",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 28 — Artboard 17 copy 2",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -282,7 +822,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-29",
+      "code": "#29",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 94,
+      "pitchDeg": 16,
+      "title": "ON DUTY GALLERY — Artboard 17 copy 3",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 29 — Artboard 17 copy 3",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -290,7 +850,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-30",
+      "code": "#30",
+      "tier": "lower",
+      "type": "committee",
+      "yawDeg": 111,
+      "pitchDeg": 16,
+      "title": "ON DUTY GALLERY — Artboard 17 copy 4",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 30 — Artboard 17 copy 4",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -298,7 +878,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-31",
+      "code": "#31",
+      "tier": "equator",
+      "type": "committee",
+      "yawDeg": 129,
+      "pitchDeg": 16,
+      "title": "ON DUTY GALLERY — Artboard 17 copy",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 31 — Artboard 17 copy",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -306,7 +906,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-32",
+      "code": "#32",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 146,
+      "pitchDeg": 16,
+      "title": "ON DUTY GALLERY — Artboard 17",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 32 — Artboard 17",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -314,7 +934,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-33",
+      "code": "#33",
+      "tier": "lower",
+      "type": "committee",
+      "yawDeg": 163,
+      "pitchDeg": 16,
+      "title": "ON DUTY GALLERY — Artboard 1 copy 6",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 33 — Artboard 1 copy 6",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -322,7 +962,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1.7777777777777777
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-34",
+      "code": "#34",
+      "tier": "equator",
+      "type": "committee",
+      "yawDeg": 180,
+      "pitchDeg": 16,
+      "title": "ON DUTY GALLERY — Artboard 4 copy 3",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 34 — Artboard 4 copy 3",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -330,7 +990,27 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1.7777777777777777
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-07-part-35",
+      "code": "#35",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 197,
+      "pitchDeg": 16,
+      "title": "ON DUTY GALLERY — Artboard 4 copy 14",
+      "category": "Dokumentasi Lapangan & Behind The Scenes",
+      "year": "2026",
+      "committeeRole": "Koor Div Multimedia • In Action",
+      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
+      "committeeScale": "Multi-Event 2023–2026",
+      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
+      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 35 — Artboard 4 copy 14",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
@@ -342,19 +1022,19 @@
       ]
     },
     {
-      "id": "work-08",
-      "code": "#02",
-      "tier": "upper",
+      "id": "work-08-part-01",
+      "code": "#36",
+      "tier": "lower",
       "type": "uiux",
-      "yawDeg": 0,
-      "pitchDeg": 19,
-      "title": "FINFLOW & SMART WALLET — UI/UX Prototype",
+      "yawDeg": 214,
+      "pitchDeg": 16,
+      "title": "High-Fidelity Mobile Screens",
       "category": "Fintech Mobile UI/UX Design (Figma)",
       "year": "2025",
       "committeeRole": "UI/UX Product Designer",
       "externalUrl": "https://www.figma.com/",
       "tools": "Figma, Interactive Prototyping, Micro-interactions",
-      "description": "Eksplorasi desain UI/UX aplikasi dompet pintar dan pelacak keuangan mahasiswa dengan grafik interaktif yang bersih dan ramah pengguna.",
+      "description": "Tampilan layar beranda, statistik pengeluaran, dan transfer cepat.",
       "accent": "#a855f7",
       "currentSlide": 0,
       "slides": [
@@ -365,7 +1045,26 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ]
+    },
+    {
+      "id": "work-08-part-02",
+      "code": "#37",
+      "tier": "equator",
+      "type": "uiux",
+      "yawDeg": 231,
+      "pitchDeg": 16,
+      "title": "Interactive Prototype Flow",
+      "category": "Fintech Mobile UI/UX Design (Figma)",
+      "year": "2025",
+      "committeeRole": "UI/UX Product Designer",
+      "externalUrl": "https://www.figma.com/",
+      "tools": "Figma, Interactive Prototyping, Micro-interactions",
+      "description": "Transisi antar layar menggunakan Smart Animate di Figma.",
+      "accent": "#a855f7",
+      "currentSlide": 0,
+      "slides": [
         {
           "title": "Slide 02 — Interactive Prototype Flow",
           "caption": "Transisi antar layar menggunakan Smart Animate di Figma.",
@@ -375,11 +1074,11 @@
     },
     {
       "id": "work-09",
-      "code": "#03",
-      "tier": "lower",
+      "code": "#38",
+      "tier": "upper",
       "type": "video",
-      "yawDeg": 0,
-      "pitchDeg": -17,
+      "yawDeg": 249,
+      "pitchDeg": 16,
       "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
       "year": "2026",
@@ -405,11 +1104,11 @@
     },
     {
       "id": "work-10",
-      "code": "#04",
-      "tier": "equator",
+      "code": "#39",
+      "tier": "lower",
       "type": "video",
-      "yawDeg": 20,
-      "pitchDeg": 0,
+      "yawDeg": 266,
+      "pitchDeg": 16,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
       "year": "2025",
@@ -434,11 +1133,11 @@
     },
     {
       "id": "work-14",
-      "code": "#05",
-      "tier": "upper",
+      "code": "#40",
+      "tier": "equator",
       "type": "committee",
-      "yawDeg": 21,
-      "pitchDeg": 19,
+      "yawDeg": 283,
+      "pitchDeg": 16,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
       "year": "2023",
@@ -462,11 +1161,11 @@
     },
     {
       "id": "work-15",
-      "code": "#06",
-      "tier": "lower",
+      "code": "#41",
+      "tier": "upper",
       "type": "design",
-      "yawDeg": 21,
-      "pitchDeg": -17,
+      "yawDeg": 300,
+      "pitchDeg": 16,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
       "year": "2026",
@@ -487,11 +1186,11 @@
     },
     {
       "id": "work-16",
-      "code": "#07",
-      "tier": "equator",
+      "code": "#42",
+      "tier": "lower",
       "type": "video",
-      "yawDeg": 40,
-      "pitchDeg": 0,
+      "yawDeg": 317,
+      "pitchDeg": 16,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
       "year": "2024",
@@ -516,11 +1215,11 @@
     },
     {
       "id": "octagram-design-01",
-      "code": "#08",
-      "tier": "upper",
+      "code": "#43",
+      "tier": "equator",
       "type": "design",
-      "yawDeg": 42,
-      "pitchDeg": 19,
+      "yawDeg": 334,
+      "pitchDeg": 16,
       "title": "KULIAH UMUM OCTAGRAM — Poster Utama (Keynote Kepala BRIN)",
       "category": "Event Poster & Key Visual",
       "year": "2026",
@@ -541,11 +1240,11 @@
     },
     {
       "id": "octagram-design-02",
-      "code": "#09",
-      "tier": "lower",
+      "code": "#44",
+      "tier": "upper",
       "type": "design",
-      "yawDeg": 42,
-      "pitchDeg": -17,
+      "yawDeg": 351,
+      "pitchDeg": 16,
       "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
       "category": "Merchandise & Product Mockup",
       "year": "2026",
@@ -566,11 +1265,11 @@
     },
     {
       "id": "octagram-design-03",
-      "code": "#10",
-      "tier": "equator",
+      "code": "#45",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 60,
-      "pitchDeg": 0,
+      "yawDeg": 4,
+      "pitchDeg": -16,
       "title": "MERCHANDISE OCTAGRAM 2026 — Poster Pre-Order Sticker & Keychain",
       "category": "Promotional Poster & Merch",
       "year": "2026",
@@ -591,11 +1290,11 @@
     },
     {
       "id": "octagram-design-04",
-      "code": "#11",
-      "tier": "upper",
+      "code": "#46",
+      "tier": "equator",
       "type": "design",
-      "yawDeg": 64,
-      "pitchDeg": 19,
+      "yawDeg": 21,
+      "pitchDeg": -16,
       "title": "LIVE REPORT OCTAGRAM — Instagram Story Frame Template",
       "category": "Social Media & Live Report",
       "year": "2026",
@@ -616,11 +1315,11 @@
     },
     {
       "id": "octagram-design-05",
-      "code": "#12",
-      "tier": "lower",
+      "code": "#47",
+      "tier": "upper",
       "type": "design",
-      "yawDeg": 64,
-      "pitchDeg": -17,
+      "yawDeg": 39,
+      "pitchDeg": -16,
       "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
       "category": "Social Media & Documentation",
       "year": "2026",
@@ -641,11 +1340,11 @@
     },
     {
       "id": "octagram-design-06",
-      "code": "#13",
-      "tier": "equator",
+      "code": "#48",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 80,
-      "pitchDeg": 0,
+      "yawDeg": 56,
+      "pitchDeg": -16,
       "title": "STAFF KONSUMSI OCTAGRAM — H. Ardan Profile Card",
       "category": "Identity & Staff Card Design",
       "year": "2026",
@@ -666,11 +1365,11 @@
     },
     {
       "id": "octagram-design-07",
-      "code": "#14",
-      "tier": "upper",
+      "code": "#49",
+      "tier": "equator",
       "type": "design",
-      "yawDeg": 85,
-      "pitchDeg": 19,
+      "yawDeg": 73,
+      "pitchDeg": -16,
       "title": "DANA USAHA OCTAGRAM 2026 — Poster Menu & Lokasi",
       "category": "Promotional Poster & Danus",
       "year": "2026",
@@ -691,11 +1390,11 @@
     },
     {
       "id": "octagram-design-08",
-      "code": "#15",
-      "tier": "lower",
+      "code": "#50",
+      "tier": "upper",
       "type": "design",
-      "yawDeg": 85,
-      "pitchDeg": -17,
+      "yawDeg": 90,
+      "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Fireside Talks Yulianta (OJK)",
       "category": "X-Banner & Print Media",
       "year": "2026",
@@ -716,11 +1415,11 @@
     },
     {
       "id": "octagram-design-09",
-      "code": "#16",
-      "tier": "equator",
+      "code": "#51",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 100,
-      "pitchDeg": 0,
+      "yawDeg": 107,
+      "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Utama Event 2026",
       "category": "X-Banner & Print Media",
       "year": "2026",
@@ -741,11 +1440,11 @@
     },
     {
       "id": "octagram-design-10",
-      "code": "#17",
-      "tier": "upper",
+      "code": "#52",
+      "tier": "equator",
       "type": "design",
-      "yawDeg": 106,
-      "pitchDeg": 19,
+      "yawDeg": 124,
+      "pitchDeg": -16,
       "title": "QR CODE BISNIS DIGITAL ITK — Instagram @BISNISDIGITAL.ITK",
       "category": "Social Media & Graphic Asset",
       "year": "2026",
@@ -766,11 +1465,11 @@
     },
     {
       "id": "octagram-design-11",
-      "code": "#18",
-      "tier": "lower",
+      "code": "#53",
+      "tier": "upper",
       "type": "design",
-      "yawDeg": 106,
-      "pitchDeg": -17,
+      "yawDeg": 141,
+      "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Moderator Dekan FSTI ITK",
       "category": "X-Banner & Print Media",
       "year": "2026",
@@ -791,11 +1490,11 @@
     },
     {
       "id": "octagram-design-12",
-      "code": "#19",
-      "tier": "equator",
+      "code": "#54",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 120,
-      "pitchDeg": 0,
+      "yawDeg": 159,
+      "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — Template Slide & Sertifikat Resmi",
       "category": "Presentation & Layout System",
       "year": "2026",
@@ -816,11 +1515,11 @@
     },
     {
       "id": "octagram-design-13",
-      "code": "#20",
-      "tier": "upper",
+      "code": "#55",
+      "tier": "equator",
       "type": "design",
-      "yawDeg": 127,
-      "pitchDeg": 19,
+      "yawDeg": 176,
+      "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Sambutan Rektor ITK",
       "category": "X-Banner & Print Media",
       "year": "2026",
@@ -841,11 +1540,11 @@
     },
     {
       "id": "octagram-design-14",
-      "code": "#21",
-      "tier": "lower",
+      "code": "#56",
+      "tier": "upper",
       "type": "design",
-      "yawDeg": 127,
-      "pitchDeg": -17,
+      "yawDeg": 193,
+      "pitchDeg": -16,
       "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Teaser Poster & Campaign",
       "year": "2026",
@@ -866,11 +1565,11 @@
     },
     {
       "id": "octagram-design-15",
-      "code": "#22",
-      "tier": "equator",
+      "code": "#57",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 140,
-      "pitchDeg": 0,
+      "yawDeg": 210,
+      "pitchDeg": -16,
       "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
       "category": "Stage Frame & Event Overlay",
       "year": "2026",
@@ -891,7 +1590,7 @@
     },
     {
       "id": "octagram-design-16",
-      "tier": "upper",
+      "tier": "equator",
       "type": "design",
       "title": "TWIBBON & STORY FRAME — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Social Media & Twibbon Frame",
@@ -908,15 +1607,15 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 148,
-      "pitchDeg": 19,
+      "yawDeg": 227,
+      "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#23"
+      "code": "#58"
     },
     {
       "id": "octagram-design-17",
-      "tier": "lower",
+      "tier": "upper",
       "type": "design",
       "title": "X-BANNER FULL PANEL (3 NARASUMBER) — Kuliah Umum OCTAGRAM 2026",
       "category": "X-Banner & Print Media",
@@ -933,15 +1632,15 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 148,
-      "pitchDeg": -17,
+      "yawDeg": 244,
+      "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#24"
+      "code": "#59"
     },
     {
       "id": "octagram-design-18",
-      "tier": "equator",
+      "tier": "lower",
       "type": "design",
       "title": "X-BANNER KEYNOTE SPEAKER — Prof. Dr. Arif Satria, S.P., M.Si",
       "category": "X-Banner & Print Media",
@@ -958,21 +1657,21 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 160,
-      "pitchDeg": 0,
+      "yawDeg": 261,
+      "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#25"
+      "code": "#60"
     },
     {
-      "id": "octagram-design-19",
-      "tier": "upper",
+      "id": "octagram-design-19-part-01",
+      "tier": "equator",
       "type": "design",
-      "title": "COUNTDOWN H-5 s/d H-1 — Kuliah Umum & Expo OCTAGRAM 2026",
+      "title": "Countdown H-5 — Kuliah Umum & Expo Bisnis Digital",
       "category": "Social Media Campaign Series",
       "year": "2026",
       "tools": "Adobe Photoshop, Illustrator",
-      "description": "Seri poster hitung mundur Instagram Story H-5 hingga H-1 menuju Kuliah Umum & Expo Bisnis Digital OCTAGRAM 2026 pada 7 November 2026.",
+      "description": "Publikasi H-5 menuju 7 November 2026 di Auditorium Lab Terpadu 1 ITK.",
       "slides": [
         {
           "title": "Countdown H-5 — Kuliah Umum & Expo Bisnis Digital",
@@ -981,7 +1680,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ],
+      "yawDeg": 279,
+      "pitchDeg": -16,
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "code": "#61"
+    },
+    {
+      "id": "octagram-design-19-part-02",
+      "tier": "upper",
+      "type": "design",
+      "title": "Countdown H-4 — Kuliah Umum & Expo Bisnis Digital",
+      "category": "Social Media Campaign Series",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator",
+      "description": "Publikasi H-4 menuju puncak acara OCTAGRAM 2026.",
+      "slides": [
         {
           "title": "Countdown H-4 — Kuliah Umum & Expo Bisnis Digital",
           "caption": "Publikasi H-4 menuju puncak acara OCTAGRAM 2026.",
@@ -989,7 +1705,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ],
+      "yawDeg": 296,
+      "pitchDeg": -16,
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "code": "#62"
+    },
+    {
+      "id": "octagram-design-19-part-03",
+      "tier": "lower",
+      "type": "design",
+      "title": "Countdown H-3 — Kuliah Umum & Expo Bisnis Digital",
+      "category": "Social Media Campaign Series",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator",
+      "description": "Publikasi H-3 menuju puncak acara OCTAGRAM 2026.",
+      "slides": [
         {
           "title": "Countdown H-3 — Kuliah Umum & Expo Bisnis Digital",
           "caption": "Publikasi H-3 menuju puncak acara OCTAGRAM 2026.",
@@ -997,7 +1730,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ],
+      "yawDeg": 313,
+      "pitchDeg": -16,
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "code": "#63"
+    },
+    {
+      "id": "octagram-design-19-part-04",
+      "tier": "equator",
+      "type": "design",
+      "title": "Countdown H-2 — Kuliah Umum & Expo Bisnis Digital",
+      "category": "Social Media Campaign Series",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator",
+      "description": "Publikasi H-2 menuju puncak acara OCTAGRAM 2026.",
+      "slides": [
         {
           "title": "Countdown H-2 — Kuliah Umum & Expo Bisnis Digital",
           "caption": "Publikasi H-2 menuju puncak acara OCTAGRAM 2026.",
@@ -1005,7 +1755,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
+        }
+      ],
+      "yawDeg": 330,
+      "pitchDeg": -16,
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "code": "#64"
+    },
+    {
+      "id": "octagram-design-19-part-05",
+      "tier": "upper",
+      "type": "design",
+      "title": "Countdown H-1 — Kuliah Umum & Expo Bisnis Digital",
+      "category": "Social Media Campaign Series",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator",
+      "description": "Publikasi H-1 besok acara dimulai.",
+      "slides": [
         {
           "title": "Countdown H-1 — Kuliah Umum & Expo Bisnis Digital",
           "caption": "Publikasi H-1 besok acara dimulai.",
@@ -1015,21 +1782,21 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 169,
-      "pitchDeg": 19,
+      "yawDeg": 347,
+      "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#26"
+      "code": "#65"
     },
     {
-      "id": "octagram-design-20",
+      "id": "octagram-design-20-part-01",
       "tier": "lower",
       "type": "design",
-      "title": "BUMPER & LOWER THIRD NARASUMBER — Kuliah Umum OCTAGRAM 2026",
+      "title": "Bumper Keynote Speaker — Prof. Dr. Arif Satria, S.P., M.Si",
       "category": "Broadcast & Stage Screen Graphics",
       "year": "2026",
       "tools": "Adobe Photoshop, After Effects",
-      "description": "Desain grafis bumper/lower-third perkenalan narasumber untuk layar LED panggung dan siaran langsung (Kepala BRIN, Rektor ITK, dan Dekan FSTI).",
+      "description": "Kepala Badan Riset dan Inovasi Nasional (BRIN).",
       "slides": [
         {
           "title": "Bumper Keynote Speaker — Prof. Dr. Arif Satria, S.P., M.Si",
@@ -1038,7 +1805,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1.7777777777777777
-        },
+        }
+      ],
+      "yawDeg": 15,
+      "pitchDeg": 32,
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "code": "#66"
+    },
+    {
+      "id": "octagram-design-20-part-02",
+      "tier": "equator",
+      "type": "design",
+      "title": "Bumper Sambutan — Prof. Dr.rer.nat. Agus Rubiyanto, M.Eng.Sc.",
+      "category": "Broadcast & Stage Screen Graphics",
+      "year": "2026",
+      "tools": "Adobe Photoshop, After Effects",
+      "description": "Rektor Institut Teknologi Kalimantan.",
+      "slides": [
         {
           "title": "Bumper Sambutan — Prof. Dr.rer.nat. Agus Rubiyanto, M.Eng.Sc.",
           "caption": "Rektor Institut Teknologi Kalimantan.",
@@ -1046,7 +1830,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1.7777777777777777
-        },
+        }
+      ],
+      "yawDeg": 35,
+      "pitchDeg": 32,
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "code": "#67"
+    },
+    {
+      "id": "octagram-design-20-part-03",
+      "tier": "upper",
+      "type": "design",
+      "title": "Bumper Moderator — Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D.",
+      "category": "Broadcast & Stage Screen Graphics",
+      "year": "2026",
+      "tools": "Adobe Photoshop, After Effects",
+      "description": "Dekan Fakultas Sains dan Teknologi Informasi ITK.",
+      "slides": [
         {
           "title": "Bumper Moderator — Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D.",
           "caption": "Dekan Fakultas Sains dan Teknologi Informasi ITK.",
@@ -1056,21 +1857,21 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 169,
-      "pitchDeg": -17,
+      "yawDeg": 55,
+      "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#27"
+      "code": "#68"
     },
     {
-      "id": "octagram-design-21",
-      "tier": "equator",
+      "id": "octagram-design-21-part-01",
+      "tier": "lower",
       "type": "design",
-      "title": "BACKDROP & LIVESTREAM LAYOUT — Kuliah Umum OCTAGRAM 2026",
+      "title": "Backdrop Layar Utama Kuliah Umum OCTAGRAM",
       "category": "Stage Screen & Broadcast Layout",
       "year": "2026",
       "tools": "Adobe Photoshop, OBS Studio",
-      "description": "Desain backdrop layar panggung utama Auditorium Lab Terpadu 1 ITK serta layout frame dual-camera untuk kebutuhan dokumentasi & livestream.",
+      "description": "Layar utama panggung lengkap dengan jajaran logo sponsor.",
       "slides": [
         {
           "title": "Backdrop Layar Utama Kuliah Umum OCTAGRAM",
@@ -1079,7 +1880,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1.7777777777777777
-        },
+        }
+      ],
+      "yawDeg": 75,
+      "pitchDeg": 32,
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "code": "#69"
+    },
+    {
+      "id": "octagram-design-21-part-02",
+      "tier": "equator",
+      "type": "design",
+      "title": "Layout Frame Dual-Cam Livestream / Presentasi",
+      "category": "Stage Screen & Broadcast Layout",
+      "year": "2026",
+      "tools": "Adobe Photoshop, OBS Studio",
+      "description": "Layout layar ganda untuk materi & kamera pembicara.",
+      "slides": [
         {
           "title": "Layout Frame Dual-Cam Livestream / Presentasi",
           "caption": "Layout layar ganda untuk materi & kamera pembicara.",
@@ -1089,11 +1907,11 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 180,
-      "pitchDeg": 0,
+      "yawDeg": 95,
+      "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#28"
+      "code": "#70"
     },
     {
       "id": "octagram-design-22",
@@ -1114,11 +1932,11 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 191,
-      "pitchDeg": 19,
+      "yawDeg": 115,
+      "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#29"
+      "code": "#71"
     },
     {
       "id": "octagram-design-23",
@@ -1139,11 +1957,11 @@
           "aspectRatio": 0.6953125
         }
       ],
-      "yawDeg": 191,
-      "pitchDeg": -17,
+      "yawDeg": 135,
+      "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#30"
+      "code": "#72"
     },
     {
       "id": "octagram-design-24",
@@ -1164,21 +1982,21 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 200,
-      "pitchDeg": 0,
+      "yawDeg": 155,
+      "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#31"
+      "code": "#73"
     },
     {
-      "id": "bionic-design-2026",
+      "id": "bionic-design-2026-part-01",
       "tier": "upper",
       "type": "design",
-      "title": "BIONIC INOVASI SOSIAL 2026 — Instagram Feeds, Logo & Staff Card",
+      "title": "Instagram Feeds Grid BIONIC — Inovasi Sosial 2026",
       "category": "Branding, Logo & Social Media",
       "year": "2026",
       "tools": "Adobe Photoshop, Illustrator, Figma",
-      "description": "Paket lengkap identitas visual BIONIC Inovasi Sosial 2026 (#INSOSITK2026): desain grid Instagram 15-panel, filosofi logo BIONIC, hingga kartu staf Publikasi dan Dokumentasi.",
+      "description": "Layout grid 15-panel menyatu: Coming Soon, Rilis Lokasi, Filosofi Logo, & Pengenalan Divisi.",
       "slides": [
         {
           "title": "Instagram Feeds Grid BIONIC — Inovasi Sosial 2026",
@@ -1187,7 +2005,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.45
-        },
+        }
+      ],
+      "yawDeg": 175,
+      "pitchDeg": 32,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#74"
+    },
+    {
+      "id": "bionic-design-2026-part-02",
+      "tier": "lower",
+      "type": "design",
+      "title": "Our Logo & Filosofi BIONIC",
+      "category": "Branding, Logo & Social Media",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Logo identitas utama BIONIC Inovasi Sosial 2026.",
+      "slides": [
         {
           "title": "Our Logo & Filosofi BIONIC",
           "caption": "Logo identitas utama BIONIC Inovasi Sosial 2026.",
@@ -1195,7 +2030,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1
-        },
+        }
+      ],
+      "yawDeg": 195,
+      "pitchDeg": 32,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#75"
+    },
+    {
+      "id": "bionic-design-2026-part-03",
+      "tier": "equator",
+      "type": "design",
+      "title": "Staff Card — M Hafidz Ardan (Publikasi dan Dokumentasi)",
+      "category": "Branding, Logo & Social Media",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Kartu perkenalan staf Publikasi dan Dokumentasi BIONIC 2026.",
+      "slides": [
         {
           "title": "Staff Card — M Hafidz Ardan (Publikasi dan Dokumentasi)",
           "caption": "Kartu perkenalan staf Publikasi dan Dokumentasi BIONIC 2026.",
@@ -1205,21 +2057,21 @@
           "aspectRatio": 0.6436781609195402
         }
       ],
-      "yawDeg": 212,
-      "pitchDeg": 19,
+      "yawDeg": 215,
+      "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#32"
+      "code": "#76"
     },
     {
-      "id": "econiq-ch3-2026",
-      "tier": "lower",
+      "id": "econiq-ch3-2026-part-01",
+      "tier": "upper",
       "type": "design",
-      "title": "ECONIQ CHAPTER 3 (DIES NATALIS KE-3) — Work Jacket, Backdrop & Staff",
+      "title": "Poster Pre-Order Work Jacket Dua Sisi Econiq Ch.3",
       "category": "Apparel Design & Event Branding",
       "year": "2026",
       "tools": "Adobe Photoshop, Illustrator",
-      "description": "Desain Work Jacket Dua Sisi Econiq Chapter 3 Bisnis Digital (Baby Canvas & Cotton Twill), spesifikasi detail bordir, backdrop kompetisi, dan kartu staf.",
+      "description": "Jaket bolak-balik bahan Baby Canvas & Cotton Twill edisi Econiq Chapter 3.",
       "slides": [
         {
           "title": "Poster Pre-Order Work Jacket Dua Sisi Econiq Ch.3",
@@ -1228,7 +2080,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.7060546875
-        },
+        }
+      ],
+      "yawDeg": 235,
+      "pitchDeg": 32,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#77"
+    },
+    {
+      "id": "econiq-ch3-2026-part-02",
+      "tier": "lower",
+      "type": "design",
+      "title": "Design Spec Detail Work Jacket Econiq Ch.3",
+      "category": "Apparel Design & Event Branding",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator",
+      "description": "Rincian penempatan patch, bordir punggung, dan palet warna bahan.",
+      "slides": [
         {
           "title": "Design Spec Detail Work Jacket Econiq Ch.3",
           "caption": "Rincian penempatan patch, bordir punggung, dan palet warna bahan.",
@@ -1236,7 +2105,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.7060546875
-        },
+        }
+      ],
+      "yawDeg": 255,
+      "pitchDeg": 32,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#78"
+    },
+    {
+      "id": "econiq-ch3-2026-part-03",
+      "tier": "equator",
+      "type": "design",
+      "title": "Backdrop Econiq Ch.3 — Digital Bisnis Competition",
+      "category": "Apparel Design & Event Branding",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator",
+      "description": "Backdrop utama acara Digital Bisnis Competition.",
+      "slides": [
         {
           "title": "Backdrop Econiq Ch.3 — Digital Bisnis Competition",
           "caption": "Backdrop utama acara Digital Bisnis Competition.",
@@ -1244,7 +2130,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1.7777777777777777
-        },
+        }
+      ],
+      "yawDeg": 275,
+      "pitchDeg": 32,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#79"
+    },
+    {
+      "id": "econiq-ch3-2026-part-04",
+      "tier": "upper",
+      "type": "design",
+      "title": "Staff Card — Lutfiah Afifah (Koor Public Relation)",
+      "category": "Apparel Design & Event Branding",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator",
+      "description": "Desain kartu perkenalan panitia Dies Natalis ke-3 Bisnis Digital.",
+      "slides": [
         {
           "title": "Staff Card — Lutfiah Afifah (Koor Public Relation)",
           "caption": "Desain kartu perkenalan panitia Dies Natalis ke-3 Bisnis Digital.",
@@ -1254,21 +2157,21 @@
           "aspectRatio": 0.5886454183266933
         }
       ],
-      "yawDeg": 212,
-      "pitchDeg": -17,
+      "yawDeg": 295,
+      "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#33"
+      "code": "#80"
     },
     {
-      "id": "action-uiux-2nd-winner",
-      "tier": "equator",
+      "id": "action-uiux-2nd-winner-part-01",
+      "tier": "lower",
       "type": "uiux",
-      "title": "2ND WINNER UI/UX ACTION — Kompetisi Nasional & Dokumentasi",
+      "title": "2nd Winner Cabang UI/UX — ACTION (Academic Competition of Data Science)",
       "category": "UI/UX Competition & Achievement",
       "year": "2026",
       "tools": "Figma, Adobe Photoshop",
-      "description": "Pencapaian Juara 2 Nasional Cabang UI/UX dalam ajang ACTION (Academic Competition of Data Science) di Surabaya (#OKBOTWSURABAYA).",
+      "description": "Penyerahan piala dan plakat Juara 2 Cabang UI/UX Nasional.",
       "slides": [
         {
           "title": "2nd Winner Cabang UI/UX — ACTION (Academic Competition of Data Science)",
@@ -1277,7 +2180,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.8760907504363001
-        },
+        }
+      ],
+      "yawDeg": 315,
+      "pitchDeg": 32,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#81"
+    },
+    {
+      "id": "action-uiux-2nd-winner-part-02",
+      "tier": "equator",
+      "type": "uiux",
+      "title": "Poster Kolase Juara 2 UI/UX — #OKBOTWSURABAYA",
+      "category": "UI/UX Competition & Achievement",
+      "year": "2026",
+      "tools": "Figma, Adobe Photoshop",
+      "description": "Dokumentasi tim saat memenangkan Juara 2 di Surabaya.",
+      "slides": [
         {
           "title": "Poster Kolase Juara 2 UI/UX — #OKBOTWSURABAYA",
           "caption": "Dokumentasi tim saat memenangkan Juara 2 di Surabaya.",
@@ -1287,21 +2207,21 @@
           "aspectRatio": 0.744140625
         }
       ],
-      "yawDeg": 220,
-      "pitchDeg": 0,
+      "yawDeg": 335,
+      "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#34"
+      "code": "#82"
     },
     {
-      "id": "fsti-teach-zone-2026",
+      "id": "fsti-teach-zone-2026-part-01",
       "tier": "upper",
       "type": "design",
-      "title": "FSTI TEACH ZONE — 3D Booth Mockup & Key Visual (Aardan Creative)",
+      "title": "3D Booth / Photobooth Mockup — FSTI TEACH ZONE",
       "category": "3D Booth Mockup & Event Visual",
       "year": "2026",
       "tools": "Adobe Photoshop, 3D Mockup, Illustrator",
-      "description": "Desain Key Visual dan Mockup 3D Booth / Photobooth FSTI TEACH ZONE (Fakultas Sains dan Teknologi Informasi) oleh Aardan Creative Design.",
+      "description": "Visualisasi 3D booth pameran #FSTIPrestasi oleh Aardan Creative Design.",
       "slides": [
         {
           "title": "3D Booth / Photobooth Mockup — FSTI TEACH ZONE",
@@ -1310,7 +2230,24 @@
           "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 1.501466275659824
-        },
+        }
+      ],
+      "yawDeg": 355,
+      "pitchDeg": 32,
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "code": "#83"
+    },
+    {
+      "id": "fsti-teach-zone-2026-part-02",
+      "tier": "lower",
+      "type": "design",
+      "title": "Key Visual Banner — FSTI TEACH ZONE",
+      "category": "3D Booth Mockup & Event Visual",
+      "year": "2026",
+      "tools": "Adobe Photoshop, 3D Mockup, Illustrator",
+      "description": "Grafis dinding utama FSTI TEACH ZONE.",
+      "slides": [
         {
           "title": "Key Visual Banner — FSTI TEACH ZONE",
           "caption": "Grafis dinding utama FSTI TEACH ZONE.",
@@ -1320,15 +2257,15 @@
           "aspectRatio": 2.003913894324853
         }
       ],
-      "yawDeg": 233,
-      "pitchDeg": 19,
+      "yawDeg": 8,
+      "pitchDeg": -32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#35"
+      "code": "#84"
     },
     {
       "id": "motion-elemen-video-01",
-      "tier": "lower",
+      "tier": "equator",
       "type": "video",
       "title": "MOTION GRAPHIC ELEMENT — Bumper & Animasi Visual (MP4)",
       "category": "Motion Graphics & Video Element",
@@ -1345,15 +2282,15 @@
           "aspectRatio": 0.7076648841354723
         }
       ],
-      "yawDeg": 233,
-      "pitchDeg": -17,
+      "yawDeg": 28,
+      "pitchDeg": -32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#36"
+      "code": "#85"
     },
     {
       "id": "yt-okb-groo-action-2025",
-      "tier": "equator",
+      "tier": "upper",
       "type": "video",
       "title": "OKB InsyaAllah - GROO: Aplikasi Pemasaran Digital UMKM Berbasis Data - ACTION 2025",
       "category": "Video Kompetisi & Produk Digital",
@@ -1374,13 +2311,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#37",
-      "yawDeg": 240,
-      "pitchDeg": 0
+      "code": "#86",
+      "yawDeg": 48,
+      "pitchDeg": -32
     },
     {
       "id": "yt-bunqus-official",
-      "tier": "upper",
+      "tier": "lower",
       "type": "video",
       "title": "bunqus official",
       "category": "Video Kreatif & Produksi",
@@ -1401,13 +2338,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#38",
-      "yawDeg": 254,
-      "pitchDeg": 19
+      "code": "#87",
+      "yawDeg": 68,
+      "pitchDeg": -32
     },
     {
       "id": "yt-sekali-coba-hancur-semua",
-      "tier": "lower",
+      "tier": "equator",
       "type": "video",
       "title": "“SEKALI COBA HANCUR SEMUA” Edukasi tentang narkoba By kelompok 5",
       "category": "Video Edukasi & Kampanye",
@@ -1428,13 +2365,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#39",
-      "yawDeg": 254,
-      "pitchDeg": -17
+      "code": "#88",
+      "yawDeg": 88,
+      "pitchDeg": -32
     },
     {
       "id": "yt-kelompok-maekat-spin-etam-2024",
-      "tier": "equator",
+      "tier": "upper",
       "type": "video",
       "title": "Kelompok Maekat - SPIn ETAM 2024 #InstitutTeknologiKalimantan #PKKMBITK2024 #SPInETAM2024 #SPECTA",
       "category": "Video Dokumentasi & PKKMB ITK",
@@ -1455,13 +2392,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#40",
-      "yawDeg": 260,
-      "pitchDeg": 0
+      "code": "#89",
+      "yawDeg": 108,
+      "pitchDeg": -32
     },
     {
       "id": "yt-merajut-asa-harlah-23",
-      "tier": "upper",
+      "tier": "lower",
       "type": "video",
       "title": "MERAJUT ASA SPESCIAL HARLAH KE 23",
       "category": "Video Event & Spesial Harlah",
@@ -1482,13 +2419,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#41",
-      "yawDeg": 275,
-      "pitchDeg": 19
+      "code": "#90",
+      "yawDeg": 128,
+      "pitchDeg": -32
     },
     {
       "id": "yt-video-profile-bisnis-digital-itk",
-      "tier": "lower",
+      "tier": "equator",
       "type": "video",
       "title": "Video Profile Bisnis Digital Institut Teknologi Kalimantan",
       "category": "Video Profil Program Studi",
@@ -1509,13 +2446,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#42",
-      "yawDeg": 275,
-      "pitchDeg": -17
+      "code": "#91",
+      "yawDeg": 148,
+      "pitchDeg": -32
     },
     {
       "id": "yt-live-kuliah-umum-octagram-itk",
-      "tier": "equator",
+      "tier": "upper",
       "type": "video",
       "title": "LIVE: Kuliah Umum OCTAGRAM Bisnis Digital ITK - Prof. Dr. Arif Satria, S.P., M.Si",
       "category": "Livestream & Broadcast Event",
@@ -1536,13 +2473,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#43",
-      "yawDeg": 280,
-      "pitchDeg": 0
+      "code": "#92",
+      "yawDeg": 168,
+      "pitchDeg": -32
     },
     {
       "id": "motion-ini-1-video",
-      "tier": "upper",
+      "tier": "lower",
       "type": "video",
       "title": "INI 1 — Motion Graphic & Visual Clip (MP4)",
       "category": "Motion Graphics & Video Element",
@@ -1561,13 +2498,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#44",
-      "yawDeg": 296,
-      "pitchDeg": 19
+      "code": "#93",
+      "yawDeg": 188,
+      "pitchDeg": -32
     },
     {
       "id": "gh-guardian-digital",
-      "tier": "lower",
+      "tier": "equator",
       "type": "webgame",
       "title": "TUNTUN (Guardian Digital) — Navigasi & Perlindungan Ruang Digital",
       "category": "Web App & Digital Safety (MIT Week 2026)",
@@ -1582,18 +2519,18 @@
         {
           "title": "Tuntun — Guardian Digital",
           "caption": "Live Web App: https://ardan2056.github.io/guardian-digital/",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/web-tuntun-cover.svg",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/web-tuntun-real.png",
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#45",
-      "yawDeg": 296,
-      "pitchDeg": -17
+      "code": "#94",
+      "yawDeg": 208,
+      "pitchDeg": -32
     },
     {
       "id": "gh-game-ardanprem",
-      "tier": "equator",
+      "tier": "upper",
       "type": "webgame",
       "title": "SELAMATKAN HUTAN KALIMANTAN — Playable Web Game (ARDANPREM)",
       "category": "Playable HTML5 Game",
@@ -1608,18 +2545,18 @@
         {
           "title": "Selamatkan Hutan Kalimantan",
           "caption": "Mainkan Game: https://ardan2056.github.io/game-ardanprem/",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/game-ardanprem-cover.svg",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/game-ardanprem-real.png",
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#46",
-      "yawDeg": 300,
-      "pitchDeg": 0
+      "code": "#95",
+      "yawDeg": 228,
+      "pitchDeg": -32
     },
     {
       "id": "gh-saadah-bakery-pos",
-      "tier": "upper",
+      "tier": "lower",
       "type": "webgame",
       "title": "SA'ADAH BAKERY & CAFE — Website & Sistem Admin POS (Supabase)",
       "category": "Full-Stack Web & POS Admin System",
@@ -1634,18 +2571,18 @@
         {
           "title": "Sa'adah Bakery & Cafe — Public Site & Admin POS",
           "caption": "Live Site: https://ardan2056.github.io/saadah-bakery/",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/saadah-bakery/main/assets/home_hero_bg.png",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/web-saadah-real.png",
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#47",
-      "yawDeg": 318,
-      "pitchDeg": 19
+      "code": "#96",
+      "yawDeg": 248,
+      "pitchDeg": -32
     },
     {
       "id": "gh-ar2j-website",
-      "tier": "lower",
+      "tier": "equator",
       "type": "webgame",
       "title": "AR2J — Streetwear Gen Z Landing Page",
       "category": "Web Design & Brand Landing Page",
@@ -1660,18 +2597,18 @@
         {
           "title": "AR2J — Landing Page",
           "caption": "Live Site: https://ardan2056.github.io/ar2j-website/",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/web-ar2j-cover.svg",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/web-ar2j-real.png",
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#48",
-      "yawDeg": 318,
-      "pitchDeg": -17
+      "code": "#97",
+      "yawDeg": 268,
+      "pitchDeg": -32
     },
     {
       "id": "gh-cafefinder-app",
-      "tier": "equator",
+      "tier": "upper",
       "type": "webgame",
       "title": "CAFEFINDER — Aplikasi Pencarian Kafe, Peta & Pelacak Kunjungan",
       "category": "Mobile App (Flutter / Dart)",
@@ -1686,18 +2623,18 @@
         {
           "title": "CafeFinder — Flutter App",
           "caption": "Repository: https://github.com/ardan2056/cafefinder",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/app-cafefinder-cover.svg",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/app-cafefinder-real.png",
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#49",
-      "yawDeg": 320,
-      "pitchDeg": 0
+      "code": "#98",
+      "yawDeg": 288,
+      "pitchDeg": -32
     },
     {
       "id": "app-pos-ardanprem-store",
-      "tier": "upper",
+      "tier": "lower",
       "type": "webgame",
       "title": "ARDANPREM STORE & POS — Aplikasi Kasir & Top Up Digital (Next.js + Prisma)",
       "category": "Aplikasi POS & Full-Stack Web App",
@@ -1717,13 +2654,13 @@
           "aspectRatio": 1.7778
         }
       ],
-      "code": "#50",
-      "yawDeg": 339,
-      "pitchDeg": 19
+      "code": "#99",
+      "yawDeg": 308,
+      "pitchDeg": -32
     },
     {
       "id": "video-showcase-mp4",
-      "tier": "lower",
+      "tier": "equator",
       "type": "video",
       "title": "VIDEO SHOWCASE — Motion & Visual Production (MP4)",
       "category": "Video Production & Motion Graphics",
@@ -1742,13 +2679,13 @@
           "aspectRatio": 1.7778
         }
       ],
-      "code": "#51",
-      "yawDeg": 339,
-      "pitchDeg": -17
+      "code": "#100",
+      "yawDeg": 328,
+      "pitchDeg": -32
     },
     {
       "id": "econiq-logo-motion-mp4",
-      "tier": "equator",
+      "tier": "upper",
       "type": "video",
       "title": "ECONIQ — Logo Animation & Motion Bumper (MP4)",
       "category": "Motion Graphics & Brand Animation",
@@ -1767,10 +2704,10 @@
           "aspectRatio": 1.7778
         }
       ],
-      "code": "#52",
-      "yawDeg": 340,
-      "pitchDeg": 0
+      "code": "#101",
+      "yawDeg": 348,
+      "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T08:31:07.520Z"
+  "lastUpdated": "2026-11-12T08:36:09.462Z"
 }
