@@ -897,7 +897,7 @@
       "code": "#21",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 9.473684210526315,
+      "yawDeg": 10,
       "pitchDeg": 16,
       "title": "X-BANNER SERIES — Kuliah Umum OCTAGRAM 2026",
       "category": "X-Banner & Print Media",
@@ -967,7 +967,7 @@
       "tools": "Adobe Illustrator, Photoshop Mockup",
       "description": "Perancangan sistem identitas visual, variasi warna logo resmi, dan mockup signage lightbox 3D untuk SMKS Modern Al-Rifa'ie Gondanglegi.",
       "accent": "#15803d",
-      "currentSlide": 0,
+      "currentSlide": 2,
       "slides": [
         {
           "title": "Logo Utama & Pattern — SMKS Modern Al-Rifa'ie",
@@ -992,7 +992,7 @@
         }
       ],
       "code": "#22",
-      "yawDeg": 28.421052631578945,
+      "yawDeg": 30,
       "pitchDeg": 16
     },
     {
@@ -1023,7 +1023,7 @@
         }
       ],
       "code": "#23",
-      "yawDeg": 47.368421052631575,
+      "yawDeg": 50,
       "pitchDeg": 16
     },
     {
@@ -1045,7 +1045,7 @@
           "aspectRatio": 0.45
         }
       ],
-      "yawDeg": 66.3157894736842,
+      "yawDeg": 70,
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1072,7 +1072,7 @@
         }
       ],
       "code": "#25",
-      "yawDeg": 85.26315789473684,
+      "yawDeg": 90,
       "pitchDeg": 16
     },
     {
@@ -1103,7 +1103,7 @@
         }
       ],
       "code": "#26",
-      "yawDeg": 104.21052631578947,
+      "yawDeg": 110,
       "pitchDeg": 16
     },
     {
@@ -1125,7 +1125,7 @@
           "aspectRatio": 1
         }
       ],
-      "yawDeg": 123.1578947368421,
+      "yawDeg": 130,
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1152,7 +1152,7 @@
         }
       ],
       "code": "#28",
-      "yawDeg": 142.10526315789474,
+      "yawDeg": 150,
       "pitchDeg": 16
     },
     {
@@ -1174,7 +1174,7 @@
           "aspectRatio": 1.501466275659824
         }
       ],
-      "yawDeg": 161.05263157894734,
+      "yawDeg": 170,
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1201,7 +1201,7 @@
         }
       ],
       "code": "#30",
-      "yawDeg": 180,
+      "yawDeg": 190,
       "pitchDeg": 16
     },
     {
@@ -1225,7 +1225,7 @@
         }
       ],
       "code": "#31",
-      "yawDeg": 198.9473684210526,
+      "yawDeg": 210,
       "pitchDeg": 16
     },
     {
@@ -1249,7 +1249,7 @@
         }
       ],
       "code": "#32",
-      "yawDeg": 217.89473684210526,
+      "yawDeg": 230,
       "pitchDeg": 16
     },
     {
@@ -1273,7 +1273,7 @@
         }
       ],
       "code": "#33",
-      "yawDeg": 236.84210526315786,
+      "yawDeg": 250,
       "pitchDeg": 16
     },
     {
@@ -1295,7 +1295,7 @@
           "aspectRatio": 2.003913894324853
         }
       ],
-      "yawDeg": 255.78947368421052,
+      "yawDeg": 270,
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1322,7 +1322,7 @@
         }
       ],
       "code": "#35",
-      "yawDeg": 274.7368421052631,
+      "yawDeg": 290,
       "pitchDeg": 16
     },
     {
@@ -1346,7 +1346,7 @@
         }
       ],
       "code": "#36",
-      "yawDeg": 293.6842105263158,
+      "yawDeg": 310,
       "pitchDeg": 16
     },
     {
@@ -1370,7 +1370,7 @@
         }
       ],
       "code": "#37",
-      "yawDeg": 312.6315789473684,
+      "yawDeg": 330,
       "pitchDeg": 16
     },
     {
@@ -1392,7 +1392,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 331.578947368421,
+      "yawDeg": 350,
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1417,8 +1417,8 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 350.52631578947364,
-      "pitchDeg": 16,
+      "yawDeg": 5,
+      "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#39"
@@ -1442,7 +1442,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 5,
+      "yawDeg": 25,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1469,7 +1469,7 @@
         }
       ],
       "code": "#41",
-      "yawDeg": 25,
+      "yawDeg": 45,
       "pitchDeg": -16
     },
     {
@@ -1493,7 +1493,7 @@
         }
       ],
       "code": "#42",
-      "yawDeg": 45,
+      "yawDeg": 65,
       "pitchDeg": -16
     },
     {
@@ -1524,7 +1524,7 @@
         }
       ],
       "code": "#43",
-      "yawDeg": 65,
+      "yawDeg": 85,
       "pitchDeg": -16
     },
     {
@@ -1548,7 +1548,7 @@
         }
       ],
       "code": "#44",
-      "yawDeg": 85,
+      "yawDeg": 105,
       "pitchDeg": -16
     },
     {
@@ -1556,7 +1556,7 @@
       "code": "#45",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 105,
+      "yawDeg": 125,
       "pitchDeg": -16,
       "title": "desain story",
       "category": "desain",
@@ -1621,7 +1621,7 @@
         }
       ],
       "code": "#46",
-      "yawDeg": 125,
+      "yawDeg": 145,
       "pitchDeg": -16
     },
     {
@@ -1629,7 +1629,7 @@
       "code": "#47",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 145,
+      "yawDeg": 165,
       "pitchDeg": -16,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
@@ -1668,7 +1668,7 @@
           "aspectRatio": 0.5886454183266933
         }
       ],
-      "yawDeg": 165,
+      "yawDeg": 185,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1693,7 +1693,7 @@
           "aspectRatio": 0.6436781609195402
         }
       ],
-      "yawDeg": 185,
+      "yawDeg": 205,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1718,35 +1718,11 @@
           "aspectRatio": 0.8760907504363001
         }
       ],
-      "yawDeg": 205,
+      "yawDeg": 225,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#50"
-    },
-    {
-      "id": "work-08-part-02",
-      "code": "#51",
-      "tier": "equator",
-      "type": "uiux",
-      "yawDeg": 225,
-      "pitchDeg": -16,
-      "title": "Interactive Prototype Flow",
-      "category": "Fintech Mobile UI/UX Design (Figma)",
-      "year": "2025",
-      "committeeRole": "UI/UX Product Designer",
-      "externalUrl": "https://www.figma.com/",
-      "tools": "Figma, Interactive Prototyping, Micro-interactions",
-      "description": "Transisi antar layar menggunakan Smart Animate di Figma.",
-      "accent": "#a855f7",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 02 — Interactive Prototype Flow",
-          "caption": "Transisi antar layar menggunakan Smart Animate di Figma.",
-          "isRealImage": false
-        }
-      ]
     },
     {
       "id": "action-uiux-2nd-winner-part-02",
@@ -1771,7 +1747,7 @@
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#52"
+      "code": "#51"
     },
     {
       "id": "gh-ar2j-website",
@@ -1795,7 +1771,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#53",
+      "code": "#52",
       "yawDeg": 265,
       "pitchDeg": -16
     },
@@ -1821,7 +1797,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#54",
+      "code": "#53",
       "yawDeg": 285,
       "pitchDeg": -16
     },
@@ -1847,7 +1823,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#55",
+      "code": "#54",
       "yawDeg": 305,
       "pitchDeg": -16
     },
@@ -1873,7 +1849,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#56",
+      "code": "#55",
       "yawDeg": 325,
       "pitchDeg": -16
     },
@@ -1899,13 +1875,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#57",
+      "code": "#56",
       "yawDeg": 345,
       "pitchDeg": -16
     },
     {
       "id": "work-09",
-      "code": "#58",
+      "code": "#57",
       "tier": "upper",
       "type": "video",
       "yawDeg": 18,
@@ -1954,7 +1930,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#59",
+      "code": "#58",
       "yawDeg": 42,
       "pitchDeg": 32
     },
@@ -1979,13 +1955,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#60",
+      "code": "#59",
       "yawDeg": 66,
       "pitchDeg": 32
     },
     {
       "id": "work-16",
-      "code": "#61",
+      "code": "#60",
       "tier": "lower",
       "type": "video",
       "yawDeg": 90,
@@ -2035,11 +2011,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#62"
+      "code": "#61"
     },
     {
       "id": "work-10",
-      "code": "#63",
+      "code": "#62",
       "tier": "lower",
       "type": "video",
       "yawDeg": 138,
@@ -2087,7 +2063,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#64",
+      "code": "#63",
       "yawDeg": 162,
       "pitchDeg": 32
     },
@@ -2114,7 +2090,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#65",
+      "code": "#64",
       "yawDeg": 186,
       "pitchDeg": 32
     },
@@ -2141,7 +2117,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#66",
+      "code": "#65",
       "yawDeg": 210,
       "pitchDeg": 32
     },
@@ -2168,7 +2144,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#67",
+      "code": "#66",
       "yawDeg": 234,
       "pitchDeg": 32
     },
@@ -2195,7 +2171,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#68",
+      "code": "#67",
       "yawDeg": 258,
       "pitchDeg": 32
     },
@@ -2222,7 +2198,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#69",
+      "code": "#68",
       "yawDeg": 282,
       "pitchDeg": 32
     },
@@ -2249,7 +2225,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#70",
+      "code": "#69",
       "yawDeg": 306,
       "pitchDeg": 32
     },
@@ -2276,7 +2252,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#71",
+      "code": "#70",
       "yawDeg": 330,
       "pitchDeg": 32
     },
@@ -2307,7 +2283,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#72",
+      "code": "#71",
       "yawDeg": 354,
       "pitchDeg": 32
     },
@@ -2352,7 +2328,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#73",
+      "code": "#72",
       "yawDeg": 9.600000000000001,
       "pitchDeg": -32
     },
@@ -2383,7 +2359,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#74",
+      "code": "#73",
       "yawDeg": 33.6,
       "pitchDeg": -32
     },
@@ -2460,7 +2436,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#75",
+      "code": "#74",
       "yawDeg": 57.6,
       "pitchDeg": -32
     },
@@ -2492,7 +2468,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#76",
+      "code": "#75",
       "yawDeg": 81.6,
       "pitchDeg": -32
     },
@@ -2554,7 +2530,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#77",
+      "code": "#76",
       "yawDeg": 105.6,
       "pitchDeg": -32
     },
@@ -2623,7 +2599,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#78",
+      "code": "#77",
       "yawDeg": 129.6,
       "pitchDeg": -32
     },
@@ -2682,7 +2658,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#79",
+      "code": "#78",
       "yawDeg": 153.6,
       "pitchDeg": -32
     },
@@ -2774,7 +2750,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#80",
+      "code": "#79",
       "yawDeg": 177.6,
       "pitchDeg": -32
     },
@@ -2829,7 +2805,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#81",
+      "code": "#80",
       "yawDeg": 201.6,
       "pitchDeg": -32
     },
@@ -2888,7 +2864,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#82",
+      "code": "#81",
       "yawDeg": 225.6,
       "pitchDeg": -32
     },
@@ -2919,7 +2895,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#83",
+      "code": "#82",
       "yawDeg": 249.6,
       "pitchDeg": -32
     },
@@ -2978,7 +2954,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#84",
+      "code": "#83",
       "yawDeg": 273.6,
       "pitchDeg": -32
     },
@@ -3024,7 +3000,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#85",
+      "code": "#84",
       "yawDeg": 297.6,
       "pitchDeg": -32
     },
@@ -3064,13 +3040,13 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#86",
+      "code": "#85",
       "yawDeg": 321.6,
       "pitchDeg": -32
     },
     {
       "id": "work-14",
-      "code": "#87",
+      "code": "#86",
       "tier": "equator",
       "type": "committee",
       "yawDeg": 345.6,
@@ -3097,5 +3073,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-12T10:29:04.862Z"
+  "lastUpdated": "2026-11-12T10:34:37.330Z"
 }
