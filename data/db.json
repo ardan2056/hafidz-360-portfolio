@@ -1040,6 +1040,28 @@
       "code": "#24"
     },
     {
+      "id": "design-dp3-stop-narkoba",
+      "tier": "upper",
+      "type": "design",
+      "title": "KAMPANYE STOP NARKOBA — Dinas Pangan, Pertanian & Perikanan Balikpapan",
+      "category": "Government Social Media & Campaign",
+      "year": "2024",
+      "tools": "Adobe Photoshop / Illustrator",
+      "description": "Desain konten kampanye edukasi bahaya narkoba untuk Dinas Pangan, Pertanian, dan Perikanan Kota Balikpapan.",
+      "accent": "#15803d",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Poster Kampanye Stop Narkoba — DP3 Balikpapan",
+          "caption": "Kenali bahaya narkoba dan dampaknya bagi kehidupan.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dp3-stop-narkoba.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.8
+        }
+      ],
+      "code": "#25"
+    },
+    {
       "id": "design-dp3-balikpapan-bibit",
       "tier": "upper",
       "type": "design",
@@ -1066,7 +1088,7 @@
           "aspectRatio": 0.7998046875
         }
       ],
-      "code": "#25",
+      "code": "#26",
       "yawDeg": 273.6,
       "pitchDeg": -32
     },
@@ -1093,7 +1115,7 @@
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#26"
+      "code": "#27"
     },
     {
       "id": "design-sugeng-ambal-warsa",
@@ -1115,7 +1137,7 @@
           "aspectRatio": 0.560546875
         }
       ],
-      "code": "#27",
+      "code": "#28",
       "yawDeg": 201.6,
       "pitchDeg": -32
     },
@@ -1142,7 +1164,7 @@
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#28"
+      "code": "#29"
     },
     {
       "id": "design-fsti-hut-ri-80",
@@ -1164,7 +1186,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#29",
+      "code": "#30",
       "yawDeg": 9.600000000000001,
       "pitchDeg": -32
     },
@@ -1188,7 +1210,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#30",
+      "code": "#31",
       "yawDeg": 33.6,
       "pitchDeg": -32
     },
@@ -1212,7 +1234,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#31",
+      "code": "#32",
       "yawDeg": 345.6,
       "pitchDeg": -32
     },
@@ -1236,7 +1258,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#32",
+      "code": "#33",
       "yawDeg": 354,
       "pitchDeg": 32
     },
@@ -1263,7 +1285,7 @@
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#33"
+      "code": "#34"
     },
     {
       "id": "design-mercedes-190sl-vintage",
@@ -1285,7 +1307,7 @@
           "aspectRatio": 0.7998046875
         }
       ],
-      "code": "#34",
+      "code": "#35",
       "yawDeg": 321.6,
       "pitchDeg": -32
     },
@@ -1309,7 +1331,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#35",
+      "code": "#36",
       "yawDeg": 57.6,
       "pitchDeg": -32
     },
@@ -1333,7 +1355,7 @@
           "aspectRatio": 0.7998046875
         }
       ],
-      "code": "#36",
+      "code": "#37",
       "yawDeg": 297.6,
       "pitchDeg": -32
     },
@@ -1360,7 +1382,7 @@
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#37"
+      "code": "#38"
     },
     {
       "id": "econiq-ch3-2026-part-02",
@@ -1385,7 +1407,7 @@
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#38"
+      "code": "#39"
     },
     {
       "id": "econiq-ch3-2026-part-01",
@@ -1410,7 +1432,7 @@
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#39"
+      "code": "#40"
     },
     {
       "id": "design-infografis-literasi-genz",
@@ -1432,7 +1454,7 @@
           "aspectRatio": 0.70703125
         }
       ],
-      "code": "#40",
+      "code": "#41",
       "yawDeg": 249.6,
       "pitchDeg": -32
     },
@@ -1456,7 +1478,7 @@
           "aspectRatio": 0.70703125
         }
       ],
-      "code": "#41",
+      "code": "#42",
       "yawDeg": 225.6,
       "pitchDeg": -32
     },
@@ -1487,7 +1509,7 @@
           "aspectRatio": 0.74609375
         }
       ],
-      "code": "#42",
+      "code": "#43",
       "yawDeg": 153.6,
       "pitchDeg": -32
     },
@@ -1511,13 +1533,13 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#43",
+      "code": "#44",
       "yawDeg": 177.6,
       "pitchDeg": -32
     },
     {
       "id": "work-08-part-01",
-      "code": "#44",
+      "code": "#45",
       "tier": "lower",
       "type": "design",
       "yawDeg": 18.94736842105263,
@@ -1584,13 +1606,13 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#45",
+      "code": "#46",
       "yawDeg": 18,
       "pitchDeg": 32
     },
     {
       "id": "work-15",
-      "code": "#46",
+      "code": "#47",
       "tier": "upper",
       "type": "design",
       "yawDeg": 94.73684210526315,
@@ -1636,7 +1658,7 @@
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#47"
+      "code": "#48"
     },
     {
       "id": "bionic-design-2026-part-03",
@@ -1661,7 +1683,7 @@
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#48"
+      "code": "#49"
     },
     {
       "id": "action-uiux-2nd-winner-part-01",
@@ -1686,7 +1708,31 @@
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#49"
+      "code": "#50"
+    },
+    {
+      "id": "work-08-part-02",
+      "code": "#51",
+      "tier": "equator",
+      "type": "uiux",
+      "yawDeg": 37.89473684210526,
+      "pitchDeg": 0,
+      "title": "Interactive Prototype Flow",
+      "category": "Fintech Mobile UI/UX Design (Figma)",
+      "year": "2025",
+      "committeeRole": "UI/UX Product Designer",
+      "externalUrl": "https://www.figma.com/",
+      "tools": "Figma, Interactive Prototyping, Micro-interactions",
+      "description": "Transisi antar layar menggunakan Smart Animate di Figma.",
+      "accent": "#a855f7",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Slide 02 — Interactive Prototype Flow",
+          "caption": "Transisi antar layar menggunakan Smart Animate di Figma.",
+          "isRealImage": false
+        }
+      ]
     },
     {
       "id": "action-uiux-2nd-winner-part-02",
@@ -1711,7 +1757,7 @@
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#50"
+      "code": "#52"
     },
     {
       "id": "gh-ar2j-website",
@@ -1735,7 +1781,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#51",
+      "code": "#53",
       "yawDeg": 265,
       "pitchDeg": -16
     },
@@ -1761,9 +1807,35 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#52",
+      "code": "#54",
       "yawDeg": 285,
       "pitchDeg": -16
+    },
+    {
+      "id": "gh-cafefinder-app",
+      "tier": "upper",
+      "type": "webgame",
+      "title": "CAFEFINDER — Aplikasi Pencarian Kafe, Peta & Pelacak Kunjungan",
+      "category": "Mobile App (Flutter / Dart)",
+      "year": "2026",
+      "tools": "Flutter, Dart, Maps Integration, Community Hub",
+      "description": "Aplikasi pencarian kafe terbaik dengan fitur peta interaktif, community hub, dan pelacak kunjungan.",
+      "accent": "#d97706",
+      "currentSlide": 0,
+      "directLink": "https://github.com/ardan2056/cafefinder",
+      "externalUrl": "https://github.com/ardan2056/cafefinder",
+      "slides": [
+        {
+          "title": "CafeFinder — Flutter App",
+          "caption": "Repository: https://github.com/ardan2056/cafefinder",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/app-cafefinder-real.png",
+          "isRealImage": true,
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "code": "#55",
+      "yawDeg": 321.4285714285714,
+      "pitchDeg": 32
     },
     {
       "id": "gh-saadah-bakery-pos",
@@ -1787,7 +1859,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#53",
+      "code": "#56",
       "yawDeg": 245,
       "pitchDeg": -16
     },
@@ -1813,7 +1885,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#54",
+      "code": "#57",
       "yawDeg": 225,
       "pitchDeg": -16
     },
@@ -1839,13 +1911,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#55",
+      "code": "#58",
       "yawDeg": 205,
       "pitchDeg": -16
     },
     {
       "id": "work-09",
-      "code": "#56",
+      "code": "#59",
       "tier": "upper",
       "type": "video",
       "yawDeg": 37.89473684210526,
@@ -1894,7 +1966,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#57",
+      "code": "#60",
       "yawDeg": 325,
       "pitchDeg": -16
     },
@@ -1919,13 +1991,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#58",
+      "code": "#61",
       "yawDeg": 185,
       "pitchDeg": -16
     },
     {
       "id": "work-16",
-      "code": "#59",
+      "code": "#62",
       "tier": "lower",
       "type": "video",
       "yawDeg": 113.68421052631578,
@@ -1975,11 +2047,11 @@
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#60"
+      "code": "#63"
     },
     {
       "id": "work-10",
-      "code": "#61",
+      "code": "#64",
       "tier": "lower",
       "type": "video",
       "yawDeg": 56.84210526315789,
@@ -2027,7 +2099,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#62",
+      "code": "#65",
       "yawDeg": 305,
       "pitchDeg": -16
     },
@@ -2054,7 +2126,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#63",
+      "code": "#66",
       "yawDeg": 85,
       "pitchDeg": -16
     },
@@ -2081,7 +2153,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#64",
+      "code": "#67",
       "yawDeg": 65,
       "pitchDeg": -16
     },
@@ -2108,7 +2180,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#65",
+      "code": "#68",
       "yawDeg": 105,
       "pitchDeg": -16
     },
@@ -2135,7 +2207,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#66",
+      "code": "#69",
       "yawDeg": 165,
       "pitchDeg": -16
     },
@@ -2162,7 +2234,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#67",
+      "code": "#70",
       "yawDeg": 125,
       "pitchDeg": -16
     },
@@ -2189,7 +2261,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#68",
+      "code": "#71",
       "yawDeg": 45,
       "pitchDeg": -16
     },
@@ -2216,7 +2288,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#69",
+      "code": "#72",
       "yawDeg": 145,
       "pitchDeg": -16
     },
@@ -2247,7 +2319,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#70",
+      "code": "#73",
       "yawDeg": 234,
       "pitchDeg": 32
     },
@@ -2292,7 +2364,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#71",
+      "code": "#74",
       "yawDeg": 306,
       "pitchDeg": 32
     },
@@ -2323,7 +2395,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#72",
+      "code": "#75",
       "yawDeg": 186,
       "pitchDeg": 32
     },
@@ -2400,7 +2472,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#73",
+      "code": "#76",
       "yawDeg": 138,
       "pitchDeg": 32
     },
@@ -2432,7 +2504,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#74",
+      "code": "#77",
       "yawDeg": 90,
       "pitchDeg": 32
     },
@@ -2494,7 +2566,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#75",
+      "code": "#78",
       "yawDeg": 282,
       "pitchDeg": 32
     },
@@ -2563,7 +2635,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#76",
+      "code": "#79",
       "yawDeg": 258,
       "pitchDeg": 32
     },
@@ -2622,7 +2694,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#77",
+      "code": "#80",
       "yawDeg": 114,
       "pitchDeg": 32
     },
@@ -2714,7 +2786,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#78",
+      "code": "#81",
       "yawDeg": 81.6,
       "pitchDeg": -32
     },
@@ -2769,7 +2841,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#79",
+      "code": "#82",
       "yawDeg": 162,
       "pitchDeg": 32
     },
@@ -2828,7 +2900,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#80",
+      "code": "#83",
       "yawDeg": 345,
       "pitchDeg": -16
     },
@@ -2859,7 +2931,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#81",
+      "code": "#84",
       "yawDeg": 210,
       "pitchDeg": 32
     },
@@ -2897,7 +2969,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#82",
+      "code": "#85",
       "yawDeg": 330,
       "pitchDeg": 32
     },
@@ -2943,7 +3015,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#83",
+      "code": "#86",
       "yawDeg": 66,
       "pitchDeg": 32
     },
@@ -2983,13 +3055,13 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#84",
+      "code": "#87",
       "yawDeg": 42,
       "pitchDeg": 32
     },
     {
       "id": "work-14",
-      "code": "#85",
+      "code": "#88",
       "tier": "equator",
       "type": "committee",
       "yawDeg": 75.78947368421052,
@@ -3016,5 +3088,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-12T10:15:58.571Z"
+  "lastUpdated": "2026-11-12T10:17:09.467Z"
 }
