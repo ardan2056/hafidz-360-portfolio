@@ -1072,7 +1072,7 @@
         }
       ],
       "code": "#25",
-      "yawDeg": 9.473684210526315,
+      "yawDeg": 9,
       "pitchDeg": 22
     },
     {
@@ -1103,7 +1103,7 @@
         }
       ],
       "code": "#26",
-      "yawDeg": 28.421052631578945,
+      "yawDeg": 27,
       "pitchDeg": 22
     },
     {
@@ -1125,7 +1125,7 @@
           "aspectRatio": 1
         }
       ],
-      "yawDeg": 47.368421052631575,
+      "yawDeg": 45,
       "pitchDeg": 22,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1152,7 +1152,7 @@
         }
       ],
       "code": "#28",
-      "yawDeg": 66.3157894736842,
+      "yawDeg": 63,
       "pitchDeg": 22
     },
     {
@@ -1174,7 +1174,7 @@
           "aspectRatio": 1.501466275659824
         }
       ],
-      "yawDeg": 85.26315789473684,
+      "yawDeg": 81,
       "pitchDeg": 22,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1201,7 +1201,7 @@
         }
       ],
       "code": "#30",
-      "yawDeg": 104.21052631578947,
+      "yawDeg": 99,
       "pitchDeg": 22
     },
     {
@@ -1225,7 +1225,7 @@
         }
       ],
       "code": "#31",
-      "yawDeg": 123.1578947368421,
+      "yawDeg": 117,
       "pitchDeg": 22
     },
     {
@@ -1249,7 +1249,7 @@
         }
       ],
       "code": "#32",
-      "yawDeg": 142.10526315789474,
+      "yawDeg": 135,
       "pitchDeg": 22
     },
     {
@@ -1273,7 +1273,7 @@
         }
       ],
       "code": "#33",
-      "yawDeg": 161.05263157894734,
+      "yawDeg": 153,
       "pitchDeg": 22
     },
     {
@@ -1295,7 +1295,7 @@
           "aspectRatio": 2.003913894324853
         }
       ],
-      "yawDeg": 180,
+      "yawDeg": 171,
       "pitchDeg": 22,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1322,7 +1322,7 @@
         }
       ],
       "code": "#35",
-      "yawDeg": 198.9473684210526,
+      "yawDeg": 189,
       "pitchDeg": 22
     },
     {
@@ -1346,7 +1346,7 @@
         }
       ],
       "code": "#36",
-      "yawDeg": 217.89473684210526,
+      "yawDeg": 207,
       "pitchDeg": 22
     },
     {
@@ -1370,7 +1370,7 @@
         }
       ],
       "code": "#37",
-      "yawDeg": 236.84210526315786,
+      "yawDeg": 225,
       "pitchDeg": 22
     },
     {
@@ -1392,7 +1392,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 255.78947368421052,
+      "yawDeg": 243,
       "pitchDeg": 22,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1417,7 +1417,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 274.7368421052631,
+      "yawDeg": 261,
       "pitchDeg": 22,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1442,7 +1442,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 293.6842105263158,
+      "yawDeg": 279,
       "pitchDeg": 22,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1469,7 +1469,7 @@
         }
       ],
       "code": "#41",
-      "yawDeg": 312.6315789473684,
+      "yawDeg": 297,
       "pitchDeg": 22
     },
     {
@@ -1493,7 +1493,7 @@
         }
       ],
       "code": "#42",
-      "yawDeg": 331.578947368421,
+      "yawDeg": 315,
       "pitchDeg": 22
     },
     {
@@ -1524,7 +1524,7 @@
         }
       ],
       "code": "#43",
-      "yawDeg": 350.52631578947364,
+      "yawDeg": 333,
       "pitchDeg": 22
     },
     {
@@ -1548,15 +1548,15 @@
         }
       ],
       "code": "#44",
-      "yawDeg": 4.7368421052631575,
-      "pitchDeg": -22
+      "yawDeg": 351,
+      "pitchDeg": 22
     },
     {
       "id": "work-08-part-01",
       "code": "#45",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 23.684210526315788,
+      "yawDeg": 4.7368421052631575,
       "pitchDeg": -22,
       "title": "desain story",
       "category": "desain",
@@ -1621,7 +1621,7 @@
         }
       ],
       "code": "#46",
-      "yawDeg": 42.63157894736842,
+      "yawDeg": 23.684210526315788,
       "pitchDeg": -22
     },
     {
@@ -1629,7 +1629,7 @@
       "code": "#47",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 61.57894736842105,
+      "yawDeg": 42.63157894736842,
       "pitchDeg": -22,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
@@ -1668,7 +1668,7 @@
           "aspectRatio": 0.5886454183266933
         }
       ],
-      "yawDeg": 80.52631578947367,
+      "yawDeg": 61.57894736842105,
       "pitchDeg": -22,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1693,7 +1693,7 @@
           "aspectRatio": 0.6436781609195402
         }
       ],
-      "yawDeg": 99.4736842105263,
+      "yawDeg": 80.52631578947367,
       "pitchDeg": -22,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1718,7 +1718,7 @@
           "aspectRatio": 0.8760907504363001
         }
       ],
-      "yawDeg": 118.42105263157893,
+      "yawDeg": 99.4736842105263,
       "pitchDeg": -22,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1743,7 +1743,7 @@
           "aspectRatio": 0.744140625
         }
       ],
-      "yawDeg": 137.36842105263156,
+      "yawDeg": 118.42105263157893,
       "pitchDeg": -22,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1772,7 +1772,7 @@
         }
       ],
       "code": "#52",
-      "yawDeg": 156.3157894736842,
+      "yawDeg": 137.36842105263156,
       "pitchDeg": -22
     },
     {
@@ -1798,7 +1798,7 @@
         }
       ],
       "code": "#53",
-      "yawDeg": 175.26315789473682,
+      "yawDeg": 156.3157894736842,
       "pitchDeg": -22
     },
     {
@@ -1824,7 +1824,7 @@
         }
       ],
       "code": "#54",
-      "yawDeg": 194.21052631578945,
+      "yawDeg": 175.26315789473682,
       "pitchDeg": -22
     },
     {
@@ -1850,7 +1850,7 @@
         }
       ],
       "code": "#55",
-      "yawDeg": 213.15789473684208,
+      "yawDeg": 194.21052631578945,
       "pitchDeg": -22
     },
     {
@@ -1876,7 +1876,7 @@
         }
       ],
       "code": "#56",
-      "yawDeg": 232.1052631578947,
+      "yawDeg": 213.15789473684208,
       "pitchDeg": -22
     },
     {
@@ -1902,7 +1902,7 @@
         }
       ],
       "code": "#57",
-      "yawDeg": 251.05263157894734,
+      "yawDeg": 232.1052631578947,
       "pitchDeg": -22
     },
     {
@@ -1910,7 +1910,7 @@
       "code": "#58",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 270,
+      "yawDeg": 251.05263157894734,
       "pitchDeg": -22,
       "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
@@ -1957,7 +1957,7 @@
         }
       ],
       "code": "#59",
-      "yawDeg": 288.94736842105266,
+      "yawDeg": 270,
       "pitchDeg": -22
     },
     {
@@ -1982,7 +1982,7 @@
         }
       ],
       "code": "#60",
-      "yawDeg": 307.89473684210526,
+      "yawDeg": 288.94736842105266,
       "pitchDeg": -22
     },
     {
@@ -1990,7 +1990,7 @@
       "code": "#61",
       "tier": "lower",
       "type": "video",
-      "yawDeg": 326.84210526315786,
+      "yawDeg": 307.89473684210526,
       "pitchDeg": -22,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
@@ -2033,7 +2033,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 345.7894736842105,
+      "yawDeg": 326.84210526315786,
       "pitchDeg": -22,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2044,8 +2044,8 @@
       "code": "#63",
       "tier": "lower",
       "type": "video",
-      "yawDeg": 20.76923076923077,
-      "pitchDeg": 44,
+      "yawDeg": 345.7894736842105,
+      "pitchDeg": -22,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
       "year": "2025",
@@ -2090,7 +2090,7 @@
         }
       ],
       "code": "#64",
-      "yawDeg": 48.46153846153847,
+      "yawDeg": 20.76923076923077,
       "pitchDeg": 44
     },
     {
@@ -2117,7 +2117,7 @@
         }
       ],
       "code": "#65",
-      "yawDeg": 76.15384615384616,
+      "yawDeg": 48.46153846153847,
       "pitchDeg": 44
     },
     {
@@ -2144,7 +2144,7 @@
         }
       ],
       "code": "#66",
-      "yawDeg": 103.84615384615385,
+      "yawDeg": 76.15384615384616,
       "pitchDeg": 44
     },
     {
@@ -2171,7 +2171,7 @@
         }
       ],
       "code": "#67",
-      "yawDeg": 131.53846153846155,
+      "yawDeg": 103.84615384615385,
       "pitchDeg": 44
     },
     {
@@ -2198,7 +2198,7 @@
         }
       ],
       "code": "#68",
-      "yawDeg": 159.23076923076923,
+      "yawDeg": 131.53846153846155,
       "pitchDeg": 44
     },
     {
@@ -2225,7 +2225,7 @@
         }
       ],
       "code": "#69",
-      "yawDeg": 186.92307692307693,
+      "yawDeg": 159.23076923076923,
       "pitchDeg": 44
     },
     {
@@ -2252,7 +2252,7 @@
         }
       ],
       "code": "#70",
-      "yawDeg": 214.61538461538464,
+      "yawDeg": 186.92307692307693,
       "pitchDeg": 44
     },
     {
@@ -2279,7 +2279,7 @@
         }
       ],
       "code": "#71",
-      "yawDeg": 242.30769230769232,
+      "yawDeg": 214.61538461538464,
       "pitchDeg": 44
     },
     {
@@ -2310,7 +2310,7 @@
         }
       ],
       "code": "#72",
-      "yawDeg": 270,
+      "yawDeg": 242.30769230769232,
       "pitchDeg": 44
     },
     {
@@ -2355,7 +2355,7 @@
         }
       ],
       "code": "#73",
-      "yawDeg": 297.6923076923077,
+      "yawDeg": 270,
       "pitchDeg": 44
     },
     {
@@ -2386,7 +2386,7 @@
         }
       ],
       "code": "#74",
-      "yawDeg": 325.3846153846154,
+      "yawDeg": 297.6923076923077,
       "pitchDeg": 44
     },
     {
@@ -2463,7 +2463,7 @@
         }
       ],
       "code": "#75",
-      "yawDeg": 353.0769230769231,
+      "yawDeg": 325.3846153846154,
       "pitchDeg": 44
     },
     {
@@ -2495,8 +2495,8 @@
         }
       ],
       "code": "#76",
-      "yawDeg": 11.076923076923078,
-      "pitchDeg": -44
+      "yawDeg": 353.0769230769231,
+      "pitchDeg": 44
     },
     {
       "id": "pdd-expo-booth-bisdig",
@@ -2557,7 +2557,7 @@
         }
       ],
       "code": "#77",
-      "yawDeg": 38.769230769230774,
+      "yawDeg": 11.076923076923078,
       "pitchDeg": -44
     },
     {
@@ -2626,7 +2626,7 @@
         }
       ],
       "code": "#78",
-      "yawDeg": 66.46153846153847,
+      "yawDeg": 38.769230769230774,
       "pitchDeg": -44
     },
     {
@@ -2685,7 +2685,7 @@
         }
       ],
       "code": "#79",
-      "yawDeg": 94.15384615384616,
+      "yawDeg": 66.46153846153847,
       "pitchDeg": -44
     },
     {
@@ -2777,7 +2777,7 @@
         }
       ],
       "code": "#80",
-      "yawDeg": 121.84615384615385,
+      "yawDeg": 94.15384615384616,
       "pitchDeg": -44
     },
     {
@@ -2832,7 +2832,7 @@
         }
       ],
       "code": "#81",
-      "yawDeg": 149.53846153846152,
+      "yawDeg": 121.84615384615385,
       "pitchDeg": -44
     },
     {
@@ -2891,7 +2891,7 @@
         }
       ],
       "code": "#82",
-      "yawDeg": 177.23076923076923,
+      "yawDeg": 149.53846153846152,
       "pitchDeg": -44
     },
     {
@@ -2922,7 +2922,7 @@
         }
       ],
       "code": "#83",
-      "yawDeg": 204.92307692307693,
+      "yawDeg": 177.23076923076923,
       "pitchDeg": -44
     },
     {
@@ -2981,7 +2981,7 @@
         }
       ],
       "code": "#84",
-      "yawDeg": 232.6153846153846,
+      "yawDeg": 204.92307692307693,
       "pitchDeg": -44
     },
     {
@@ -3027,7 +3027,7 @@
         }
       ],
       "code": "#85",
-      "yawDeg": 260.3076923076923,
+      "yawDeg": 232.6153846153846,
       "pitchDeg": -44
     },
     {
@@ -3067,7 +3067,7 @@
         }
       ],
       "code": "#86",
-      "yawDeg": 288,
+      "yawDeg": 260.3076923076923,
       "pitchDeg": -44
     },
     {
@@ -3075,7 +3075,7 @@
       "code": "#87",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 315.69230769230774,
+      "yawDeg": 288,
       "pitchDeg": -44,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
@@ -3117,7 +3117,37 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/1794502762672-IMG_2290.jpeg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.75
+          "aspectRatio": 1.7777777777777777
+        },
+        {
+          "title": "Slide 02 — Dokumentasi & Detail",
+          "caption": "Rincian proses kerja.",
+          "isRealImage": false
+        }
+      ],
+      "yawDeg": 315.69230769230774,
+      "pitchDeg": -44
+    },
+    {
+      "id": "work-1794502770698",
+      "code": "#89",
+      "tier": "equator",
+      "type": "uiux",
+      "year": "2026",
+      "title": "Sahrul",
+      "category": "UI/UX & FIGMA",
+      "externalUrl": "",
+      "directLink": "",
+      "description": "Karya oleh M. Hafidz Ardan.",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Slide 01 — Sahrul",
+          "caption": "Sahrul",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/1794502766135-IMG_2290.jpeg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 1.7777777777777777
         },
         {
           "title": "Slide 02 — Dokumentasi & Detail",
