@@ -199,7 +199,7 @@
       "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
       "description": "Kumpulan foto dokumentasi M. Hafidz Ardan saat sedang berkegiatan aktif di lapangan: memegang kamera produksi, mengarahkan kru panggung, hingga merancang UI/UX.",
       "accent": "#6366f1",
-      "currentSlide": 12,
+      "currentSlide": 16,
       "slides": [
         {
           "title": "Slide 01 — Bertugas Pegang Kamera (Koor Multimedia)",
@@ -755,7 +755,7 @@
       "code": "#15",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 71.42857142857143,
+      "yawDeg": 80,
       "pitchDeg": -17,
       "title": "GRIDCRAFT — Poster & Editorial Archive",
       "category": "Swiss & Modernist Poster Series",
@@ -782,7 +782,7 @@
       "code": "#16",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 122.85714285714286,
+      "yawDeg": 140,
       "pitchDeg": -17,
       "title": "KEPANITIAAN KOMPETISI KREATIF — Koor Kreatif",
       "category": "Kepanitiaan Lomba & Pameran",
@@ -808,40 +808,11 @@
       ]
     },
     {
-      "id": "work-20",
+      "id": "work-21",
       "code": "#17",
       "tier": "lower",
-      "type": "video",
-      "yawDeg": 174.28571428571428,
-      "pitchDeg": -17,
-      "title": "ECHOES — Concert & Stage Highlights",
-      "category": "Stage Videography & Color Grading",
-      "year": "2023",
-      "videoDuration": "02:05",
-      "videoResolution": "1080P 60FPS",
-      "tools": "Premiere Pro, DaVinci Resolve, Low-Light Lens",
-      "description": "Dokumentasi video panggung malam hari dengan penanganan pencahayaan kontras tinggi dan grading warna biru-cyan sinematik.",
-      "accent": "#0ea5e9",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 01 — Stage Highlight Cut (Play Video)",
-          "caption": "Rekaman atmosfer panggung dan sorot lampu spektakuler.",
-          "imageSrc": "https://img.youtube.com/vi/LXb3EKWsInQ/hqdefault.jpg",
-          "videoSrc": "https://www.youtube.com/watch?v=LXb3EKWsInQ",
-          "isRealImage": true,
-          "aspectRatio": 1.3333333333333333
-        }
-      ],
-      "directLink": "https://www.youtube.com/watch?v=LXb3EKWsInQ",
-      "externalUrl": "https://www.youtube.com/watch?v=LXb3EKWsInQ"
-    },
-    {
-      "id": "work-21",
-      "code": "#18",
-      "tier": "lower",
       "type": "design",
-      "yawDeg": 225.71428571428572,
+      "yawDeg": 200,
       "pitchDeg": -17,
       "title": "BLUEPRINT — Brand Guidelines Book",
       "category": "Design System & GSM Book",
@@ -865,10 +836,10 @@
     },
     {
       "id": "work-23",
-      "code": "#19",
+      "code": "#18",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 277.14285714285717,
+      "yawDeg": 260,
       "pitchDeg": -17,
       "title": "META LAYER — PSD Artboard Breakdown",
       "category": "Behind The Design Concept",
@@ -892,10 +863,10 @@
     },
     {
       "id": "work-24",
-      "code": "#20",
+      "code": "#19",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 328.57142857142856,
+      "yawDeg": 320,
       "pitchDeg": -17,
       "title": "INFINITY — 360° Interactive Dome Space",
       "category": "Interactive WebGL Exhibition",
@@ -919,7 +890,7 @@
     },
     {
       "id": "work-1794369861425",
-      "code": "#21",
+      "code": "#20",
       "tier": "equator",
       "type": "video",
       "year": "2026",
@@ -951,5 +922,5 @@
       "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
     }
   ],
-  "lastUpdated": "2026-11-12T08:00:18.727Z"
+  "lastUpdated": "2026-11-12T08:01:04.175Z"
 }
