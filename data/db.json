@@ -1043,7 +1043,7 @@
           "caption": "Kenali bahaya narkoba dan dampaknya bagi kehidupan.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dp3-stop-narkoba.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.7948
+          "aspectRatio": 0.794841735052755
         }
       ],
       "code": "#24",
@@ -1067,11 +1067,11 @@
           "caption": "Edukasi bahaya narkoba bagi kesehatan fisik dan mental serta langkah pencegahan SIAGA.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dp3-stop-narkoba-02.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.8
+          "aspectRatio": 0.7990543735224587
         }
       ],
-      "code": "#24b",
-      "yawDeg": 18.0,
+      "code": "#25",
+      "yawDeg": 28.421052631578945,
       "pitchDeg": 22
     },
     {
@@ -1101,8 +1101,8 @@
           "aspectRatio": 0.7998046875
         }
       ],
-      "code": "#25",
-      "yawDeg": 28.421052631578945,
+      "code": "#26",
+      "yawDeg": 47.368421052631575,
       "pitchDeg": 22
     },
     {
@@ -1124,11 +1124,11 @@
           "aspectRatio": 1
         }
       ],
-      "yawDeg": 47.368421052631575,
+      "yawDeg": 66.3157894736842,
       "pitchDeg": 22,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#26"
+      "code": "#27"
     },
     {
       "id": "design-sugeng-ambal-warsa",
@@ -1150,8 +1150,8 @@
           "aspectRatio": 0.560546875
         }
       ],
-      "code": "#27",
-      "yawDeg": 66.3157894736842,
+      "code": "#28",
+      "yawDeg": 85.26315789473684,
       "pitchDeg": 22
     },
     {
@@ -1173,11 +1173,11 @@
           "aspectRatio": 1.501466275659824
         }
       ],
-      "yawDeg": 85.26315789473684,
+      "yawDeg": 104.21052631578947,
       "pitchDeg": 22,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#28"
+      "code": "#29"
     },
     {
       "id": "design-fsti-hut-ri-80",
@@ -1199,8 +1199,8 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#29",
-      "yawDeg": 104.21052631578947,
+      "code": "#30",
+      "yawDeg": 123.1578947368421,
       "pitchDeg": 22
     },
     {
@@ -1223,8 +1223,8 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#30",
-      "yawDeg": 123.1578947368421,
+      "code": "#31",
+      "yawDeg": 142.10526315789474,
       "pitchDeg": 22
     },
     {
@@ -1247,8 +1247,8 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#31",
-      "yawDeg": 142.10526315789474,
+      "code": "#32",
+      "yawDeg": 161.05263157894734,
       "pitchDeg": 22
     },
     {
@@ -1271,8 +1271,8 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#32",
-      "yawDeg": 161.05263157894734,
+      "code": "#33",
+      "yawDeg": 180,
       "pitchDeg": 22
     },
     {
@@ -1294,11 +1294,11 @@
           "aspectRatio": 2.003913894324853
         }
       ],
-      "yawDeg": 180,
+      "yawDeg": 198.9473684210526,
       "pitchDeg": 22,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#33"
+      "code": "#34"
     },
     {
       "id": "design-mercedes-190sl-vintage",
@@ -1320,8 +1320,8 @@
           "aspectRatio": 0.7998046875
         }
       ],
-      "code": "#34",
-      "yawDeg": 198.9473684210526,
+      "code": "#35",
+      "yawDeg": 217.89473684210526,
       "pitchDeg": 22
     },
     {
@@ -1344,8 +1344,8 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#35",
-      "yawDeg": 217.89473684210526,
+      "code": "#36",
+      "yawDeg": 236.84210526315786,
       "pitchDeg": 22
     },
     {
@@ -1368,8 +1368,8 @@
           "aspectRatio": 0.7998046875
         }
       ],
-      "code": "#36",
-      "yawDeg": 236.84210526315786,
+      "code": "#37",
+      "yawDeg": 255.78947368421052,
       "pitchDeg": 22
     },
     {
@@ -1391,11 +1391,11 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 255.78947368421052,
+      "yawDeg": 274.7368421052631,
       "pitchDeg": 22,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#37"
+      "code": "#38"
     },
     {
       "id": "econiq-ch3-2026-part-02",
@@ -1416,11 +1416,11 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 274.7368421052631,
+      "yawDeg": 293.6842105263158,
       "pitchDeg": 22,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#38"
+      "code": "#39"
     },
     {
       "id": "econiq-ch3-2026-part-01",
@@ -1441,11 +1441,11 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 293.6842105263158,
+      "yawDeg": 312.6315789473684,
       "pitchDeg": 22,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#39"
+      "code": "#40"
     },
     {
       "id": "design-infografis-literasi-genz",
@@ -1467,8 +1467,8 @@
           "aspectRatio": 0.70703125
         }
       ],
-      "code": "#40",
-      "yawDeg": 312.6315789473684,
+      "code": "#41",
+      "yawDeg": 331.578947368421,
       "pitchDeg": 22
     },
     {
@@ -1491,8 +1491,8 @@
           "aspectRatio": 0.70703125
         }
       ],
-      "code": "#41",
-      "yawDeg": 331.578947368421,
+      "code": "#42",
+      "yawDeg": 350.52631578947364,
       "pitchDeg": 22
     },
     {
@@ -1522,9 +1522,9 @@
           "aspectRatio": 0.74609375
         }
       ],
-      "code": "#42",
-      "yawDeg": 350.52631578947364,
-      "pitchDeg": 22
+      "code": "#43",
+      "yawDeg": 4.7368421052631575,
+      "pitchDeg": -22
     },
     {
       "id": "design-kyaiku-halftone",
@@ -1546,16 +1546,16 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#43",
-      "yawDeg": 5,
+      "code": "#44",
+      "yawDeg": 23.684210526315788,
       "pitchDeg": -22
     },
     {
       "id": "work-08-part-01",
-      "code": "#44",
+      "code": "#45",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 25,
+      "yawDeg": 42.63157894736842,
       "pitchDeg": -22,
       "title": "desain story",
       "category": "desain",
@@ -1619,16 +1619,16 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#45",
-      "yawDeg": 45,
+      "code": "#46",
+      "yawDeg": 61.57894736842105,
       "pitchDeg": -22
     },
     {
       "id": "work-15",
-      "code": "#46",
+      "code": "#47",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 65,
+      "yawDeg": 80.52631578947367,
       "pitchDeg": -22,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
@@ -1667,11 +1667,11 @@
           "aspectRatio": 0.5886454183266933
         }
       ],
-      "yawDeg": 85,
+      "yawDeg": 99.4736842105263,
       "pitchDeg": -22,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#47"
+      "code": "#48"
     },
     {
       "id": "bionic-design-2026-part-03",
@@ -1692,11 +1692,11 @@
           "aspectRatio": 0.6436781609195402
         }
       ],
-      "yawDeg": 105,
+      "yawDeg": 118.42105263157893,
       "pitchDeg": -22,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#48"
+      "code": "#49"
     },
     {
       "id": "action-uiux-2nd-winner-part-01",
@@ -1717,11 +1717,11 @@
           "aspectRatio": 0.8760907504363001
         }
       ],
-      "yawDeg": 125,
+      "yawDeg": 137.36842105263156,
       "pitchDeg": -22,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#49"
+      "code": "#50"
     },
     {
       "id": "action-uiux-2nd-winner-part-02",
@@ -1742,11 +1742,11 @@
           "aspectRatio": 0.744140625
         }
       ],
-      "yawDeg": 145,
+      "yawDeg": 156.3157894736842,
       "pitchDeg": -22,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#50"
+      "code": "#51"
     },
     {
       "id": "gh-ar2j-website",
@@ -1770,8 +1770,8 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#51",
-      "yawDeg": 165,
+      "code": "#52",
+      "yawDeg": 175.26315789473682,
       "pitchDeg": -22
     },
     {
@@ -1796,8 +1796,8 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#52",
-      "yawDeg": 185,
+      "code": "#53",
+      "yawDeg": 194.21052631578945,
       "pitchDeg": -22
     },
     {
@@ -1822,8 +1822,8 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#53",
-      "yawDeg": 205,
+      "code": "#54",
+      "yawDeg": 213.15789473684208,
       "pitchDeg": -22
     },
     {
@@ -1848,8 +1848,8 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#54",
-      "yawDeg": 225,
+      "code": "#55",
+      "yawDeg": 232.1052631578947,
       "pitchDeg": -22
     },
     {
@@ -1874,8 +1874,8 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#55",
-      "yawDeg": 245,
+      "code": "#56",
+      "yawDeg": 251.05263157894734,
       "pitchDeg": -22
     },
     {
@@ -1900,16 +1900,16 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#56",
-      "yawDeg": 265,
+      "code": "#57",
+      "yawDeg": 270,
       "pitchDeg": -22
     },
     {
       "id": "work-09",
-      "code": "#57",
+      "code": "#58",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 285,
+      "yawDeg": 288.94736842105266,
       "pitchDeg": -22,
       "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
@@ -1955,8 +1955,8 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#58",
-      "yawDeg": 305,
+      "code": "#59",
+      "yawDeg": 307.89473684210526,
       "pitchDeg": -22
     },
     {
@@ -1980,16 +1980,16 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#59",
-      "yawDeg": 325,
+      "code": "#60",
+      "yawDeg": 326.84210526315786,
       "pitchDeg": -22
     },
     {
       "id": "work-16",
-      "code": "#60",
+      "code": "#61",
       "tier": "lower",
       "type": "video",
-      "yawDeg": 345,
+      "yawDeg": 345.7894736842105,
       "pitchDeg": -22,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
@@ -2029,18 +2029,18 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-31-key-visual-landscape.jpg",
           "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/motion-elemen-01.mp4",
           "isRealImage": true,
-          "aspectRatio": 0.7076648841354723
+          "aspectRatio": 1.7777777777777777
         }
       ],
       "yawDeg": 20.76923076923077,
       "pitchDeg": 44,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#61"
+      "code": "#62"
     },
     {
       "id": "work-10",
-      "code": "#62",
+      "code": "#63",
       "tier": "lower",
       "type": "video",
       "yawDeg": 48.46153846153847,
@@ -2088,7 +2088,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#63",
+      "code": "#64",
       "yawDeg": 76.15384615384616,
       "pitchDeg": 44
     },
@@ -2115,7 +2115,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#64",
+      "code": "#65",
       "yawDeg": 103.84615384615385,
       "pitchDeg": 44
     },
@@ -2142,7 +2142,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#65",
+      "code": "#66",
       "yawDeg": 131.53846153846155,
       "pitchDeg": 44
     },
@@ -2169,7 +2169,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#66",
+      "code": "#67",
       "yawDeg": 159.23076923076923,
       "pitchDeg": 44
     },
@@ -2196,7 +2196,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#67",
+      "code": "#68",
       "yawDeg": 186.92307692307693,
       "pitchDeg": 44
     },
@@ -2223,7 +2223,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#68",
+      "code": "#69",
       "yawDeg": 214.61538461538464,
       "pitchDeg": 44
     },
@@ -2250,7 +2250,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#69",
+      "code": "#70",
       "yawDeg": 242.30769230769232,
       "pitchDeg": 44
     },
@@ -2277,7 +2277,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#70",
+      "code": "#71",
       "yawDeg": 270,
       "pitchDeg": 44
     },
@@ -2308,7 +2308,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#71",
+      "code": "#72",
       "yawDeg": 297.6923076923077,
       "pitchDeg": 44
     },
@@ -2353,7 +2353,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#72",
+      "code": "#73",
       "yawDeg": 325.3846153846154,
       "pitchDeg": 44
     },
@@ -2384,7 +2384,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#73",
+      "code": "#74",
       "yawDeg": 353.0769230769231,
       "pitchDeg": 44
     },
@@ -2435,7 +2435,7 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pdd-econiq-02.jpg",
           "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pdd-econiq-img8607.mp4",
           "isRealImage": true,
-          "aspectRatio": 0.5625
+          "aspectRatio": 1.7777777777777777
         },
         {
           "title": "Klip Video PDD Econiq Ch.3 (IMG_8624.MP4)",
@@ -2461,7 +2461,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#74",
+      "code": "#75",
       "yawDeg": 11.076923076923078,
       "pitchDeg": -44
     },
@@ -2490,10 +2490,10 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/expo-bd-pdd-img6066.jpg",
           "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/expo-bd-pdd-img6073.mp4",
           "isRealImage": true,
-          "aspectRatio": 0.75
+          "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#75",
+      "code": "#76",
       "yawDeg": 38.769230769230774,
       "pitchDeg": -44
     },
@@ -2555,7 +2555,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#76",
+      "code": "#77",
       "yawDeg": 66.46153846153847,
       "pitchDeg": -44
     },
@@ -2624,7 +2624,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#77",
+      "code": "#78",
       "yawDeg": 94.15384615384616,
       "pitchDeg": -44
     },
@@ -2683,7 +2683,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#78",
+      "code": "#79",
       "yawDeg": 121.84615384615385,
       "pitchDeg": -44
     },
@@ -2775,7 +2775,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#79",
+      "code": "#80",
       "yawDeg": 149.53846153846152,
       "pitchDeg": -44
     },
@@ -2830,7 +2830,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#80",
+      "code": "#81",
       "yawDeg": 177.23076923076923,
       "pitchDeg": -44
     },
@@ -2889,7 +2889,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#81",
+      "code": "#82",
       "yawDeg": 204.92307692307693,
       "pitchDeg": -44
     },
@@ -2920,7 +2920,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#82",
+      "code": "#83",
       "yawDeg": 232.6153846153846,
       "pitchDeg": -44
     },
@@ -2979,7 +2979,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#83",
+      "code": "#84",
       "yawDeg": 260.3076923076923,
       "pitchDeg": -44
     },
@@ -3025,7 +3025,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#84",
+      "code": "#85",
       "yawDeg": 288,
       "pitchDeg": -44
     },
@@ -3065,13 +3065,13 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#85",
+      "code": "#86",
       "yawDeg": 315.69230769230774,
       "pitchDeg": -44
     },
     {
       "id": "work-14",
-      "code": "#86",
+      "code": "#87",
       "tier": "equator",
       "type": "committee",
       "yawDeg": 343.3846153846154,
@@ -3098,5 +3098,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-12T10:46:43.726Z"
+  "lastUpdated": "2026-11-12T11:14:27.129Z"
 }
