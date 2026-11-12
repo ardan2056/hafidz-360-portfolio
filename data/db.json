@@ -14,7 +14,7 @@
     "pin": "1234",
     "zenithTitle": "M. HAFIDZ ARDAN",
     "zenithSubtitle": "INTERACTIVE CREATIVE & MULTIMEDIA STUDIO",
-    "nadirTitle": "KOOR DIV MULTIMEDIA",
+    "nadirTitle": "BISNIS DIGITAL ITK",
     "nadirSubtitle": "2023 • 2024 • 2025 • 2026",
     "bgStyle": "studio",
     "activities": [
@@ -388,8 +388,8 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 70,
-      "pitchDeg": 16,
+      "yawDeg": 18,
+      "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#02"
@@ -429,8 +429,8 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 50,
-      "pitchDeg": 16,
+      "yawDeg": 36,
+      "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#03"
@@ -440,7 +440,7 @@
       "code": "#04",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 322.1052631578947,
+      "yawDeg": 54,
       "pitchDeg": 0,
       "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Teaser Poster & Campaign",
@@ -511,8 +511,8 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 30,
-      "pitchDeg": 16,
+      "yawDeg": 72,
+      "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#05"
@@ -522,7 +522,7 @@
       "code": "#06",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 246.3157894736842,
+      "yawDeg": 90,
       "pitchDeg": 0,
       "title": "DANA USAHA OCTAGRAM 2026 — Poster Menu & Lokasi",
       "category": "Promotional Poster & Danus",
@@ -547,7 +547,7 @@
       "code": "#07",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 341.05263157894734,
+      "yawDeg": 108,
       "pitchDeg": 0,
       "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
       "category": "Stage Frame & Event Overlay",
@@ -586,8 +586,8 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 150,
-      "pitchDeg": 16,
+      "yawDeg": 126,
+      "pitchDeg": 0,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#08"
@@ -597,7 +597,7 @@
       "code": "#09",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 132.6315789473684,
+      "yawDeg": 144,
       "pitchDeg": 0,
       "title": "KULIAH UMUM OCTAGRAM — Poster Utama (Keynote Kepala BRIN)",
       "category": "Event Poster & Key Visual",
@@ -622,7 +622,7 @@
       "code": "#10",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 303.1578947368421,
+      "yawDeg": 162,
       "pitchDeg": 0,
       "title": "KULIAH UMUM OCTAGRAM — Template Slide & Sertifikat Resmi",
       "category": "Presentation & Layout System",
@@ -661,8 +661,8 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 90,
-      "pitchDeg": 16,
+      "yawDeg": 180,
+      "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#11"
@@ -672,7 +672,7 @@
       "code": "#12",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 189.4736842105263,
+      "yawDeg": 198,
       "pitchDeg": 0,
       "title": "LIVE REPORT OCTAGRAM — Instagram Story Frame Template",
       "category": "Social Media & Live Report",
@@ -697,7 +697,7 @@
       "code": "#13",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 208.42105263157893,
+      "yawDeg": 216,
       "pitchDeg": 0,
       "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
       "category": "Social Media & Documentation",
@@ -722,7 +722,7 @@
       "code": "#14",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 170.52631578947367,
+      "yawDeg": 234,
       "pitchDeg": 0,
       "title": "MERCHANDISE OCTAGRAM 2026 — Poster Pre-Order Sticker & Keychain",
       "category": "Promotional Poster & Merch",
@@ -747,7 +747,7 @@
       "code": "#15",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 151.57894736842104,
+      "yawDeg": 252,
       "pitchDeg": 0,
       "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
       "category": "Merchandise & Product Mockup",
@@ -772,7 +772,7 @@
       "code": "#16",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 284.2105263157895,
+      "yawDeg": 270,
       "pitchDeg": 0,
       "title": "QR CODE BISNIS DIGITAL ITK — Instagram @BISNISDIGITAL.ITK",
       "category": "Social Media & Graphic Asset",
@@ -811,8 +811,8 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 110,
-      "pitchDeg": 16,
+      "yawDeg": 288,
+      "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#17"
@@ -822,7 +822,7 @@
       "code": "#18",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 227.36842105263156,
+      "yawDeg": 306,
       "pitchDeg": 0,
       "title": "STAFF KONSUMSI OCTAGRAM — H. Ardan Profile Card",
       "category": "Identity & Staff Card Design",
@@ -861,8 +861,8 @@
           "aspectRatio": 0.6953125
         }
       ],
-      "yawDeg": 130,
-      "pitchDeg": 16,
+      "yawDeg": 324,
+      "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#19"
@@ -886,8 +886,8 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 10,
-      "pitchDeg": 16,
+      "yawDeg": 342,
+      "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#20"
@@ -897,8 +897,8 @@
       "code": "#21",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 265.2631578947368,
-      "pitchDeg": 0,
+      "yawDeg": 9,
+      "pitchDeg": 16,
       "title": "X-BANNER SERIES — Kuliah Umum OCTAGRAM 2026",
       "category": "X-Banner & Print Media",
       "year": "2026",
@@ -992,8 +992,8 @@
         }
       ],
       "code": "#22",
-      "yawDeg": 105.6,
-      "pitchDeg": -32
+      "yawDeg": 27,
+      "pitchDeg": 16
     },
     {
       "id": "design-eshal-mafaza-tamatan",
@@ -1023,8 +1023,8 @@
         }
       ],
       "code": "#23",
-      "yawDeg": 129.6,
-      "pitchDeg": -32
+      "yawDeg": 45,
+      "pitchDeg": 16
     },
     {
       "id": "bionic-design-2026-part-01",
@@ -1045,7 +1045,7 @@
           "aspectRatio": 0.45
         }
       ],
-      "yawDeg": 170,
+      "yawDeg": 63,
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1068,10 +1068,12 @@
           "caption": "Kenali bahaya narkoba dan dampaknya bagi kehidupan.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dp3-stop-narkoba.jpg",
           "isRealImage": true,
-          "aspectRatio": 0.8
+          "aspectRatio": 0.7961165048543689
         }
       ],
-      "code": "#25"
+      "code": "#25",
+      "yawDeg": 81,
+      "pitchDeg": 16
     },
     {
       "id": "design-dp3-balikpapan-bibit",
@@ -1101,8 +1103,8 @@
         }
       ],
       "code": "#26",
-      "yawDeg": 273.6,
-      "pitchDeg": -32
+      "yawDeg": 99,
+      "pitchDeg": 16
     },
     {
       "id": "bionic-design-2026-part-02",
@@ -1123,7 +1125,7 @@
           "aspectRatio": 1
         }
       ],
-      "yawDeg": 190,
+      "yawDeg": 117,
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1150,8 +1152,8 @@
         }
       ],
       "code": "#28",
-      "yawDeg": 201.6,
-      "pitchDeg": -32
+      "yawDeg": 135,
+      "pitchDeg": 16
     },
     {
       "id": "fsti-teach-zone-2026-part-01",
@@ -1172,7 +1174,7 @@
           "aspectRatio": 1.501466275659824
         }
       ],
-      "yawDeg": 350,
+      "yawDeg": 153,
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1199,8 +1201,8 @@
         }
       ],
       "code": "#30",
-      "yawDeg": 9.600000000000001,
-      "pitchDeg": -32
+      "yawDeg": 171,
+      "pitchDeg": 16
     },
     {
       "id": "design-fsti-germas-funwalk-2025",
@@ -1223,8 +1225,8 @@
         }
       ],
       "code": "#31",
-      "yawDeg": 33.6,
-      "pitchDeg": -32
+      "yawDeg": 189,
+      "pitchDeg": 16
     },
     {
       "id": "design-habib-husein-jafar",
@@ -1247,8 +1249,8 @@
         }
       ],
       "code": "#32",
-      "yawDeg": 345.6,
-      "pitchDeg": -32
+      "yawDeg": 207,
+      "pitchDeg": 16
     },
     {
       "id": "design-fsti-kalender-akademik-2526",
@@ -1271,8 +1273,8 @@
         }
       ],
       "code": "#33",
-      "yawDeg": 354,
-      "pitchDeg": 32
+      "yawDeg": 225,
+      "pitchDeg": 16
     },
     {
       "id": "fsti-teach-zone-2026-part-02",
@@ -1293,8 +1295,8 @@
           "aspectRatio": 2.003913894324853
         }
       ],
-      "yawDeg": 5,
-      "pitchDeg": -16,
+      "yawDeg": 243,
+      "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#34"
@@ -1320,8 +1322,8 @@
         }
       ],
       "code": "#35",
-      "yawDeg": 321.6,
-      "pitchDeg": -32
+      "yawDeg": 261,
+      "pitchDeg": 16
     },
     {
       "id": "design-dies11-mlbb-tournament",
@@ -1344,8 +1346,8 @@
         }
       ],
       "code": "#36",
-      "yawDeg": 57.6,
-      "pitchDeg": -32
+      "yawDeg": 279,
+      "pitchDeg": 16
     },
     {
       "id": "design-disperinkop-tkdn-balikpapan",
@@ -1368,8 +1370,8 @@
         }
       ],
       "code": "#37",
-      "yawDeg": 297.6,
-      "pitchDeg": -32
+      "yawDeg": 297,
+      "pitchDeg": 16
     },
     {
       "id": "econiq-ch3-2026-part-03",
@@ -1390,7 +1392,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 270,
+      "yawDeg": 315,
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1415,7 +1417,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 250,
+      "yawDeg": 333,
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1440,7 +1442,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 230,
+      "yawDeg": 351,
       "pitchDeg": 16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1467,8 +1469,8 @@
         }
       ],
       "code": "#41",
-      "yawDeg": 249.6,
-      "pitchDeg": -32
+      "yawDeg": 5,
+      "pitchDeg": -16
     },
     {
       "id": "design-infografis-perpustakaan-aksi",
@@ -1491,8 +1493,8 @@
         }
       ],
       "code": "#42",
-      "yawDeg": 225.6,
-      "pitchDeg": -32
+      "yawDeg": 25,
+      "pitchDeg": -16
     },
     {
       "id": "design-mm2-alrifaie-feeds",
@@ -1522,8 +1524,8 @@
         }
       ],
       "code": "#43",
-      "yawDeg": 153.6,
-      "pitchDeg": -32
+      "yawDeg": 45,
+      "pitchDeg": -16
     },
     {
       "id": "design-kyaiku-halftone",
@@ -1546,16 +1548,16 @@
         }
       ],
       "code": "#44",
-      "yawDeg": 177.6,
-      "pitchDeg": -32
+      "yawDeg": 65,
+      "pitchDeg": -16
     },
     {
       "id": "work-08-part-01",
       "code": "#45",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 18.94736842105263,
-      "pitchDeg": 0,
+      "yawDeg": 85,
+      "pitchDeg": -16,
       "title": "desain story",
       "category": "desain",
       "year": "2025",
@@ -1619,16 +1621,16 @@
         }
       ],
       "code": "#46",
-      "yawDeg": 18,
-      "pitchDeg": 32
+      "yawDeg": 105,
+      "pitchDeg": -16
     },
     {
       "id": "work-15",
       "code": "#47",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 94.73684210526315,
-      "pitchDeg": 0,
+      "yawDeg": 125,
+      "pitchDeg": -16,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
       "year": "2026",
@@ -1666,8 +1668,8 @@
           "aspectRatio": 0.5886454183266933
         }
       ],
-      "yawDeg": 290,
-      "pitchDeg": 16,
+      "yawDeg": 145,
+      "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#48"
@@ -1691,8 +1693,8 @@
           "aspectRatio": 0.6436781609195402
         }
       ],
-      "yawDeg": 210,
-      "pitchDeg": 16,
+      "yawDeg": 165,
+      "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#49"
@@ -1716,8 +1718,8 @@
           "aspectRatio": 0.8760907504363001
         }
       ],
-      "yawDeg": 310,
-      "pitchDeg": 16,
+      "yawDeg": 185,
+      "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#50"
@@ -1727,8 +1729,8 @@
       "code": "#51",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 37.89473684210526,
-      "pitchDeg": 0,
+      "yawDeg": 205,
+      "pitchDeg": -16,
       "title": "Interactive Prototype Flow",
       "category": "Fintech Mobile UI/UX Design (Figma)",
       "year": "2025",
@@ -1765,8 +1767,8 @@
           "aspectRatio": 0.744140625
         }
       ],
-      "yawDeg": 330,
-      "pitchDeg": 16,
+      "yawDeg": 225,
+      "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#52"
@@ -1794,7 +1796,7 @@
         }
       ],
       "code": "#53",
-      "yawDeg": 265,
+      "yawDeg": 245,
       "pitchDeg": -16
     },
     {
@@ -1820,7 +1822,7 @@
         }
       ],
       "code": "#54",
-      "yawDeg": 285,
+      "yawDeg": 265,
       "pitchDeg": -16
     },
     {
@@ -1846,8 +1848,8 @@
         }
       ],
       "code": "#55",
-      "yawDeg": 321.4285714285714,
-      "pitchDeg": 32
+      "yawDeg": 285,
+      "pitchDeg": -16
     },
     {
       "id": "gh-saadah-bakery-pos",
@@ -1872,7 +1874,7 @@
         }
       ],
       "code": "#56",
-      "yawDeg": 245,
+      "yawDeg": 305,
       "pitchDeg": -16
     },
     {
@@ -1898,7 +1900,7 @@
         }
       ],
       "code": "#57",
-      "yawDeg": 225,
+      "yawDeg": 325,
       "pitchDeg": -16
     },
     {
@@ -1924,7 +1926,7 @@
         }
       ],
       "code": "#58",
-      "yawDeg": 205,
+      "yawDeg": 345,
       "pitchDeg": -16
     },
     {
@@ -1932,8 +1934,8 @@
       "code": "#59",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 37.89473684210526,
-      "pitchDeg": 0,
+      "yawDeg": 18,
+      "pitchDeg": 32,
       "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
       "year": "2026",
@@ -1979,8 +1981,8 @@
         }
       ],
       "code": "#60",
-      "yawDeg": 325,
-      "pitchDeg": -16
+      "yawDeg": 42,
+      "pitchDeg": 32
     },
     {
       "id": "motion-ini-1-video",
@@ -2004,16 +2006,16 @@
         }
       ],
       "code": "#61",
-      "yawDeg": 185,
-      "pitchDeg": -16
+      "yawDeg": 66,
+      "pitchDeg": 32
     },
     {
       "id": "work-16",
       "code": "#62",
       "tier": "lower",
       "type": "video",
-      "yawDeg": 113.68421052631578,
-      "pitchDeg": 0,
+      "yawDeg": 90,
+      "pitchDeg": 32,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
       "year": "2024",
@@ -2055,8 +2057,8 @@
           "aspectRatio": 0.7076648841354723
         }
       ],
-      "yawDeg": 25,
-      "pitchDeg": -16,
+      "yawDeg": 114,
+      "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#63"
@@ -2066,8 +2068,8 @@
       "code": "#64",
       "tier": "lower",
       "type": "video",
-      "yawDeg": 56.84210526315789,
-      "pitchDeg": 0,
+      "yawDeg": 138,
+      "pitchDeg": 32,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
       "year": "2025",
@@ -2112,8 +2114,8 @@
         }
       ],
       "code": "#65",
-      "yawDeg": 305,
-      "pitchDeg": -16
+      "yawDeg": 162,
+      "pitchDeg": 32
     },
     {
       "id": "yt-sekali-coba-hancur-semua",
@@ -2139,8 +2141,8 @@
         }
       ],
       "code": "#66",
-      "yawDeg": 85,
-      "pitchDeg": -16
+      "yawDeg": 186,
+      "pitchDeg": 32
     },
     {
       "id": "yt-bunqus-official",
@@ -2166,8 +2168,8 @@
         }
       ],
       "code": "#67",
-      "yawDeg": 65,
-      "pitchDeg": -16
+      "yawDeg": 210,
+      "pitchDeg": 32
     },
     {
       "id": "yt-kelompok-maekat-spin-etam-2024",
@@ -2193,8 +2195,8 @@
         }
       ],
       "code": "#68",
-      "yawDeg": 105,
-      "pitchDeg": -16
+      "yawDeg": 234,
+      "pitchDeg": 32
     },
     {
       "id": "yt-live-kuliah-umum-octagram-itk",
@@ -2220,8 +2222,8 @@
         }
       ],
       "code": "#69",
-      "yawDeg": 165,
-      "pitchDeg": -16
+      "yawDeg": 258,
+      "pitchDeg": 32
     },
     {
       "id": "yt-merajut-asa-harlah-23",
@@ -2247,8 +2249,8 @@
         }
       ],
       "code": "#70",
-      "yawDeg": 125,
-      "pitchDeg": -16
+      "yawDeg": 282,
+      "pitchDeg": 32
     },
     {
       "id": "yt-okb-groo-action-2025",
@@ -2274,8 +2276,8 @@
         }
       ],
       "code": "#71",
-      "yawDeg": 45,
-      "pitchDeg": -16
+      "yawDeg": 306,
+      "pitchDeg": 32
     },
     {
       "id": "yt-video-profile-bisnis-digital-itk",
@@ -2301,8 +2303,8 @@
         }
       ],
       "code": "#72",
-      "yawDeg": 145,
-      "pitchDeg": -16
+      "yawDeg": 330,
+      "pitchDeg": 32
     },
     {
       "id": "ku-octagram-docs",
@@ -2332,7 +2334,7 @@
         }
       ],
       "code": "#73",
-      "yawDeg": 234,
+      "yawDeg": 354,
       "pitchDeg": 32
     },
     {
@@ -2377,8 +2379,8 @@
         }
       ],
       "code": "#74",
-      "yawDeg": 306,
-      "pitchDeg": 32
+      "yawDeg": 9.600000000000001,
+      "pitchDeg": -32
     },
     {
       "id": "pdd-econiq-ch2-docs",
@@ -2408,8 +2410,8 @@
         }
       ],
       "code": "#75",
-      "yawDeg": 186,
-      "pitchDeg": 32
+      "yawDeg": 33.6,
+      "pitchDeg": -32
     },
     {
       "id": "pdd-econiq-ch3-docs",
@@ -2485,8 +2487,8 @@
         }
       ],
       "code": "#76",
-      "yawDeg": 138,
-      "pitchDeg": 32
+      "yawDeg": 57.6,
+      "pitchDeg": -32
     },
     {
       "id": "expo-bisnis-digital-pdd",
@@ -2517,8 +2519,8 @@
         }
       ],
       "code": "#77",
-      "yawDeg": 90,
-      "pitchDeg": 32
+      "yawDeg": 81.6,
+      "pitchDeg": -32
     },
     {
       "id": "pdd-expo-booth-bisdig",
@@ -2579,8 +2581,8 @@
         }
       ],
       "code": "#78",
-      "yawDeg": 282,
-      "pitchDeg": 32
+      "yawDeg": 105.6,
+      "pitchDeg": -32
     },
     {
       "id": "pdd-expo-2025-docs",
@@ -2648,8 +2650,8 @@
         }
       ],
       "code": "#79",
-      "yawDeg": 258,
-      "pitchDeg": 32
+      "yawDeg": 129.6,
+      "pitchDeg": -32
     },
     {
       "id": "wp-bisnis-digital-pdd",
@@ -2707,8 +2709,8 @@
         }
       ],
       "code": "#80",
-      "yawDeg": 114,
-      "pitchDeg": 32
+      "yawDeg": 153.6,
+      "pitchDeg": -32
     },
     {
       "id": "panitia-dies-natalis-11-itk",
@@ -2799,7 +2801,7 @@
         }
       ],
       "code": "#81",
-      "yawDeg": 81.6,
+      "yawDeg": 177.6,
       "pitchDeg": -32
     },
     {
@@ -2854,8 +2856,8 @@
         }
       ],
       "code": "#82",
-      "yawDeg": 162,
-      "pitchDeg": 32
+      "yawDeg": 201.6,
+      "pitchDeg": -32
     },
     {
       "id": "doc-pubdok-media-gallery",
@@ -2913,8 +2915,8 @@
         }
       ],
       "code": "#83",
-      "yawDeg": 345,
-      "pitchDeg": -16
+      "yawDeg": 225.6,
+      "pitchDeg": -32
     },
     {
       "id": "humas-fsti-docs",
@@ -2944,8 +2946,8 @@
         }
       ],
       "code": "#84",
-      "yawDeg": 210,
-      "pitchDeg": 32
+      "yawDeg": 249.6,
+      "pitchDeg": -32
     },
     {
       "id": "pubdok-batik-liputan-docs",
@@ -2985,7 +2987,7 @@
           "caption": "Mengambil footage video di tangga outdoor saat bertugas sebagai Tim Pubdok ITK.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pubdok-outdoor-action-01.jpg",
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         },
         {
           "title": "Liputan Outdoor Tim Pubdok (2)",
@@ -3003,8 +3005,8 @@
         }
       ],
       "code": "#85",
-      "yawDeg": 330,
-      "pitchDeg": 32
+      "yawDeg": 273.6,
+      "pitchDeg": -32
     },
     {
       "id": "dokumentasi-panitia-2024",
@@ -3049,8 +3051,8 @@
         }
       ],
       "code": "#86",
-      "yawDeg": 66,
-      "pitchDeg": 32
+      "yawDeg": 297.6,
+      "pitchDeg": -32
     },
     {
       "id": "kegiatan-mini-projek-video-profile",
@@ -3089,16 +3091,16 @@
         }
       ],
       "code": "#87",
-      "yawDeg": 42,
-      "pitchDeg": 32
+      "yawDeg": 321.6,
+      "pitchDeg": -32
     },
     {
       "id": "work-14",
       "code": "#88",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 75.78947368421052,
-      "pitchDeg": 0,
+      "yawDeg": 345.6,
+      "pitchDeg": -32,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
       "year": "2023",
@@ -3121,5 +3123,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-12T10:18:38.194Z"
+  "lastUpdated": "2026-11-12T10:20:38.040Z"
 }
