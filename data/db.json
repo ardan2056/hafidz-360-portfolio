@@ -362,792 +362,8 @@
       "pitchDeg": 0
     },
     {
-      "id": "work-07-part-02",
-      "code": "#02",
-      "tier": "upper",
-      "type": "committee",
-      "yawDeg": 13.846153846153847,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 22",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 04 — Artboard 22",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470092382-721703565-Artboard_22.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.643979057591623
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-03",
-      "code": "#03",
-      "tier": "lower",
-      "type": "committee",
-      "yawDeg": 27.692307692307693,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 23",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 05 — Artboard 23",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470092403-756444519-Artboard_23.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.643979057591623
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-05",
-      "code": "#04",
-      "tier": "upper",
-      "type": "committee",
-      "yawDeg": 41.53846153846154,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 1",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 05 — Artboard 1",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470155926-378760063-Artboard_1.png",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.5625
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-06",
-      "code": "#05",
-      "tier": "lower",
-      "type": "committee",
-      "yawDeg": 55.38461538461539,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 4",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 06 — Artboard 4",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470155955-169551148-Artboard_4.png",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 5.770152505446623
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-07",
-      "code": "#06",
-      "tier": "equator",
-      "type": "committee",
-      "yawDeg": 69.23076923076923,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 5 copy",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 07 — Artboard 5 copy",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470155972-703235260-Artboard_5_copy.png",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.7068062827225131
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-09",
-      "code": "#07",
-      "tier": "lower",
-      "type": "committee",
-      "yawDeg": 96.92307692307693,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 3 copy 6",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 09 — Artboard 3 copy 6",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156017-10061584-Artboard_3_copy_6.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.5625
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-10",
-      "code": "#08",
-      "tier": "equator",
-      "type": "committee",
-      "yawDeg": 110.76923076923077,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 12",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 10 — Artboard 12",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156100-39407234-Artboard_12.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.7068062827225131
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-11",
-      "code": "#09",
-      "tier": "upper",
-      "type": "committee",
-      "yawDeg": 124.61538461538461,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 20",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 11 — Artboard 20",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156139-891636864-Artboard_20.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.7068062827225131
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-12",
-      "code": "#10",
-      "tier": "lower",
-      "type": "committee",
-      "yawDeg": 138.46153846153845,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 21",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 12 — Artboard 21",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156173-532619662-Artboard_21.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.7068062827225131
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-15",
-      "code": "#11",
-      "tier": "lower",
-      "type": "committee",
-      "yawDeg": 180,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 9 copy 2",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 15 — Artboard 9 copy 2",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156237-639033361-Artboard_9_copy_2.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.3338842975206612
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-16",
-      "code": "#12",
-      "tier": "equator",
-      "type": "committee",
-      "yawDeg": 193.84615384615387,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 9 copy 8",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 16 — Artboard 9 copy 8",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156272-576308775-Artboard_9_copy_8.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.3338842975206612
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-17",
-      "code": "#13",
-      "tier": "upper",
-      "type": "committee",
-      "yawDeg": 207.6923076923077,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 9 copy 10",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 17 — Artboard 9 copy 10",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156328-35594481-Artboard_9_copy_10.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.3338842975206612
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-18",
-      "code": "#14",
-      "tier": "lower",
-      "type": "committee",
-      "yawDeg": 221.53846153846155,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 9 copy 11",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 18 — Artboard 9 copy 11",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156385-488860611-Artboard_9_copy_11.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.3338842975206612
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-19",
-      "code": "#15",
-      "tier": "equator",
-      "type": "committee",
-      "yawDeg": 235.3846153846154,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 15",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 19 — Artboard 15",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156442-976658401-Artboard_15.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 1.7785765636232926
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-21",
-      "code": "#16",
-      "tier": "lower",
-      "type": "committee",
-      "yawDeg": 249.23076923076923,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 18",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 21 — Artboard 18",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156504-763915919-Artboard_18.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 1.7785765636232926
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-23",
-      "code": "#17",
-      "tier": "upper",
-      "type": "committee",
-      "yawDeg": 263.0769230769231,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 1 copy 5",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 23 — Artboard 1 copy 5",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156633-286842243-Artboard_1_copy_5.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 1.7777777777777777
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-24",
-      "code": "#18",
-      "tier": "lower",
-      "type": "committee",
-      "yawDeg": 276.9230769230769,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 1 copy 8",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 24 — Artboard 1 copy 8",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156671-979991614-Artboard_1_copy_8.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 1.7777777777777777
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-25",
-      "code": "#19",
-      "tier": "equator",
-      "type": "committee",
-      "yawDeg": 290.7692307692308,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 4 copy 13",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 25 — Artboard 4 copy 13",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156681-988179066-Artboard_4_copy_13.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.5625
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-26",
-      "code": "#20",
-      "tier": "upper",
-      "type": "committee",
-      "yawDeg": 304.61538461538464,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 9 copy 12",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 26 — Artboard 9 copy 12",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156690-473859617-Artboard_9_copy_12.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.3338842975206612
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-27",
-      "code": "#21",
-      "tier": "lower",
-      "type": "committee",
-      "yawDeg": 318.46153846153845,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 9 copy",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 27 — Artboard 9 copy",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156733-516912464-Artboard_9_copy.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.3338842975206612
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-28",
-      "code": "#22",
-      "tier": "equator",
-      "type": "committee",
-      "yawDeg": 332.3076923076923,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 17 copy 2",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 28 — Artboard 17 copy 2",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156795-516084138-Artboard_17_copy_2.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.5625
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-29",
-      "code": "#23",
-      "tier": "upper",
-      "type": "committee",
-      "yawDeg": 346.1538461538462,
-      "pitchDeg": 0,
-      "title": "ON DUTY GALLERY — Artboard 17 copy 3",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 29 — Artboard 17 copy 3",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156805-530343231-Artboard_17_copy_3.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.5625
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-30",
-      "code": "#24",
-      "tier": "lower",
-      "type": "committee",
-      "yawDeg": 7.2,
-      "pitchDeg": 16,
-      "title": "ON DUTY GALLERY — Artboard 17 copy 4",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 30 — Artboard 17 copy 4",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156815-382546590-Artboard_17_copy_4.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.5625
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-31",
-      "code": "#25",
-      "tier": "equator",
-      "type": "committee",
-      "yawDeg": 21.6,
-      "pitchDeg": 16,
-      "title": "ON DUTY GALLERY — Artboard 17 copy",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 31 — Artboard 17 copy",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156826-865427019-Artboard_17_copy.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.5625
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-32",
-      "code": "#26",
-      "tier": "upper",
-      "type": "committee",
-      "yawDeg": 36,
-      "pitchDeg": 16,
-      "title": "ON DUTY GALLERY — Artboard 17",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 32 — Artboard 17",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156876-10954228-Artboard_17.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.5625
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-33",
-      "code": "#27",
-      "tier": "lower",
-      "type": "committee",
-      "yawDeg": 50.400000000000006,
-      "pitchDeg": 16,
-      "title": "ON DUTY GALLERY — Artboard 1 copy 6",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 33 — Artboard 1 copy 6",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156905-524045185-Artboard_1_copy_6.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 1.7777777777777777
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-34",
-      "code": "#28",
-      "tier": "equator",
-      "type": "committee",
-      "yawDeg": 64.8,
-      "pitchDeg": 16,
-      "title": "ON DUTY GALLERY — Artboard 4 copy 3",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 34 — Artboard 4 copy 3",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156914-798467842-Artboard_4_copy_3.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 1.7777777777777777
-        }
-      ]
-    },
-    {
-      "id": "work-07-part-35",
-      "code": "#29",
-      "tier": "upper",
-      "type": "committee",
-      "yawDeg": 79.2,
-      "pitchDeg": 16,
-      "title": "ON DUTY GALLERY — Artboard 4 copy 14",
-      "category": "Dokumentasi Lapangan & Behind The Scenes",
-      "year": "2026",
-      "committeeRole": "Koor Div Multimedia • In Action",
-      "committeeOrg": "Dokumentasi Pribadi & Kepanitiaan",
-      "committeeScale": "Multi-Event 2023–2026",
-      "tools": "Sony Camcorder, Mirrorless, Live Switcher, Laptop Workstation",
-      "description": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 35 — Artboard 4 copy 14",
-          "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
-          "imageSrc": "/public/uploads/1794470156986-738705691-Artboard_4_copy_14.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 1.7777777777777777
-        }
-      ]
-    },
-    {
       "id": "work-08-part-01",
-      "code": "#30",
+      "code": "#02",
       "tier": "lower",
       "type": "uiux",
       "yawDeg": 93.60000000000001,
@@ -1174,7 +390,7 @@
     },
     {
       "id": "work-08-part-02",
-      "code": "#31",
+      "code": "#03",
       "tier": "equator",
       "type": "uiux",
       "yawDeg": 108,
@@ -1198,7 +414,7 @@
     },
     {
       "id": "work-09",
-      "code": "#32",
+      "code": "#04",
       "tier": "upper",
       "type": "video",
       "yawDeg": 122.4,
@@ -1228,7 +444,7 @@
     },
     {
       "id": "work-10",
-      "code": "#33",
+      "code": "#05",
       "tier": "lower",
       "type": "video",
       "yawDeg": 136.79999999999998,
@@ -1257,7 +473,7 @@
     },
     {
       "id": "work-14",
-      "code": "#34",
+      "code": "#06",
       "tier": "equator",
       "type": "committee",
       "yawDeg": 151.2,
@@ -1285,7 +501,7 @@
     },
     {
       "id": "work-15",
-      "code": "#35",
+      "code": "#07",
       "tier": "upper",
       "type": "design",
       "yawDeg": 165.6,
@@ -1310,7 +526,7 @@
     },
     {
       "id": "work-16",
-      "code": "#36",
+      "code": "#08",
       "tier": "lower",
       "type": "video",
       "yawDeg": 180,
@@ -1339,7 +555,7 @@
     },
     {
       "id": "octagram-design-01",
-      "code": "#37",
+      "code": "#09",
       "tier": "equator",
       "type": "design",
       "yawDeg": 194.4,
@@ -1364,7 +580,7 @@
     },
     {
       "id": "octagram-design-02",
-      "code": "#38",
+      "code": "#10",
       "tier": "upper",
       "type": "design",
       "yawDeg": 208.79999999999998,
@@ -1389,7 +605,7 @@
     },
     {
       "id": "octagram-design-03",
-      "code": "#39",
+      "code": "#11",
       "tier": "lower",
       "type": "design",
       "yawDeg": 223.2,
@@ -1414,7 +630,7 @@
     },
     {
       "id": "octagram-design-04",
-      "code": "#40",
+      "code": "#12",
       "tier": "equator",
       "type": "design",
       "yawDeg": 237.6,
@@ -1439,7 +655,7 @@
     },
     {
       "id": "octagram-design-05",
-      "code": "#41",
+      "code": "#13",
       "tier": "upper",
       "type": "design",
       "yawDeg": 252,
@@ -1464,7 +680,7 @@
     },
     {
       "id": "octagram-design-06",
-      "code": "#42",
+      "code": "#14",
       "tier": "lower",
       "type": "design",
       "yawDeg": 266.4,
@@ -1489,7 +705,7 @@
     },
     {
       "id": "octagram-design-07",
-      "code": "#43",
+      "code": "#15",
       "tier": "equator",
       "type": "design",
       "yawDeg": 280.8,
@@ -1514,7 +730,7 @@
     },
     {
       "id": "octagram-xbanner-series",
-      "code": "#44",
+      "code": "#16",
       "tier": "upper",
       "type": "design",
       "yawDeg": 295.2,
@@ -1579,7 +795,7 @@
     },
     {
       "id": "octagram-design-10",
-      "code": "#45",
+      "code": "#17",
       "tier": "equator",
       "type": "design",
       "yawDeg": 324,
@@ -1604,7 +820,7 @@
     },
     {
       "id": "octagram-design-12",
-      "code": "#46",
+      "code": "#18",
       "tier": "lower",
       "type": "design",
       "yawDeg": 352.8,
@@ -1629,7 +845,7 @@
     },
     {
       "id": "octagram-design-14",
-      "code": "#47",
+      "code": "#19",
       "tier": "upper",
       "type": "design",
       "yawDeg": 18,
@@ -1654,7 +870,7 @@
     },
     {
       "id": "octagram-design-15",
-      "code": "#48",
+      "code": "#20",
       "tier": "lower",
       "type": "design",
       "yawDeg": 32.4,
@@ -1700,7 +916,7 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#49"
+      "code": "#21"
     },
     {
       "id": "octagram-countdown-series",
@@ -1757,7 +973,7 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#50"
+      "code": "#22"
     },
     {
       "id": "octagram-bumper-series",
@@ -1798,7 +1014,7 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#51"
+      "code": "#23"
     },
     {
       "id": "octagram-design-21-part-01",
@@ -1823,7 +1039,7 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#52"
+      "code": "#24"
     },
     {
       "id": "octagram-design-21-part-02",
@@ -1848,7 +1064,7 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#53"
+      "code": "#25"
     },
     {
       "id": "octagram-design-22",
@@ -1873,7 +1089,7 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#54"
+      "code": "#26"
     },
     {
       "id": "octagram-design-23",
@@ -1898,7 +1114,7 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#55"
+      "code": "#27"
     },
     {
       "id": "octagram-design-24",
@@ -1923,7 +1139,7 @@
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#56"
+      "code": "#28"
     },
     {
       "id": "bionic-design-2026-part-01",
@@ -1948,7 +1164,7 @@
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#57"
+      "code": "#29"
     },
     {
       "id": "bionic-design-2026-part-02",
@@ -1973,7 +1189,7 @@
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#58"
+      "code": "#30"
     },
     {
       "id": "bionic-design-2026-part-03",
@@ -1998,7 +1214,7 @@
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#59"
+      "code": "#31"
     },
     {
       "id": "econiq-ch3-2026-part-01",
@@ -2023,7 +1239,7 @@
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#60"
+      "code": "#32"
     },
     {
       "id": "econiq-ch3-2026-part-02",
@@ -2048,7 +1264,7 @@
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#61"
+      "code": "#33"
     },
     {
       "id": "econiq-ch3-2026-part-03",
@@ -2073,7 +1289,7 @@
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#62"
+      "code": "#34"
     },
     {
       "id": "econiq-ch3-2026-part-04",
@@ -2098,7 +1314,7 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#63"
+      "code": "#35"
     },
     {
       "id": "action-uiux-2nd-winner-part-01",
@@ -2123,7 +1339,7 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#64"
+      "code": "#36"
     },
     {
       "id": "action-uiux-2nd-winner-part-02",
@@ -2148,7 +1364,7 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#65"
+      "code": "#37"
     },
     {
       "id": "fsti-teach-zone-2026-part-01",
@@ -2173,7 +1389,7 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#66"
+      "code": "#38"
     },
     {
       "id": "fsti-teach-zone-2026-part-02",
@@ -2198,7 +1414,7 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#67"
+      "code": "#39"
     },
     {
       "id": "motion-elemen-video-01",
@@ -2223,7 +1439,7 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#68"
+      "code": "#40"
     },
     {
       "id": "yt-okb-groo-action-2025",
@@ -2248,7 +1464,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#69",
+      "code": "#41",
       "yawDeg": 115.71428571428572,
       "pitchDeg": 32
     },
@@ -2275,7 +1491,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#70",
+      "code": "#42",
       "yawDeg": 132.85714285714286,
       "pitchDeg": 32
     },
@@ -2302,7 +1518,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#71",
+      "code": "#43",
       "yawDeg": 150,
       "pitchDeg": 32
     },
@@ -2329,7 +1545,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#72",
+      "code": "#44",
       "yawDeg": 167.14285714285714,
       "pitchDeg": 32
     },
@@ -2356,7 +1572,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#73",
+      "code": "#45",
       "yawDeg": 184.28571428571428,
       "pitchDeg": 32
     },
@@ -2383,7 +1599,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#74",
+      "code": "#46",
       "yawDeg": 201.42857142857142,
       "pitchDeg": 32
     },
@@ -2410,7 +1626,7 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#75",
+      "code": "#47",
       "yawDeg": 218.57142857142858,
       "pitchDeg": 32
     },
@@ -2435,7 +1651,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#76",
+      "code": "#48",
       "yawDeg": 235.71428571428572,
       "pitchDeg": 32
     },
@@ -2461,7 +1677,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#77",
+      "code": "#49",
       "yawDeg": 252.85714285714286,
       "pitchDeg": 32
     },
@@ -2487,7 +1703,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#78",
+      "code": "#50",
       "yawDeg": 269.99999999999994,
       "pitchDeg": 32
     },
@@ -2513,7 +1729,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#79",
+      "code": "#51",
       "yawDeg": 287.1428571428571,
       "pitchDeg": 32
     },
@@ -2539,7 +1755,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#80",
+      "code": "#52",
       "yawDeg": 304.2857142857143,
       "pitchDeg": 32
     },
@@ -2565,7 +1781,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#81",
+      "code": "#53",
       "yawDeg": 321.4285714285714,
       "pitchDeg": 32
     },
@@ -2591,7 +1807,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#82",
+      "code": "#54",
       "yawDeg": 338.57142857142856,
       "pitchDeg": 32
     },
@@ -2616,7 +1832,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#83",
+      "code": "#55",
       "yawDeg": 355.71428571428567,
       "pitchDeg": 32
     },
@@ -2641,7 +1857,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#84",
+      "code": "#56",
       "yawDeg": 6.857142857142858,
       "pitchDeg": -32
     },
@@ -2700,7 +1916,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#85",
+      "code": "#57",
       "yawDeg": 24,
       "pitchDeg": -32
     },
@@ -2745,7 +1961,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#86",
+      "code": "#58",
       "yawDeg": 41.14285714285714,
       "pitchDeg": -32
     },
@@ -2785,7 +2001,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#87",
+      "code": "#59",
       "yawDeg": 58.28571428571429,
       "pitchDeg": -32
     },
@@ -2831,7 +2047,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#88",
+      "code": "#60",
       "yawDeg": 75.42857142857143,
       "pitchDeg": -32
     },
@@ -2863,7 +2079,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#89",
+      "code": "#61",
       "yawDeg": 92.57142857142857,
       "pitchDeg": -32
     },
@@ -2894,7 +2110,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#90",
+      "code": "#62",
       "yawDeg": 109.71428571428572,
       "pitchDeg": -32
     },
@@ -2956,7 +2172,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#91",
+      "code": "#63",
       "yawDeg": 126.85714285714286,
       "pitchDeg": -32
     },
@@ -3011,7 +2227,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#92",
+      "code": "#64",
       "yawDeg": 144,
       "pitchDeg": -32
     },
@@ -3042,7 +2258,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#93",
+      "code": "#65",
       "yawDeg": 161.14285714285714,
       "pitchDeg": -32
     },
@@ -3073,7 +2289,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#94",
+      "code": "#66",
       "yawDeg": 178.28571428571428,
       "pitchDeg": -32
     },
@@ -3104,7 +2320,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#95",
+      "code": "#67",
       "yawDeg": 195.42857142857142,
       "pitchDeg": -32
     },
@@ -3173,7 +2389,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#96",
+      "code": "#68",
       "yawDeg": 212.57142857142858,
       "pitchDeg": -32
     },
@@ -3235,7 +2451,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#97",
+      "code": "#69",
       "yawDeg": 229.71428571428572,
       "pitchDeg": -32
     },
@@ -3280,7 +2496,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#98",
+      "code": "#70",
       "yawDeg": 246.85714285714286,
       "pitchDeg": -32
     },
@@ -3318,7 +2534,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#99",
+      "code": "#71",
       "yawDeg": 263.99999999999994,
       "pitchDeg": -32
     },
@@ -3342,7 +2558,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#100",
+      "code": "#72",
       "yawDeg": 281.1428571428571,
       "pitchDeg": -32
     },
@@ -3366,7 +2582,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#101",
+      "code": "#73",
       "yawDeg": 298.2857142857143,
       "pitchDeg": -32
     },
@@ -3390,7 +2606,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#102",
+      "code": "#74",
       "yawDeg": 315.4285714285714,
       "pitchDeg": -32
     },
@@ -3414,7 +2630,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#103",
+      "code": "#75",
       "yawDeg": 332.57142857142856,
       "pitchDeg": -32
     },
@@ -3506,10 +2722,10 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#104",
+      "code": "#76",
       "yawDeg": 349.71428571428567,
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T09:35:19.590Z"
+  "lastUpdated": "2026-11-12T09:36:42.618Z"
 }
