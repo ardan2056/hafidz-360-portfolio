@@ -19,6 +19,41 @@
     "bgStyle": "studio",
     "activities": [
       {
+        "id": "act-dies11-1",
+        "title": "Panitia Dies Natalis 11 ITK (1)",
+        "caption": "E-Sports Combat 2025 Dies Natalis 11 ITK.",
+        "year": "2025",
+        "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-01.jpg"
+      },
+      {
+        "id": "act-dies11-2",
+        "title": "Panitia Dies Natalis 11 ITK (2)",
+        "caption": "E-Sports Combat 2025 Dies Natalis 11 ITK.",
+        "year": "2025",
+        "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-02.jpg"
+      },
+      {
+        "id": "act-dies11-3",
+        "title": "Panitia Dies Natalis 11 ITK — Auditorium (3)",
+        "caption": "Semifinal & Final E-Sports Combat 2025.",
+        "year": "2025",
+        "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-03.jpg"
+      },
+      {
+        "id": "act-dies11-4",
+        "title": "Panitia Dies Natalis 11 ITK — Auditorium (4)",
+        "caption": "Kebersamaan panitia Dies Natalis 11 ITK.",
+        "year": "2025",
+        "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-04.jpg"
+      },
+      {
+        "id": "act-dies11-5",
+        "title": "Panitia Dies Natalis 11 ITK — Auditorium (5)",
+        "caption": "Panitia E-Sports Combat Dies Natalis 11 ITK.",
+        "year": "2025",
+        "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-05.jpg"
+      },
+      {
         "id": "act-pubdok-batik-1",
         "title": "Tim Pubdok — Photostrip Liputan Kamera",
         "caption": "Aksi liputan kamera & gimbal di lapangan.",
@@ -1121,7 +1156,7 @@
       "code": "#30",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 22,
+      "yawDeg": 21,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17 copy 4",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1149,7 +1184,7 @@
       "code": "#31",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 36,
+      "yawDeg": 35,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17 copy",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1177,7 +1212,7 @@
       "code": "#32",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 50,
+      "yawDeg": 48,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1205,7 +1240,7 @@
       "code": "#33",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 65,
+      "yawDeg": 62,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 1 copy 6",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1233,7 +1268,7 @@
       "code": "#34",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 79,
+      "yawDeg": 76,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 4 copy 3",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1261,7 +1296,7 @@
       "code": "#35",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 94,
+      "yawDeg": 90,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 4 copy 14",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1289,7 +1324,7 @@
       "code": "#36",
       "tier": "lower",
       "type": "uiux",
-      "yawDeg": 108,
+      "yawDeg": 104,
       "pitchDeg": 16,
       "title": "High-Fidelity Mobile Screens",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -1316,7 +1351,7 @@
       "code": "#37",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 122,
+      "yawDeg": 118,
       "pitchDeg": 16,
       "title": "Interactive Prototype Flow",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -1340,7 +1375,7 @@
       "code": "#38",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 137,
+      "yawDeg": 132,
       "pitchDeg": 16,
       "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
@@ -1370,7 +1405,7 @@
       "code": "#39",
       "tier": "lower",
       "type": "video",
-      "yawDeg": 151,
+      "yawDeg": 145,
       "pitchDeg": 16,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
@@ -1399,7 +1434,7 @@
       "code": "#40",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 166,
+      "yawDeg": 159,
       "pitchDeg": 16,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
@@ -1427,7 +1462,7 @@
       "code": "#41",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 180,
+      "yawDeg": 173,
       "pitchDeg": 16,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
@@ -1452,7 +1487,7 @@
       "code": "#42",
       "tier": "lower",
       "type": "video",
-      "yawDeg": 194,
+      "yawDeg": 187,
       "pitchDeg": 16,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
@@ -1481,7 +1516,7 @@
       "code": "#43",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 209,
+      "yawDeg": 201,
       "pitchDeg": 16,
       "title": "KULIAH UMUM OCTAGRAM — Poster Utama (Keynote Kepala BRIN)",
       "category": "Event Poster & Key Visual",
@@ -1506,7 +1541,7 @@
       "code": "#44",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 223,
+      "yawDeg": 215,
       "pitchDeg": 16,
       "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
       "category": "Merchandise & Product Mockup",
@@ -1531,7 +1566,7 @@
       "code": "#45",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 238,
+      "yawDeg": 228,
       "pitchDeg": 16,
       "title": "MERCHANDISE OCTAGRAM 2026 — Poster Pre-Order Sticker & Keychain",
       "category": "Promotional Poster & Merch",
@@ -1556,7 +1591,7 @@
       "code": "#46",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 252,
+      "yawDeg": 242,
       "pitchDeg": 16,
       "title": "LIVE REPORT OCTAGRAM — Instagram Story Frame Template",
       "category": "Social Media & Live Report",
@@ -1581,7 +1616,7 @@
       "code": "#47",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 266,
+      "yawDeg": 256,
       "pitchDeg": 16,
       "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
       "category": "Social Media & Documentation",
@@ -1606,7 +1641,7 @@
       "code": "#48",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 281,
+      "yawDeg": 270,
       "pitchDeg": 16,
       "title": "STAFF KONSUMSI OCTAGRAM — H. Ardan Profile Card",
       "category": "Identity & Staff Card Design",
@@ -1631,7 +1666,7 @@
       "code": "#49",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 295,
+      "yawDeg": 284,
       "pitchDeg": 16,
       "title": "DANA USAHA OCTAGRAM 2026 — Poster Menu & Lokasi",
       "category": "Promotional Poster & Danus",
@@ -1656,7 +1691,7 @@
       "code": "#50",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 310,
+      "yawDeg": 298,
       "pitchDeg": 16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Fireside Talks Yulianta (OJK)",
       "category": "X-Banner & Print Media",
@@ -1681,7 +1716,7 @@
       "code": "#51",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 324,
+      "yawDeg": 312,
       "pitchDeg": 16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Utama Event 2026",
       "category": "X-Banner & Print Media",
@@ -1706,7 +1741,7 @@
       "code": "#52",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 338,
+      "yawDeg": 325,
       "pitchDeg": 16,
       "title": "QR CODE BISNIS DIGITAL ITK — Instagram @BISNISDIGITAL.ITK",
       "category": "Social Media & Graphic Asset",
@@ -1731,7 +1766,7 @@
       "code": "#53",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 353,
+      "yawDeg": 339,
       "pitchDeg": 16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Moderator Dekan FSTI ITK",
       "category": "X-Banner & Print Media",
@@ -1756,8 +1791,8 @@
       "code": "#54",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 4,
-      "pitchDeg": -16,
+      "yawDeg": 353,
+      "pitchDeg": 16,
       "title": "KULIAH UMUM OCTAGRAM — Template Slide & Sertifikat Resmi",
       "category": "Presentation & Layout System",
       "year": "2026",
@@ -1781,7 +1816,7 @@
       "code": "#55",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 18,
+      "yawDeg": 4,
       "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Sambutan Rektor ITK",
       "category": "X-Banner & Print Media",
@@ -1806,7 +1841,7 @@
       "code": "#56",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 32,
+      "yawDeg": 18,
       "pitchDeg": -16,
       "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Teaser Poster & Campaign",
@@ -1831,7 +1866,7 @@
       "code": "#57",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 47,
+      "yawDeg": 32,
       "pitchDeg": -16,
       "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
       "category": "Stage Frame & Event Overlay",
@@ -1870,7 +1905,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 61,
+      "yawDeg": 47,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1895,7 +1930,7 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 76,
+      "yawDeg": 61,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1920,7 +1955,7 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 90,
+      "yawDeg": 76,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1945,7 +1980,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 104,
+      "yawDeg": 90,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1970,7 +2005,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 119,
+      "yawDeg": 104,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1995,7 +2030,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 133,
+      "yawDeg": 119,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2020,7 +2055,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 148,
+      "yawDeg": 133,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2045,7 +2080,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 162,
+      "yawDeg": 148,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2070,7 +2105,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 176,
+      "yawDeg": 162,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2095,7 +2130,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 191,
+      "yawDeg": 176,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2120,7 +2155,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 205,
+      "yawDeg": 191,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2145,7 +2180,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 220,
+      "yawDeg": 205,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2170,7 +2205,7 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 234,
+      "yawDeg": 220,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2195,7 +2230,7 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 248,
+      "yawDeg": 234,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2220,7 +2255,7 @@
           "aspectRatio": 0.6953125
         }
       ],
-      "yawDeg": 263,
+      "yawDeg": 248,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2245,7 +2280,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 277,
+      "yawDeg": 263,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2270,7 +2305,7 @@
           "aspectRatio": 0.45
         }
       ],
-      "yawDeg": 292,
+      "yawDeg": 277,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2295,7 +2330,7 @@
           "aspectRatio": 1
         }
       ],
-      "yawDeg": 306,
+      "yawDeg": 292,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2320,7 +2355,7 @@
           "aspectRatio": 0.6436781609195402
         }
       ],
-      "yawDeg": 320,
+      "yawDeg": 306,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2345,7 +2380,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 335,
+      "yawDeg": 320,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2370,7 +2405,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 349,
+      "yawDeg": 335,
       "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2395,8 +2430,8 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 13,
-      "pitchDeg": 32,
+      "yawDeg": 349,
+      "pitchDeg": -16,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#79"
@@ -2420,7 +2455,7 @@
           "aspectRatio": 0.5886454183266933
         }
       ],
-      "yawDeg": 30,
+      "yawDeg": 13,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2445,7 +2480,7 @@
           "aspectRatio": 0.8760907504363001
         }
       ],
-      "yawDeg": 47,
+      "yawDeg": 30,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2470,7 +2505,7 @@
           "aspectRatio": 0.744140625
         }
       ],
-      "yawDeg": 64,
+      "yawDeg": 47,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2495,7 +2530,7 @@
           "aspectRatio": 1.501466275659824
         }
       ],
-      "yawDeg": 81,
+      "yawDeg": 64,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2520,7 +2555,7 @@
           "aspectRatio": 2.003913894324853
         }
       ],
-      "yawDeg": 99,
+      "yawDeg": 81,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2545,7 +2580,7 @@
           "aspectRatio": 0.7076648841354723
         }
       ],
-      "yawDeg": 116,
+      "yawDeg": 99,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2575,7 +2610,7 @@
         }
       ],
       "code": "#86",
-      "yawDeg": 133,
+      "yawDeg": 116,
       "pitchDeg": 32
     },
     {
@@ -2602,7 +2637,7 @@
         }
       ],
       "code": "#87",
-      "yawDeg": 150,
+      "yawDeg": 133,
       "pitchDeg": 32
     },
     {
@@ -2629,7 +2664,7 @@
         }
       ],
       "code": "#88",
-      "yawDeg": 167,
+      "yawDeg": 150,
       "pitchDeg": 32
     },
     {
@@ -2656,7 +2691,7 @@
         }
       ],
       "code": "#89",
-      "yawDeg": 184,
+      "yawDeg": 167,
       "pitchDeg": 32
     },
     {
@@ -2683,7 +2718,7 @@
         }
       ],
       "code": "#90",
-      "yawDeg": 201,
+      "yawDeg": 184,
       "pitchDeg": 32
     },
     {
@@ -2710,7 +2745,7 @@
         }
       ],
       "code": "#91",
-      "yawDeg": 219,
+      "yawDeg": 201,
       "pitchDeg": 32
     },
     {
@@ -2737,7 +2772,7 @@
         }
       ],
       "code": "#92",
-      "yawDeg": 236,
+      "yawDeg": 219,
       "pitchDeg": 32
     },
     {
@@ -2762,7 +2797,7 @@
         }
       ],
       "code": "#93",
-      "yawDeg": 253,
+      "yawDeg": 236,
       "pitchDeg": 32
     },
     {
@@ -2788,7 +2823,7 @@
         }
       ],
       "code": "#94",
-      "yawDeg": 270,
+      "yawDeg": 253,
       "pitchDeg": 32
     },
     {
@@ -2814,7 +2849,7 @@
         }
       ],
       "code": "#95",
-      "yawDeg": 287,
+      "yawDeg": 270,
       "pitchDeg": 32
     },
     {
@@ -2840,7 +2875,7 @@
         }
       ],
       "code": "#96",
-      "yawDeg": 304,
+      "yawDeg": 287,
       "pitchDeg": 32
     },
     {
@@ -2866,7 +2901,7 @@
         }
       ],
       "code": "#97",
-      "yawDeg": 321,
+      "yawDeg": 304,
       "pitchDeg": 32
     },
     {
@@ -2892,7 +2927,7 @@
         }
       ],
       "code": "#98",
-      "yawDeg": 339,
+      "yawDeg": 321,
       "pitchDeg": 32
     },
     {
@@ -2918,7 +2953,7 @@
         }
       ],
       "code": "#99",
-      "yawDeg": 356,
+      "yawDeg": 339,
       "pitchDeg": 32
     },
     {
@@ -2943,8 +2978,8 @@
         }
       ],
       "code": "#100",
-      "yawDeg": 7,
-      "pitchDeg": -32
+      "yawDeg": 356,
+      "pitchDeg": 32
     },
     {
       "id": "econiq-logo-motion-mp4",
@@ -2968,7 +3003,7 @@
         }
       ],
       "code": "#101",
-      "yawDeg": 24,
+      "yawDeg": 7,
       "pitchDeg": -32
     },
     {
@@ -3027,7 +3062,7 @@
         }
       ],
       "code": "#102",
-      "yawDeg": 41,
+      "yawDeg": 24,
       "pitchDeg": -32
     },
     {
@@ -3072,7 +3107,7 @@
         }
       ],
       "code": "#103",
-      "yawDeg": 58,
+      "yawDeg": 41,
       "pitchDeg": -32
     },
     {
@@ -3112,7 +3147,7 @@
         }
       ],
       "code": "#104",
-      "yawDeg": 75,
+      "yawDeg": 58,
       "pitchDeg": -32
     },
     {
@@ -3158,7 +3193,7 @@
         }
       ],
       "code": "#105",
-      "yawDeg": 93,
+      "yawDeg": 75,
       "pitchDeg": -32
     },
     {
@@ -3190,7 +3225,7 @@
         }
       ],
       "code": "#106",
-      "yawDeg": 110,
+      "yawDeg": 93,
       "pitchDeg": -32
     },
     {
@@ -3221,7 +3256,7 @@
         }
       ],
       "code": "#107",
-      "yawDeg": 127,
+      "yawDeg": 110,
       "pitchDeg": -32
     },
     {
@@ -3283,7 +3318,7 @@
         }
       ],
       "code": "#108",
-      "yawDeg": 144,
+      "yawDeg": 127,
       "pitchDeg": -32
     },
     {
@@ -3338,7 +3373,7 @@
         }
       ],
       "code": "#109",
-      "yawDeg": 161,
+      "yawDeg": 144,
       "pitchDeg": -32
     },
     {
@@ -3369,7 +3404,7 @@
         }
       ],
       "code": "#110",
-      "yawDeg": 178,
+      "yawDeg": 161,
       "pitchDeg": -32
     },
     {
@@ -3400,7 +3435,7 @@
         }
       ],
       "code": "#111",
-      "yawDeg": 195,
+      "yawDeg": 178,
       "pitchDeg": -32
     },
     {
@@ -3431,7 +3466,7 @@
         }
       ],
       "code": "#112",
-      "yawDeg": 213,
+      "yawDeg": 195,
       "pitchDeg": -32
     },
     {
@@ -3500,7 +3535,7 @@
         }
       ],
       "code": "#113",
-      "yawDeg": 230,
+      "yawDeg": 213,
       "pitchDeg": -32
     },
     {
@@ -3562,7 +3597,7 @@
         }
       ],
       "code": "#114",
-      "yawDeg": 247,
+      "yawDeg": 230,
       "pitchDeg": -32
     },
     {
@@ -3607,7 +3642,7 @@
         }
       ],
       "code": "#115",
-      "yawDeg": 264,
+      "yawDeg": 247,
       "pitchDeg": -32
     },
     {
@@ -3645,7 +3680,7 @@
         }
       ],
       "code": "#116",
-      "yawDeg": 281,
+      "yawDeg": 264,
       "pitchDeg": -32
     },
     {
@@ -3669,7 +3704,7 @@
         }
       ],
       "code": "#117",
-      "yawDeg": 298,
+      "yawDeg": 281,
       "pitchDeg": -32
     },
     {
@@ -3693,7 +3728,7 @@
         }
       ],
       "code": "#118",
-      "yawDeg": 315,
+      "yawDeg": 298,
       "pitchDeg": -32
     },
     {
@@ -3717,7 +3752,7 @@
         }
       ],
       "code": "#119",
-      "yawDeg": 333,
+      "yawDeg": 315,
       "pitchDeg": -32
     },
     {
@@ -3741,9 +3776,101 @@
         }
       ],
       "code": "#120",
+      "yawDeg": 333,
+      "pitchDeg": -32
+    },
+    {
+      "id": "panitia-dies-natalis-11-itk",
+      "tier": "equator",
+      "type": "committee",
+      "title": "PANITIA DIES NATALIS 11 ITK — E-Sports Combat 2025",
+      "category": "Dokumentasi Lapangan & Kepanitiaan",
+      "year": "2025",
+      "tools": "Event Production, E-Sports Tournament, Camera & Documentation",
+      "description": "Dokumentasi foto dan video klip kepanitiaan Dies Natalis 11 ITK (E-Sports Combat 2025 — MLBB Tournament).",
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Panitia Dies Natalis 11 ITK — Babak Penyisihan (1)",
+          "caption": "Foto bersama panitia E-Sports Combat Dies Natalis 11 ITK.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-01.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Panitia Dies Natalis 11 ITK — Babak Penyisihan (2)",
+          "caption": "Foto bersama panitia E-Sports Combat Dies Natalis 11 ITK (Pose 2).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-02.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Panitia Dies Natalis 11 ITK — Auditorium Labter (3)",
+          "caption": "Foto bersama panitia di panggung Auditorium Labter ITK.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-03.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Panitia Dies Natalis 11 ITK — Auditorium Labter (4)",
+          "caption": "Momen kebersamaan panitia di panggung utama E-Sports Combat 2025.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-04.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Panitia Dies Natalis 11 ITK — Auditorium Labter (5)",
+          "caption": "Foto penutup panitia E-Sports Combat Dies Natalis 11 ITK.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-05.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Klip Video Dies Natalis 11 ITK (IMG_5808.MP4)",
+          "caption": "Rekaman video suasana turnamen Dies Natalis 11 ITK (IMG_5808).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-01.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-img5808.mp4",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Klip Video Dies Natalis 11 ITK (IMG_5809.MP4)",
+          "caption": "Rekaman video aktivitas panitia Dies Natalis 11 ITK (IMG_5809).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-02.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-img5809.mp4",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Klip Video Dies Natalis 11 ITK (IMG_5907.MP4)",
+          "caption": "Rekaman video suasana Semifinal & Final di Auditorium Labter ITK (IMG_5907).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-03.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-img5907.mp4",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Klip Video Dies Natalis 11 ITK (IMG_5913.MP4)",
+          "caption": "Rekaman video momen panitia Dies Natalis 11 ITK (IMG_5913).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-04.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-img5913.mp4",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Klip Video Dies Natalis 11 ITK (IMG_5914.MP4)",
+          "caption": "Rekaman video penutupan E-Sports Combat Dies Natalis 11 ITK (IMG_5914).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-05.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-dies11-img5914.mp4",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        }
+      ],
+      "code": "#121",
       "yawDeg": 350,
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T09:22:24.623Z"
+  "lastUpdated": "2026-11-12T09:23:31.656Z"
 }
