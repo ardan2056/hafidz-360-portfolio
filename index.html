@@ -1140,13 +1140,8 @@
       </h1>
 
       <!-- Creator Expertise Track -->
-      <p class="text-xs sm:text-sm font-semibold text-blue-600 dark:text-blue-400 uppercase tracking-widest mb-3">
+      <p class="text-xs sm:text-sm font-semibold text-blue-600 dark:text-blue-400 uppercase tracking-widest mb-7">
         Desain Grafis • UI/UX Figma • Web &amp; Game • Video Motion
-      </p>
-
-      <!-- Welcome Hint Description -->
-      <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-300 max-w-sm mx-auto mb-7 font-normal leading-relaxed">
-        Ruang pamer karya interaktif 360° dengan visual real-time dan audio sinematik. Tekan tombol di bawah untuk mulai menjelajah.
       </p>
 
       <!-- 3D INTERACTIVE START BUTTON CONTAINER -->
@@ -1472,7 +1467,7 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
               <div>
                 <label class="block font-semibold mb-1 text-slate-600 dark:text-slate-300">Teks Lantai Bawah (Nadir)</label>
-                <input id="admin-nadir-title-input" type="text" placeholder="Contoh: KOOR DIV MULTIMEDIA" class="w-full bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-700 rounded-lg px-3 py-2 font-bold" />
+                <input id="admin-nadir-title-input" type="text" placeholder="Contoh: BISNIS DIGITAL ITK" class="w-full bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-700 rounded-lg px-3 py-2 font-bold" />
               </div>
               <div>
                 <label class="block font-semibold mb-1 text-slate-600 dark:text-slate-300">Sub-Teks Tahun / Periode</label>
@@ -1904,7 +1899,7 @@
       pin: '1234',
       zenithTitle: 'M. HAFIDZ ARDAN',
       zenithSubtitle: 'INTERACTIVE CREATIVE & MULTIMEDIA STUDIO',
-      nadirTitle: 'KOOR DIV MULTIMEDIA',
+      nadirTitle: 'BISNIS DIGITAL ITK',
       nadirSubtitle: '2023 • 2024 • 2025 • 2026',
       bgStyle: 'studio',
       activities: []
@@ -2899,7 +2894,7 @@
       ctx.font = '800 84px "Poppins", sans-serif';
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
-      ctx.fillText((ownerProfile.nadirTitle || 'KOOR DIV MULTIMEDIA').toUpperCase(), cx, cy - 36);
+      ctx.fillText((ownerProfile.nadirTitle || 'BISNIS DIGITAL ITK').toUpperCase(), cx, cy - 36);
 
       ctx.fillStyle = '#2C99D6';
       ctx.font = '700 40px "Poppins", sans-serif';
@@ -5764,7 +5759,7 @@
       const nadirSubInput = document.getElementById('admin-nadir-sub-input');
       const zenithTitleInput = document.getElementById('admin-zenith-title-input');
       const zenithSubInput = document.getElementById('admin-zenith-sub-input');
-      if (nadirTitleInput) nadirTitleInput.value = ownerProfile.nadirTitle || 'KOOR DIV MULTIMEDIA';
+      if (nadirTitleInput) nadirTitleInput.value = ownerProfile.nadirTitle || 'BISNIS DIGITAL ITK';
       if (nadirSubInput) nadirSubInput.value = ownerProfile.nadirSubtitle || '2023 • 2024 • 2025 • 2026';
       if (zenithTitleInput) zenithTitleInput.value = ownerProfile.zenithTitle || 'M. HAFIDZ ARDAN';
       if (zenithSubInput) zenithSubInput.value = ownerProfile.zenithSubtitle || 'INTERACTIVE CREATIVE STUDIO';
@@ -7133,7 +7128,7 @@
       const zenithSub = document.getElementById('quick-zenith-sub');
       const bgStyle = document.getElementById('quick-bg-style');
 
-      if (nadirTitle) nadirTitle.value = ownerProfile.nadirTitle || 'KOOR DIV MULTIMEDIA';
+      if (nadirTitle) nadirTitle.value = ownerProfile.nadirTitle || 'BISNIS DIGITAL ITK';
       if (nadirSub) nadirSub.value = ownerProfile.nadirSubtitle || '2023 • 2024 • 2025 • 2026';
       if (zenithTitle) zenithTitle.value = ownerProfile.zenithTitle || 'M. HAFIDZ ARDAN';
       if (zenithSub) zenithSub.value = ownerProfile.zenithSubtitle || 'INTERACTIVE CREATIVE STUDIO';
