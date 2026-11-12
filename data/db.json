@@ -234,6 +234,10 @@
           {
             "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pdd-econiq-03.jpg",
             "caption": "Kru Divisi PDD di depan panggung Econiq Ch.3."
+          },
+          {
+            "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pdd-econiq-img8763.jpg",
+            "caption": "Selfie tim PDD Econiq Chapter 3."
           }
         ]
       },
@@ -251,6 +255,22 @@
           {
             "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/wp-bd-pdd-img8391.jpg",
             "caption": "Dokumentasi Welcome Party Bisnis Digital ITK (Divisi PDD)."
+          },
+          {
+            "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/wp-bd-pdd-img8406.jpg",
+            "caption": "Photobooth Welcome Party Bisnis Digital 2025."
+          },
+          {
+            "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/wp-bd-pdd-img8407.jpg",
+            "caption": "Photobooth Welcome Party Bisnis Digital 2025."
+          },
+          {
+            "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/wp-bd-pdd-img8408.jpg",
+            "caption": "Photobooth Welcome Party Bisnis Digital 2025."
+          },
+          {
+            "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/wp-bd-pdd-img8207.jpg",
+            "caption": "Foto bersama panitia Bisnis Digital 2025."
           }
         ]
       },
@@ -2058,6 +2078,34 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/wp-bd-pdd-img8391.jpg",
           "isRealImage": true,
           "aspectRatio": 0.75
+        },
+        {
+          "title": "Photobooth Welcome Party 25 (1)",
+          "caption": "Foto bersama tim PDD di photobooth retro Welcome Party Bisnis Digital 2025.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/wp-bd-pdd-img8406.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Photobooth Welcome Party 25 (2)",
+          "caption": "Pose santai di booth Welcome Party Bisnis Digital 2025.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/wp-bd-pdd-img8407.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Photobooth Welcome Party 25 (3)",
+          "caption": "Momen keseruan tim di photobooth Welcome Party 25.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/wp-bd-pdd-img8408.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Foto Bersama Panitia Bisnis Digital 2025",
+          "caption": "Foto bersama seluruh panitia di sesi kumpul & briefing.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/wp-bd-pdd-img8207.jpg",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
         }
       ],
       "code": "#61",
@@ -2118,6 +2166,21 @@
           "caption": "Klip video momen di balik layar tim PDD Econiq Ch.3.",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pdd-econiq-03.jpg",
           "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pdd-econiq-img8624.mp4",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Selfie Tim PDD Econiq Ch.3",
+          "caption": "Momen kebersamaan tim PDD saat bertugas di Econiq Chapter 3.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pdd-econiq-img8763.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        },
+        {
+          "title": "Klip Video Tim PDD Econiq Ch.3 (IMG_8763.MP4)",
+          "caption": "Rekaman video singkat tim PDD Econiq Chapter 3.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pdd-econiq-img8763.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/pdd-econiq-img8763.mp4",
           "isRealImage": true,
           "aspectRatio": 0.5625
         }
@@ -2275,6 +2338,32 @@
       "pitchDeg": 32
     },
     {
+      "id": "gh-cafefinder-app",
+      "tier": "upper",
+      "type": "webgame",
+      "title": "CAFEFINDER — Aplikasi Pencarian Kafe, Peta & Pelacak Kunjungan",
+      "category": "Mobile App (Flutter / Dart)",
+      "year": "2026",
+      "tools": "Flutter, Dart, Maps Integration, Community Hub",
+      "description": "Aplikasi pencarian kafe terbaik dengan fitur peta interaktif, community hub, dan pelacak kunjungan.",
+      "accent": "#d97706",
+      "currentSlide": 0,
+      "directLink": "https://github.com/ardan2056/cafefinder",
+      "externalUrl": "https://github.com/ardan2056/cafefinder",
+      "slides": [
+        {
+          "title": "CafeFinder — Flutter App",
+          "caption": "Repository: https://github.com/ardan2056/cafefinder",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/app-cafefinder-real.png",
+          "isRealImage": true,
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "code": "#67",
+      "yawDeg": 321.4285714285714,
+      "pitchDeg": 32
+    },
+    {
       "id": "pdd-expo-2025-docs",
       "tier": "upper",
       "type": "committee",
@@ -2339,7 +2428,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#67",
+      "code": "#68",
       "yawDeg": 282,
       "pitchDeg": 32
     },
@@ -2401,7 +2490,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#68",
+      "code": "#69",
       "yawDeg": 306,
       "pitchDeg": 32
     },
@@ -2446,7 +2535,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#69",
+      "code": "#70",
       "yawDeg": 330,
       "pitchDeg": 32
     },
@@ -2484,7 +2573,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#70",
+      "code": "#71",
       "yawDeg": 354,
       "pitchDeg": 32
     },
@@ -2508,7 +2597,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#71",
+      "code": "#72",
       "yawDeg": 9.600000000000001,
       "pitchDeg": -32
     },
@@ -2532,7 +2621,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#72",
+      "code": "#73",
       "yawDeg": 33.6,
       "pitchDeg": -32
     },
@@ -2556,7 +2645,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#73",
+      "code": "#74",
       "yawDeg": 57.6,
       "pitchDeg": -32
     },
@@ -2580,7 +2669,7 @@
           "aspectRatio": 0.75
         }
       ],
-      "code": "#74",
+      "code": "#75",
       "yawDeg": 81.6,
       "pitchDeg": -32
     },
@@ -2672,7 +2761,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#75",
+      "code": "#76",
       "yawDeg": 105.6,
       "pitchDeg": -32
     },
@@ -2710,7 +2799,7 @@
           "aspectRatio": 1
         }
       ],
-      "code": "#76",
+      "code": "#77",
       "yawDeg": 129.6,
       "pitchDeg": -32
     },
@@ -2741,7 +2830,7 @@
           "aspectRatio": 0.7998046875
         }
       ],
-      "code": "#77",
+      "code": "#78",
       "yawDeg": 153.6,
       "pitchDeg": -32
     },
@@ -2772,7 +2861,7 @@
           "aspectRatio": 0.74609375
         }
       ],
-      "code": "#78",
+      "code": "#79",
       "yawDeg": 177.6,
       "pitchDeg": -32
     },
@@ -2796,7 +2885,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "code": "#79",
+      "code": "#80",
       "yawDeg": 201.6,
       "pitchDeg": -32
     },
@@ -2820,7 +2909,7 @@
           "aspectRatio": 0.560546875
         }
       ],
-      "code": "#80",
+      "code": "#81",
       "yawDeg": 225.6,
       "pitchDeg": -32
     },
@@ -2844,7 +2933,7 @@
           "aspectRatio": 0.70703125
         }
       ],
-      "code": "#81",
+      "code": "#82",
       "yawDeg": 249.6,
       "pitchDeg": -32
     },
@@ -2868,7 +2957,7 @@
           "aspectRatio": 0.70703125
         }
       ],
-      "code": "#82",
+      "code": "#83",
       "yawDeg": 273.6,
       "pitchDeg": -32
     },
@@ -2899,7 +2988,7 @@
           "aspectRatio": 0.7998046875
         }
       ],
-      "code": "#83",
+      "code": "#84",
       "yawDeg": 297.6,
       "pitchDeg": -32
     },
@@ -2923,7 +3012,7 @@
           "aspectRatio": 0.7998046875
         }
       ],
-      "code": "#84",
+      "code": "#85",
       "yawDeg": 321.6,
       "pitchDeg": -32
     },
@@ -2947,10 +3036,32 @@
           "aspectRatio": 0.7998046875
         }
       ],
-      "code": "#85",
+      "code": "#86",
       "yawDeg": 345.6,
       "pitchDeg": -32
+    },
+    {
+      "id": "design-habib-husein-jafar",
+      "tier": "lower",
+      "type": "design",
+      "title": "HABIB HUSEIN JA'FAR — Poster Tipografi Brutalist Cyan (Ardan.Design)",
+      "category": "Editorial & Brutalist Poster",
+      "year": "2024",
+      "tools": "Adobe Photoshop",
+      "description": "Desain poster editorial bergaya brutalist duotone cyan-hitam menampilkan Habib Husein Ja'far beserta kutipan inspiratif.",
+      "accent": "#06b6d4",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Poster Brutalist Cyan — Habib Husein Ja'far",
+          "caption": "Karya Ardan.Design dengan efek threshold grain dan tipografi bold.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-habib-husein-jafar.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        }
+      ],
+      "code": "#87"
     }
   ],
-  "lastUpdated": "2026-11-12T09:53:29.380Z"
+  "lastUpdated": "2026-11-12T09:53:59.666Z"
 }
