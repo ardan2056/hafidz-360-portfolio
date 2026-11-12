@@ -661,12 +661,16 @@
 
   <!-- DETAIL MODAL -->
   <div id="detail-modal" class="fixed inset-0 z-50 bg-black/80 hidden items-center justify-center p-3 sm:p-6">
-    <div class="glass-panel rounded-xl max-w-6xl w-full max-h-[92vh] overflow-hidden flex flex-col lg:flex-row">
+    <div class="glass-panel rounded-xl max-w-6xl w-full max-h-[92vh] overflow-y-auto lg:overflow-hidden flex flex-col lg:flex-row relative">
+      <!-- Mobile Pinned Top-Right Red Close Button -->
+      <button onclick="closeDetailModal()" class="lg:hidden absolute top-3 right-3 z-40 w-8 h-8 rounded-lg bg-[#EB2E33] hover:bg-[#d92328] text-white shadow-lg shadow-[#EB2E33]/35 flex items-center justify-center transition-all active:scale-95" title="Tutup">
+        <i class="ph-bold ph-x text-sm"></i>
+      </button>
       <!-- Stage -->
-      <div id="modal-slide-stage" class="lg:w-7/12 bg-[#070b14] border-b lg:border-b-0 lg:border-r border-slate-800 relative flex flex-col justify-between p-3.5 sm:p-5 min-h-[480px] sm:min-h-[580px] overflow-hidden select-none">
+      <div id="modal-slide-stage" class="lg:w-7/12 bg-[#070b14] border-b lg:border-b-0 lg:border-r border-slate-800 relative flex flex-col justify-between p-3.5 sm:p-5 min-h-[380px] sm:min-h-[580px] overflow-hidden select-none flex-shrink-0">
         
         <!-- TOP ROW: Badges & Slide Indicator -->
-        <div class="w-full flex items-center justify-between z-20 flex-wrap gap-2 pb-2">
+        <div class="w-full flex items-center justify-between z-20 flex-wrap gap-2 pb-2 pr-10 lg:pr-0">
           <div class="px-2.5 py-1 rounded-lg bg-slate-900/90 border border-slate-700/80 text-[11px] font-semibold text-slate-200 flex items-center gap-1.5 shadow-sm">
             <span id="modal-slot-tag" class="text-brand-400 font-bold">#01</span>
             <span class="text-slate-600">/</span>
@@ -812,7 +816,7 @@
                 <i class="ph-bold ph-trash text-xs"></i>
                 <span>Hapus</span>
               </button>
-              <button onclick="closeDetailModal()" class="w-7 h-7 rounded-md bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 border border-slate-300 dark:border-slate-700 flex items-center justify-center text-slate-600 dark:text-slate-300">
+              <button onclick="closeDetailModal()" class="hidden lg:flex w-7 h-7 rounded-md bg-[#EB2E33] hover:bg-[#d92328] text-white shadow-sm shadow-[#EB2E33]/30 items-center justify-center transition-all active:scale-95" title="Tutup">
                 <i class="ph-bold ph-x text-xs"></i>
               </button>
             </div>
