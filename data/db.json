@@ -361,10 +361,10 @@
       "id": "work-08-part-01",
       "code": "#02",
       "tier": "lower",
-      "type": "uiux",
+      "type": "design",
       "yawDeg": 18,
       "pitchDeg": 0,
-      "title": "High-Fidelity Mobile Screens",
+      "title": "desain story",
       "category": "Fintech Mobile UI/UX Design (Figma)",
       "year": "2025",
       "committeeRole": "UI/UX Product Designer",
@@ -3042,5 +3042,5 @@
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T09:56:48.134Z"
+  "lastUpdated": "2026-11-12T09:57:15.578Z"
 }
