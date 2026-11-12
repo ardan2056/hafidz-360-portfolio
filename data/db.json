@@ -19,6 +19,20 @@
     "bgStyle": "studio",
     "activities": [
       {
+        "id": "act-wisuda-1",
+        "title": "Panitia Wisuda — Dokumentasi (IMG_7113)",
+        "caption": "Dokumentasi bertugas sebagai panitia Wisuda.",
+        "year": "2025",
+        "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-wisuda-img7113.jpg"
+      },
+      {
+        "id": "act-wisuda-2",
+        "title": "Panitia Wisuda — Dokumentasi (IMG_7115)",
+        "caption": "Dokumentasi bertugas sebagai panitia Wisuda.",
+        "year": "2025",
+        "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-wisuda-img7115.jpg"
+      },
+      {
         "id": "act-ku-octagram-1",
         "title": "KU x WP 2025 — Koordinasi Panitia",
         "caption": "Dokumentasi rapat KU x WP 2025 (3 Oktober 2025).",
@@ -3187,9 +3201,39 @@
       "currentSlide": 0,
       "slides": [
         {
-          "title": "Dokumentasi Panitia Wisuda (IMG_7122.MP4)",
-          "caption": "Rekaman video aktivitas panitia dokumentasi Wisuda.",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/doc-pubdok-01.jpg",
+          "title": "Panitia Wisuda — Foto Lapangan (IMG_7113)",
+          "caption": "Dokumentasi foto bertugas sebagai panitia Wisuda (IMG_7113).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-wisuda-img7113.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.75
+        },
+        {
+          "title": "Panitia Wisuda — Foto Lapangan (IMG_7115)",
+          "caption": "Dokumentasi foto bertugas sebagai panitia Wisuda (IMG_7115).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-wisuda-img7115.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.75
+        },
+        {
+          "title": "Klip Video Panitia Wisuda (IMG_7113.MP4)",
+          "caption": "Rekaman video aktivitas panitia Wisuda (IMG_7113).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-wisuda-img7113.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-wisuda-img7113.mp4",
+          "isRealImage": true,
+          "aspectRatio": 0.75
+        },
+        {
+          "title": "Klip Video Panitia Wisuda (IMG_7115.MP4)",
+          "caption": "Rekaman video aktivitas panitia Wisuda (IMG_7115).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-wisuda-img7115.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-wisuda-img7115.mp4",
+          "isRealImage": true,
+          "aspectRatio": 0.75
+        },
+        {
+          "title": "Klip Video Panitia Wisuda (IMG_7122.MP4)",
+          "caption": "Rekaman video aktivitas panitia dokumentasi Wisuda (IMG_7122).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-wisuda-img7113.jpg",
           "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/panitia-wisuda-img7122.mp4",
           "isRealImage": true,
           "aspectRatio": 0.75
@@ -3293,5 +3337,5 @@
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T09:15:19.741Z"
+  "lastUpdated": "2026-11-12T09:16:19.037Z"
 }
