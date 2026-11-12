@@ -76,7 +76,7 @@
       "code": "#02",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 51.42857142857143,
+      "yawDeg": 32.72727272727273,
       "pitchDeg": 0,
       "title": "EDUSPACE & EVENT HUB — UI/UX Figma Prototype",
       "category": "Mobile App UI/UX & Design System",
@@ -113,7 +113,7 @@
       "code": "#03",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 102.85714285714286,
+      "yawDeg": 65.45454545454545,
       "pitchDeg": 0,
       "title": "SISTEM WEB WPK & PORTAL DIGITAL — Web App",
       "category": "Full-Stack Web / Aplikasi WPK Interaktif",
@@ -150,7 +150,7 @@
       "code": "#04",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 154.28571428571428,
+      "yawDeg": 98.18181818181819,
       "pitchDeg": 0,
       "title": "CYBER ORBIT DEFENDER — Playable WebGL Game",
       "category": "Game Development & Interactive Arcade",
@@ -188,7 +188,7 @@
       "code": "#05",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 205.71428571428572,
+      "yawDeg": 130.9090909090909,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Aku Lagi Berkegiatan",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -487,7 +487,7 @@
       "code": "#06",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 257.14285714285717,
+      "yawDeg": 163.63636363636363,
       "pitchDeg": 0,
       "title": "FINFLOW & SMART WALLET — UI/UX Prototype",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -519,7 +519,7 @@
       "code": "#07",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 20,
+      "yawDeg": 18,
       "pitchDeg": 19,
       "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
@@ -549,7 +549,7 @@
       "code": "#08",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 71.42857142857143,
+      "yawDeg": 48,
       "pitchDeg": 19,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
@@ -578,7 +578,7 @@
       "code": "#09",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 122.85714285714286,
+      "yawDeg": 78,
       "pitchDeg": 19,
       "title": "DIVISI DOKUMENTASI — Seminar & Talkshow Nasional",
       "category": "Kepanitiaan Seminar & Konferensi",
@@ -608,7 +608,7 @@
       "code": "#10",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 174.28571428571428,
+      "yawDeg": 108,
       "pitchDeg": 19,
       "title": "COMPANY PROFILE — Organisasi & Kabinet",
       "category": "Video Profil Organisasi & Pengurus",
@@ -645,7 +645,7 @@
       "code": "#11",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 225.71428571428572,
+      "yawDeg": 138,
       "pitchDeg": 19,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
@@ -673,7 +673,7 @@
       "code": "#12",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 277.14285714285717,
+      "yawDeg": 168,
       "pitchDeg": 19,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
@@ -698,7 +698,7 @@
       "code": "#13",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 328.57142857142856,
+      "yawDeg": 198,
       "pitchDeg": 19,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
@@ -727,7 +727,7 @@
       "code": "#14",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 20,
+      "yawDeg": 18,
       "pitchDeg": -17,
       "title": "PANITIA PKKMB / ORIENTASI — Divisi Multimedia",
       "category": "Kepanitiaan Penyambutan & Orientasi",
@@ -755,7 +755,7 @@
       "code": "#15",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 80,
+      "yawDeg": 50.72727272727273,
       "pitchDeg": -17,
       "title": "GRIDCRAFT — Poster & Editorial Archive",
       "category": "Swiss & Modernist Poster Series",
@@ -782,7 +782,7 @@
       "code": "#16",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 140,
+      "yawDeg": 83.45454545454545,
       "pitchDeg": -17,
       "title": "KEPANITIAAN KOMPETISI KREATIF — Koor Kreatif",
       "category": "Kepanitiaan Lomba & Pameran",
@@ -812,7 +812,7 @@
       "code": "#17",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 200,
+      "yawDeg": 116.18181818181819,
       "pitchDeg": -17,
       "title": "BLUEPRINT — Brand Guidelines Book",
       "category": "Design System & GSM Book",
@@ -839,7 +839,7 @@
       "code": "#18",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 260,
+      "yawDeg": 148.9090909090909,
       "pitchDeg": -17,
       "title": "META LAYER — PSD Artboard Breakdown",
       "category": "Behind The Design Concept",
@@ -866,7 +866,7 @@
       "code": "#19",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 320,
+      "yawDeg": 181.63636363636363,
       "pitchDeg": -17,
       "title": "INFINITY — 360° Interactive Dome Space",
       "category": "Interactive WebGL Exhibition",
@@ -889,37 +889,379 @@
       ]
     },
     {
-      "id": "work-1794369861425",
+      "id": "octagram-design-01",
       "code": "#20",
       "tier": "equator",
-      "type": "video",
+      "type": "design",
+      "yawDeg": 196.36363636363637,
+      "pitchDeg": 0,
+      "title": "KULIAH UMUM OCTAGRAM — Poster Utama (Keynote Kepala BRIN)",
+      "category": "Event Poster & Key Visual",
       "year": "2026",
-      "title": "aaaaa",
-      "category": "UI/UX & FIGMA",
-      "externalUrl": "https://www.youtube.com/watch?v=avUsTRL5XS0",
-      "description": "Karya oleh M. Hafidz Ardan.",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Poster utama Kuliah Umum OCTAGRAM Bisnis Digital ITK 2026 menghadirkan Keynote Speaker Prof. Dr. Arif Satria, S.P., M.Si (Kepala BRIN), Sambutan Rektor ITK, dan Moderator Dekan FSTI.",
+      "accent": "#0d9488",
       "currentSlide": 0,
       "slides": [
         {
-          "title": "Slide 01 — aaaaa",
-          "caption": "aaaaa",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/1794369861409-14312081-WhatsApp_Image_2026-11-09_at_01.32.18.jpeg",
-          "videoSrc": "https://www.youtube.com/watch?v=avUsTRL5XS0",
+          "title": "KULIAH UMUM OCTAGRAM — Poster Utama (Keynote Kepala BRIN)",
+          "caption": "Poster utama Kuliah Umum OCTAGRAM Bisnis Digital ITK 2026 menghadirkan Keynote Speaker Prof. Dr. Arif Satria, S.P., M.Si (Kepala BRIN), Sambutan Rektor ITK, dan Moderator Dekan FSTI.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-01-poster-kuliah-umum.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.7061
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-02",
+      "code": "#21",
+      "tier": "upper",
+      "type": "design",
+      "yawDeg": 228,
+      "pitchDeg": 19,
+      "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
+      "category": "Merchandise & Product Mockup",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Desain mockup payung resmi OCTAGRAM Bisnis Digital 2026 dengan kombinasi warna hijau emerald dan putih beserta logo FSTI & Bisnis Digital ITK.",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
+          "caption": "Desain mockup payung resmi OCTAGRAM Bisnis Digital 2026 dengan kombinasi warna hijau emerald dan putih beserta logo FSTI & Bisnis Digital ITK.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-02-payung-merchandise.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.7061
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-03",
+      "code": "#22",
+      "tier": "lower",
+      "type": "design",
+      "yawDeg": 214.36363636363637,
+      "pitchDeg": -17,
+      "title": "MERCHANDISE OCTAGRAM 2026 — Poster Pre-Order Sticker & Keychain",
+      "category": "Promotional Poster & Merch",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Poster promosi Pre-Order Merchandise OCTAGRAM 2026 menampilkan Sticker Pack A6 dan Gantungan Kunci Akrilik dengan gaya ilustrasi mesin cetak modern.",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "MERCHANDISE OCTAGRAM 2026 — Poster Pre-Order Sticker & Keychain",
+          "caption": "Poster promosi Pre-Order Merchandise OCTAGRAM 2026 menampilkan Sticker Pack A6 dan Gantungan Kunci Akrilik dengan gaya ilustrasi mesin cetak modern.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-03-poster-merchandise.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.7061
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-04",
+      "code": "#23",
+      "tier": "equator",
+      "type": "design",
+      "yawDeg": 229.0909090909091,
+      "pitchDeg": 0,
+      "title": "LIVE REPORT OCTAGRAM — Instagram Story Frame Template",
+      "category": "Social Media & Live Report",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Template frame Instagram Story Live Report OCTAGRAM (1 November 2026) bertema Wajah Orang Orang Sok Sibuk di OCTAGRAM.",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "LIVE REPORT OCTAGRAM — Instagram Story Frame Template",
+          "caption": "Template frame Instagram Story Live Report OCTAGRAM (1 November 2026) bertema Wajah Orang Orang Sok Sibuk di OCTAGRAM.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-04-live-report-frame.jpg",
+          "videoSrc": null,
           "isRealImage": true,
           "aspectRatio": 0.5625
-        },
-        {
-          "title": "Slide 02 — Dokumentasi & Detail",
-          "caption": "Rincian proses kerja.",
-          "imageSrc": "https://img.youtube.com/vi/avUsTRL5XS0/hqdefault.jpg",
-          "videoSrc": "https://www.youtube.com/watch?v=avUsTRL5XS0",
-          "isRealImage": true,
-          "aspectRatio": 1.3333333333333333
         }
-      ],
-      "yawDeg": 308.57142857142856,
+      ]
+    },
+    {
+      "id": "octagram-design-05",
+      "code": "#24",
+      "tier": "upper",
+      "type": "design",
+      "yawDeg": 258,
+      "pitchDeg": 19,
+      "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
+      "category": "Social Media & Documentation",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Desain photostrip Live Report dokumentasi kesibukan panitia OCTAGRAM H-5 menjelang acara.",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
+          "caption": "Desain photostrip Live Report dokumentasi kesibukan panitia OCTAGRAM H-5 menjelang acara.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-05-live-report-photostrip.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-06",
+      "code": "#25",
+      "tier": "lower",
+      "type": "design",
+      "yawDeg": 247.0909090909091,
+      "pitchDeg": -17,
+      "title": "STAFF KONSUMSI OCTAGRAM — H. Ardan Profile Card",
+      "category": "Identity & Staff Card Design",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Desain kartu profil / perkenalan panitia H. Ardan sebagai Staff Konsumsi Bisnis Digital OCTAGRAM 2026 lengkap dengan avatar 3D dan elemen visual.",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "STAFF KONSUMSI OCTAGRAM — H. Ardan Profile Card",
+          "caption": "Desain kartu profil / perkenalan panitia H. Ardan sebagai Staff Konsumsi Bisnis Digital OCTAGRAM 2026 lengkap dengan avatar 3D dan elemen visual.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-06-id-card-staff-konsumsi.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.6436
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-07",
+      "code": "#26",
+      "tier": "equator",
+      "type": "design",
+      "yawDeg": 261.8181818181818,
       "pitchDeg": 0,
-      "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
+      "title": "DANA USAHA OCTAGRAM 2026 — Poster Menu & Lokasi",
+      "category": "Promotional Poster & Danus",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Poster promosi Dana Usaha (Danus) OCTAGRAM 2026 Bisnis Digital ITK lengkap dengan daftar menu, harga, dan titik lokasi penjualan.",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "DANA USAHA OCTAGRAM 2026 — Poster Menu & Lokasi",
+          "caption": "Poster promosi Dana Usaha (Danus) OCTAGRAM 2026 Bisnis Digital ITK lengkap dengan daftar menu, harga, dan titik lokasi penjualan.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-07-poster-dana-usaha.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.7061
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-08",
+      "code": "#27",
+      "tier": "upper",
+      "type": "design",
+      "yawDeg": 288,
+      "pitchDeg": 19,
+      "title": "KULIAH UMUM OCTAGRAM — X-Banner Fireside Talks Yulianta (OJK)",
+      "category": "X-Banner & Print Media",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Desain X-Banner pembicara Fireside Talks Bapak Yulianta (Kepala Divisi Pengawasan Perilaku PUJK, Edukasi & Pelindungan Konsumen Kantor OJK Kaltim Kaltara).",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "KULIAH UMUM OCTAGRAM — X-Banner Fireside Talks Yulianta (OJK)",
+          "caption": "Desain X-Banner pembicara Fireside Talks Bapak Yulianta (Kepala Divisi Pengawasan Perilaku PUJK, Edukasi & Pelindungan Konsumen Kantor OJK Kaltim Kaltara).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-08-xbanner-yulianta-ojk.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.333
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-09",
+      "code": "#28",
+      "tier": "lower",
+      "type": "design",
+      "yawDeg": 279.8181818181818,
+      "pitchDeg": -17,
+      "title": "KULIAH UMUM OCTAGRAM — X-Banner Utama Event 2026",
+      "category": "X-Banner & Print Media",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Desain X-Banner utama Kuliah Umum OCTAGRAM bertema Shaping an Innovation-Driven and Inclusive Digital Economy di Auditorium Lab Terpadu 1 ITK.",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "KULIAH UMUM OCTAGRAM — X-Banner Utama Event 2026",
+          "caption": "Desain X-Banner utama Kuliah Umum OCTAGRAM bertema Shaping an Innovation-Driven and Inclusive Digital Economy di Auditorium Lab Terpadu 1 ITK.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-09-xbanner-kuliah-umum.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.333
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-10",
+      "code": "#29",
+      "tier": "equator",
+      "type": "design",
+      "yawDeg": 294.54545454545456,
+      "pitchDeg": 0,
+      "title": "QR CODE BISNIS DIGITAL ITK — Instagram @BISNISDIGITAL.ITK",
+      "category": "Social Media & Graphic Asset",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Desain kartu QR Code resmi untuk akses cepat ke akun Instagram @BISNISDIGITAL.ITK dengan aksen bintang 3D metalik.",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "QR CODE BISNIS DIGITAL ITK — Instagram @BISNISDIGITAL.ITK",
+          "caption": "Desain kartu QR Code resmi untuk akses cepat ke akun Instagram @BISNISDIGITAL.ITK dengan aksen bintang 3D metalik.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-10-qr-instagram-bisnisdigital.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.6436
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-11",
+      "code": "#30",
+      "tier": "upper",
+      "type": "design",
+      "yawDeg": 318,
+      "pitchDeg": 19,
+      "title": "KULIAH UMUM OCTAGRAM — X-Banner Moderator Dekan FSTI ITK",
+      "category": "X-Banner & Print Media",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Desain X-Banner Moderator Bapak Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D. (Dekan Fakultas Sains dan Teknologi Informasi ITK).",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "KULIAH UMUM OCTAGRAM — X-Banner Moderator Dekan FSTI ITK",
+          "caption": "Desain X-Banner Moderator Bapak Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D. (Dekan Fakultas Sains dan Teknologi Informasi ITK).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-11-xbanner-moderator-dekan.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.333
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-12",
+      "code": "#31",
+      "tier": "lower",
+      "type": "design",
+      "yawDeg": 312.54545454545456,
+      "pitchDeg": -17,
+      "title": "KULIAH UMUM OCTAGRAM — Template Slide & Sertifikat Resmi",
+      "category": "Presentation & Layout System",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Template latar belakang slide presentasi & sertifikat resmi Kuliah Umum OCTAGRAM 2026 dengan header logo institusi.",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "KULIAH UMUM OCTAGRAM — Template Slide & Sertifikat Resmi",
+          "caption": "Template latar belakang slide presentasi & sertifikat resmi Kuliah Umum OCTAGRAM 2026 dengan header logo institusi.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-12-template-slide-octagram.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 1.7809
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-13",
+      "code": "#32",
+      "tier": "equator",
+      "type": "design",
+      "yawDeg": 327.27272727272725,
+      "pitchDeg": 0,
+      "title": "KULIAH UMUM OCTAGRAM — X-Banner Sambutan Rektor ITK",
+      "category": "X-Banner & Print Media",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Desain X-Banner Sambutan Prof. Dr.rer.nat. Agus Rubiyanto, M.Eng.Sc. (Rektor Institut Teknologi Kalimantan) pada Kuliah Umum OCTAGRAM 2026.",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "KULIAH UMUM OCTAGRAM — X-Banner Sambutan Rektor ITK",
+          "caption": "Desain X-Banner Sambutan Prof. Dr.rer.nat. Agus Rubiyanto, M.Eng.Sc. (Rektor Institut Teknologi Kalimantan) pada Kuliah Umum OCTAGRAM 2026.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-13-xbanner-rektor-itk.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.333
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-14",
+      "code": "#33",
+      "tier": "upper",
+      "type": "design",
+      "yawDeg": 348,
+      "pitchDeg": 19,
+      "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
+      "category": "Teaser Poster & Campaign",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Poster teaser Coming Soon Kuliah Umum & Expo OCTAGRAM 2026 bertema Empowering Regional economies through Research and digital financial innovation.",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
+          "caption": "Poster teaser Coming Soon Kuliah Umum & Expo OCTAGRAM 2026 bertema Empowering Regional economies through Research and digital financial innovation.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-14-coming-soon-expo.jpg",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        }
+      ]
+    },
+    {
+      "id": "octagram-design-15",
+      "code": "#34",
+      "tier": "lower",
+      "type": "design",
+      "yawDeg": 345.27272727272725,
+      "pitchDeg": -17,
+      "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
+      "category": "Stage Frame & Event Overlay",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Illustrator, Figma",
+      "description": "Desain overlay frame & backdrop layar utama Kuliah Umum & Expo OCTAGRAM Bisnis Digital lengkap dengan deretan logo sponsor.",
+      "accent": "#0d9488",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
+          "caption": "Desain overlay frame & backdrop layar utama Kuliah Umum & Expo OCTAGRAM Bisnis Digital lengkap dengan deretan logo sponsor.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-15-backdrop-twibbon-expo.png",
+          "videoSrc": null,
+          "isRealImage": true,
+          "aspectRatio": 2.3981
+        }
+      ]
     }
   ],
   "lastUpdated": "2026-11-12T08:01:04.175Z"

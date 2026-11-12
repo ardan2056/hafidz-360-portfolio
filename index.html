@@ -2313,7 +2313,7 @@
     let latitudeRingMeshes = [];
     let kineticRingZenith = null, kineticRingNadir = null, starPointsMesh = null;
     let studioEnvGroup;
-    const SPHERE_RADIUS = 25;
+    const SPHERE_RADIUS = 28;
 
 
     function extractYouTubeId(url) {
@@ -3027,21 +3027,21 @@
         transparent: true,
         depthWrite: false
       });
-      const floorMesh = new THREE.Mesh(new THREE.CircleGeometry(52, 64), floorMat);
+      const floorMesh = new THREE.Mesh(new THREE.CircleGeometry(56, 64), floorMat);
       floorMesh.rotation.x = -Math.PI / 2;
-      floorMesh.position.set(0, -13.0, 0);
+      floorMesh.position.set(0, -14.0, 0);
       studioEnvGroup.add(floorMesh);
 
       // ROBIN PAYOT SIGNATURE PERSPECTIVE DOTTED CONCENTRIC RINGS
       const floorDotPositions = [];
-      const radii = [4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49];
+      const radii = [4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52];
       radii.forEach(r => {
         const count = Math.max(16, Math.floor((2 * Math.PI * r) / 1.15));
         for (let i = 0; i < count; i++) {
           const angle = (i / count) * Math.PI * 2;
           floorDotPositions.push(
             Math.cos(angle) * r,
-            -12.92,
+            -13.92,
             Math.sin(angle) * r
           );
         }
@@ -3052,10 +3052,10 @@
         const ang = (s / 12) * Math.PI * 2;
         const cosA = Math.cos(ang);
         const sinA = Math.sin(ang);
-        for (let d = 4.5; d <= 48; d += 1.5) {
+        for (let d = 4.5; d <= 51; d += 1.5) {
           floorDotPositions.push(
             cosA * d,
-            -12.92,
+            -13.92,
             sinA * d
           );
         }
