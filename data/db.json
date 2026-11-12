@@ -1357,7 +1357,7 @@
       "code": "#47",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 21,
+      "yawDeg": 20,
       "pitchDeg": -16,
       "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
       "category": "Social Media & Documentation",
@@ -1382,7 +1382,7 @@
       "code": "#48",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 39,
+      "yawDeg": 37,
       "pitchDeg": -16,
       "title": "STAFF KONSUMSI OCTAGRAM — H. Ardan Profile Card",
       "category": "Identity & Staff Card Design",
@@ -1407,7 +1407,7 @@
       "code": "#49",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 56,
+      "yawDeg": 53,
       "pitchDeg": -16,
       "title": "DANA USAHA OCTAGRAM 2026 — Poster Menu & Lokasi",
       "category": "Promotional Poster & Danus",
@@ -1432,7 +1432,7 @@
       "code": "#50",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 73,
+      "yawDeg": 70,
       "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Fireside Talks Yulianta (OJK)",
       "category": "X-Banner & Print Media",
@@ -1457,7 +1457,7 @@
       "code": "#51",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 90,
+      "yawDeg": 86,
       "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Utama Event 2026",
       "category": "X-Banner & Print Media",
@@ -1482,7 +1482,7 @@
       "code": "#52",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 107,
+      "yawDeg": 102,
       "pitchDeg": -16,
       "title": "QR CODE BISNIS DIGITAL ITK — Instagram @BISNISDIGITAL.ITK",
       "category": "Social Media & Graphic Asset",
@@ -1507,7 +1507,7 @@
       "code": "#53",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 124,
+      "yawDeg": 119,
       "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Moderator Dekan FSTI ITK",
       "category": "X-Banner & Print Media",
@@ -1532,7 +1532,7 @@
       "code": "#54",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 141,
+      "yawDeg": 135,
       "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — Template Slide & Sertifikat Resmi",
       "category": "Presentation & Layout System",
@@ -1557,7 +1557,7 @@
       "code": "#55",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 159,
+      "yawDeg": 151,
       "pitchDeg": -16,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Sambutan Rektor ITK",
       "category": "X-Banner & Print Media",
@@ -1582,7 +1582,7 @@
       "code": "#56",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 176,
+      "yawDeg": 168,
       "pitchDeg": -16,
       "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Teaser Poster & Campaign",
@@ -1607,7 +1607,7 @@
       "code": "#57",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 193,
+      "yawDeg": 184,
       "pitchDeg": -16,
       "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
       "category": "Stage Frame & Event Overlay",
@@ -1646,7 +1646,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 210,
+      "yawDeg": 200,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1671,7 +1671,7 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 227,
+      "yawDeg": 217,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1696,7 +1696,7 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 244,
+      "yawDeg": 233,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1721,7 +1721,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 261,
+      "yawDeg": 250,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1746,7 +1746,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 279,
+      "yawDeg": 266,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1771,7 +1771,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 296,
+      "yawDeg": 282,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1796,7 +1796,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 313,
+      "yawDeg": 299,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1821,7 +1821,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 330,
+      "yawDeg": 315,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1846,7 +1846,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 347,
+      "yawDeg": 331,
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1871,8 +1871,8 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 15,
-      "pitchDeg": 32,
+      "yawDeg": 348,
+      "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#67"
@@ -1896,7 +1896,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 35,
+      "yawDeg": 15,
       "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1921,7 +1921,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 55,
+      "yawDeg": 35,
       "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1946,7 +1946,7 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 75,
+      "yawDeg": 55,
       "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1971,7 +1971,7 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 95,
+      "yawDeg": 75,
       "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1996,7 +1996,7 @@
           "aspectRatio": 0.6953125
         }
       ],
-      "yawDeg": 115,
+      "yawDeg": 95,
       "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -2021,7 +2021,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 135,
+      "yawDeg": 115,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2046,7 +2046,7 @@
           "aspectRatio": 0.45
         }
       ],
-      "yawDeg": 155,
+      "yawDeg": 135,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2071,7 +2071,7 @@
           "aspectRatio": 1
         }
       ],
-      "yawDeg": 175,
+      "yawDeg": 155,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2096,7 +2096,7 @@
           "aspectRatio": 0.6436781609195402
         }
       ],
-      "yawDeg": 195,
+      "yawDeg": 175,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2121,7 +2121,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 215,
+      "yawDeg": 195,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2146,7 +2146,7 @@
           "aspectRatio": 0.7060546875
         }
       ],
-      "yawDeg": 235,
+      "yawDeg": 215,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2171,7 +2171,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 255,
+      "yawDeg": 235,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2196,7 +2196,7 @@
           "aspectRatio": 0.5886454183266933
         }
       ],
-      "yawDeg": 275,
+      "yawDeg": 255,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2221,7 +2221,7 @@
           "aspectRatio": 0.8760907504363001
         }
       ],
-      "yawDeg": 295,
+      "yawDeg": 275,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2246,7 +2246,7 @@
           "aspectRatio": 0.744140625
         }
       ],
-      "yawDeg": 315,
+      "yawDeg": 295,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2271,7 +2271,7 @@
           "aspectRatio": 1.501466275659824
         }
       ],
-      "yawDeg": 335,
+      "yawDeg": 315,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2296,7 +2296,7 @@
           "aspectRatio": 2.003913894324853
         }
       ],
-      "yawDeg": 355,
+      "yawDeg": 335,
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -2321,8 +2321,8 @@
           "aspectRatio": 0.7076648841354723
         }
       ],
-      "yawDeg": 8,
-      "pitchDeg": -32,
+      "yawDeg": 355,
+      "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
       "code": "#85"
@@ -2351,7 +2351,7 @@
         }
       ],
       "code": "#86",
-      "yawDeg": 28,
+      "yawDeg": 8,
       "pitchDeg": -32
     },
     {
@@ -2378,7 +2378,7 @@
         }
       ],
       "code": "#87",
-      "yawDeg": 48,
+      "yawDeg": 28,
       "pitchDeg": -32
     },
     {
@@ -2405,7 +2405,7 @@
         }
       ],
       "code": "#88",
-      "yawDeg": 68,
+      "yawDeg": 48,
       "pitchDeg": -32
     },
     {
@@ -2432,7 +2432,7 @@
         }
       ],
       "code": "#89",
-      "yawDeg": 88,
+      "yawDeg": 68,
       "pitchDeg": -32
     },
     {
@@ -2459,7 +2459,7 @@
         }
       ],
       "code": "#90",
-      "yawDeg": 108,
+      "yawDeg": 88,
       "pitchDeg": -32
     },
     {
@@ -2486,7 +2486,7 @@
         }
       ],
       "code": "#91",
-      "yawDeg": 128,
+      "yawDeg": 108,
       "pitchDeg": -32
     },
     {
@@ -2513,7 +2513,7 @@
         }
       ],
       "code": "#92",
-      "yawDeg": 148,
+      "yawDeg": 128,
       "pitchDeg": -32
     },
     {
@@ -2538,7 +2538,7 @@
         }
       ],
       "code": "#93",
-      "yawDeg": 168,
+      "yawDeg": 148,
       "pitchDeg": -32
     },
     {
@@ -2564,7 +2564,7 @@
         }
       ],
       "code": "#94",
-      "yawDeg": 188,
+      "yawDeg": 168,
       "pitchDeg": -32
     },
     {
@@ -2590,7 +2590,7 @@
         }
       ],
       "code": "#95",
-      "yawDeg": 208,
+      "yawDeg": 188,
       "pitchDeg": -32
     },
     {
@@ -2616,7 +2616,7 @@
         }
       ],
       "code": "#96",
-      "yawDeg": 228,
+      "yawDeg": 208,
       "pitchDeg": -32
     },
     {
@@ -2642,7 +2642,7 @@
         }
       ],
       "code": "#97",
-      "yawDeg": 248,
+      "yawDeg": 228,
       "pitchDeg": -32
     },
     {
@@ -2668,7 +2668,7 @@
         }
       ],
       "code": "#98",
-      "yawDeg": 268,
+      "yawDeg": 248,
       "pitchDeg": -32
     },
     {
@@ -2694,7 +2694,7 @@
         }
       ],
       "code": "#99",
-      "yawDeg": 288,
+      "yawDeg": 268,
       "pitchDeg": -32
     },
     {
@@ -2719,7 +2719,7 @@
         }
       ],
       "code": "#100",
-      "yawDeg": 308,
+      "yawDeg": 288,
       "pitchDeg": -32
     },
     {
@@ -2744,7 +2744,7 @@
         }
       ],
       "code": "#101",
-      "yawDeg": 328,
+      "yawDeg": 308,
       "pitchDeg": -32
     },
     {
@@ -2803,9 +2803,54 @@
         }
       ],
       "code": "#102",
+      "yawDeg": 328,
+      "pitchDeg": -32
+    },
+    {
+      "id": "design-evaluasi-manipulation-series",
+      "tier": "equator",
+      "type": "design",
+      "title": "EVALUASI / HINDIA — Photo Manipulation & Artboard Series (Photoshop)",
+      "category": "Photo Manipulation & Visual Art",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Motion Blur, Prism Overlay, Artboard Export",
+      "description": "Seri karya manipulasi foto dan artboard kreatif bertema musik (\"Evaluasi — Hindia\") lengkap dengan breakdown workspace Adobe Photoshop.",
+      "accent": "#f59e0b",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Slide 01 — Main Motion Blur & Music Player Manipulation",
+          "caption": "Komposisi utama manipulasi foto dengan efek motion blur, prism light, burung, dan overlay pemutar musik.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-evaluasi-01.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.75
+        },
+        {
+          "title": "Slide 02 — Adobe Photoshop Workspace & Export Breakdown",
+          "caption": "Tangkapan layar proses layering, artboard 1–5, dan export di Adobe Photoshop.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-evaluasi-02.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.75
+        },
+        {
+          "title": "Slide 03 — Golden Hour Lake Portrait Frame",
+          "caption": "Variasi artboard potret golden hour di tepi danau dengan bingkai blur monokrom.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-evaluasi-03.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.75
+        },
+        {
+          "title": "Slide 04 — Monochrome Grid & Tilted Centerpiece Collage",
+          "caption": "Kolase grid hitam-putih miring dengan focal point berwarna di bagian tengah.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-evaluasi-04.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.75
+        }
+      ],
+      "code": "#103",
       "yawDeg": 348,
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T09:06:02.769Z"
+  "lastUpdated": "2026-11-12T09:06:59.566Z"
 }
