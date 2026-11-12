@@ -3228,7 +3228,7 @@
         if (!proj.slides || !proj.slides.length) return;
         const activeSlide = proj.slides[proj.currentSlide || 0] || proj.slides[0];
         if (!activeSlide) return;
-        if (activeSlide.videoSrc && !extractYouTubeId(activeSlide.videoSrc) && (!IS_MOBILE_PERF || !activeSlide.imageSrc)) {
+        if (!IS_MOBILE_PERF && activeSlide.videoSrc && !extractYouTubeId(activeSlide.videoSrc)) {
           getOrCreateSlideVideoElement(activeSlide, (video) => {
             if (video.videoWidth && video.videoHeight) {
               activeSlide.aspectRatio = video.videoWidth / video.videoHeight;
@@ -3241,7 +3241,7 @@
         }
       });
 
-      const maxConcurrent = IS_MOBILE_PERF ? 4 : 8;
+      const maxConcurrent = IS_MOBILE_PERF ? 3 : 8;
       let cursor = 0;
       let activeCount = 0;
 
@@ -3255,17 +3255,21 @@
             slide.isRealImage = true;
             slide.aspectRatio = cached.naturalWidth / cached.naturalHeight;
             refreshCardTexture(pIdx);
+            if (IS_MOBILE_PERF) slide.imageElement = null;
             activeCount--;
             continue;
           }
           const img = new Image();
           img.crossOrigin = 'anonymous';
           img.onload = () => {
-            imageCache.set(slide.imageSrc, img);
             slide.imageElement = img;
             slide.isRealImage = true;
             slide.aspectRatio = img.naturalWidth / img.naturalHeight;
+            if (!IS_MOBILE_PERF) imageCache.set(slide.imageSrc, img);
             refreshCardTexture(pIdx);
+            if (IS_MOBILE_PERF) {
+              slide.imageElement = null;
+            }
             activeCount--;
             pump();
           };
@@ -3274,7 +3278,7 @@
             pump();
           };
           img.src = slide.imageSrc;
-          imageCache.set(slide.imageSrc, img);
+          if (!IS_MOBILE_PERF) imageCache.set(slide.imageSrc, img);
         }
       }
       pump();
@@ -3308,7 +3312,7 @@
 
         const sIdx = project.currentSlide || 0;
         const slideObj = (project.slides && project.slides[sIdx]) || {};
-        const isDirectVideo = Boolean(slideObj.videoSrc) && !extractYouTubeId(slideObj.videoSrc) && (!IS_MOBILE_PERF || !slideObj.imageSrc);
+        const isDirectVideo = !IS_MOBILE_PERF && Boolean(slideObj.videoSrc) && !extractYouTubeId(slideObj.videoSrc);
         const cachedImg = slideObj.imageSrc ? (slideObj.imageElement || imageCache.get(slideObj.imageSrc)) : null;
         let cardCanvas;
         let videoEl = null;
@@ -3397,7 +3401,7 @@
         }
       }
 
-      const isDirectVideo = Boolean(slideObj.videoSrc) && !extractYouTubeId(slideObj.videoSrc) && (!IS_MOBILE_PERF || !slideObj.imageSrc);
+      const isDirectVideo = !IS_MOBILE_PERF && Boolean(slideObj.videoSrc) && !extractYouTubeId(slideObj.videoSrc);
       const cachedImg = slideObj.imageSrc ? (slideObj.imageElement || imageCache.get(slideObj.imageSrc)) : null;
 
       let cardCanvas;
@@ -3825,6 +3829,12 @@
       }
     }
 
+    const _tmpFinalPos = new THREE.Vector3();
+    const _tmpNorm = new THREE.Vector3();
+    const _tmpScaleVec = new THREE.Vector3();
+    const _tmpCamDir = new THREE.Vector3();
+    const _tmpCardPos = new THREE.Vector3();
+
     function animate() {
       requestAnimationFrame(animate);
 
@@ -3836,6 +3846,10 @@
         document.getElementById('add-entry-modal').classList.contains('flex') ||
         document.getElementById('manage-portfolios-modal').classList.contains('flex') ||
         document.getElementById('dome-editor-modal').classList.contains('flex');
+
+      if (state.viewMode !== '360' || (anyModalOpen && state.hasEntered360)) {
+        return;
+      }
 
       if (!state.hasEntered360) {
         // Slow ambient cinematic orbit while viewing the 3D Intro Hero screen
@@ -3907,15 +3921,15 @@
         const isActive = idx === state.activeIndex;
 
         // Base target position
-        let finalPos = grp.userData.targetPos.clone();
+        _tmpFinalPos.copy(grp.userData.targetPos);
 
         // 3D ELEVATION (Robin Payot Style): Hovered card steps forward towards center camera
         if (isHovered && grp.userData.targetScale > 0.5) {
-          const norm = grp.userData.targetPos.clone().normalize();
-          finalPos.sub(norm.multiplyScalar(1.6));
+          _tmpNorm.copy(grp.userData.targetPos).normalize();
+          _tmpFinalPos.sub(_tmpNorm.multiplyScalar(1.6));
         }
 
-        grp.position.lerp(finalPos, 0.1);
+        grp.position.lerp(_tmpFinalPos, 0.1);
         grp.lookAt(0, 0, 0);
 
         // 3D PARALLAX TILT (Robin Payot Style): Card tilts dynamically to cursor
@@ -3934,13 +3948,15 @@
         if (scaleTarget > 0.05) {
           scaleTarget = isHovered ? 1.12 : (isActive ? 1.04 : 1.0);
         }
-        mesh.scale.lerp(new THREE.Vector3(scaleTarget, scaleTarget, 1), 0.12);
+        _tmpScaleVec.set(scaleTarget, scaleTarget, 1);
+        mesh.scale.lerp(_tmpScaleVec, 0.12);
 
         // Depth focus: subtle dimming of background cards when one is hovered
         if (mesh.material) {
           const targetOpacity = (state.hoveredCardIndex !== -1 && !isHovered) ? 0.72 : 1.0;
-          mesh.material.opacity = THREE.MathUtils.lerp(mesh.material.opacity || 1.0, targetOpacity, 0.1);
-          mesh.material.transparent = true;
+          const nextOpacity = THREE.MathUtils.lerp(mesh.material.opacity !== undefined ? mesh.material.opacity : 1.0, targetOpacity, 0.1);
+          mesh.material.opacity = nextOpacity;
+          mesh.material.transparent = nextOpacity < 0.99;
         }
 
         if (grp.userData.targetScale === 0 && mesh.scale.x < 0.03) {
@@ -3965,9 +3981,8 @@
       
 
       // REALTIME VIDEO PLAYBACK ON 3D CARDS (OPTIMIZED ZERO-LAG FRUSTUM CULLING)
-      if (!anyModalOpen && cardMeshes.length > 0) {
-        const camDir = new THREE.Vector3();
-        camera.getWorldDirection(camDir);
+      if (!anyModalOpen && cardMeshes.length > 0 && !IS_MOBILE_PERF) {
+        camera.getWorldDirection(_tmpCamDir);
 
         cardMeshes.forEach((mesh, pIdx) => {
           if (!mesh || !mesh.visible || !mesh.userData) return;
@@ -3976,10 +3991,8 @@
           const ctx = mesh.userData.videoCtx;
           if (video && canvas && ctx && video.readyState >= 2) {
             // Directional visibility check: is the card facing the front of the camera?
-            const cardPos = new THREE.Vector3();
-            mesh.getWorldPosition(cardPos);
-            const toCard = cardPos.normalize();
-            const dot = camDir.dot(toCard);
+            mesh.getWorldPosition(_tmpCardPos);
+            const dot = _tmpCamDir.dot(_tmpCardPos.normalize());
 
             // If card is behind the camera (outside view field), PAUSE video & skip render to save 80% GPU/CPU!
             if (dot <= 0.15) {
