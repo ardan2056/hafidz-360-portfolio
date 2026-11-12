@@ -368,7 +368,7 @@
       "category": "Fintech Mobile UI/UX Design (Figma)",
       "year": "2025",
       "committeeRole": "UI/UX Product Designer",
-      "externalUrl": "https://www.figma.com/",
+      "externalUrl": "",
       "tools": "Figma, Interactive Prototyping, Micro-interactions",
       "description": "Tampilan layar beranda, statistik pengeluaran, dan transfer cepat.",
       "accent": "#a855f7",
@@ -382,7 +382,8 @@
           "isRealImage": true,
           "aspectRatio": 0.5625
         }
-      ]
+      ],
+      "directLink": ""
     },
     {
       "id": "work-09",
@@ -3041,5 +3042,5 @@
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T09:55:27.108Z"
+  "lastUpdated": "2026-11-12T09:56:48.134Z"
 }
