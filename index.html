@@ -2824,11 +2824,11 @@
         grad.addColorStop(1, '#020617');
       } else {
         // Biru Langit (#2C99D6) + Putih (#F8FAFC) Crisp Sky Atmosphere
-        grad.addColorStop(0, '#F8FAFC');
-        grad.addColorStop(0.24, '#e0f2fe');
+        grad.addColorStop(0, '#e0f2fe');
+        grad.addColorStop(0.24, '#d3ecfd');
         grad.addColorStop(0.5, '#bae6fd'); // Luminous sky-blue horizon
-        grad.addColorStop(0.76, '#e0f2fe');
-        grad.addColorStop(1, '#F8FAFC');
+        grad.addColorStop(0.76, '#d3ecfd');
+        grad.addColorStop(1, '#e0f2fe');
       }
       ctx.fillStyle = grad;
       ctx.fillRect(0, 0, w, h);
@@ -2838,59 +2838,59 @@
 
     function createZenithDomeCanvas() {
       const canvas = document.createElement('canvas');
-      canvas.width = 1024;
-      canvas.height = 1024;
+      canvas.width = 2048;
+      canvas.height = 2048;
       const ctx = canvas.getContext('2d');
-      const cx = 512, cy = 512;
+      const cx = 1024, cy = 1024;
       const isDark = state.theme === 'dark';
 
-      ctx.clearRect(0, 0, 1024, 1024);
+      ctx.clearRect(0, 0, 2048, 2048);
       ctx.beginPath();
-      ctx.arc(cx, cy, 340, 0, Math.PI * 2);
+      ctx.arc(cx, cy, 720, 0, Math.PI * 2);
       ctx.fillStyle = isDark ? '#080f1e' : '#ffffff';
       ctx.fill();
-      ctx.lineWidth = 3;
-      ctx.strokeStyle = isDark ? '#1e293b' : '#cbd5e1';
+      ctx.lineWidth = 8;
+      ctx.strokeStyle = isDark ? '#1e293b' : '#93c5fd';
       ctx.stroke();
 
-      ctx.fillStyle = isDark ? '#f8fafc' : '#0f172a';
-      ctx.font = '800 38px "Poppins", sans-serif';
+      ctx.fillStyle = isDark ? '#F8FAFC' : '#0f172a';
+      ctx.font = '800 84px "Poppins", sans-serif';
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
-      ctx.fillText((ownerProfile.zenithTitle || 'M. HAFIDZ ARDAN').toUpperCase(), cx, cy - 16);
+      ctx.fillText((ownerProfile.zenithTitle || 'M. HAFIDZ ARDAN').toUpperCase(), cx, cy - 36);
 
       ctx.fillStyle = '#2C99D6';
-      ctx.font = '700 16px "Poppins", sans-serif';
-      ctx.fillText((ownerProfile.zenithSubtitle || 'INTERACTIVE CREATIVE STUDIO').toUpperCase(), cx, cy + 28);
+      ctx.font = '700 38px "Poppins", sans-serif';
+      ctx.fillText((ownerProfile.zenithSubtitle || 'INTERACTIVE CREATIVE STUDIO').toUpperCase(), cx, cy + 56);
       return canvas;
     }
 
     function createNadirFloorCanvas() {
       const canvas = document.createElement('canvas');
-      canvas.width = 1024;
-      canvas.height = 1024;
+      canvas.width = 2048;
+      canvas.height = 2048;
       const ctx = canvas.getContext('2d');
-      const cx = 512, cy = 512;
+      const cx = 1024, cy = 1024;
       const isDark = state.theme === 'dark';
 
-      ctx.clearRect(0, 0, 1024, 1024);
+      ctx.clearRect(0, 0, 2048, 2048);
       ctx.beginPath();
-      ctx.arc(cx, cy, 340, 0, Math.PI * 2);
-      ctx.fillStyle = isDark ? '#080f1e' : '#F8FAFC';
+      ctx.arc(cx, cy, 720, 0, Math.PI * 2);
+      ctx.fillStyle = isDark ? '#080f1e' : '#ffffff';
       ctx.fill();
-      ctx.lineWidth = 3;
-      ctx.strokeStyle = isDark ? '#1e293b' : '#cbd5e1';
+      ctx.lineWidth = 8;
+      ctx.strokeStyle = isDark ? '#1e293b' : '#93c5fd';
       ctx.stroke();
 
       ctx.fillStyle = isDark ? '#F8FAFC' : '#0f172a';
-      ctx.font = '800 36px "Poppins", sans-serif';
+      ctx.font = '800 84px "Poppins", sans-serif';
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
-      ctx.fillText((ownerProfile.nadirTitle || 'KOOR DIV MULTIMEDIA').toUpperCase(), cx, cy - 16);
+      ctx.fillText((ownerProfile.nadirTitle || 'KOOR DIV MULTIMEDIA').toUpperCase(), cx, cy - 36);
 
       ctx.fillStyle = '#2C99D6';
-      ctx.font = '700 18px "Poppins", sans-serif';
-      ctx.fillText((ownerProfile.nadirSubtitle || '2023 • 2024 • 2025 • 2026').toUpperCase(), cx, cy + 28);
+      ctx.font = '700 40px "Poppins", sans-serif';
+      ctx.fillText((ownerProfile.nadirSubtitle || '2023 • 2024 • 2025 • 2026').toUpperCase(), cx, cy + 56);
       return canvas;
     }
 
@@ -2977,7 +2977,10 @@
       studioEnvGroup.add(envSphereMesh);
 
       // Zenith & Nadir solid medallions
+      const maxAniso = renderer && renderer.capabilities ? renderer.capabilities.getMaxAnisotropy() : 4;
       const zenithTex = new THREE.CanvasTexture(createZenithDomeCanvas());
+      zenithTex.minFilter = THREE.LinearFilter;
+      zenithTex.anisotropy = maxAniso;
       const zenithMesh = new THREE.Mesh(new THREE.PlaneGeometry(18, 18), new THREE.MeshBasicMaterial({ map: zenithTex, transparent: true, side: THREE.DoubleSide }));
       zenithMesh.position.set(0, SPHERE_RADIUS - 1.5, 0);
       zenithMesh.lookAt(0, 0, 0);
@@ -2986,6 +2989,8 @@
       domeMeshes.push(zenithMesh);
 
       const nadirTex = new THREE.CanvasTexture(createNadirFloorCanvas());
+      nadirTex.minFilter = THREE.LinearFilter;
+      nadirTex.anisotropy = maxAniso;
       const nadirMesh = new THREE.Mesh(new THREE.PlaneGeometry(18, 18), new THREE.MeshBasicMaterial({ map: nadirTex, transparent: true, side: THREE.DoubleSide }));
       nadirMesh.position.set(0, -(SPHERE_RADIUS - 1.5), 0);
       nadirMesh.lookAt(0, 0, 0);
