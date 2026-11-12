@@ -549,7 +549,7 @@
       "code": "#08",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 45.714285714285715,
+      "yawDeg": 47.69230769230769,
       "pitchDeg": 19,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
@@ -574,41 +574,11 @@
       "externalUrl": "https://www.youtube.com/watch?v=wh43m_A_mX8"
     },
     {
-      "id": "work-11",
+      "id": "work-14",
       "code": "#09",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 71.42857142857143,
-      "pitchDeg": 19,
-      "title": "DIVISI DOKUMENTASI — Seminar & Talkshow Nasional",
-      "category": "Kepanitiaan Seminar & Konferensi",
-      "year": "2024",
-      "committeeRole": "Koordinator Videografi & Dokumentasi",
-      "committeeOrg": "Panitia Seminar Nasional & Talkshow Kreatif",
-      "committeeScale": "1.200 Peserta Hybrid",
-      "tools": "Sony Mirrorless, Zoom/OBS Broadcast, Adobe Premiere Pro",
-      "description": "Mengatur tim dokumentasi foto dan video untuk acara seminar nasional, memastikan setiap pembicara utama terekam jernih untuk arsip dan publikasi.",
-      "accent": "#6366f1",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 01 — Tim Dokumentasi Seminar Nasional",
-          "caption": "Penempatan titik kamera di area panggung, tribun peserta, dan ruang VIP.",
-          "isRealImage": false
-        },
-        {
-          "title": "Slide 02 — Highlight Video & Rekap Materi",
-          "caption": "Merangkum kutipan penting pembicara ke dalam format reels pendek di hari yang sama.",
-          "isRealImage": false
-        }
-      ]
-    },
-    {
-      "id": "work-14",
-      "code": "#10",
-      "tier": "upper",
-      "type": "committee",
-      "yawDeg": 97.14285714285714,
+      "yawDeg": 75.38461538461539,
       "pitchDeg": 19,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
@@ -633,10 +603,10 @@
     },
     {
       "id": "work-15",
-      "code": "#11",
+      "code": "#10",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 122.85714285714286,
+      "yawDeg": 103.07692307692308,
       "pitchDeg": 19,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
@@ -658,10 +628,10 @@
     },
     {
       "id": "work-16",
-      "code": "#12",
+      "code": "#11",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 148.57142857142858,
+      "yawDeg": 130.76923076923077,
       "pitchDeg": 19,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
@@ -687,7 +657,7 @@
     },
     {
       "id": "work-24",
-      "code": "#13",
+      "code": "#12",
       "tier": "lower",
       "type": "design",
       "yawDeg": 20,
@@ -714,7 +684,7 @@
     },
     {
       "id": "octagram-design-01",
-      "code": "#14",
+      "code": "#13",
       "tier": "equator",
       "type": "design",
       "yawDeg": 154.28571428571428,
@@ -739,10 +709,10 @@
     },
     {
       "id": "octagram-design-02",
-      "code": "#15",
+      "code": "#14",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 174.28571428571428,
+      "yawDeg": 158.46153846153845,
       "pitchDeg": 19,
       "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
       "category": "Merchandise & Product Mockup",
@@ -764,7 +734,7 @@
     },
     {
       "id": "octagram-design-03",
-      "code": "#16",
+      "code": "#15",
       "tier": "lower",
       "type": "design",
       "yawDeg": 65,
@@ -789,7 +759,7 @@
     },
     {
       "id": "octagram-design-04",
-      "code": "#17",
+      "code": "#16",
       "tier": "equator",
       "type": "design",
       "yawDeg": 180,
@@ -814,10 +784,10 @@
     },
     {
       "id": "octagram-design-05",
-      "code": "#18",
+      "code": "#17",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 200,
+      "yawDeg": 186.15384615384616,
       "pitchDeg": 19,
       "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
       "category": "Social Media & Documentation",
@@ -839,7 +809,7 @@
     },
     {
       "id": "octagram-design-06",
-      "code": "#19",
+      "code": "#18",
       "tier": "lower",
       "type": "design",
       "yawDeg": 110,
@@ -864,7 +834,7 @@
     },
     {
       "id": "octagram-design-07",
-      "code": "#20",
+      "code": "#19",
       "tier": "equator",
       "type": "design",
       "yawDeg": 205.71428571428572,
@@ -889,10 +859,10 @@
     },
     {
       "id": "octagram-design-08",
-      "code": "#21",
+      "code": "#20",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 225.71428571428572,
+      "yawDeg": 213.84615384615387,
       "pitchDeg": 19,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Fireside Talks Yulianta (OJK)",
       "category": "X-Banner & Print Media",
@@ -914,7 +884,7 @@
     },
     {
       "id": "octagram-design-09",
-      "code": "#22",
+      "code": "#21",
       "tier": "lower",
       "type": "design",
       "yawDeg": 155,
@@ -939,7 +909,7 @@
     },
     {
       "id": "octagram-design-10",
-      "code": "#23",
+      "code": "#22",
       "tier": "equator",
       "type": "design",
       "yawDeg": 231.42857142857144,
@@ -964,10 +934,10 @@
     },
     {
       "id": "octagram-design-11",
-      "code": "#24",
+      "code": "#23",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 251.42857142857144,
+      "yawDeg": 241.53846153846155,
       "pitchDeg": 19,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Moderator Dekan FSTI ITK",
       "category": "X-Banner & Print Media",
@@ -989,7 +959,7 @@
     },
     {
       "id": "octagram-design-12",
-      "code": "#25",
+      "code": "#24",
       "tier": "lower",
       "type": "design",
       "yawDeg": 200,
@@ -1014,7 +984,7 @@
     },
     {
       "id": "octagram-design-13",
-      "code": "#26",
+      "code": "#25",
       "tier": "equator",
       "type": "design",
       "yawDeg": 257.14285714285717,
@@ -1039,10 +1009,10 @@
     },
     {
       "id": "octagram-design-14",
-      "code": "#27",
+      "code": "#26",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 277.14285714285717,
+      "yawDeg": 269.2307692307692,
       "pitchDeg": 19,
       "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Teaser Poster & Campaign",
@@ -1064,7 +1034,7 @@
     },
     {
       "id": "octagram-design-15",
-      "code": "#28",
+      "code": "#27",
       "tier": "lower",
       "type": "design",
       "yawDeg": 245,
@@ -1110,7 +1080,7 @@
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#29"
+      "code": "#28"
     },
     {
       "id": "octagram-design-17",
@@ -1131,11 +1101,11 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 302.8571428571429,
+      "yawDeg": 296.9230769230769,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#30"
+      "code": "#29"
     },
     {
       "id": "octagram-design-18",
@@ -1160,7 +1130,7 @@
       "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#31"
+      "code": "#30"
     },
     {
       "id": "octagram-design-19",
@@ -1217,7 +1187,7 @@
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#32"
+      "code": "#31"
     },
     {
       "id": "octagram-design-20",
@@ -1254,11 +1224,11 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 328.57142857142856,
+      "yawDeg": 324.61538461538464,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#33"
+      "code": "#32"
     },
     {
       "id": "octagram-design-21",
@@ -1291,7 +1261,7 @@
       "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#34"
+      "code": "#33"
     },
     {
       "id": "octagram-design-22",
@@ -1316,7 +1286,7 @@
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#35"
+      "code": "#34"
     },
     {
       "id": "octagram-design-23",
@@ -1337,12 +1307,12 @@
           "aspectRatio": 0.6953125
         }
       ],
-      "yawDeg": 354.2857142857143,
+      "yawDeg": 352.3076923076923,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#36"
+      "code": "#35"
     }
   ],
-  "lastUpdated": "2026-11-12T08:15:32.510Z"
+  "lastUpdated": "2026-11-12T08:15:42.293Z"
 }
