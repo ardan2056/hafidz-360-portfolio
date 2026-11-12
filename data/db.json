@@ -1736,7 +1736,7 @@
       "id": "app-pos-ardanprem-store",
       "tier": "lower",
       "type": "webgame",
-      "title": "ARDANPREM STORE & POS — Aplikasi Kasir & Top Up Digital (Next.js + Prisma)",
+      "title": "ARDANPREM STORE",
       "category": "Aplikasi POS & Full-Stack Web App",
       "year": "2026",
       "tools": "Next.js 14, React, Prisma ORM, Tailwind CSS, Google Apps Script",
@@ -3016,5 +3016,5 @@
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T10:13:45.421Z"
+  "lastUpdated": "2026-11-12T10:14:18.264Z"
 }
