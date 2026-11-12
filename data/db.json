@@ -43,11 +43,35 @@
   },
   "portfolioProjects": [
     {
-      "id": "work-07-part-01",
-      "code": "#01",
+      "id": "octagram-branding-portfolio-cover",
       "tier": "equator",
-      "type": "committee",
+      "type": "design",
+      "title": "OCTAGRAM BRANDING PORTFOLIO — M. Hafidz Ardan (Koor Div Multimedia)",
+      "category": "Brand Identity & Portfolio Cover",
+      "year": "2026",
+      "tools": "Adobe Photoshop, Artboard Layout",
+      "description": "Cover portofolio branding OCTAGRAM — M. Hafidz Ardan selaku Koordinator Divisi Multimedia.",
+      "accent": "#0ea5e9",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "OCTAGRAM Branding Portfolio Cover",
+          "caption": "M. Hafidz Ardan — Koor Div Multimedia",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-branding-portfolio-cover.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.75
+        }
+      ],
+      "code": "#01",
       "yawDeg": 0,
+      "pitchDeg": 0
+    },
+    {
+      "id": "work-07-part-01",
+      "code": "#02",
+      "tier": "upper",
+      "type": "committee",
+      "yawDeg": 16,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Bertugas Pegang Kamera (Koor Multimedia)",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -71,10 +95,10 @@
     },
     {
       "id": "work-07-part-02",
-      "code": "#02",
-      "tier": "upper",
+      "code": "#03",
+      "tier": "lower",
       "type": "committee",
-      "yawDeg": 16,
+      "yawDeg": 31,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 22",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -99,10 +123,10 @@
     },
     {
       "id": "work-07-part-03",
-      "code": "#03",
-      "tier": "lower",
+      "code": "#04",
+      "tier": "equator",
       "type": "committee",
-      "yawDeg": 31,
+      "yawDeg": 47,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 23",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -127,10 +151,10 @@
     },
     {
       "id": "work-07-part-04",
-      "code": "#04",
-      "tier": "equator",
+      "code": "#05",
+      "tier": "upper",
       "type": "committee",
-      "yawDeg": 47,
+      "yawDeg": 63,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 1 copy",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -155,10 +179,10 @@
     },
     {
       "id": "work-07-part-05",
-      "code": "#05",
-      "tier": "upper",
+      "code": "#06",
+      "tier": "lower",
       "type": "committee",
-      "yawDeg": 63,
+      "yawDeg": 78,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 1",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -183,10 +207,10 @@
     },
     {
       "id": "work-07-part-06",
-      "code": "#06",
-      "tier": "lower",
+      "code": "#07",
+      "tier": "equator",
       "type": "committee",
-      "yawDeg": 78,
+      "yawDeg": 94,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 4",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -211,10 +235,10 @@
     },
     {
       "id": "work-07-part-07",
-      "code": "#07",
-      "tier": "equator",
+      "code": "#08",
+      "tier": "upper",
       "type": "committee",
-      "yawDeg": 94,
+      "yawDeg": 110,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 5 copy",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -239,10 +263,10 @@
     },
     {
       "id": "work-07-part-08",
-      "code": "#08",
-      "tier": "upper",
+      "code": "#09",
+      "tier": "lower",
       "type": "committee",
-      "yawDeg": 110,
+      "yawDeg": 125,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 3 copy 5",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -267,10 +291,10 @@
     },
     {
       "id": "work-07-part-09",
-      "code": "#09",
-      "tier": "lower",
+      "code": "#10",
+      "tier": "equator",
       "type": "committee",
-      "yawDeg": 125,
+      "yawDeg": 141,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 3 copy 6",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -295,10 +319,10 @@
     },
     {
       "id": "work-07-part-10",
-      "code": "#10",
-      "tier": "equator",
+      "code": "#11",
+      "tier": "upper",
       "type": "committee",
-      "yawDeg": 141,
+      "yawDeg": 157,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 12",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -323,10 +347,10 @@
     },
     {
       "id": "work-07-part-11",
-      "code": "#11",
-      "tier": "upper",
+      "code": "#12",
+      "tier": "lower",
       "type": "committee",
-      "yawDeg": 157,
+      "yawDeg": 172,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 20",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -351,10 +375,10 @@
     },
     {
       "id": "work-07-part-12",
-      "code": "#12",
-      "tier": "lower",
+      "code": "#13",
+      "tier": "equator",
       "type": "committee",
-      "yawDeg": 172,
+      "yawDeg": 188,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 21",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -379,10 +403,10 @@
     },
     {
       "id": "work-07-part-13",
-      "code": "#13",
-      "tier": "equator",
+      "code": "#14",
+      "tier": "upper",
       "type": "committee",
-      "yawDeg": 188,
+      "yawDeg": 203,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 22",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -407,10 +431,10 @@
     },
     {
       "id": "work-07-part-14",
-      "code": "#14",
-      "tier": "upper",
+      "code": "#15",
+      "tier": "lower",
       "type": "committee",
-      "yawDeg": 203,
+      "yawDeg": 219,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 23",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -435,10 +459,10 @@
     },
     {
       "id": "work-07-part-15",
-      "code": "#15",
-      "tier": "lower",
+      "code": "#16",
+      "tier": "equator",
       "type": "committee",
-      "yawDeg": 219,
+      "yawDeg": 235,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 9 copy 2",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -463,10 +487,10 @@
     },
     {
       "id": "work-07-part-16",
-      "code": "#16",
-      "tier": "equator",
+      "code": "#17",
+      "tier": "upper",
       "type": "committee",
-      "yawDeg": 235,
+      "yawDeg": 250,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 9 copy 8",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -491,10 +515,10 @@
     },
     {
       "id": "work-07-part-17",
-      "code": "#17",
-      "tier": "upper",
+      "code": "#18",
+      "tier": "lower",
       "type": "committee",
-      "yawDeg": 250,
+      "yawDeg": 266,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 9 copy 10",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -519,10 +543,10 @@
     },
     {
       "id": "work-07-part-18",
-      "code": "#18",
-      "tier": "lower",
+      "code": "#19",
+      "tier": "equator",
       "type": "committee",
-      "yawDeg": 266,
+      "yawDeg": 282,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 9 copy 11",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -547,10 +571,10 @@
     },
     {
       "id": "work-07-part-19",
-      "code": "#19",
-      "tier": "equator",
+      "code": "#20",
+      "tier": "upper",
       "type": "committee",
-      "yawDeg": 282,
+      "yawDeg": 297,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 15",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -575,10 +599,10 @@
     },
     {
       "id": "work-07-part-20",
-      "code": "#20",
-      "tier": "upper",
+      "code": "#21",
+      "tier": "lower",
       "type": "committee",
-      "yawDeg": 297,
+      "yawDeg": 313,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 16 copy 2",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -603,10 +627,10 @@
     },
     {
       "id": "work-07-part-21",
-      "code": "#21",
-      "tier": "lower",
+      "code": "#22",
+      "tier": "equator",
       "type": "committee",
-      "yawDeg": 313,
+      "yawDeg": 329,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 18",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -631,10 +655,10 @@
     },
     {
       "id": "work-07-part-22",
-      "code": "#22",
-      "tier": "equator",
+      "code": "#23",
+      "tier": "upper",
       "type": "committee",
-      "yawDeg": 329,
+      "yawDeg": 344,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Artboard 19",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -659,11 +683,11 @@
     },
     {
       "id": "work-07-part-23",
-      "code": "#23",
-      "tier": "upper",
+      "code": "#24",
+      "tier": "lower",
       "type": "committee",
-      "yawDeg": 344,
-      "pitchDeg": 0,
+      "yawDeg": 8,
+      "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 1 copy 5",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
       "year": "2026",
@@ -687,10 +711,10 @@
     },
     {
       "id": "work-07-part-24",
-      "code": "#24",
-      "tier": "lower",
+      "code": "#25",
+      "tier": "equator",
       "type": "committee",
-      "yawDeg": 9,
+      "yawDeg": 25,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 1 copy 8",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -715,10 +739,10 @@
     },
     {
       "id": "work-07-part-25",
-      "code": "#25",
-      "tier": "equator",
+      "code": "#26",
+      "tier": "upper",
       "type": "committee",
-      "yawDeg": 26,
+      "yawDeg": 41,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 4 copy 13",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -743,10 +767,10 @@
     },
     {
       "id": "work-07-part-26",
-      "code": "#26",
-      "tier": "upper",
+      "code": "#27",
+      "tier": "lower",
       "type": "committee",
-      "yawDeg": 43,
+      "yawDeg": 57,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 9 copy 12",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -771,10 +795,10 @@
     },
     {
       "id": "work-07-part-27",
-      "code": "#27",
-      "tier": "lower",
+      "code": "#28",
+      "tier": "equator",
       "type": "committee",
-      "yawDeg": 60,
+      "yawDeg": 74,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 9 copy",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -799,10 +823,10 @@
     },
     {
       "id": "work-07-part-28",
-      "code": "#28",
-      "tier": "equator",
+      "code": "#29",
+      "tier": "upper",
       "type": "committee",
-      "yawDeg": 77,
+      "yawDeg": 90,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17 copy 2",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -827,10 +851,10 @@
     },
     {
       "id": "work-07-part-29",
-      "code": "#29",
-      "tier": "upper",
+      "code": "#30",
+      "tier": "lower",
       "type": "committee",
-      "yawDeg": 94,
+      "yawDeg": 106,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17 copy 3",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -855,10 +879,10 @@
     },
     {
       "id": "work-07-part-30",
-      "code": "#30",
-      "tier": "lower",
+      "code": "#31",
+      "tier": "equator",
       "type": "committee",
-      "yawDeg": 111,
+      "yawDeg": 123,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17 copy 4",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -883,10 +907,10 @@
     },
     {
       "id": "work-07-part-31",
-      "code": "#31",
-      "tier": "equator",
+      "code": "#32",
+      "tier": "upper",
       "type": "committee",
-      "yawDeg": 129,
+      "yawDeg": 139,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17 copy",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -911,10 +935,10 @@
     },
     {
       "id": "work-07-part-32",
-      "code": "#32",
-      "tier": "upper",
+      "code": "#33",
+      "tier": "lower",
       "type": "committee",
-      "yawDeg": 146,
+      "yawDeg": 155,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 17",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -939,10 +963,10 @@
     },
     {
       "id": "work-07-part-33",
-      "code": "#33",
-      "tier": "lower",
+      "code": "#34",
+      "tier": "equator",
       "type": "committee",
-      "yawDeg": 163,
+      "yawDeg": 172,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 1 copy 6",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -967,10 +991,10 @@
     },
     {
       "id": "work-07-part-34",
-      "code": "#34",
-      "tier": "equator",
+      "code": "#35",
+      "tier": "upper",
       "type": "committee",
-      "yawDeg": 180,
+      "yawDeg": 188,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 4 copy 3",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -995,10 +1019,10 @@
     },
     {
       "id": "work-07-part-35",
-      "code": "#35",
-      "tier": "upper",
+      "code": "#36",
+      "tier": "lower",
       "type": "committee",
-      "yawDeg": 197,
+      "yawDeg": 205,
       "pitchDeg": 16,
       "title": "ON DUTY GALLERY — Artboard 4 copy 14",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -1023,10 +1047,10 @@
     },
     {
       "id": "work-08-part-01",
-      "code": "#36",
-      "tier": "lower",
+      "code": "#37",
+      "tier": "equator",
       "type": "uiux",
-      "yawDeg": 214,
+      "yawDeg": 221,
       "pitchDeg": 16,
       "title": "High-Fidelity Mobile Screens",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -1050,10 +1074,10 @@
     },
     {
       "id": "work-08-part-02",
-      "code": "#37",
-      "tier": "equator",
+      "code": "#38",
+      "tier": "upper",
       "type": "uiux",
-      "yawDeg": 231,
+      "yawDeg": 237,
       "pitchDeg": 16,
       "title": "Interactive Prototype Flow",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -1074,10 +1098,10 @@
     },
     {
       "id": "work-09",
-      "code": "#38",
-      "tier": "upper",
+      "code": "#39",
+      "tier": "lower",
       "type": "video",
-      "yawDeg": 249,
+      "yawDeg": 254,
       "pitchDeg": 16,
       "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
@@ -1104,10 +1128,10 @@
     },
     {
       "id": "work-10",
-      "code": "#39",
-      "tier": "lower",
+      "code": "#40",
+      "tier": "equator",
       "type": "video",
-      "yawDeg": 266,
+      "yawDeg": 270,
       "pitchDeg": 16,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
@@ -1133,10 +1157,10 @@
     },
     {
       "id": "work-14",
-      "code": "#40",
-      "tier": "equator",
+      "code": "#41",
+      "tier": "upper",
       "type": "committee",
-      "yawDeg": 283,
+      "yawDeg": 286,
       "pitchDeg": 16,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
@@ -1161,10 +1185,10 @@
     },
     {
       "id": "work-15",
-      "code": "#41",
-      "tier": "upper",
+      "code": "#42",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 300,
+      "yawDeg": 303,
       "pitchDeg": 16,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
@@ -1186,10 +1210,10 @@
     },
     {
       "id": "work-16",
-      "code": "#42",
-      "tier": "lower",
+      "code": "#43",
+      "tier": "equator",
       "type": "video",
-      "yawDeg": 317,
+      "yawDeg": 319,
       "pitchDeg": 16,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
@@ -1215,10 +1239,10 @@
     },
     {
       "id": "octagram-design-01",
-      "code": "#43",
-      "tier": "equator",
+      "code": "#44",
+      "tier": "upper",
       "type": "design",
-      "yawDeg": 334,
+      "yawDeg": 335,
       "pitchDeg": 16,
       "title": "KULIAH UMUM OCTAGRAM — Poster Utama (Keynote Kepala BRIN)",
       "category": "Event Poster & Key Visual",
@@ -1240,10 +1264,10 @@
     },
     {
       "id": "octagram-design-02",
-      "code": "#44",
-      "tier": "upper",
+      "code": "#45",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 351,
+      "yawDeg": 352,
       "pitchDeg": 16,
       "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
       "category": "Merchandise & Product Mockup",
@@ -1265,8 +1289,8 @@
     },
     {
       "id": "octagram-design-03",
-      "code": "#45",
-      "tier": "lower",
+      "code": "#46",
+      "tier": "equator",
       "type": "design",
       "yawDeg": 4,
       "pitchDeg": -16,
@@ -1290,8 +1314,8 @@
     },
     {
       "id": "octagram-design-04",
-      "code": "#46",
-      "tier": "equator",
+      "code": "#47",
+      "tier": "upper",
       "type": "design",
       "yawDeg": 21,
       "pitchDeg": -16,
@@ -1315,8 +1339,8 @@
     },
     {
       "id": "octagram-design-05",
-      "code": "#47",
-      "tier": "upper",
+      "code": "#48",
+      "tier": "lower",
       "type": "design",
       "yawDeg": 39,
       "pitchDeg": -16,
@@ -1340,8 +1364,8 @@
     },
     {
       "id": "octagram-design-06",
-      "code": "#48",
-      "tier": "lower",
+      "code": "#49",
+      "tier": "equator",
       "type": "design",
       "yawDeg": 56,
       "pitchDeg": -16,
@@ -1365,8 +1389,8 @@
     },
     {
       "id": "octagram-design-07",
-      "code": "#49",
-      "tier": "equator",
+      "code": "#50",
+      "tier": "upper",
       "type": "design",
       "yawDeg": 73,
       "pitchDeg": -16,
@@ -1390,8 +1414,8 @@
     },
     {
       "id": "octagram-design-08",
-      "code": "#50",
-      "tier": "upper",
+      "code": "#51",
+      "tier": "lower",
       "type": "design",
       "yawDeg": 90,
       "pitchDeg": -16,
@@ -1415,8 +1439,8 @@
     },
     {
       "id": "octagram-design-09",
-      "code": "#51",
-      "tier": "lower",
+      "code": "#52",
+      "tier": "equator",
       "type": "design",
       "yawDeg": 107,
       "pitchDeg": -16,
@@ -1440,8 +1464,8 @@
     },
     {
       "id": "octagram-design-10",
-      "code": "#52",
-      "tier": "equator",
+      "code": "#53",
+      "tier": "upper",
       "type": "design",
       "yawDeg": 124,
       "pitchDeg": -16,
@@ -1465,8 +1489,8 @@
     },
     {
       "id": "octagram-design-11",
-      "code": "#53",
-      "tier": "upper",
+      "code": "#54",
+      "tier": "lower",
       "type": "design",
       "yawDeg": 141,
       "pitchDeg": -16,
@@ -1490,8 +1514,8 @@
     },
     {
       "id": "octagram-design-12",
-      "code": "#54",
-      "tier": "lower",
+      "code": "#55",
+      "tier": "equator",
       "type": "design",
       "yawDeg": 159,
       "pitchDeg": -16,
@@ -1515,8 +1539,8 @@
     },
     {
       "id": "octagram-design-13",
-      "code": "#55",
-      "tier": "equator",
+      "code": "#56",
+      "tier": "upper",
       "type": "design",
       "yawDeg": 176,
       "pitchDeg": -16,
@@ -1540,8 +1564,8 @@
     },
     {
       "id": "octagram-design-14",
-      "code": "#56",
-      "tier": "upper",
+      "code": "#57",
+      "tier": "lower",
       "type": "design",
       "yawDeg": 193,
       "pitchDeg": -16,
@@ -1565,8 +1589,8 @@
     },
     {
       "id": "octagram-design-15",
-      "code": "#57",
-      "tier": "lower",
+      "code": "#58",
+      "tier": "equator",
       "type": "design",
       "yawDeg": 210,
       "pitchDeg": -16,
@@ -1590,7 +1614,7 @@
     },
     {
       "id": "octagram-design-16",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
       "title": "TWIBBON & STORY FRAME — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Social Media & Twibbon Frame",
@@ -1611,11 +1635,11 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#58"
+      "code": "#59"
     },
     {
       "id": "octagram-design-17",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
       "title": "X-BANNER FULL PANEL (3 NARASUMBER) — Kuliah Umum OCTAGRAM 2026",
       "category": "X-Banner & Print Media",
@@ -1636,11 +1660,11 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#59"
+      "code": "#60"
     },
     {
       "id": "octagram-design-18",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
       "title": "X-BANNER KEYNOTE SPEAKER — Prof. Dr. Arif Satria, S.P., M.Si",
       "category": "X-Banner & Print Media",
@@ -1661,11 +1685,11 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#60"
+      "code": "#61"
     },
     {
       "id": "octagram-design-19-part-01",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
       "title": "Countdown H-5 — Kuliah Umum & Expo Bisnis Digital",
       "category": "Social Media Campaign Series",
@@ -1686,11 +1710,11 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#61"
+      "code": "#62"
     },
     {
       "id": "octagram-design-19-part-02",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
       "title": "Countdown H-4 — Kuliah Umum & Expo Bisnis Digital",
       "category": "Social Media Campaign Series",
@@ -1711,11 +1735,11 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#62"
+      "code": "#63"
     },
     {
       "id": "octagram-design-19-part-03",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
       "title": "Countdown H-3 — Kuliah Umum & Expo Bisnis Digital",
       "category": "Social Media Campaign Series",
@@ -1736,11 +1760,11 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#63"
+      "code": "#64"
     },
     {
       "id": "octagram-design-19-part-04",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
       "title": "Countdown H-2 — Kuliah Umum & Expo Bisnis Digital",
       "category": "Social Media Campaign Series",
@@ -1761,11 +1785,11 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#64"
+      "code": "#65"
     },
     {
       "id": "octagram-design-19-part-05",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
       "title": "Countdown H-1 — Kuliah Umum & Expo Bisnis Digital",
       "category": "Social Media Campaign Series",
@@ -1786,11 +1810,11 @@
       "pitchDeg": -16,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#65"
+      "code": "#66"
     },
     {
       "id": "octagram-design-20-part-01",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
       "title": "Bumper Keynote Speaker — Prof. Dr. Arif Satria, S.P., M.Si",
       "category": "Broadcast & Stage Screen Graphics",
@@ -1811,11 +1835,11 @@
       "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#66"
+      "code": "#67"
     },
     {
       "id": "octagram-design-20-part-02",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
       "title": "Bumper Sambutan — Prof. Dr.rer.nat. Agus Rubiyanto, M.Eng.Sc.",
       "category": "Broadcast & Stage Screen Graphics",
@@ -1836,11 +1860,11 @@
       "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#67"
+      "code": "#68"
     },
     {
       "id": "octagram-design-20-part-03",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
       "title": "Bumper Moderator — Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D.",
       "category": "Broadcast & Stage Screen Graphics",
@@ -1861,11 +1885,11 @@
       "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#68"
+      "code": "#69"
     },
     {
       "id": "octagram-design-21-part-01",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
       "title": "Backdrop Layar Utama Kuliah Umum OCTAGRAM",
       "category": "Stage Screen & Broadcast Layout",
@@ -1886,11 +1910,11 @@
       "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#69"
+      "code": "#70"
     },
     {
       "id": "octagram-design-21-part-02",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
       "title": "Layout Frame Dual-Cam Livestream / Presentasi",
       "category": "Stage Screen & Broadcast Layout",
@@ -1911,11 +1935,11 @@
       "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#70"
+      "code": "#71"
     },
     {
       "id": "octagram-design-22",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
       "title": "SERTIFIKAT RESMI — OCTAGRAM Bisnis Digital ITK 2026",
       "category": "Document & Certificate Design",
@@ -1936,11 +1960,11 @@
       "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#71"
+      "code": "#72"
     },
     {
       "id": "octagram-design-23",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
       "title": "STICKER PACK OCTAGRAM 2026 — Desain Stiker Bisnis Digital",
       "category": "Merchandise & Illustration",
@@ -1961,11 +1985,11 @@
       "pitchDeg": 32,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#72"
+      "code": "#73"
     },
     {
       "id": "octagram-design-24",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
       "title": "KULIAH UMUM OCTAGRAM — Key Visual Banner Landscape",
       "category": "Event Key Visual & Banner",
@@ -1986,11 +2010,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#73"
+      "code": "#74"
     },
     {
       "id": "bionic-design-2026-part-01",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
       "title": "Instagram Feeds Grid BIONIC — Inovasi Sosial 2026",
       "category": "Branding, Logo & Social Media",
@@ -2011,11 +2035,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#74"
+      "code": "#75"
     },
     {
       "id": "bionic-design-2026-part-02",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
       "title": "Our Logo & Filosofi BIONIC",
       "category": "Branding, Logo & Social Media",
@@ -2036,11 +2060,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#75"
+      "code": "#76"
     },
     {
       "id": "bionic-design-2026-part-03",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
       "title": "Staff Card — M Hafidz Ardan (Publikasi dan Dokumentasi)",
       "category": "Branding, Logo & Social Media",
@@ -2061,11 +2085,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#76"
+      "code": "#77"
     },
     {
       "id": "econiq-ch3-2026-part-01",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
       "title": "Poster Pre-Order Work Jacket Dua Sisi Econiq Ch.3",
       "category": "Apparel Design & Event Branding",
@@ -2086,11 +2110,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#77"
+      "code": "#78"
     },
     {
       "id": "econiq-ch3-2026-part-02",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
       "title": "Design Spec Detail Work Jacket Econiq Ch.3",
       "category": "Apparel Design & Event Branding",
@@ -2111,11 +2135,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#78"
+      "code": "#79"
     },
     {
       "id": "econiq-ch3-2026-part-03",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
       "title": "Backdrop Econiq Ch.3 — Digital Bisnis Competition",
       "category": "Apparel Design & Event Branding",
@@ -2136,11 +2160,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#79"
+      "code": "#80"
     },
     {
       "id": "econiq-ch3-2026-part-04",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
       "title": "Staff Card — Lutfiah Afifah (Koor Public Relation)",
       "category": "Apparel Design & Event Branding",
@@ -2161,11 +2185,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#80"
+      "code": "#81"
     },
     {
       "id": "action-uiux-2nd-winner-part-01",
-      "tier": "lower",
+      "tier": "equator",
       "type": "uiux",
       "title": "2nd Winner Cabang UI/UX — ACTION (Academic Competition of Data Science)",
       "category": "UI/UX Competition & Achievement",
@@ -2186,11 +2210,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#81"
+      "code": "#82"
     },
     {
       "id": "action-uiux-2nd-winner-part-02",
-      "tier": "equator",
+      "tier": "upper",
       "type": "uiux",
       "title": "Poster Kolase Juara 2 UI/UX — #OKBOTWSURABAYA",
       "category": "UI/UX Competition & Achievement",
@@ -2211,11 +2235,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#82"
+      "code": "#83"
     },
     {
       "id": "fsti-teach-zone-2026-part-01",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
       "title": "3D Booth / Photobooth Mockup — FSTI TEACH ZONE",
       "category": "3D Booth Mockup & Event Visual",
@@ -2236,11 +2260,11 @@
       "pitchDeg": 32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#83"
+      "code": "#84"
     },
     {
       "id": "fsti-teach-zone-2026-part-02",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
       "title": "Key Visual Banner — FSTI TEACH ZONE",
       "category": "3D Booth Mockup & Event Visual",
@@ -2261,11 +2285,11 @@
       "pitchDeg": -32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#84"
+      "code": "#85"
     },
     {
       "id": "motion-elemen-video-01",
-      "tier": "equator",
+      "tier": "upper",
       "type": "video",
       "title": "MOTION GRAPHIC ELEMENT — Bumper & Animasi Visual (MP4)",
       "category": "Motion Graphics & Video Element",
@@ -2286,11 +2310,11 @@
       "pitchDeg": -32,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#85"
+      "code": "#86"
     },
     {
       "id": "yt-okb-groo-action-2025",
-      "tier": "upper",
+      "tier": "lower",
       "type": "video",
       "title": "OKB InsyaAllah - GROO: Aplikasi Pemasaran Digital UMKM Berbasis Data - ACTION 2025",
       "category": "Video Kompetisi & Produk Digital",
@@ -2311,13 +2335,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#86",
+      "code": "#87",
       "yawDeg": 48,
       "pitchDeg": -32
     },
     {
       "id": "yt-bunqus-official",
-      "tier": "lower",
+      "tier": "equator",
       "type": "video",
       "title": "bunqus official",
       "category": "Video Kreatif & Produksi",
@@ -2338,13 +2362,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#87",
+      "code": "#88",
       "yawDeg": 68,
       "pitchDeg": -32
     },
     {
       "id": "yt-sekali-coba-hancur-semua",
-      "tier": "equator",
+      "tier": "upper",
       "type": "video",
       "title": "“SEKALI COBA HANCUR SEMUA” Edukasi tentang narkoba By kelompok 5",
       "category": "Video Edukasi & Kampanye",
@@ -2365,13 +2389,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#88",
+      "code": "#89",
       "yawDeg": 88,
       "pitchDeg": -32
     },
     {
       "id": "yt-kelompok-maekat-spin-etam-2024",
-      "tier": "upper",
+      "tier": "lower",
       "type": "video",
       "title": "Kelompok Maekat - SPIn ETAM 2024 #InstitutTeknologiKalimantan #PKKMBITK2024 #SPInETAM2024 #SPECTA",
       "category": "Video Dokumentasi & PKKMB ITK",
@@ -2392,13 +2416,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#89",
+      "code": "#90",
       "yawDeg": 108,
       "pitchDeg": -32
     },
     {
       "id": "yt-merajut-asa-harlah-23",
-      "tier": "lower",
+      "tier": "equator",
       "type": "video",
       "title": "MERAJUT ASA SPESCIAL HARLAH KE 23",
       "category": "Video Event & Spesial Harlah",
@@ -2419,13 +2443,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#90",
+      "code": "#91",
       "yawDeg": 128,
       "pitchDeg": -32
     },
     {
       "id": "yt-video-profile-bisnis-digital-itk",
-      "tier": "equator",
+      "tier": "upper",
       "type": "video",
       "title": "Video Profile Bisnis Digital Institut Teknologi Kalimantan",
       "category": "Video Profil Program Studi",
@@ -2446,13 +2470,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#91",
+      "code": "#92",
       "yawDeg": 148,
       "pitchDeg": -32
     },
     {
       "id": "yt-live-kuliah-umum-octagram-itk",
-      "tier": "upper",
+      "tier": "lower",
       "type": "video",
       "title": "LIVE: Kuliah Umum OCTAGRAM Bisnis Digital ITK - Prof. Dr. Arif Satria, S.P., M.Si",
       "category": "Livestream & Broadcast Event",
@@ -2473,13 +2497,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#92",
+      "code": "#93",
       "yawDeg": 168,
       "pitchDeg": -32
     },
     {
       "id": "motion-ini-1-video",
-      "tier": "lower",
+      "tier": "equator",
       "type": "video",
       "title": "INI 1 — Motion Graphic & Visual Clip (MP4)",
       "category": "Motion Graphics & Video Element",
@@ -2498,13 +2522,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#93",
+      "code": "#94",
       "yawDeg": 188,
       "pitchDeg": -32
     },
     {
       "id": "gh-guardian-digital",
-      "tier": "equator",
+      "tier": "upper",
       "type": "webgame",
       "title": "TUNTUN (Guardian Digital) — Navigasi & Perlindungan Ruang Digital",
       "category": "Web App & Digital Safety (MIT Week 2026)",
@@ -2524,13 +2548,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#94",
+      "code": "#95",
       "yawDeg": 208,
       "pitchDeg": -32
     },
     {
       "id": "gh-game-ardanprem",
-      "tier": "upper",
+      "tier": "lower",
       "type": "webgame",
       "title": "SELAMATKAN HUTAN KALIMANTAN — Playable Web Game (ARDANPREM)",
       "category": "Playable HTML5 Game",
@@ -2550,13 +2574,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#95",
+      "code": "#96",
       "yawDeg": 228,
       "pitchDeg": -32
     },
     {
       "id": "gh-saadah-bakery-pos",
-      "tier": "lower",
+      "tier": "equator",
       "type": "webgame",
       "title": "SA'ADAH BAKERY & CAFE — Website & Sistem Admin POS (Supabase)",
       "category": "Full-Stack Web & POS Admin System",
@@ -2576,13 +2600,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#96",
+      "code": "#97",
       "yawDeg": 248,
       "pitchDeg": -32
     },
     {
       "id": "gh-ar2j-website",
-      "tier": "equator",
+      "tier": "upper",
       "type": "webgame",
       "title": "AR2J — Streetwear Gen Z Landing Page",
       "category": "Web Design & Brand Landing Page",
@@ -2602,13 +2626,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#97",
+      "code": "#98",
       "yawDeg": 268,
       "pitchDeg": -32
     },
     {
       "id": "gh-cafefinder-app",
-      "tier": "upper",
+      "tier": "lower",
       "type": "webgame",
       "title": "CAFEFINDER — Aplikasi Pencarian Kafe, Peta & Pelacak Kunjungan",
       "category": "Mobile App (Flutter / Dart)",
@@ -2628,13 +2652,13 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#98",
+      "code": "#99",
       "yawDeg": 288,
       "pitchDeg": -32
     },
     {
       "id": "app-pos-ardanprem-store",
-      "tier": "lower",
+      "tier": "equator",
       "type": "webgame",
       "title": "ARDANPREM STORE & POS — Aplikasi Kasir & Top Up Digital (Next.js + Prisma)",
       "category": "Aplikasi POS & Full-Stack Web App",
@@ -2654,13 +2678,13 @@
           "aspectRatio": 1.7778
         }
       ],
-      "code": "#99",
+      "code": "#100",
       "yawDeg": 308,
       "pitchDeg": -32
     },
     {
       "id": "video-showcase-mp4",
-      "tier": "equator",
+      "tier": "upper",
       "type": "video",
       "title": "VIDEO SHOWCASE — Motion & Visual Production (MP4)",
       "category": "Video Production & Motion Graphics",
@@ -2679,13 +2703,13 @@
           "aspectRatio": 1.7778
         }
       ],
-      "code": "#100",
+      "code": "#101",
       "yawDeg": 328,
       "pitchDeg": -32
     },
     {
       "id": "econiq-logo-motion-mp4",
-      "tier": "upper",
+      "tier": "lower",
       "type": "video",
       "title": "ECONIQ — Logo Animation & Motion Bumper (MP4)",
       "category": "Motion Graphics & Brand Animation",
@@ -2704,10 +2728,10 @@
           "aspectRatio": 1.7778
         }
       ],
-      "code": "#101",
+      "code": "#102",
       "yawDeg": 348,
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T08:36:09.462Z"
+  "lastUpdated": "2026-11-12T08:37:00.794Z"
 }
