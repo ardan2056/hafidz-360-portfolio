@@ -31,17 +31,21 @@
           },
           colors: {
             brand: {
-              50: '#eff6ff',
-              100: '#dbeafe',
-              200: '#bfdbfe',
-              300: '#93c5fd',
-              400: '#60a5fa',
-              500: '#3b82f6',
-              600: '#2563eb',
-              700: '#1d4ed8',
-              800: '#1e40af',
-              900: '#1e3a8a',
-              950: '#172554',
+              50: '#f0f9ff',
+              100: '#e0f2fe',
+              200: '#bae6fd',
+              300: '#7dd3fc',
+              400: '#38bdf8',
+              500: '#2C99D6',
+              600: '#2184be',
+              700: '#1a6fa3',
+              800: '#165a85',
+              900: '#13496b',
+              950: '#0d314a',
+            },
+            scarlet: {
+              500: '#EB2E33',
+              600: '#d92328',
             }
           }
         }
@@ -268,11 +272,11 @@
       background: transparent;
     }
     ::-webkit-scrollbar-thumb {
-      background: #2563eb;
+      background: #2C99D6;
       border-radius: 9999px;
     }
     ::-webkit-scrollbar-thumb:hover {
-      background: #60a5fa;
+      background: #7dd3fc;
     }
 
     /* 3D Interactive Start Hero Button & Stage Effects */
@@ -338,8 +342,8 @@
                 <span id="header-profile-name" class="text-xs sm:text-sm font-bold text-slate-900 dark:text-white group-hover:text-blue-500 transition-colors whitespace-nowrap">
                   M. HAFIDZ ARDAN
                 </span>
-                <span id="cloud-sync-badge" onclick="handleCloudBadgeClick(event)" class="inline-flex items-center gap-1 text-[9px] font-semibold px-1.5 sm:px-2 py-0.5 rounded-full bg-blue-500/15 text-blue-600 dark:text-blue-400 border border-blue-500/30 cursor-pointer backdrop-blur-md" title="Sinkronisasi Cloud 24 Jam (Khusus Admin)">
-                  <span class="w-1.5 h-1.5 rounded-full bg-blue-500 animate-pulse"></span>
+                <span id="cloud-sync-badge" onclick="handleCloudBadgeClick(event)" class="inline-flex items-center gap-1 text-[9px] font-semibold px-1.5 sm:px-2 py-0.5 rounded-full bg-[#2C99D6]/15 text-[#2C99D6] dark:text-[#7dd3fc] border border-[#2C99D6]/35 cursor-pointer backdrop-blur-md" title="Sinkronisasi Cloud 24 Jam (Khusus Admin)">
+                  <span class="w-1.5 h-1.5 rounded-full bg-[#EB2E33] animate-pulse shadow-[0_0_6px_#EB2E33]"></span>
                   <span id="cloud-sync-text">24H LIVE</span>
                 </span>
               </div>
@@ -363,7 +367,7 @@
         <!-- 2. CENTER: Unified Segmented View Switcher (360° | Katalog | Kegiatan) -->
         <div class="order-3 sm:order-2 flex items-center justify-center w-full sm:w-auto flex-shrink-0">
           <div class="bg-black/5 dark:bg-white/5 border border-slate-300/40 dark:border-white/10 rounded-xl p-0.5 flex items-center justify-center h-7 sm:h-8.5 backdrop-blur-md shadow-inner w-full sm:w-auto">
-            <button id="btn-mode-360" onclick="switchViewMode('360')" class="flex-1 sm:flex-initial px-2.5 sm:px-3 h-full rounded-lg text-[11px] sm:text-xs font-semibold flex items-center justify-center gap-1.5 transition-all bg-blue-600/90 text-white shadow-sm" title="Mode Galeri 360°">
+            <button id="btn-mode-360" onclick="switchViewMode('360')" class="flex-1 sm:flex-initial px-2.5 sm:px-3 h-full rounded-lg text-[11px] sm:text-xs font-semibold flex items-center justify-center gap-1.5 transition-all bg-[#2C99D6] text-[#F8FAFC] shadow-sm shadow-[#2C99D6]/30" title="Mode Galeri 360°">
               <i class="ph-bold ph-globe-hemisphere-west text-xs"></i>
               <span>360°</span>
             </button>
@@ -479,7 +483,7 @@
   <!-- FLOATING CATEGORY FILTER HUD (GAMBAR 2: ROBIN PAYOT ETHEREAL GLASSMORPHIC BAR) -->
   <nav id="category-filter-hud" class="fixed top-[112px] sm:top-[76px] left-1/2 -translate-x-1/2 z-20 pointer-events-auto max-w-[96vw] sm:max-w-none">
     <div class="robin-hud-glass p-1 sm:p-1.5 rounded-full flex items-center gap-1 sm:gap-1.5 whitespace-nowrap overflow-x-auto no-scrollbar shadow-2xl px-2">
-      <button onclick="setTypeFilter('all')" id="type-btn-all" class="type-btn flex-shrink-0 px-2.5 sm:px-3.5 py-1 sm:py-1.5 rounded-full text-xs font-semibold transition-all bg-blue-600/90 hover:bg-blue-600 text-white flex items-center gap-1.5 whitespace-nowrap shadow-md shadow-blue-500/25 active:scale-95">
+      <button onclick="setTypeFilter('all')" id="type-btn-all" class="type-btn flex-shrink-0 px-2.5 sm:px-3.5 py-1 sm:py-1.5 rounded-full text-xs font-semibold transition-all bg-[#2C99D6] hover:bg-[#2184be] text-[#F8FAFC] flex items-center gap-1.5 whitespace-nowrap shadow-md shadow-[#2C99D6]/30 active:scale-95">
         <i class="ph-bold ph-sparkle text-xs"></i>
         <span>Semua</span>
         <span id="count-badge-all" class="text-[10px] px-1.5 py-0.5 rounded-full bg-white/20 text-white font-bold">22</span>
@@ -536,13 +540,13 @@
 
         <div onclick="openDetailModal(state.activeIndex)" class="min-w-0 flex-1 cursor-pointer group px-0.5 overflow-hidden">
           <div class="flex items-center gap-1 sm:gap-1.5 flex-nowrap overflow-hidden">
-            <span id="dock-project-code" class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-blue-600 text-white shadow-sm shadow-blue-500/20 flex-shrink-0">#01</span>
-            <span id="dock-project-type-badge" class="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-black/5 dark:bg-white/5 text-slate-700 dark:text-slate-200 border border-slate-300/40 dark:border-white/10 flex items-center gap-1.5 backdrop-blur-sm flex-shrink-0">
+            <span id="dock-project-code" class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-[#2C99D6] text-[#F8FAFC] shadow-sm shadow-[#2C99D6]/25 flex-shrink-0">#01</span>
+            <span id="dock-project-type-badge" class="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-[#F8FAFC]/80 dark:bg-white/5 text-slate-700 dark:text-slate-200 border border-[#2C99D6]/25 dark:border-white/10 flex items-center gap-1.5 backdrop-blur-sm flex-shrink-0">
               <span id="dock-badge-text">Desain</span>
-              <span class="inline-flex items-center gap-0.5 opacity-75">
-                <span class="w-0.5 h-2 bg-blue-500 rounded-full animate-pulse"></span>
-                <span class="w-0.5 h-3.5 bg-blue-500 rounded-full animate-pulse [animation-delay:0.15s]"></span>
-                <span class="w-0.5 h-1.5 bg-blue-500 rounded-full animate-pulse [animation-delay:0.3s]"></span>
+              <span class="inline-flex items-center gap-0.5 opacity-85">
+                <span class="w-0.5 h-2 bg-[#2C99D6] rounded-full animate-pulse"></span>
+                <span class="w-0.5 h-3.5 bg-[#EB2E33] rounded-full animate-pulse [animation-delay:0.15s]"></span>
+                <span class="w-0.5 h-1.5 bg-[#2C99D6] rounded-full animate-pulse [animation-delay:0.3s]"></span>
               </span>
             </span>
             <span id="dock-project-year" class="text-[10px] font-semibold px-1.5 py-0.5 rounded bg-black/5 dark:bg-white/5 text-slate-600 dark:text-slate-300 border border-slate-300/40 dark:border-white/10 backdrop-blur-sm flex-shrink-0">2025</span>
@@ -596,7 +600,7 @@
             </button>
           </div>
 
-          <button onclick="openDetailModal(state.activeIndex)" class="px-2.5 sm:px-4 h-7 sm:h-8 rounded-xl bg-blue-600 hover:bg-blue-500 text-white text-[11px] sm:text-xs font-semibold flex items-center gap-1 transition-all active:scale-95 shadow-md shadow-blue-500/25 flex-shrink-0">
+          <button onclick="openDetailModal(state.activeIndex)" class="px-2.5 sm:px-4 h-7 sm:h-8 rounded-xl bg-[#EB2E33] hover:bg-[#d92328] text-[#F8FAFC] text-[11px] sm:text-xs font-semibold flex items-center gap-1 transition-all active:scale-95 shadow-md shadow-[#EB2E33]/30 flex-shrink-0">
             <i id="dock-action-icon" class="ph-bold ph-corners-out text-xs sm:text-sm"></i>
             <span id="dock-action-text" class="whitespace-nowrap">Detail</span>
           </button>
@@ -783,7 +787,7 @@
               <i id="modal-toggle-video-icon" class="ph-bold ph-play text-xs"></i>
               <span id="modal-toggle-video-label">Preview Interaktif</span>
             </button>
-            <a id="modal-external-launch-btn" href="#" target="_blank" rel="noopener noreferrer" class="hidden px-3.5 py-1.5 rounded-lg bg-blue-600/90 hover:bg-blue-600 active:scale-95 text-white text-xs font-semibold items-center gap-1.5 shadow-md shadow-blue-500/25 transition-all" title="Buka tautan karya resmi">
+            <a id="modal-external-launch-btn" href="#" target="_blank" rel="noopener noreferrer" class="hidden px-3.5 py-1.5 rounded-lg bg-[#EB2E33] hover:bg-[#d92328] active:scale-95 text-[#F8FAFC] text-xs font-semibold items-center gap-1.5 shadow-md shadow-[#EB2E33]/30 transition-all" title="Buka tautan karya resmi">
               <i id="modal-external-launch-icon" class="ph-bold ph-arrow-up-right text-xs"></i>
               <span id="modal-external-launch-label">Buka Link Live</span>
             </a>
@@ -1121,8 +1125,8 @@
     <div id="hero-intro-card" class="relative z-10 max-w-lg w-full mx-auto flex flex-col items-center text-center p-7 sm:p-10 rounded-3xl bg-white/75 dark:bg-slate-900/80 backdrop-blur-2xl border border-white/70 dark:border-white/10 shadow-[0_25px_70px_-15px_rgba(37,99,235,0.25)] dark:shadow-[0_25px_70px_-15px_rgba(0,0,0,0.6)] transform-style-3d transition-transform duration-200 ease-out">
       
       <!-- Studio Category Pill Badge -->
-      <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue-600/10 dark:bg-blue-500/15 border border-blue-500/30 text-blue-600 dark:text-blue-400 text-[11px] font-bold tracking-widest uppercase mb-4 shadow-sm">
-        <span class="w-2 h-2 rounded-full bg-blue-600 dark:bg-blue-400 animate-ping"></span>
+      <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#2C99D6]/10 dark:bg-[#2C99D6]/15 border border-[#2C99D6]/30 text-[#2C99D6] dark:text-[#7dd3fc] text-[11px] font-bold tracking-widest uppercase mb-4 shadow-sm">
+        <span class="w-2 h-2 rounded-full bg-[#EB2E33] animate-ping"></span>
         <span>PORTFOLIO SPASIAL 360°</span>
       </div>
 
@@ -2808,12 +2812,12 @@
         grad.addColorStop(0.7, '#070f22');
         grad.addColorStop(1, '#020617');
       } else {
-        // Robin Payot Signature Ethereal Light Atmosphere (Harmonious & Soothing)
-        grad.addColorStop(0, '#f8fafc');
-        grad.addColorStop(0.24, '#edf3fc');
-        grad.addColorStop(0.5, '#d3e4fe'); // Soft, calming periwinkle sky horizon
-        grad.addColorStop(0.76, '#e8f1fd');
-        grad.addColorStop(1, '#f8fafc');
+        // Biru Langit (#2C99D6) + Putih (#F8FAFC) Crisp Sky Atmosphere
+        grad.addColorStop(0, '#F8FAFC');
+        grad.addColorStop(0.24, '#e0f2fe');
+        grad.addColorStop(0.5, '#bae6fd'); // Luminous sky-blue horizon
+        grad.addColorStop(0.76, '#e0f2fe');
+        grad.addColorStop(1, '#F8FAFC');
       }
       ctx.fillStyle = grad;
       ctx.fillRect(0, 0, w, h);
@@ -2844,7 +2848,7 @@
       ctx.textBaseline = 'middle';
       ctx.fillText((ownerProfile.zenithTitle || 'M. HAFIDZ ARDAN').toUpperCase(), cx, cy - 16);
 
-      ctx.fillStyle = '#2563eb';
+      ctx.fillStyle = '#2C99D6';
       ctx.font = '700 16px "Poppins", sans-serif';
       ctx.fillText((ownerProfile.zenithSubtitle || 'INTERACTIVE CREATIVE STUDIO').toUpperCase(), cx, cy + 28);
       return canvas;
@@ -2861,19 +2865,19 @@
       ctx.clearRect(0, 0, 1024, 1024);
       ctx.beginPath();
       ctx.arc(cx, cy, 340, 0, Math.PI * 2);
-      ctx.fillStyle = isDark ? '#080f1e' : '#ffffff';
+      ctx.fillStyle = isDark ? '#080f1e' : '#F8FAFC';
       ctx.fill();
       ctx.lineWidth = 3;
       ctx.strokeStyle = isDark ? '#1e293b' : '#cbd5e1';
       ctx.stroke();
 
-      ctx.fillStyle = isDark ? '#f8fafc' : '#0f172a';
+      ctx.fillStyle = isDark ? '#F8FAFC' : '#0f172a';
       ctx.font = '800 36px "Poppins", sans-serif';
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
       ctx.fillText((ownerProfile.nadirTitle || 'KOOR DIV MULTIMEDIA').toUpperCase(), cx, cy - 16);
 
-      ctx.fillStyle = '#2563eb';
+      ctx.fillStyle = '#2C99D6';
       ctx.font = '700 18px "Poppins", sans-serif';
       ctx.fillText((ownerProfile.nadirSubtitle || '2023 • 2024 • 2025 • 2026').toUpperCase(), cx, cy + 28);
       return canvas;
@@ -2882,7 +2886,7 @@
     function initThreeJS() {
       const container = document.getElementById('canvas-container');
       scene = new THREE.Scene();
-      scene.background = new THREE.Color(state.theme === 'dark' ? 0x050b18 : 0xf4f7fb);
+      scene.background = new THREE.Color(state.theme === 'dark' ? 0x050b18 : 0xF8FAFC);
 
       camera = new THREE.PerspectiveCamera(state.fov, window.innerWidth / window.innerHeight, 0.1, 250);
       camera.position.set(0, 0, 0.01);
@@ -2982,7 +2986,7 @@
 
       // KINETIC MOTION: Glowing kinetic ring around Zenith (Top)
       const ringGeoZ = new THREE.RingGeometry(7.6, 7.85, 64);
-      const ringMatZ = new THREE.MeshBasicMaterial({ color: isDark ? 0x38bdf8 : 0x2563eb, side: THREE.DoubleSide, transparent: true, opacity: isDark ? 0.75 : 0.45 });
+      const ringMatZ = new THREE.MeshBasicMaterial({ color: isDark ? 0x38bdf8 : 0x2C99D6, side: THREE.DoubleSide, transparent: true, opacity: isDark ? 0.75 : 0.5 });
       kineticRingZenith = new THREE.Mesh(ringGeoZ, ringMatZ);
       kineticRingZenith.rotation.x = Math.PI / 2;
       kineticRingZenith.position.y = SPHERE_RADIUS - 0.45;
@@ -2990,7 +2994,7 @@
 
       // KINETIC MOTION: Glowing kinetic ring around Nadir (Bottom)
       const ringGeoN = new THREE.RingGeometry(7.6, 7.85, 64);
-      const ringMatN = new THREE.MeshBasicMaterial({ color: isDark ? 0x818cf8 : 0x3b82f6, side: THREE.DoubleSide, transparent: true, opacity: isDark ? 0.75 : 0.45 });
+      const ringMatN = new THREE.MeshBasicMaterial({ color: isDark ? 0xEB2E33 : 0xEB2E33, side: THREE.DoubleSide, transparent: true, opacity: isDark ? 0.65 : 0.35 });
       kineticRingNadir = new THREE.Mesh(ringGeoN, ringMatN);
       kineticRingNadir.rotation.x = Math.PI / 2;
       kineticRingNadir.position.y = -(SPHERE_RADIUS - 0.45);
@@ -4098,7 +4102,7 @@
         const badge = document.getElementById(`count-badge-${t}`);
         if (btn) {
           btn.className = t === type
-            ? 'type-btn flex-shrink-0 px-2.5 sm:px-3.5 py-1 sm:py-1.5 rounded-full text-xs font-semibold transition-all bg-blue-600/90 hover:bg-blue-600 text-white flex items-center gap-1.5 whitespace-nowrap shadow-md shadow-blue-500/25 active:scale-95'
+            ? 'type-btn flex-shrink-0 px-2.5 sm:px-3.5 py-1 sm:py-1.5 rounded-full text-xs font-semibold transition-all bg-[#2C99D6] hover:bg-[#2184be] text-[#F8FAFC] flex items-center gap-1.5 whitespace-nowrap shadow-md shadow-[#2C99D6]/30 active:scale-95'
             : 'type-btn flex-shrink-0 px-2.5 sm:px-3.5 py-1 sm:py-1.5 rounded-full text-xs font-medium text-slate-700 dark:text-slate-300 hover:bg-black/5 dark:hover:bg-white/10 hover:text-slate-900 dark:hover:text-white transition-all flex items-center gap-1.5 whitespace-nowrap active:scale-95';
         }
         if (badge) {
@@ -4176,7 +4180,7 @@
       const b360 = document.getElementById('btn-mode-360');
       const bGrid = document.getElementById('btn-mode-grid');
       const bAct = document.getElementById('btn-mode-activity');
-      const activeClass = 'flex-1 sm:flex-initial px-2.5 sm:px-3 h-full rounded-lg text-[11px] sm:text-xs font-semibold flex items-center justify-center gap-1.5 transition-all bg-blue-600/90 text-white shadow-sm';
+      const activeClass = 'flex-1 sm:flex-initial px-2.5 sm:px-3 h-full rounded-lg text-[11px] sm:text-xs font-semibold flex items-center justify-center gap-1.5 transition-all bg-[#2C99D6] text-[#F8FAFC] shadow-sm shadow-[#2C99D6]/30';
       const inactiveClass = 'flex-1 sm:flex-initial px-2.5 sm:px-3 h-full rounded-lg text-[11px] sm:text-xs font-medium flex items-center justify-center gap-1.5 transition-all text-slate-700 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-black/5 dark:hover:bg-white/10';
       if (b360) b360.className = mode === '360' ? activeClass : inactiveClass;
       if (bGrid) bGrid.className = mode === 'grid' ? activeClass : inactiveClass;
