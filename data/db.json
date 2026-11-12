@@ -43,46 +43,11 @@
   },
   "portfolioProjects": [
     {
-      "id": "work-01",
+      "id": "work-03",
       "code": "#01",
       "tier": "equator",
-      "type": "design",
-      "yawDeg": 0,
-      "pitchDeg": 0,
-      "title": "OCTAGRAM — Branding Portfolio",
-      "category": "Brand Identity & Key Visual",
-      "year": "2025",
-      "committeeRole": "Koor Div Multimedia",
-      "tools": "Adobe Photoshop, Scribble Line Art, 3D Bevel Typography",
-      "description": "Karya unggulan M. Hafidz Ardan (Koor Div Multimedia). Menampilkan identitas visual OCTAGRAM dengan 8 halaman slide interaktif yang dapat digeser.",
-      "isOctagramFeatured": true,
-      "accent": "#3b82f6",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Artboard 22 — Scribble Energy System",
-          "caption": "Ilustrasi garis scribble ekspresif putih yang menyatu dengan fotografi potret.",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/1794385796666-IMG_2257.jpeg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.7553191489361702
-        },
-        {
-          "title": "Slide 02 — IMG 2257",
-          "caption": "Dokumentasi visual tambahan untuk OCTAGRAM — Branding Portfolio.",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/1794385800398-IMG_2257.jpeg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.7553191489361702
-        }
-      ]
-    },
-    {
-      "id": "work-03",
-      "code": "#02",
-      "tier": "equator",
       "type": "video",
-      "yawDeg": 40,
+      "yawDeg": 0,
       "pitchDeg": 0,
       "title": "SHOWREEL MULTIMEDIA — M. Hafidz Ardan",
       "category": "Video Showreel & Motion Compilation",
@@ -108,10 +73,10 @@
     },
     {
       "id": "work-04",
-      "code": "#03",
+      "code": "#02",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 80,
+      "yawDeg": 45,
       "pitchDeg": 0,
       "title": "EDUSPACE & EVENT HUB — UI/UX Figma Prototype",
       "category": "Mobile App UI/UX & Design System",
@@ -145,10 +110,10 @@
     },
     {
       "id": "work-05",
-      "code": "#04",
+      "code": "#03",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 120,
+      "yawDeg": 90,
       "pitchDeg": 0,
       "title": "SISTEM WEB WPK & PORTAL DIGITAL — Web App",
       "category": "Full-Stack Web / Aplikasi WPK Interaktif",
@@ -182,10 +147,10 @@
     },
     {
       "id": "work-06",
-      "code": "#05",
+      "code": "#04",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 160,
+      "yawDeg": 135,
       "pitchDeg": 0,
       "title": "CYBER ORBIT DEFENDER — Playable WebGL Game",
       "category": "Game Development & Interactive Arcade",
@@ -220,10 +185,10 @@
     },
     {
       "id": "work-07",
-      "code": "#06",
+      "code": "#05",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 200,
+      "yawDeg": 180,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Aku Lagi Berkegiatan",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -519,10 +484,10 @@
     },
     {
       "id": "work-08",
-      "code": "#07",
+      "code": "#06",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 240,
+      "yawDeg": 225,
       "pitchDeg": 0,
       "title": "FINFLOW & SMART WALLET — UI/UX Prototype",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -551,7 +516,7 @@
     },
     {
       "id": "work-09",
-      "code": "#08",
+      "code": "#07",
       "tier": "upper",
       "type": "video",
       "yawDeg": 20,
@@ -581,7 +546,7 @@
     },
     {
       "id": "work-10",
-      "code": "#09",
+      "code": "#08",
       "tier": "upper",
       "type": "video",
       "yawDeg": 71.42857142857143,
@@ -610,7 +575,7 @@
     },
     {
       "id": "work-11",
-      "code": "#10",
+      "code": "#09",
       "tier": "upper",
       "type": "committee",
       "yawDeg": 122.85714285714286,
@@ -640,7 +605,7 @@
     },
     {
       "id": "work-12",
-      "code": "#11",
+      "code": "#10",
       "tier": "upper",
       "type": "video",
       "yawDeg": 174.28571428571428,
@@ -677,7 +642,7 @@
     },
     {
       "id": "work-14",
-      "code": "#12",
+      "code": "#11",
       "tier": "upper",
       "type": "committee",
       "yawDeg": 225.71428571428572,
@@ -705,7 +670,7 @@
     },
     {
       "id": "work-15",
-      "code": "#13",
+      "code": "#12",
       "tier": "upper",
       "type": "design",
       "yawDeg": 277.14285714285717,
@@ -730,7 +695,7 @@
     },
     {
       "id": "work-16",
-      "code": "#14",
+      "code": "#13",
       "tier": "upper",
       "type": "video",
       "yawDeg": 328.57142857142856,
@@ -759,7 +724,7 @@
     },
     {
       "id": "work-17",
-      "code": "#15",
+      "code": "#14",
       "tier": "lower",
       "type": "committee",
       "yawDeg": 20,
@@ -787,7 +752,7 @@
     },
     {
       "id": "work-18",
-      "code": "#16",
+      "code": "#15",
       "tier": "lower",
       "type": "design",
       "yawDeg": 71.42857142857143,
@@ -814,7 +779,7 @@
     },
     {
       "id": "work-19",
-      "code": "#17",
+      "code": "#16",
       "tier": "lower",
       "type": "committee",
       "yawDeg": 122.85714285714286,
@@ -844,7 +809,7 @@
     },
     {
       "id": "work-20",
-      "code": "#18",
+      "code": "#17",
       "tier": "lower",
       "type": "video",
       "yawDeg": 174.28571428571428,
@@ -873,7 +838,7 @@
     },
     {
       "id": "work-21",
-      "code": "#19",
+      "code": "#18",
       "tier": "lower",
       "type": "design",
       "yawDeg": 225.71428571428572,
@@ -900,7 +865,7 @@
     },
     {
       "id": "work-23",
-      "code": "#20",
+      "code": "#19",
       "tier": "lower",
       "type": "design",
       "yawDeg": 277.14285714285717,
@@ -927,7 +892,7 @@
     },
     {
       "id": "work-24",
-      "code": "#21",
+      "code": "#20",
       "tier": "lower",
       "type": "design",
       "yawDeg": 328.57142857142856,
@@ -954,7 +919,7 @@
     },
     {
       "id": "work-1794369861425",
-      "code": "#22",
+      "code": "#21",
       "tier": "equator",
       "type": "video",
       "year": "2026",
@@ -981,13 +946,13 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "yawDeg": 280,
+      "yawDeg": 270,
       "pitchDeg": 0,
       "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
     },
     {
       "id": "work-1794369946749",
-      "code": "#23",
+      "code": "#22",
       "tier": "equator",
       "type": "video",
       "year": "2026",
@@ -1014,10 +979,10 @@
           "aspectRatio": 1.3333333333333333
         }
       ],
-      "yawDeg": 320,
+      "yawDeg": 315,
       "pitchDeg": 0,
       "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
     }
   ],
-  "lastUpdated": "2026-11-12T07:59:13.917Z"
+  "lastUpdated": "2026-11-12T08:00:08.989Z"
 }
