@@ -244,11 +244,6 @@
           "aspectRatio": 0.75
         },
         {
-          "title": "Slide 03 — Eksplorasi Desain & Coding",
-          "caption": "Proses kerja di balik layar merancang UI/UX Figma dan kode aplikasi web.",
-          "isRealImage": false
-        },
-        {
           "title": "Slide 04 — Artboard 22",
           "caption": "Dokumentasi visual tambahan untuk ON DUTY GALLERY — Aku Lagi Berkegiatan.",
           "imageSrc": "/uploads/1794470092382-721703565-Artboard_22.jpg",
@@ -767,5 +762,5 @@
       "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
     }
   ],
-  "lastUpdated": "2026-11-12T07:54:55.211Z"
+  "lastUpdated": "2026-11-12T07:54:56.131Z"
 }
