@@ -344,10 +344,10 @@
     {
       "id": "work-08",
       "code": "#02",
-      "tier": "equator",
+      "tier": "upper",
       "type": "uiux",
-      "yawDeg": 30,
-      "pitchDeg": 0,
+      "yawDeg": 0,
+      "pitchDeg": 19,
       "title": "FINFLOW & SMART WALLET — UI/UX Prototype",
       "category": "Fintech Mobile UI/UX Design (Figma)",
       "year": "2025",
@@ -376,10 +376,10 @@
     {
       "id": "work-09",
       "code": "#03",
-      "tier": "upper",
+      "tier": "lower",
       "type": "video",
-      "yawDeg": 20,
-      "pitchDeg": 19,
+      "yawDeg": 0,
+      "pitchDeg": -17,
       "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
       "year": "2026",
@@ -406,10 +406,10 @@
     {
       "id": "work-10",
       "code": "#04",
-      "tier": "upper",
+      "tier": "equator",
       "type": "video",
-      "yawDeg": 42.5,
-      "pitchDeg": 19,
+      "yawDeg": 20,
+      "pitchDeg": 0,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
       "year": "2025",
@@ -437,7 +437,7 @@
       "code": "#05",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 65,
+      "yawDeg": 21,
       "pitchDeg": 19,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
@@ -463,10 +463,10 @@
     {
       "id": "work-15",
       "code": "#06",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 87.5,
-      "pitchDeg": 19,
+      "yawDeg": 21,
+      "pitchDeg": -17,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
       "year": "2026",
@@ -488,10 +488,10 @@
     {
       "id": "work-16",
       "code": "#07",
-      "tier": "upper",
+      "tier": "equator",
       "type": "video",
-      "yawDeg": 110,
-      "pitchDeg": 19,
+      "yawDeg": 40,
+      "pitchDeg": 0,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
       "year": "2024",
@@ -517,10 +517,10 @@
     {
       "id": "octagram-design-01",
       "code": "#08",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
-      "yawDeg": 60,
-      "pitchDeg": 0,
+      "yawDeg": 42,
+      "pitchDeg": 19,
       "title": "KULIAH UMUM OCTAGRAM — Poster Utama (Keynote Kepala BRIN)",
       "category": "Event Poster & Key Visual",
       "year": "2026",
@@ -542,10 +542,10 @@
     {
       "id": "octagram-design-02",
       "code": "#09",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 132.5,
-      "pitchDeg": 19,
+      "yawDeg": 42,
+      "pitchDeg": -17,
       "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
       "category": "Merchandise & Product Mockup",
       "year": "2026",
@@ -567,10 +567,10 @@
     {
       "id": "octagram-design-03",
       "code": "#10",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
-      "yawDeg": 20,
-      "pitchDeg": -17,
+      "yawDeg": 60,
+      "pitchDeg": 0,
       "title": "MERCHANDISE OCTAGRAM 2026 — Poster Pre-Order Sticker & Keychain",
       "category": "Promotional Poster & Merch",
       "year": "2026",
@@ -592,10 +592,10 @@
     {
       "id": "octagram-design-04",
       "code": "#11",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
-      "yawDeg": 90,
-      "pitchDeg": 0,
+      "yawDeg": 64,
+      "pitchDeg": 19,
       "title": "LIVE REPORT OCTAGRAM — Instagram Story Frame Template",
       "category": "Social Media & Live Report",
       "year": "2026",
@@ -617,10 +617,10 @@
     {
       "id": "octagram-design-05",
       "code": "#12",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 155,
-      "pitchDeg": 19,
+      "yawDeg": 64,
+      "pitchDeg": -17,
       "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
       "category": "Social Media & Documentation",
       "year": "2026",
@@ -642,10 +642,10 @@
     {
       "id": "octagram-design-06",
       "code": "#13",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
-      "yawDeg": 42.5,
-      "pitchDeg": -17,
+      "yawDeg": 80,
+      "pitchDeg": 0,
       "title": "STAFF KONSUMSI OCTAGRAM — H. Ardan Profile Card",
       "category": "Identity & Staff Card Design",
       "year": "2026",
@@ -667,10 +667,10 @@
     {
       "id": "octagram-design-07",
       "code": "#14",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
-      "yawDeg": 120,
-      "pitchDeg": 0,
+      "yawDeg": 85,
+      "pitchDeg": 19,
       "title": "DANA USAHA OCTAGRAM 2026 — Poster Menu & Lokasi",
       "category": "Promotional Poster & Danus",
       "year": "2026",
@@ -692,10 +692,10 @@
     {
       "id": "octagram-design-08",
       "code": "#15",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 177.5,
-      "pitchDeg": 19,
+      "yawDeg": 85,
+      "pitchDeg": -17,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Fireside Talks Yulianta (OJK)",
       "category": "X-Banner & Print Media",
       "year": "2026",
@@ -717,10 +717,10 @@
     {
       "id": "octagram-design-09",
       "code": "#16",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
-      "yawDeg": 65,
-      "pitchDeg": -17,
+      "yawDeg": 100,
+      "pitchDeg": 0,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Utama Event 2026",
       "category": "X-Banner & Print Media",
       "year": "2026",
@@ -742,10 +742,10 @@
     {
       "id": "octagram-design-10",
       "code": "#17",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
-      "yawDeg": 150,
-      "pitchDeg": 0,
+      "yawDeg": 106,
+      "pitchDeg": 19,
       "title": "QR CODE BISNIS DIGITAL ITK — Instagram @BISNISDIGITAL.ITK",
       "category": "Social Media & Graphic Asset",
       "year": "2026",
@@ -767,10 +767,10 @@
     {
       "id": "octagram-design-11",
       "code": "#18",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 200,
-      "pitchDeg": 19,
+      "yawDeg": 106,
+      "pitchDeg": -17,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Moderator Dekan FSTI ITK",
       "category": "X-Banner & Print Media",
       "year": "2026",
@@ -792,10 +792,10 @@
     {
       "id": "octagram-design-12",
       "code": "#19",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
-      "yawDeg": 87.5,
-      "pitchDeg": -17,
+      "yawDeg": 120,
+      "pitchDeg": 0,
       "title": "KULIAH UMUM OCTAGRAM — Template Slide & Sertifikat Resmi",
       "category": "Presentation & Layout System",
       "year": "2026",
@@ -817,10 +817,10 @@
     {
       "id": "octagram-design-13",
       "code": "#20",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
-      "yawDeg": 180,
-      "pitchDeg": 0,
+      "yawDeg": 127,
+      "pitchDeg": 19,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Sambutan Rektor ITK",
       "category": "X-Banner & Print Media",
       "year": "2026",
@@ -842,10 +842,10 @@
     {
       "id": "octagram-design-14",
       "code": "#21",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
-      "yawDeg": 222.5,
-      "pitchDeg": 19,
+      "yawDeg": 127,
+      "pitchDeg": -17,
       "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Teaser Poster & Campaign",
       "year": "2026",
@@ -867,10 +867,10 @@
     {
       "id": "octagram-design-15",
       "code": "#22",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
-      "yawDeg": 110,
-      "pitchDeg": -17,
+      "yawDeg": 140,
+      "pitchDeg": 0,
       "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
       "category": "Stage Frame & Event Overlay",
       "year": "2026",
@@ -891,7 +891,7 @@
     },
     {
       "id": "octagram-design-16",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
       "title": "TWIBBON & STORY FRAME — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Social Media & Twibbon Frame",
@@ -908,15 +908,15 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 210,
-      "pitchDeg": 0,
+      "yawDeg": 148,
+      "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#23"
     },
     {
       "id": "octagram-design-17",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
       "title": "X-BANNER FULL PANEL (3 NARASUMBER) — Kuliah Umum OCTAGRAM 2026",
       "category": "X-Banner & Print Media",
@@ -933,15 +933,15 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 245,
-      "pitchDeg": 19,
+      "yawDeg": 148,
+      "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#24"
     },
     {
       "id": "octagram-design-18",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
       "title": "X-BANNER KEYNOTE SPEAKER — Prof. Dr. Arif Satria, S.P., M.Si",
       "category": "X-Banner & Print Media",
@@ -958,15 +958,15 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 132.5,
-      "pitchDeg": -17,
+      "yawDeg": 160,
+      "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#25"
     },
     {
       "id": "octagram-design-19",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
       "title": "COUNTDOWN H-5 s/d H-1 — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Social Media Campaign Series",
@@ -1015,15 +1015,15 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 240,
-      "pitchDeg": 0,
+      "yawDeg": 169,
+      "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#26"
     },
     {
       "id": "octagram-design-20",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
       "title": "BUMPER & LOWER THIRD NARASUMBER — Kuliah Umum OCTAGRAM 2026",
       "category": "Broadcast & Stage Screen Graphics",
@@ -1056,15 +1056,15 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 267.5,
-      "pitchDeg": 19,
+      "yawDeg": 169,
+      "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#27"
     },
     {
       "id": "octagram-design-21",
-      "tier": "lower",
+      "tier": "equator",
       "type": "design",
       "title": "BACKDROP & LIVESTREAM LAYOUT — Kuliah Umum OCTAGRAM 2026",
       "category": "Stage Screen & Broadcast Layout",
@@ -1089,15 +1089,15 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 155,
-      "pitchDeg": -17,
+      "yawDeg": 180,
+      "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#28"
     },
     {
       "id": "octagram-design-22",
-      "tier": "equator",
+      "tier": "upper",
       "type": "design",
       "title": "SERTIFIKAT RESMI — OCTAGRAM Bisnis Digital ITK 2026",
       "category": "Document & Certificate Design",
@@ -1114,15 +1114,15 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 270,
-      "pitchDeg": 0,
+      "yawDeg": 191,
+      "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#29"
     },
     {
       "id": "octagram-design-23",
-      "tier": "upper",
+      "tier": "lower",
       "type": "design",
       "title": "STICKER PACK OCTAGRAM 2026 — Desain Stiker Bisnis Digital",
       "category": "Merchandise & Illustration",
@@ -1139,8 +1139,8 @@
           "aspectRatio": 0.6953125
         }
       ],
-      "yawDeg": 290,
-      "pitchDeg": 19,
+      "yawDeg": 191,
+      "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
       "code": "#30"
@@ -1164,7 +1164,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 300,
+      "yawDeg": 200,
       "pitchDeg": 0,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1205,7 +1205,7 @@
           "aspectRatio": 0.6436781609195402
         }
       ],
-      "yawDeg": 312.5,
+      "yawDeg": 212,
       "pitchDeg": 19,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1254,7 +1254,7 @@
           "aspectRatio": 0.5886454183266933
         }
       ],
-      "yawDeg": 177.5,
+      "yawDeg": 212,
       "pitchDeg": -17,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1287,7 +1287,7 @@
           "aspectRatio": 0.744140625
         }
       ],
-      "yawDeg": 330,
+      "yawDeg": 220,
       "pitchDeg": 0,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1320,7 +1320,7 @@
           "aspectRatio": 2.003913894324853
         }
       ],
-      "yawDeg": 335,
+      "yawDeg": 233,
       "pitchDeg": 19,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1345,7 +1345,7 @@
           "aspectRatio": 0.7076648841354723
         }
       ],
-      "yawDeg": 200,
+      "yawDeg": 233,
       "pitchDeg": -17,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1353,7 +1353,7 @@
     },
     {
       "id": "yt-okb-groo-action-2025",
-      "tier": "upper",
+      "tier": "equator",
       "type": "video",
       "title": "OKB InsyaAllah - GROO: Aplikasi Pemasaran Digital UMKM Berbasis Data - ACTION 2025",
       "category": "Video Kompetisi & Produk Digital",
@@ -1375,12 +1375,12 @@
         }
       ],
       "code": "#37",
-      "yawDeg": 357.5,
-      "pitchDeg": 19
+      "yawDeg": 240,
+      "pitchDeg": 0
     },
     {
       "id": "yt-bunqus-official",
-      "tier": "lower",
+      "tier": "upper",
       "type": "video",
       "title": "bunqus official",
       "category": "Video Kreatif & Produksi",
@@ -1402,8 +1402,8 @@
         }
       ],
       "code": "#38",
-      "yawDeg": 222.5,
-      "pitchDeg": -17
+      "yawDeg": 254,
+      "pitchDeg": 19
     },
     {
       "id": "yt-sekali-coba-hancur-semua",
@@ -1429,12 +1429,12 @@
         }
       ],
       "code": "#39",
-      "yawDeg": 245,
+      "yawDeg": 254,
       "pitchDeg": -17
     },
     {
       "id": "yt-kelompok-maekat-spin-etam-2024",
-      "tier": "lower",
+      "tier": "equator",
       "type": "video",
       "title": "Kelompok Maekat - SPIn ETAM 2024 #InstitutTeknologiKalimantan #PKKMBITK2024 #SPInETAM2024 #SPECTA",
       "category": "Video Dokumentasi & PKKMB ITK",
@@ -1456,12 +1456,12 @@
         }
       ],
       "code": "#40",
-      "yawDeg": 267.5,
-      "pitchDeg": -17
+      "yawDeg": 260,
+      "pitchDeg": 0
     },
     {
       "id": "yt-merajut-asa-harlah-23",
-      "tier": "lower",
+      "tier": "upper",
       "type": "video",
       "title": "MERAJUT ASA SPESCIAL HARLAH KE 23",
       "category": "Video Event & Spesial Harlah",
@@ -1483,8 +1483,8 @@
         }
       ],
       "code": "#41",
-      "yawDeg": 290,
-      "pitchDeg": -17
+      "yawDeg": 275,
+      "pitchDeg": 19
     },
     {
       "id": "yt-video-profile-bisnis-digital-itk",
@@ -1510,12 +1510,12 @@
         }
       ],
       "code": "#42",
-      "yawDeg": 312.5,
+      "yawDeg": 275,
       "pitchDeg": -17
     },
     {
       "id": "yt-live-kuliah-umum-octagram-itk",
-      "tier": "lower",
+      "tier": "equator",
       "type": "video",
       "title": "LIVE: Kuliah Umum OCTAGRAM Bisnis Digital ITK - Prof. Dr. Arif Satria, S.P., M.Si",
       "category": "Livestream & Broadcast Event",
@@ -1537,12 +1537,12 @@
         }
       ],
       "code": "#43",
-      "yawDeg": 335,
-      "pitchDeg": -17
+      "yawDeg": 280,
+      "pitchDeg": 0
     },
     {
       "id": "motion-ini-1-video",
-      "tier": "lower",
+      "tier": "upper",
       "type": "video",
       "title": "INI 1 — Motion Graphic & Visual Clip (MP4)",
       "category": "Motion Graphics & Video Element",
@@ -1562,9 +1562,215 @@
         }
       ],
       "code": "#44",
-      "yawDeg": 357.5,
+      "yawDeg": 296,
+      "pitchDeg": 19
+    },
+    {
+      "id": "gh-guardian-digital",
+      "tier": "lower",
+      "type": "webgame",
+      "title": "TUNTUN (Guardian Digital) — Navigasi & Perlindungan Ruang Digital",
+      "category": "Web App & Digital Safety (MIT Week 2026)",
+      "year": "2026",
+      "tools": "HTML5, JavaScript, Tailwind CSS, GitHub Pages",
+      "description": "Aplikasi web interaktif Tuntun (Guardian Digital) untuk navigasi dan perlindungan ruang digital pada ajang MIT Week 2026.",
+      "accent": "#0ea5e9",
+      "currentSlide": 0,
+      "directLink": "https://ardan2056.github.io/guardian-digital/",
+      "externalUrl": "https://ardan2056.github.io/guardian-digital/",
+      "slides": [
+        {
+          "title": "Tuntun — Guardian Digital",
+          "caption": "Live Web App: https://ardan2056.github.io/guardian-digital/",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/web-tuntun-cover.svg",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "code": "#45",
+      "yawDeg": 296,
       "pitchDeg": -17
+    },
+    {
+      "id": "gh-game-ardanprem",
+      "tier": "equator",
+      "type": "webgame",
+      "title": "SELAMATKAN HUTAN KALIMANTAN — Playable Web Game (ARDANPREM)",
+      "category": "Playable HTML5 Game",
+      "year": "2026",
+      "tools": "HTML5 Canvas, JavaScript, Game Loop, GitHub Pages",
+      "description": "Game web interaktif bertema pelestarian lingkungan \"Selamatkan Hutan Kalimantan\" yang dapat langsung dimainkan di browser.",
+      "accent": "#10b981",
+      "currentSlide": 0,
+      "directLink": "https://ardan2056.github.io/game-ardanprem/",
+      "externalUrl": "https://ardan2056.github.io/game-ardanprem/",
+      "slides": [
+        {
+          "title": "Selamatkan Hutan Kalimantan",
+          "caption": "Mainkan Game: https://ardan2056.github.io/game-ardanprem/",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/game-ardanprem-cover.svg",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "code": "#46",
+      "yawDeg": 300,
+      "pitchDeg": 0
+    },
+    {
+      "id": "gh-saadah-bakery-pos",
+      "tier": "upper",
+      "type": "webgame",
+      "title": "SA'ADAH BAKERY & CAFE — Website & Sistem Admin POS (Supabase)",
+      "category": "Full-Stack Web & POS Admin System",
+      "year": "2026",
+      "tools": "JavaScript, HTML5, CSS3, Supabase, Admin POS",
+      "description": "Website resmi Sa'adah Bakery & Cafe yang terintegrasi dengan panel admin & sistem POS/kasir berbasis Supabase.",
+      "accent": "#f59e0b",
+      "currentSlide": 0,
+      "directLink": "https://ardan2056.github.io/saadah-bakery/",
+      "externalUrl": "https://ardan2056.github.io/saadah-bakery/",
+      "slides": [
+        {
+          "title": "Sa'adah Bakery & Cafe — Public Site & Admin POS",
+          "caption": "Live Site: https://ardan2056.github.io/saadah-bakery/",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/saadah-bakery/main/assets/home_hero_bg.png",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "code": "#47",
+      "yawDeg": 318,
+      "pitchDeg": 19
+    },
+    {
+      "id": "gh-ar2j-website",
+      "tier": "lower",
+      "type": "webgame",
+      "title": "AR2J — Streetwear Gen Z Landing Page",
+      "category": "Web Design & Brand Landing Page",
+      "year": "2025",
+      "tools": "HTML5, CSS3, JavaScript, Responsive UI",
+      "description": "Website landing page brand streetwear Gen Z AR2J dengan tampilan modern dan katalog produk.",
+      "accent": "#f59e0b",
+      "currentSlide": 0,
+      "directLink": "https://ardan2056.github.io/ar2j-website/",
+      "externalUrl": "https://ardan2056.github.io/ar2j-website/",
+      "slides": [
+        {
+          "title": "AR2J — Landing Page",
+          "caption": "Live Site: https://ardan2056.github.io/ar2j-website/",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/web-ar2j-cover.svg",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "code": "#48",
+      "yawDeg": 318,
+      "pitchDeg": -17
+    },
+    {
+      "id": "gh-cafefinder-app",
+      "tier": "equator",
+      "type": "webgame",
+      "title": "CAFEFINDER — Aplikasi Pencarian Kafe, Peta & Pelacak Kunjungan",
+      "category": "Mobile App (Flutter / Dart)",
+      "year": "2026",
+      "tools": "Flutter, Dart, Maps Integration, Community Hub",
+      "description": "Aplikasi pencarian kafe terbaik dengan fitur peta interaktif, community hub, dan pelacak kunjungan.",
+      "accent": "#d97706",
+      "currentSlide": 0,
+      "directLink": "https://github.com/ardan2056/cafefinder",
+      "externalUrl": "https://github.com/ardan2056/cafefinder",
+      "slides": [
+        {
+          "title": "CafeFinder — Flutter App",
+          "caption": "Repository: https://github.com/ardan2056/cafefinder",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/app-cafefinder-cover.svg",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "code": "#49",
+      "yawDeg": 320,
+      "pitchDeg": 0
+    },
+    {
+      "id": "app-pos-ardanprem-store",
+      "tier": "upper",
+      "type": "webgame",
+      "title": "ARDANPREM STORE & POS — Aplikasi Kasir & Top Up Digital (Next.js + Prisma)",
+      "category": "Aplikasi POS & Full-Stack Web App",
+      "year": "2026",
+      "tools": "Next.js 14, React, Prisma ORM, Tailwind CSS, Google Apps Script",
+      "description": "Aplikasi web Point of Sale (POS), manajemen order, dan store top up digital ARDANPREM.STORE berbasis Next.js dan Prisma.",
+      "accent": "#6366f1",
+      "currentSlide": 0,
+      "directLink": "https://github.com/ardan2056",
+      "externalUrl": "https://github.com/ardan2056",
+      "slides": [
+        {
+          "title": "ARDANPREM.STORE & POS System",
+          "caption": "Full-Stack Next.js + Prisma POS & Digital Store",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/app-pos-ardanprem-cover.svg",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "code": "#50",
+      "yawDeg": 339,
+      "pitchDeg": 19
+    },
+    {
+      "id": "video-showcase-mp4",
+      "tier": "lower",
+      "type": "video",
+      "title": "VIDEO SHOWCASE — Motion & Visual Production (MP4)",
+      "category": "Video Production & Motion Graphics",
+      "year": "2026",
+      "tools": "Adobe Premiere Pro, After Effects",
+      "description": "Karya video produksi dan motion graphics (VIDEO.mp4).",
+      "accent": "#0ea5e9",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "VIDEO.mp4",
+          "caption": "Video showcase & produksi visual.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-31-key-visual-landscape.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/video-showcase.mp4",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "code": "#51",
+      "yawDeg": 339,
+      "pitchDeg": -17
+    },
+    {
+      "id": "econiq-logo-motion-mp4",
+      "tier": "equator",
+      "type": "video",
+      "title": "ECONIQ — Logo Animation & Motion Bumper (MP4)",
+      "category": "Motion Graphics & Brand Animation",
+      "year": "2026",
+      "tools": "Adobe After Effects, Premiere Pro",
+      "description": "Animasi logo dan bumper motion graphics untuk brand ECONIQ.",
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "econiq_logo.mp4",
+          "caption": "Animasi logo ECONIQ.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-01-poster-jaket-duasisi.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-logo-motion.mp4",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "code": "#52",
+      "yawDeg": 340,
+      "pitchDeg": 0
     }
   ],
-  "lastUpdated": "2026-11-12T08:27:54.613Z"
+  "lastUpdated": "2026-11-12T08:31:07.520Z"
 }
