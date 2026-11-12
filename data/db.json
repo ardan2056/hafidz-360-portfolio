@@ -1751,7 +1751,7 @@
           "caption": "Tampilan live website ARDANPREMSTORE (Next.js, Prisma, Flash Sale, Katalog & Admin Portal).",
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/app-pos-ardanprem-real.png",
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         }
       ],
       "code": "#52",
@@ -3016,5 +3016,5 @@
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T10:09:36.533Z"
+  "lastUpdated": "2026-11-12T10:13:45.421Z"
 }
