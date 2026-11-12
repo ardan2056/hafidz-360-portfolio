@@ -72,48 +72,11 @@
       "externalUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
     },
     {
-      "id": "work-04",
+      "id": "work-05",
       "code": "#02",
       "tier": "equator",
-      "type": "uiux",
-      "yawDeg": 21,
-      "pitchDeg": 0,
-      "title": "EDUSPACE & EVENT HUB — UI/UX Figma Prototype",
-      "category": "Mobile App UI/UX & Design System",
-      "year": "2026",
-      "committeeRole": "Lead UI/UX Designer (Figma)",
-      "externalUrl": "https://www.figma.com/",
-      "tools": "Figma, Auto-Layout, Interactive Components, Prototyping",
-      "description": "Desain antarmuka dan prototipe interaktif aplikasi manajemen event, tiket QR, dan ruang kolaborasi mahasiswa dengan sistem komponen modern di Figma.",
-      "accent": "#a855f7",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 01 — Interactive Figma Prototype (Klik Coba)",
-          "caption": "Coba langsung simulasi layar aplikasi atau buka file prototipe di Figma.",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/1794380083256-527948430-Artboard_20.jpg",
-          "videoSrc": null,
-          "isRealImage": true,
-          "aspectRatio": 0.7068062827225131
-        },
-        {
-          "title": "Slide 02 — Wireframe & User Flow Architecture",
-          "caption": "Pemetaan alur pengguna dari onboarding hingga pemindaian e-ticket.",
-          "isRealImage": false
-        },
-        {
-          "title": "Slide 03 — Design System & Token Warna Biru",
-          "caption": "Dokumentasi tipografi Poppins, komponen tombol, dan mode gelap/terang.",
-          "isRealImage": false
-        }
-      ]
-    },
-    {
-      "id": "work-05",
-      "code": "#03",
-      "tier": "equator",
       "type": "webgame",
-      "yawDeg": 42,
+      "yawDeg": 24,
       "pitchDeg": 0,
       "title": "SISTEM WEB WPK & PORTAL DIGITAL — Web App",
       "category": "Full-Stack Web / Aplikasi WPK Interaktif",
@@ -147,10 +110,10 @@
     },
     {
       "id": "work-06",
-      "code": "#04",
+      "code": "#03",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 64,
+      "yawDeg": 48,
       "pitchDeg": 0,
       "title": "CYBER ORBIT DEFENDER — Playable WebGL Game",
       "category": "Game Development & Interactive Arcade",
@@ -185,10 +148,10 @@
     },
     {
       "id": "work-07",
-      "code": "#05",
+      "code": "#04",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 85,
+      "yawDeg": 72,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Aku Lagi Berkegiatan",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -484,10 +447,10 @@
     },
     {
       "id": "work-08",
-      "code": "#06",
+      "code": "#05",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 106,
+      "yawDeg": 96,
       "pitchDeg": 0,
       "title": "FINFLOW & SMART WALLET — UI/UX Prototype",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -516,10 +479,10 @@
     },
     {
       "id": "work-09",
-      "code": "#07",
+      "code": "#06",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 0,
+      "yawDeg": 20,
       "pitchDeg": 19,
       "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
@@ -546,10 +509,10 @@
     },
     {
       "id": "work-10",
-      "code": "#08",
+      "code": "#07",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 21,
+      "yawDeg": 42.5,
       "pitchDeg": 19,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
@@ -575,10 +538,10 @@
     },
     {
       "id": "work-14",
-      "code": "#09",
+      "code": "#08",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 42,
+      "yawDeg": 65,
       "pitchDeg": 19,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
@@ -603,10 +566,10 @@
     },
     {
       "id": "work-15",
-      "code": "#10",
+      "code": "#09",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 64,
+      "yawDeg": 87.5,
       "pitchDeg": 19,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
@@ -628,10 +591,10 @@
     },
     {
       "id": "work-16",
-      "code": "#11",
+      "code": "#10",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 85,
+      "yawDeg": 110,
       "pitchDeg": 19,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
@@ -657,10 +620,10 @@
     },
     {
       "id": "octagram-design-01",
-      "code": "#12",
+      "code": "#11",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 127,
+      "yawDeg": 120,
       "pitchDeg": 0,
       "title": "KULIAH UMUM OCTAGRAM — Poster Utama (Keynote Kepala BRIN)",
       "category": "Event Poster & Key Visual",
@@ -682,10 +645,10 @@
     },
     {
       "id": "octagram-design-02",
-      "code": "#13",
+      "code": "#12",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 106,
+      "yawDeg": 132.5,
       "pitchDeg": 19,
       "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
       "category": "Merchandise & Product Mockup",
@@ -707,10 +670,10 @@
     },
     {
       "id": "octagram-design-03",
-      "code": "#14",
+      "code": "#13",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 0,
+      "yawDeg": 20,
       "pitchDeg": -17,
       "title": "MERCHANDISE OCTAGRAM 2026 — Poster Pre-Order Sticker & Keychain",
       "category": "Promotional Poster & Merch",
@@ -732,10 +695,10 @@
     },
     {
       "id": "octagram-design-04",
-      "code": "#15",
+      "code": "#14",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 148,
+      "yawDeg": 144,
       "pitchDeg": 0,
       "title": "LIVE REPORT OCTAGRAM — Instagram Story Frame Template",
       "category": "Social Media & Live Report",
@@ -757,10 +720,10 @@
     },
     {
       "id": "octagram-design-05",
-      "code": "#16",
+      "code": "#15",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 127,
+      "yawDeg": 155,
       "pitchDeg": 19,
       "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
       "category": "Social Media & Documentation",
@@ -782,10 +745,10 @@
     },
     {
       "id": "octagram-design-06",
-      "code": "#17",
+      "code": "#16",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 23,
+      "yawDeg": 42.5,
       "pitchDeg": -17,
       "title": "STAFF KONSUMSI OCTAGRAM — H. Ardan Profile Card",
       "category": "Identity & Staff Card Design",
@@ -807,10 +770,10 @@
     },
     {
       "id": "octagram-design-07",
-      "code": "#18",
+      "code": "#17",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 169,
+      "yawDeg": 168,
       "pitchDeg": 0,
       "title": "DANA USAHA OCTAGRAM 2026 — Poster Menu & Lokasi",
       "category": "Promotional Poster & Danus",
@@ -832,10 +795,10 @@
     },
     {
       "id": "octagram-design-08",
-      "code": "#19",
+      "code": "#18",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 148,
+      "yawDeg": 177.5,
       "pitchDeg": 19,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Fireside Talks Yulianta (OJK)",
       "category": "X-Banner & Print Media",
@@ -857,10 +820,10 @@
     },
     {
       "id": "octagram-design-09",
-      "code": "#20",
+      "code": "#19",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 45,
+      "yawDeg": 65,
       "pitchDeg": -17,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Utama Event 2026",
       "category": "X-Banner & Print Media",
@@ -882,10 +845,10 @@
     },
     {
       "id": "octagram-design-10",
-      "code": "#21",
+      "code": "#20",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 191,
+      "yawDeg": 192,
       "pitchDeg": 0,
       "title": "QR CODE BISNIS DIGITAL ITK — Instagram @BISNISDIGITAL.ITK",
       "category": "Social Media & Graphic Asset",
@@ -907,10 +870,10 @@
     },
     {
       "id": "octagram-design-11",
-      "code": "#22",
+      "code": "#21",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 169,
+      "yawDeg": 200,
       "pitchDeg": 19,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Moderator Dekan FSTI ITK",
       "category": "X-Banner & Print Media",
@@ -932,10 +895,10 @@
     },
     {
       "id": "octagram-design-12",
-      "code": "#23",
+      "code": "#22",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 68,
+      "yawDeg": 87.5,
       "pitchDeg": -17,
       "title": "KULIAH UMUM OCTAGRAM — Template Slide & Sertifikat Resmi",
       "category": "Presentation & Layout System",
@@ -957,10 +920,10 @@
     },
     {
       "id": "octagram-design-13",
-      "code": "#24",
+      "code": "#23",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 212,
+      "yawDeg": 216,
       "pitchDeg": 0,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Sambutan Rektor ITK",
       "category": "X-Banner & Print Media",
@@ -982,10 +945,10 @@
     },
     {
       "id": "octagram-design-14",
-      "code": "#25",
+      "code": "#24",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 191,
+      "yawDeg": 222.5,
       "pitchDeg": 19,
       "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Teaser Poster & Campaign",
@@ -1007,10 +970,10 @@
     },
     {
       "id": "octagram-design-15",
-      "code": "#26",
+      "code": "#25",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 90,
+      "yawDeg": 110,
       "pitchDeg": -17,
       "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
       "category": "Stage Frame & Event Overlay",
@@ -1049,11 +1012,11 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 233,
+      "yawDeg": 240,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#27"
+      "code": "#26"
     },
     {
       "id": "octagram-design-17",
@@ -1074,11 +1037,11 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 212,
+      "yawDeg": 245,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#28"
+      "code": "#27"
     },
     {
       "id": "octagram-design-18",
@@ -1099,11 +1062,11 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 113,
+      "yawDeg": 132.5,
       "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#29"
+      "code": "#28"
     },
     {
       "id": "octagram-design-19",
@@ -1156,11 +1119,11 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 254,
+      "yawDeg": 264,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#30"
+      "code": "#29"
     },
     {
       "id": "octagram-design-20",
@@ -1197,11 +1160,11 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 233,
+      "yawDeg": 267.5,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#31"
+      "code": "#30"
     },
     {
       "id": "octagram-design-21",
@@ -1230,11 +1193,11 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 135,
+      "yawDeg": 155,
       "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#32"
+      "code": "#31"
     },
     {
       "id": "octagram-design-22",
@@ -1255,11 +1218,11 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 275,
+      "yawDeg": 288,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#33"
+      "code": "#32"
     },
     {
       "id": "octagram-design-23",
@@ -1280,11 +1243,11 @@
           "aspectRatio": 0.6953125
         }
       ],
-      "yawDeg": 254,
+      "yawDeg": 290,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#34"
+      "code": "#33"
     },
     {
       "id": "octagram-design-24",
@@ -1302,14 +1265,14 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-31-key-visual-landscape.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 296,
+      "yawDeg": 312,
       "pitchDeg": 0,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#35"
+      "code": "#34"
     },
     {
       "id": "bionic-design-2026",
@@ -1343,14 +1306,14 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/bionic-01-staff-card-ardan.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.6437
+          "aspectRatio": 0.6436781609195402
         }
       ],
-      "yawDeg": 275,
+      "yawDeg": 312.5,
       "pitchDeg": 19,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#36"
+      "code": "#35"
     },
     {
       "id": "econiq-ch3-2026",
@@ -1368,7 +1331,7 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-01-poster-jaket-duasisi.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.7061
+          "aspectRatio": 0.7060546875
         },
         {
           "title": "Design Spec Detail Work Jacket Econiq Ch.3",
@@ -1376,7 +1339,7 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-02-spec-jaket-ch3.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.7061
+          "aspectRatio": 0.7060546875
         },
         {
           "title": "Backdrop Econiq Ch.3 — Digital Bisnis Competition",
@@ -1384,7 +1347,7 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-03-backdrop-competition.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         },
         {
           "title": "Staff Card — Lutfiah Afifah (Koor Public Relation)",
@@ -1392,14 +1355,14 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-04-staff-card-pr.png",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.5886
+          "aspectRatio": 0.5886454183266933
         }
       ],
-      "yawDeg": 158,
+      "yawDeg": 177.5,
       "pitchDeg": -17,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#37"
+      "code": "#36"
     },
     {
       "id": "action-uiux-2nd-winner",
@@ -1417,7 +1380,7 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/action-01-juara2-uiux.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.8761
+          "aspectRatio": 0.8760907504363001
         },
         {
           "title": "Poster Kolase Juara 2 UI/UX — #OKBOTWSURABAYA",
@@ -1425,14 +1388,14 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/action-02-kolase-okbotwsurabaya.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.7441
+          "aspectRatio": 0.744140625
         }
       ],
-      "yawDeg": 318,
+      "yawDeg": 336,
       "pitchDeg": 0,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#38"
+      "code": "#37"
     },
     {
       "id": "fsti-teach-zone-2026",
@@ -1450,7 +1413,7 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/fsti-02-teachzone-3d-booth.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 1.5015
+          "aspectRatio": 1.501466275659824
         },
         {
           "title": "Key Visual Banner — FSTI TEACH ZONE",
@@ -1458,14 +1421,14 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/fsti-01-teachzone-banner.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 2.0039
+          "aspectRatio": 2.003913894324853
         }
       ],
-      "yawDeg": 296,
+      "yawDeg": 335,
       "pitchDeg": 19,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#39"
+      "code": "#38"
     },
     {
       "id": "motion-elemen-video-01",
@@ -1483,14 +1446,14 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-31-key-visual-landscape.jpg",
           "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/motion-elemen-01.mp4",
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 0.7076648841354723
         }
       ],
-      "yawDeg": 180,
+      "yawDeg": 200,
       "pitchDeg": -17,
       "accent": "#2563eb",
       "currentSlide": 0,
-      "code": "#40"
+      "code": "#39"
     },
     {
       "id": "yt-okb-groo-action-2025",
@@ -1512,11 +1475,11 @@
           "imageSrc": "https://i.ytimg.com/vi/F3HGrn3cfcQ/hqdefault.jpg",
           "videoSrc": "https://www.youtube.com/watch?v=F3HGrn3cfcQ",
           "isRealImage": true,
-          "aspectRatio": 1.3333
+          "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#41",
-      "yawDeg": 318,
+      "code": "#40",
+      "yawDeg": 357.5,
       "pitchDeg": 19
     },
     {
@@ -1539,11 +1502,11 @@
           "imageSrc": "https://i.ytimg.com/vi/rPVZF2nNckY/hqdefault.jpg",
           "videoSrc": "https://www.youtube.com/watch?v=rPVZF2nNckY",
           "isRealImage": true,
-          "aspectRatio": 1.3333
+          "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#42",
-      "yawDeg": 203,
+      "code": "#41",
+      "yawDeg": 222.5,
       "pitchDeg": -17
     },
     {
@@ -1566,11 +1529,11 @@
           "imageSrc": "https://i.ytimg.com/vi/P-DB8JwgFWM/hqdefault.jpg",
           "videoSrc": "https://www.youtube.com/watch?v=P-DB8JwgFWM",
           "isRealImage": true,
-          "aspectRatio": 1.3333
+          "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#43",
-      "yawDeg": 225,
+      "code": "#42",
+      "yawDeg": 245,
       "pitchDeg": -17
     },
     {
@@ -1593,11 +1556,11 @@
           "imageSrc": "https://i.ytimg.com/vi/meN7Kux-Q54/hqdefault.jpg",
           "videoSrc": "https://www.youtube.com/watch?v=meN7Kux-Q54",
           "isRealImage": true,
-          "aspectRatio": 1.3333
+          "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#44",
-      "yawDeg": 248,
+      "code": "#43",
+      "yawDeg": 267.5,
       "pitchDeg": -17
     },
     {
@@ -1620,11 +1583,11 @@
           "imageSrc": "https://i.ytimg.com/vi/vH6yA1C5Xjc/hqdefault.jpg",
           "videoSrc": "https://www.youtube.com/watch?v=vH6yA1C5Xjc",
           "isRealImage": true,
-          "aspectRatio": 1.3333
+          "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#45",
-      "yawDeg": 270,
+      "code": "#44",
+      "yawDeg": 290,
       "pitchDeg": -17
     },
     {
@@ -1647,11 +1610,11 @@
           "imageSrc": "https://i.ytimg.com/vi/7h_VdhBIGVQ/hqdefault.jpg",
           "videoSrc": "https://www.youtube.com/watch?v=7h_VdhBIGVQ",
           "isRealImage": true,
-          "aspectRatio": 1.3333
+          "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#46",
-      "yawDeg": 293,
+      "code": "#45",
+      "yawDeg": 312.5,
       "pitchDeg": -17
     },
     {
@@ -1674,11 +1637,11 @@
           "imageSrc": "https://i.ytimg.com/vi/qhK4f-dU7c8/hqdefault.jpg",
           "videoSrc": "https://www.youtube.com/watch?v=qhK4f-dU7c8",
           "isRealImage": true,
-          "aspectRatio": 1.3333
+          "aspectRatio": 1.3333333333333333
         }
       ],
-      "code": "#47",
-      "yawDeg": 315,
+      "code": "#46",
+      "yawDeg": 335,
       "pitchDeg": -17
     },
     {
@@ -1699,63 +1662,13 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-31-key-visual-landscape.jpg",
           "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/motion-ini-1.mp4",
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         }
       ],
-      "code": "#48",
-      "yawDeg": 338,
+      "code": "#47",
+      "yawDeg": 357.5,
       "pitchDeg": -17
-    },
-    {
-      "id": "video-showcase-mp4",
-      "tier": "equator",
-      "type": "video",
-      "title": "VIDEO SHOWCASE — Motion & Visual Production (MP4)",
-      "category": "Video Production & Motion Graphics",
-      "year": "2026",
-      "tools": "Adobe Premiere Pro, After Effects",
-      "description": "Karya video produksi dan motion graphics (VIDEO.mp4).",
-      "accent": "#0ea5e9",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "VIDEO.mp4",
-          "caption": "Video showcase & produksi visual.",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-31-key-visual-landscape.jpg",
-          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/video-showcase.mp4",
-          "isRealImage": true,
-          "aspectRatio": 1.7778
-        }
-      ],
-      "code": "#49",
-      "yawDeg": 339,
-      "pitchDeg": 0
-    },
-    {
-      "id": "econiq-logo-motion-mp4",
-      "tier": "upper",
-      "type": "video",
-      "title": "ECONIQ — Logo Animation & Motion Bumper (MP4)",
-      "category": "Motion Graphics & Brand Animation",
-      "year": "2026",
-      "tools": "Adobe After Effects, Premiere Pro",
-      "description": "Animasi logo dan bumper motion graphics untuk brand ECONIQ.",
-      "accent": "#2563eb",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "econiq_logo.mp4",
-          "caption": "Animasi logo ECONIQ.",
-          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-01-poster-jaket-duasisi.jpg",
-          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-logo-motion.mp4",
-          "isRealImage": true,
-          "aspectRatio": 1.7778
-        }
-      ],
-      "code": "#50",
-      "yawDeg": 339,
-      "pitchDeg": 19
     }
   ],
-  "lastUpdated": "2026-11-12T08:25:59.987Z"
+  "lastUpdated": "2026-11-12T08:27:27.726Z"
 }
