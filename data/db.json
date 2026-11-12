@@ -2653,11 +2653,11 @@
       "id": "design-dies11-mlbb-tournament",
       "tier": "lower",
       "type": "design",
-      "title": "MOBILE LEGENDS OFFLINE TOURNAMENT — Dies Natalis 11 ITK",
+      "title": "MOBILE LEGENDS OFFLINE TOURNAMENT & GUIDE BOOK — Dies Natalis 11 ITK",
       "category": "Poster Turnamen Esports & Event",
       "year": "2025",
       "tools": "Adobe Photoshop, Graphic Design",
-      "description": "Poster publikasi Mobile Legends Offline Tournament (Prizepool 3.000.000 IDR) dalam rangka Dies Natalis 11 ITK.",
+      "description": "Poster utama dan cover Guide Book turnamen Mobile Legends Offline Tournament — Dies Natalis 11 ITK Esports Fest 2025.",
       "accent": "#1d4ed8",
       "currentSlide": 0,
       "slides": [
@@ -2667,6 +2667,13 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dies11-mlbb-tournament.jpg",
           "isRealImage": true,
           "aspectRatio": 0.75
+        },
+        {
+          "title": "Cover Guide Book — Dies Natalis Esports Fest 2025",
+          "caption": "Desain sampul Guide Book Mobile Legends Offline Tournament (Open 32 Slot).",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dies11-mlbb-guidebook.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.72
         }
       ],
       "code": "#75",
@@ -3061,7 +3068,29 @@
         }
       ],
       "code": "#87"
+    },
+    {
+      "id": "design-dp3-stop-narkoba",
+      "tier": "upper",
+      "type": "design",
+      "title": "KAMPANYE STOP NARKOBA — Dinas Pangan, Pertanian & Perikanan Balikpapan",
+      "category": "Government Social Media & Campaign",
+      "year": "2024",
+      "tools": "Adobe Photoshop / Illustrator",
+      "description": "Desain konten kampanye edukasi bahaya narkoba untuk Dinas Pangan, Pertanian, dan Perikanan Kota Balikpapan.",
+      "accent": "#15803d",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Poster Kampanye Stop Narkoba — DP3 Balikpapan",
+          "caption": "Kenali bahaya narkoba dan dampaknya bagi kehidupan.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dp3-stop-narkoba.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.8
+        }
+      ],
+      "code": "#88"
     }
   ],
-  "lastUpdated": "2026-11-12T09:53:59.666Z"
+  "lastUpdated": "2026-11-12T09:55:15.896Z"
 }
