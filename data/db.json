@@ -519,7 +519,7 @@
       "code": "#07",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 15,
+      "yawDeg": 20,
       "pitchDeg": 19,
       "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
@@ -549,7 +549,7 @@
       "code": "#08",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 40.714285714285715,
+      "yawDeg": 45.714285714285715,
       "pitchDeg": 19,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
@@ -578,7 +578,7 @@
       "code": "#09",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 66.42857142857143,
+      "yawDeg": 71.42857142857143,
       "pitchDeg": 19,
       "title": "DIVISI DOKUMENTASI — Seminar & Talkshow Nasional",
       "category": "Kepanitiaan Seminar & Konferensi",
@@ -608,7 +608,7 @@
       "code": "#10",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 92.14285714285714,
+      "yawDeg": 97.14285714285714,
       "pitchDeg": 19,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
@@ -636,7 +636,7 @@
       "code": "#11",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 117.85714285714286,
+      "yawDeg": 122.85714285714286,
       "pitchDeg": 19,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
@@ -661,7 +661,7 @@
       "code": "#12",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 143.57142857142858,
+      "yawDeg": 148.57142857142858,
       "pitchDeg": 19,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
@@ -690,7 +690,7 @@
       "code": "#13",
       "tier": "lower",
       "type": "committee",
-      "yawDeg": 15,
+      "yawDeg": 20,
       "pitchDeg": -17,
       "title": "PANITIA PKKMB / ORIENTASI — Divisi Multimedia",
       "category": "Kepanitiaan Penyambutan & Orientasi",
@@ -714,38 +714,11 @@
       ]
     },
     {
-      "id": "work-18",
+      "id": "work-19",
       "code": "#14",
       "tier": "lower",
-      "type": "design",
-      "yawDeg": 42.69230769230769,
-      "pitchDeg": -17,
-      "title": "GRIDCRAFT — Poster & Editorial Archive",
-      "category": "Swiss & Modernist Poster Series",
-      "year": "2023",
-      "tools": "Adobe Photoshop, InDesign",
-      "description": "Kumpulan eksplorasi poster publikasi acara dan tipografi eksperimental yang memadukan struktur grid presisi dengan palet biru modern.",
-      "accent": "#60a5fa",
-      "currentSlide": 0,
-      "slides": [
-        {
-          "title": "Slide 01 — Exhibition Poster A",
-          "caption": "Eksplorasi tata letak modular dengan font Poppins.",
-          "isRealImage": false
-        },
-        {
-          "title": "Slide 02 — Exhibition Poster B",
-          "caption": "Variasi kontras warna biru tua dan putih bersih.",
-          "isRealImage": false
-        }
-      ]
-    },
-    {
-      "id": "work-19",
-      "code": "#15",
-      "tier": "lower",
       "type": "committee",
-      "yawDeg": 70.38461538461539,
+      "yawDeg": 50,
       "pitchDeg": -17,
       "title": "KEPANITIAAN KOMPETISI KREATIF — Koor Kreatif",
       "category": "Kepanitiaan Lomba & Pameran",
@@ -772,10 +745,10 @@
     },
     {
       "id": "work-21",
-      "code": "#16",
+      "code": "#15",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 98.07692307692308,
+      "yawDeg": 80,
       "pitchDeg": -17,
       "title": "BLUEPRINT — Brand Guidelines Book",
       "category": "Design System & GSM Book",
@@ -799,10 +772,10 @@
     },
     {
       "id": "work-23",
-      "code": "#17",
+      "code": "#16",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 125.76923076923077,
+      "yawDeg": 110,
       "pitchDeg": -17,
       "title": "META LAYER — PSD Artboard Breakdown",
       "category": "Behind The Design Concept",
@@ -826,10 +799,10 @@
     },
     {
       "id": "work-24",
-      "code": "#18",
+      "code": "#17",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 153.46153846153845,
+      "yawDeg": 140,
       "pitchDeg": -17,
       "title": "INFINITY — 360° Interactive Dome Space",
       "category": "Interactive WebGL Exhibition",
@@ -853,7 +826,7 @@
     },
     {
       "id": "octagram-design-01",
-      "code": "#19",
+      "code": "#18",
       "tier": "equator",
       "type": "design",
       "yawDeg": 154.28571428571428,
@@ -878,10 +851,10 @@
     },
     {
       "id": "octagram-design-02",
-      "code": "#20",
+      "code": "#19",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 169.28571428571428,
+      "yawDeg": 174.28571428571428,
       "pitchDeg": 19,
       "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
       "category": "Merchandise & Product Mockup",
@@ -903,10 +876,10 @@
     },
     {
       "id": "octagram-design-03",
-      "code": "#21",
+      "code": "#20",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 181.15384615384616,
+      "yawDeg": 170,
       "pitchDeg": -17,
       "title": "MERCHANDISE OCTAGRAM 2026 — Poster Pre-Order Sticker & Keychain",
       "category": "Promotional Poster & Merch",
@@ -928,7 +901,7 @@
     },
     {
       "id": "octagram-design-04",
-      "code": "#22",
+      "code": "#21",
       "tier": "equator",
       "type": "design",
       "yawDeg": 180,
@@ -953,10 +926,10 @@
     },
     {
       "id": "octagram-design-05",
-      "code": "#23",
+      "code": "#22",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 195,
+      "yawDeg": 200,
       "pitchDeg": 19,
       "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
       "category": "Social Media & Documentation",
@@ -978,10 +951,10 @@
     },
     {
       "id": "octagram-design-06",
-      "code": "#24",
+      "code": "#23",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 208.84615384615387,
+      "yawDeg": 200,
       "pitchDeg": -17,
       "title": "STAFF KONSUMSI OCTAGRAM — H. Ardan Profile Card",
       "category": "Identity & Staff Card Design",
@@ -1003,7 +976,7 @@
     },
     {
       "id": "octagram-design-07",
-      "code": "#25",
+      "code": "#24",
       "tier": "equator",
       "type": "design",
       "yawDeg": 205.71428571428572,
@@ -1028,10 +1001,10 @@
     },
     {
       "id": "octagram-design-08",
-      "code": "#26",
+      "code": "#25",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 220.71428571428572,
+      "yawDeg": 225.71428571428572,
       "pitchDeg": 19,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Fireside Talks Yulianta (OJK)",
       "category": "X-Banner & Print Media",
@@ -1053,10 +1026,10 @@
     },
     {
       "id": "octagram-design-09",
-      "code": "#27",
+      "code": "#26",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 236.53846153846155,
+      "yawDeg": 230,
       "pitchDeg": -17,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Utama Event 2026",
       "category": "X-Banner & Print Media",
@@ -1078,7 +1051,7 @@
     },
     {
       "id": "octagram-design-10",
-      "code": "#28",
+      "code": "#27",
       "tier": "equator",
       "type": "design",
       "yawDeg": 231.42857142857144,
@@ -1103,10 +1076,10 @@
     },
     {
       "id": "octagram-design-11",
-      "code": "#29",
+      "code": "#28",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 246.42857142857144,
+      "yawDeg": 251.42857142857144,
       "pitchDeg": 19,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Moderator Dekan FSTI ITK",
       "category": "X-Banner & Print Media",
@@ -1128,10 +1101,10 @@
     },
     {
       "id": "octagram-design-12",
-      "code": "#30",
+      "code": "#29",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 264.2307692307692,
+      "yawDeg": 260,
       "pitchDeg": -17,
       "title": "KULIAH UMUM OCTAGRAM — Template Slide & Sertifikat Resmi",
       "category": "Presentation & Layout System",
@@ -1153,7 +1126,7 @@
     },
     {
       "id": "octagram-design-13",
-      "code": "#31",
+      "code": "#30",
       "tier": "equator",
       "type": "design",
       "yawDeg": 257.14285714285717,
@@ -1178,10 +1151,10 @@
     },
     {
       "id": "octagram-design-14",
-      "code": "#32",
+      "code": "#31",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 272.14285714285717,
+      "yawDeg": 277.14285714285717,
       "pitchDeg": 19,
       "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Teaser Poster & Campaign",
@@ -1203,10 +1176,10 @@
     },
     {
       "id": "octagram-design-15",
-      "code": "#33",
+      "code": "#32",
       "tier": "lower",
       "type": "design",
-      "yawDeg": 291.9230769230769,
+      "yawDeg": 290,
       "pitchDeg": -17,
       "title": "KULIAH UMUM & EXPO OCTAGRAM — Frame Layar & Backdrop",
       "category": "Stage Frame & Event Overlay",
@@ -1249,7 +1222,7 @@
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#34"
+      "code": "#33"
     },
     {
       "id": "octagram-design-17",
@@ -1267,14 +1240,14 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-17-xbanner-full-3narasumber.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.333
+          "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 297.8571428571429,
+      "yawDeg": 302.8571428571429,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#35"
+      "code": "#34"
     },
     {
       "id": "octagram-design-18",
@@ -1292,14 +1265,14 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-18-xbanner-keynote-brin.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.333
+          "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 319.61538461538464,
+      "yawDeg": 320,
       "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#36"
+      "code": "#35"
     },
     {
       "id": "octagram-design-19",
@@ -1356,7 +1329,7 @@
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#37"
+      "code": "#36"
     },
     {
       "id": "octagram-design-20",
@@ -1374,7 +1347,7 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-30-bumper-keynote-brin.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         },
         {
           "title": "Bumper Sambutan — Prof. Dr.rer.nat. Agus Rubiyanto, M.Eng.Sc.",
@@ -1382,7 +1355,7 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-24-bumper-rektor-itk.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         },
         {
           "title": "Bumper Moderator — Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D.",
@@ -1390,14 +1363,14 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-29-bumper-dekan-fsti.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 323.57142857142856,
+      "yawDeg": 328.57142857142856,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#38"
+      "code": "#37"
     },
     {
       "id": "octagram-design-21",
@@ -1415,7 +1388,7 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-25-backdrop-layar-utama.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7777777777777777
         },
         {
           "title": "Layout Frame Dual-Cam Livestream / Presentasi",
@@ -1423,14 +1396,14 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-26-livestream-dualcam-frame.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 1.7809
+          "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 347.3076923076923,
+      "yawDeg": 350,
       "pitchDeg": -17,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#39"
+      "code": "#38"
     },
     {
       "id": "octagram-design-22",
@@ -1448,14 +1421,14 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-27-sertifikat-resmi.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 1.7809
+          "aspectRatio": 1.7808695652173914
         }
       ],
       "yawDeg": 334.2857142857143,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#40"
+      "code": "#39"
     },
     {
       "id": "octagram-design-23",
@@ -1473,15 +1446,15 @@
           "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-28-sticker-pack-octagram.jpg",
           "videoSrc": null,
           "isRealImage": true,
-          "aspectRatio": 0.6953
+          "aspectRatio": 0.6953125
         }
       ],
-      "yawDeg": 349.2857142857143,
+      "yawDeg": 354.2857142857143,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
-      "code": "#41"
+      "code": "#40"
     }
   ],
-  "lastUpdated": "2026-11-12T08:11:06.299Z"
+  "lastUpdated": "2026-11-12T08:15:19.684Z"
 }
