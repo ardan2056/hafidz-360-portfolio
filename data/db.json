@@ -556,12 +556,12 @@
       "type": "video",
       "yawDeg": 20,
       "pitchDeg": 19,
-      "title": "BUMPER OPENING — Grand Stage Countdown",
+      "title": "DIGIMAX CAMPUS WORKSHOP BY TELKOM (1)",
       "category": "3D Motion Bumper & Event Opener",
       "year": "2026",
       "videoDuration": "01:15",
       "videoResolution": "4K 60FPS",
-      "tools": "After Effects, Blender 3D, Element 3D, Audition",
+      "tools": "After Effects",
       "description": "Video hitung mundur (countdown) dan bumper pembuka acara megah dengan animasi logo 3D bertekstur metalik biru dan dentuman audio sinematik.",
       "accent": "#0ea5e9",
       "currentSlide": 0,
@@ -575,8 +575,9 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "directLink": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
-      "externalUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4"
+      "directLink": "",
+      "externalUrl": "",
+      "role": "OPRATOR"
     },
     {
       "id": "work-10",
@@ -1018,5 +1019,5 @@
       "directLink": "https://www.youtube.com/watch?v=avUsTRL5XS0"
     }
   ],
-  "lastUpdated": "2026-11-12T07:57:28.578Z"
+  "lastUpdated": "2026-11-12T07:58:52.824Z"
 }
