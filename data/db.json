@@ -309,23 +309,6 @@
             "caption": "Dokumentasi kru produksi dan tim Al-Rifa'ie 2 Media (versi color-graded)."
           }
         ]
-      },
-      {
-        "id": "act-group-onduty-cam",
-        "title": "On Duty — Camcorder Sony & Live Cam Switcher",
-        "caption": "Bertugas sebagai Koordinator Divisi Multimedia mengoperasikan camcorder Sony dan briefing kru live cam.",
-        "year": "2025",
-        "imageSrc": "Artboard 1.jpg",
-        "slides": [
-          {
-            "imageSrc": "Artboard 1.jpg",
-            "caption": "M. Hafidz Ardan saat bertugas mengawal produksi visual dan kamera di acara utama OCTAGRAM."
-          },
-          {
-            "imageSrc": null,
-            "caption": "Mengarahkan 25 personel divisi multimedia dan operator multicam sebelum acara dimulai."
-          }
-        ]
       }
     ]
   },
@@ -2969,5 +2952,5 @@
       "pitchDeg": -32
     }
   ],
-  "lastUpdated": "2026-11-12T09:51:54.410Z"
+  "lastUpdated": "2026-11-12T09:51:58.159Z"
 }
