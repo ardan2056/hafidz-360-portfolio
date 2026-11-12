@@ -76,7 +76,7 @@
       "code": "#02",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 23,
+      "yawDeg": 21,
       "pitchDeg": 0,
       "title": "EDUSPACE & EVENT HUB — UI/UX Figma Prototype",
       "category": "Mobile App UI/UX & Design System",
@@ -113,7 +113,7 @@
       "code": "#03",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 45,
+      "yawDeg": 42,
       "pitchDeg": 0,
       "title": "SISTEM WEB WPK & PORTAL DIGITAL — Web App",
       "category": "Full-Stack Web / Aplikasi WPK Interaktif",
@@ -150,7 +150,7 @@
       "code": "#04",
       "tier": "equator",
       "type": "webgame",
-      "yawDeg": 68,
+      "yawDeg": 64,
       "pitchDeg": 0,
       "title": "CYBER ORBIT DEFENDER — Playable WebGL Game",
       "category": "Game Development & Interactive Arcade",
@@ -188,7 +188,7 @@
       "code": "#05",
       "tier": "equator",
       "type": "committee",
-      "yawDeg": 90,
+      "yawDeg": 85,
       "pitchDeg": 0,
       "title": "ON DUTY GALLERY — Aku Lagi Berkegiatan",
       "category": "Dokumentasi Lapangan & Behind The Scenes",
@@ -487,7 +487,7 @@
       "code": "#06",
       "tier": "equator",
       "type": "uiux",
-      "yawDeg": 113,
+      "yawDeg": 106,
       "pitchDeg": 0,
       "title": "FINFLOW & SMART WALLET — UI/UX Prototype",
       "category": "Fintech Mobile UI/UX Design (Figma)",
@@ -549,7 +549,7 @@
       "code": "#08",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 23,
+      "yawDeg": 21,
       "pitchDeg": 19,
       "title": "PULSEWAVE — LED Stage Backdrop Visuals",
       "category": "Motion Loop & Audio Visualizer",
@@ -578,7 +578,7 @@
       "code": "#09",
       "tier": "upper",
       "type": "committee",
-      "yawDeg": 45,
+      "yawDeg": 42,
       "pitchDeg": 19,
       "title": "VISUAL & LIGHTING DIRECTOR — Malam Inagurasi",
       "category": "Kepanitiaan Pertunjukan & Panggung",
@@ -606,7 +606,7 @@
       "code": "#10",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 68,
+      "yawDeg": 64,
       "pitchDeg": 19,
       "title": "NEXUS FEST — Event Key Visual & Gate",
       "category": "Event Branding & 3D Stage Mockup",
@@ -631,7 +631,7 @@
       "code": "#11",
       "tier": "upper",
       "type": "video",
-      "yawDeg": 90,
+      "yawDeg": 85,
       "pitchDeg": 19,
       "title": "KINETIX — Broadcast & Livestream Package",
       "category": "Motion Broadcast Overlay System",
@@ -660,7 +660,7 @@
       "code": "#12",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 135,
+      "yawDeg": 127,
       "pitchDeg": 0,
       "title": "KULIAH UMUM OCTAGRAM — Poster Utama (Keynote Kepala BRIN)",
       "category": "Event Poster & Key Visual",
@@ -685,7 +685,7 @@
       "code": "#13",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 113,
+      "yawDeg": 106,
       "pitchDeg": 19,
       "title": "PAYUNG OCTAGRAM — Merchandise Branding Bisnis Digital 2026",
       "category": "Merchandise & Product Mockup",
@@ -735,7 +735,7 @@
       "code": "#15",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 158,
+      "yawDeg": 148,
       "pitchDeg": 0,
       "title": "LIVE REPORT OCTAGRAM — Instagram Story Frame Template",
       "category": "Social Media & Live Report",
@@ -760,7 +760,7 @@
       "code": "#16",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 135,
+      "yawDeg": 127,
       "pitchDeg": 19,
       "title": "LIVE REPORT OCTAGRAM — Photostrip Panitia 1 November 2026",
       "category": "Social Media & Documentation",
@@ -810,7 +810,7 @@
       "code": "#18",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 180,
+      "yawDeg": 169,
       "pitchDeg": 0,
       "title": "DANA USAHA OCTAGRAM 2026 — Poster Menu & Lokasi",
       "category": "Promotional Poster & Danus",
@@ -835,7 +835,7 @@
       "code": "#19",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 158,
+      "yawDeg": 148,
       "pitchDeg": 19,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Fireside Talks Yulianta (OJK)",
       "category": "X-Banner & Print Media",
@@ -885,7 +885,7 @@
       "code": "#21",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 203,
+      "yawDeg": 191,
       "pitchDeg": 0,
       "title": "QR CODE BISNIS DIGITAL ITK — Instagram @BISNISDIGITAL.ITK",
       "category": "Social Media & Graphic Asset",
@@ -910,7 +910,7 @@
       "code": "#22",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 180,
+      "yawDeg": 169,
       "pitchDeg": 19,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Moderator Dekan FSTI ITK",
       "category": "X-Banner & Print Media",
@@ -960,7 +960,7 @@
       "code": "#24",
       "tier": "equator",
       "type": "design",
-      "yawDeg": 225,
+      "yawDeg": 212,
       "pitchDeg": 0,
       "title": "KULIAH UMUM OCTAGRAM — X-Banner Sambutan Rektor ITK",
       "category": "X-Banner & Print Media",
@@ -985,7 +985,7 @@
       "code": "#25",
       "tier": "upper",
       "type": "design",
-      "yawDeg": 203,
+      "yawDeg": 191,
       "pitchDeg": 19,
       "title": "COMING SOON — Kuliah Umum & Expo OCTAGRAM 2026",
       "category": "Teaser Poster & Campaign",
@@ -1049,7 +1049,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 248,
+      "yawDeg": 233,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1074,7 +1074,7 @@
           "aspectRatio": 0.3330078125
         }
       ],
-      "yawDeg": 225,
+      "yawDeg": 212,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1156,7 +1156,7 @@
           "aspectRatio": 0.5625
         }
       ],
-      "yawDeg": 270,
+      "yawDeg": 254,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1197,7 +1197,7 @@
           "aspectRatio": 1.7777777777777777
         }
       ],
-      "yawDeg": 248,
+      "yawDeg": 233,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1255,7 +1255,7 @@
           "aspectRatio": 1.7808695652173914
         }
       ],
-      "yawDeg": 293,
+      "yawDeg": 275,
       "pitchDeg": 0,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1280,7 +1280,7 @@
           "aspectRatio": 0.6953125
         }
       ],
-      "yawDeg": 270,
+      "yawDeg": 254,
       "pitchDeg": 19,
       "accent": "#0d9488",
       "currentSlide": 0,
@@ -1305,7 +1305,7 @@
           "aspectRatio": 1.7778
         }
       ],
-      "yawDeg": 315,
+      "yawDeg": 296,
       "pitchDeg": 0,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1346,7 +1346,7 @@
           "aspectRatio": 0.6437
         }
       ],
-      "yawDeg": 293,
+      "yawDeg": 275,
       "pitchDeg": 19,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1428,7 +1428,7 @@
           "aspectRatio": 0.7441
         }
       ],
-      "yawDeg": 338,
+      "yawDeg": 318,
       "pitchDeg": 0,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1461,7 +1461,7 @@
           "aspectRatio": 2.0039
         }
       ],
-      "yawDeg": 315,
+      "yawDeg": 296,
       "pitchDeg": 19,
       "accent": "#2563eb",
       "currentSlide": 0,
@@ -1516,7 +1516,7 @@
         }
       ],
       "code": "#41",
-      "yawDeg": 338,
+      "yawDeg": 318,
       "pitchDeg": 19
     },
     {
@@ -1705,7 +1705,57 @@
       "code": "#48",
       "yawDeg": 338,
       "pitchDeg": -17
+    },
+    {
+      "id": "video-showcase-mp4",
+      "tier": "equator",
+      "type": "video",
+      "title": "VIDEO SHOWCASE — Motion & Visual Production (MP4)",
+      "category": "Video Production & Motion Graphics",
+      "year": "2026",
+      "tools": "Adobe Premiere Pro, After Effects",
+      "description": "Karya video produksi dan motion graphics (VIDEO.mp4).",
+      "accent": "#0ea5e9",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "VIDEO.mp4",
+          "caption": "Video showcase & produksi visual.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/octagram-31-key-visual-landscape.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/video-showcase.mp4",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "code": "#49",
+      "yawDeg": 339,
+      "pitchDeg": 0
+    },
+    {
+      "id": "econiq-logo-motion-mp4",
+      "tier": "upper",
+      "type": "video",
+      "title": "ECONIQ — Logo Animation & Motion Bumper (MP4)",
+      "category": "Motion Graphics & Brand Animation",
+      "year": "2026",
+      "tools": "Adobe After Effects, Premiere Pro",
+      "description": "Animasi logo dan bumper motion graphics untuk brand ECONIQ.",
+      "accent": "#2563eb",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "econiq_logo.mp4",
+          "caption": "Animasi logo ECONIQ.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-01-poster-jaket-duasisi.jpg",
+          "videoSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/econiq-logo-motion.mp4",
+          "isRealImage": true,
+          "aspectRatio": 1.7778
+        }
+      ],
+      "code": "#50",
+      "yawDeg": 339,
+      "pitchDeg": 19
     }
   ],
-  "lastUpdated": "2026-11-12T08:24:19.474Z"
+  "lastUpdated": "2026-11-12T08:25:59.987Z"
 }
