@@ -1512,8 +1512,15 @@
       <button onclick="closeActivityViewer()" class="absolute -top-10 right-0 text-white/80 hover:text-white text-sm font-semibold flex items-center gap-1.5 transition-colors">
         <i class="ph-bold ph-x text-base"></i> <span>Tutup</span>
       </button>
-      <div class="w-full max-h-[76vh] flex items-center justify-center overflow-hidden rounded-xl border border-slate-800 bg-slate-950/80 shadow-2xl">
+      <div class="relative w-full max-h-[76vh] flex items-center justify-center overflow-hidden rounded-xl border border-slate-800 bg-slate-950/80 shadow-2xl">
+        <button id="activity-viewer-prev" onclick="stepActivitySlide(-1)" class="hidden absolute left-3 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-black/70 hover:bg-[#2C99D6] text-white border border-white/20 items-center justify-center transition-all shadow-lg active:scale-95" title="Foto Sebelumnya">
+          <i class="ph-bold ph-caret-left text-lg"></i>
+        </button>
         <img id="activity-viewer-img" src="" alt="Dokumentasi Kegiatan" class="max-h-[74vh] max-w-full w-auto object-contain select-none" />
+        <button id="activity-viewer-next" onclick="stepActivitySlide(1)" class="hidden absolute right-3 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-black/70 hover:bg-[#2C99D6] text-white border border-white/20 items-center justify-center transition-all shadow-lg active:scale-95" title="Foto Berikutnya">
+          <i class="ph-bold ph-caret-right text-lg"></i>
+        </button>
+        <span id="activity-viewer-counter" class="hidden absolute top-3 left-3 px-2.5 py-1 rounded-full bg-black/75 backdrop-blur text-white text-[11px] font-bold border border-white/15">1 / 1</span>
       </div>
       <div class="mt-3.5 text-center px-4">
         <h4 id="activity-viewer-title" class="text-white font-bold text-base sm:text-lg"></h4>
@@ -5800,8 +5807,9 @@
       if (!grid) return;
 
       const acts = ownerProfile.activities || [];
+      const totalPhotos = acts.reduce((sum, a) => sum + ((a.slides && a.slides.length) ? a.slides.length : (a.imageSrc ? 1 : 0)), 0);
       const badge = document.getElementById('activity-count-badge');
-      if (badge) badge.textContent = `${acts.length} Foto`;
+      if (badge) badge.textContent = `${acts.length} Kegiatan • ${totalPhotos} Foto`;
 
       // Upload button is strictly visible ONLY for owner / admin
       const btnAddAct = document.getElementById('btn-add-activity-photo');
@@ -5833,13 +5841,17 @@
       }
 
       acts.forEach((act, idx) => {
-        const hasImg = Boolean(act.imageSrc);
+        const slides = (act.slides && act.slides.length) ? act.slides : (act.imageSrc ? [{ imageSrc: act.imageSrc, caption: act.caption }] : []);
+        const coverSrc = (slides[0] && (slides[0].imageSrc || slides[0].url)) || act.imageSrc;
+        const hasImg = Boolean(coverSrc);
+        const slideCount = slides.length;
         html += `
           <div class="glass-panel rounded-xl overflow-hidden border border-slate-200 dark:border-slate-800 flex flex-col justify-between group hover:border-slate-600 transition-all shadow-sm">
             <div class="relative aspect-video overflow-hidden bg-slate-950 flex items-center justify-center">
               ${hasImg ? `
-                <img src="${resolveMediaUrl(act.imageSrc)}" alt="${act.title}" onclick="viewActivityPhoto(${idx})" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300 cursor-pointer" />
+                <img src="${resolveMediaUrl(coverSrc)}" alt="${act.title}" onclick="viewActivityPhoto(${idx})" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300 cursor-pointer" />
                 <span class="absolute top-2 left-2 px-2 py-0.5 rounded bg-black/70 backdrop-blur text-[10px] font-semibold text-white border border-white/10">Tahun ${act.year || '2025'}</span>
+                ${slideCount > 1 ? `<span class="absolute top-2 right-2 px-2 py-0.5 rounded bg-[#2C99D6]/90 backdrop-blur text-[10px] font-bold text-[#F8FAFC] border border-white/20 flex items-center gap-1 shadow"><i class="ph-bold ph-images text-[10px]"></i> ${slideCount} Slide</span>` : ''}
                 ${state.isOwner ? `
                   <button onclick="triggerActivityPhotoUpload(${idx})" class="absolute bottom-2 right-2 px-2 py-1 rounded bg-black/75 hover:bg-black text-white text-[10px] font-medium backdrop-blur opacity-0 group-hover:opacity-100 transition-opacity flex items-center gap-1 shadow" title="Ganti foto kegiatan ini">
                     <i class="ph-bold ph-arrows-clockwise"></i> Ganti
@@ -5899,14 +5911,60 @@
       showToast('Foto kegiatan telah dihapus.');
     }
 
+    function getActivitySlides(act) {
+      if (!act) return [];
+      if (act.slides && act.slides.length) {
+        return act.slides.map(s => ({
+          imageSrc: s.imageSrc || s.url || act.imageSrc,
+          caption: s.caption || act.caption || ''
+        })).filter(s => s.imageSrc);
+      }
+      return act.imageSrc ? [{ imageSrc: act.imageSrc, caption: act.caption || '' }] : [];
+    }
+
+    function renderActivityViewerSlide() {
+      const act = (ownerProfile.activities || [])[state.activeActivityIndex];
+      const slides = getActivitySlides(act);
+      if (!act || !slides.length) return;
+      const idx = ((state.activeActivitySlide || 0) + slides.length) % slides.length;
+      state.activeActivitySlide = idx;
+      const cur = slides[idx];
+
+      document.getElementById('activity-viewer-img').src = resolveMediaUrl(cur.imageSrc);
+      document.getElementById('activity-viewer-title').textContent = act.title || 'Dokumentasi Kegiatan';
+      document.getElementById('activity-viewer-caption').textContent = cur.caption || act.caption || '';
+      document.getElementById('activity-viewer-year').textContent = `Tahun ${act.year || '2025'} • M. Hafidz Ardan`;
+
+      const prevBtn = document.getElementById('activity-viewer-prev');
+      const nextBtn = document.getElementById('activity-viewer-next');
+      const counterEl = document.getElementById('activity-viewer-counter');
+      const hasMulti = slides.length > 1;
+      [prevBtn, nextBtn, counterEl].forEach(el => {
+        if (!el) return;
+        el.classList.toggle('hidden', !hasMulti);
+        el.classList.toggle('flex', hasMulti && el !== counterEl);
+      });
+      if (counterEl && hasMulti) {
+        counterEl.textContent = `${idx + 1} / ${slides.length}`;
+      }
+    }
+
+    function stepActivitySlide(delta) {
+      const act = (ownerProfile.activities || [])[state.activeActivityIndex];
+      const slides = getActivitySlides(act);
+      if (slides.length <= 1) return;
+      state.activeActivitySlide = ((state.activeActivitySlide || 0) + delta + slides.length) % slides.length;
+      renderActivityViewerSlide();
+    }
+
     function viewActivityPhoto(index) {
       const act = (ownerProfile.activities || [])[index];
-      if (!act || !act.imageSrc) return;
-      document.getElementById('activity-viewer-img').src = act.imageSrc;
-      document.getElementById('activity-viewer-title').textContent = act.title || 'Dokumentasi Kegiatan';
-      document.getElementById('activity-viewer-caption').textContent = act.caption || '';
-      document.getElementById('activity-viewer-year').textContent = `Tahun ${act.year || '2025'} • M. Hafidz Ardan`;
-      
+      const slides = getActivitySlides(act);
+      if (!act || !slides.length) return;
+      state.activeActivityIndex = index;
+      state.activeActivitySlide = 0;
+      renderActivityViewerSlide();
+
       const m = document.getElementById('activity-viewer-modal');
       m.classList.remove('hidden');
       m.classList.add('flex');
