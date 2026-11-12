@@ -3420,6 +3420,10 @@
      *************************************************************************/
     function markUserInteraction() {
       state.lastInteractionTime = performance.now();
+      if (state.autoRotate) {
+        state.autoRotate = false;
+        updateAutoRotateUI();
+      }
     }
 
     function updateCustomCursorState(mode, labelText) {
@@ -3728,6 +3732,7 @@
     }
 
     function stepProject(dir) {
+      markUserInteraction();
       if (typeof AUDIO_SFX !== 'undefined') AUDIO_SFX.playTick();
       const filtered = getFilteredProjectIndices();
       if (!filtered.length) return;
@@ -3747,6 +3752,7 @@
     }
 
     function stepActiveCardSlide(dir) {
+      markUserInteraction();
       const proj = portfolioProjects[state.activeIndex];
       if (!proj || !proj.slides) return;
       const total = proj.slides.length;
@@ -4112,6 +4118,7 @@
     }
 
     function setTypeFilter(type) {
+      markUserInteraction();
       state.typeFilter = type;
       ['all', 'design', 'uiux', 'webgame', 'video', 'committee'].forEach(t => {
         const btn = document.getElementById(`type-btn-${t}`);
@@ -4265,6 +4272,7 @@
 
     let currentModalIndex = 0;
     function openDetailModal(index) {
+      markUserInteraction();
       if (typeof AUDIO_SFX !== 'undefined') AUDIO_SFX.playOpen();
       currentModalIndex = index;
       const proj = portfolioProjects[index];
