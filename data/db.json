@@ -2725,7 +2725,262 @@
       "code": "#76",
       "yawDeg": 349.71428571428567,
       "pitchDeg": -32
+    },
+    {
+      "id": "design-smk-alrifaie-identity",
+      "tier": "equator",
+      "type": "design",
+      "title": "BRAND IDENTITY & SIGNAGE — SMKS Modern Al-Rifa'ie Gondanglegi",
+      "category": "Brand Identity & Logo System",
+      "year": "2024",
+      "tools": "Adobe Illustrator, Photoshop Mockup",
+      "description": "Perancangan sistem identitas visual, variasi warna logo resmi, dan mockup signage lightbox 3D untuk SMKS Modern Al-Rifa'ie Gondanglegi.",
+      "accent": "#15803d",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Logo Utama & Pattern — SMKS Modern Al-Rifa'ie",
+          "caption": "Identitas visual utama dengan ornamen geometris dan motif islami.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-smk-alrifaie-logo-main.jpg",
+          "isRealImage": true,
+          "aspectRatio": 1
+        },
+        {
+          "title": "Variasi Warna Logo — SMKS Modern Al-Rifa'ie",
+          "caption": "Panduan penerapan logo pada latar hijau tua dan putih.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-smk-alrifaie-logo-variants.jpg",
+          "isRealImage": true,
+          "aspectRatio": 1
+        },
+        {
+          "title": "3D Lightbox Signage Mockup — SMKS Modern Al-Rifa'ie",
+          "caption": "Visualisasi implementasi logo pada papan nama lightbox dinding.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-smk-alrifaie-lightbox-mockup.jpg",
+          "isRealImage": true,
+          "aspectRatio": 1
+        }
+      ],
+      "code": "#77"
+    },
+    {
+      "id": "design-eshal-mafaza-tamatan",
+      "tier": "upper",
+      "type": "design",
+      "title": "ESHAL MAFAZA — Feeds Instagram & Launching Tamatan Al-Rifa'ie 2",
+      "category": "Social Media Grid & Event Visual",
+      "year": "2023",
+      "tools": "Adobe Photoshop, Coreldraw / Illustrator",
+      "description": "Desain feeds Instagram 12-grid filosofi logo dan poster launching video resmi tamatan Eshal Mafaza Pondok Modern Al-Rifa'ie 2.",
+      "accent": "#65a30d",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Instagram Grid — Filosofi Logo & Behind The Scene Eshal Mafaza",
+          "caption": "Konsep 12-grid menyambung bertema Teratai, Merak, dan Batik.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-eshal-mafaza-grid.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.7588
+        },
+        {
+          "title": "Poster Launching Official Video — Eshal Mafaza",
+          "caption": "Poster promosi perilisan video resmi tamatan Putra & Putri di YouTube.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-eshal-mafaza-launching.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.7998
+        }
+      ],
+      "code": "#78"
+    },
+    {
+      "id": "design-mm2-alrifaie-feeds",
+      "tier": "upper",
+      "type": "design",
+      "title": "INSTAGRAM FEEDS XI MULTIMEDIA 2 — SMK Modern Al-Rifa'ie 2",
+      "category": "Social Media Grid & Campaign",
+      "year": "2022",
+      "tools": "Adobe Photoshop",
+      "description": "Desain feeds Instagram kelas XI Multimedia 2 meliputi ucapan Dirgahayu RI ke-77, nominasi lomba twibbon kemerdekaan, dan galeri kegiatan.",
+      "accent": "#dc2626",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Instagram Grid XI Multimedia 2 — HUT RI 77 & Galeri",
+          "caption": "Komposisi feeds menyambung untuk akun kelas XI Multimedia 2.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-mm2-alrifaie-grid-01.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.752
+        },
+        {
+          "title": "Nominasi Lomba Twibbon Kemerdekaan RI ke-77",
+          "caption": "Katalog 9 desain twibbon kemerdekaan karya siswa XI Multimedia 2.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-mm2-alrifaie-twibbon-grid.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.7461
+        }
+      ],
+      "code": "#79"
+    },
+    {
+      "id": "design-kyaiku-halftone",
+      "tier": "lower",
+      "type": "design",
+      "title": "KYAIKU — Poster Pop-Art Halftone Dr. KH. Ahmad Muflih Zamachsyari",
+      "category": "Poster Illustration & Typography",
+      "year": "2023",
+      "tools": "Adobe Photoshop",
+      "description": "Eksplorasi desain poster bergaya pop-art halftone duotone biru-oranye menampilkan potret Dr. KH. Ahmad Muflih Zamachsyari, SE., MM.",
+      "accent": "#ea580c",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Poster Pop-Art Halftone — KYAIKU",
+          "caption": "Karya tipografi dan efek halftone duotone.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-kyaiku-halftone.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5625
+        }
+      ],
+      "code": "#80"
+    },
+    {
+      "id": "design-sugeng-ambal-warsa",
+      "tier": "lower",
+      "type": "design",
+      "title": "SUGENG AMBAL WARSA — Dr. KH. Ahmad Muflih Zamachsyari, SE., MM",
+      "category": "Greeting Poster & Manipulation",
+      "year": "2023",
+      "tools": "Adobe Photoshop",
+      "description": "Poster ucapan milad/ambal warsa dengan komposisi potret berlapis dan tipografi 3D hijau.",
+      "accent": "#16a34a",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Poster Sugeng Ambal Warsa",
+          "caption": "Desain poster ucapan spesial untuk Dr. KH. Ahmad Muflih Zamachsyari.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-sugeng-ambal-warsa.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.5605
+        }
+      ],
+      "code": "#81"
+    },
+    {
+      "id": "design-infografis-perpustakaan-aksi",
+      "tier": "equator",
+      "type": "design",
+      "title": "INFOGRAFIS: TEMPAT IDE BERTEMU AKSI — Perpustakaan Kota",
+      "category": "Infographic & Editorial Design",
+      "year": "2025",
+      "tools": "Adobe Illustrator, Photoshop",
+      "description": "Poster infografis bertema transformasi Perpustakaan Kota sebagai ruang kolaborasi, dilengkapi data riset, masalah, dan Solusi A.K.S.I.",
+      "accent": "#f97316",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Infografis Tempat Ide Bertemu Aksi",
+          "caption": "Perpustakaan Kota sebagai ruang tumbuhnya gagasan dan kolaborasi.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-infografis-perpustakaan-aksi.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.707
+        }
+      ],
+      "code": "#82"
+    },
+    {
+      "id": "design-infografis-literasi-genz",
+      "tier": "equator",
+      "type": "design",
+      "title": "INFOGRAFIS: DARI BUKU KE INOVASI — Fakta Literasi & Solusi Gen-Z",
+      "category": "Infographic & Editorial Design",
+      "year": "2025",
+      "tools": "Adobe Illustrator, Photoshop",
+      "description": "Poster infografis data literasi 2025 (GoodStats) dan strategi Solusi GEN-Z untuk menghidupkan kembali budaya membaca dan inovasi.",
+      "accent": "#dc2626",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Infografis Dari Buku ke Inovasi",
+          "caption": "Visualisasi data fakta literasi 2025 dan solusi kreatif Gen-Z.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-infografis-literasi-genz.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.707
+        }
+      ],
+      "code": "#83"
+    },
+    {
+      "id": "design-dp3-balikpapan-bibit",
+      "tier": "upper",
+      "type": "design",
+      "title": "LAPORAN PENYEBARAN BIBIT TANAMAN — Dinas Pangan, Pertanian & Perikanan Balikpapan",
+      "category": "Government Social Media & Infographic",
+      "year": "2024",
+      "tools": "Adobe Photoshop / Canva / Illustrator",
+      "description": "Desain carousel laporan publik penyebaran bibit/benih tanaman Februari 2024 untuk Dinas Pangan, Pertanian, dan Perikanan Kota Balikpapan.",
+      "accent": "#15803d",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Cover Carousel — Penyebaran Bibit/Benih Tanaman 2024",
+          "caption": "Slide pembuka laporan bidang pertanian tanaman pangan DP3 Balikpapan.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dp3-cover-bibit-2024.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.7998
+        },
+        {
+          "title": "Tabel Data — Laporan Penyebaran Bibit Februari 2024",
+          "caption": "Slide rincian data pemohon dan jumlah bibit cabai, terong, serta tomat.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-dp3-laporan-bibit-feb2024.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.7998
+        }
+      ],
+      "code": "#84"
+    },
+    {
+      "id": "design-disperinkop-tkdn-balikpapan",
+      "tier": "upper",
+      "type": "design",
+      "title": "PROSES SERTIFIKASI TKDN BARANG — Disperinkop UMKM Kota Balikpapan",
+      "category": "Government Social Media & Infographic",
+      "year": "2024",
+      "tools": "Adobe Photoshop / Illustrator",
+      "description": "Desain informasi publik alur proses sertifikasi TKDN Barang untuk industri kecil bagi Dinas Koperasi, UMKM, dan Perindustrian Kota Balikpapan.",
+      "accent": "#0284c7",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Cover Edukasi Proses Sertifikasi TKDN Barang",
+          "caption": "Konten edukasi resmi Disperinkop UMKM Kota Balikpapan.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-disperinkop-tkdn-barang.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.7998
+        }
+      ],
+      "code": "#85"
+    },
+    {
+      "id": "design-mercedes-190sl-vintage",
+      "tier": "lower",
+      "type": "design",
+      "title": "MERCEDES-BENZ 190 SL — Vintage Editorial Poster",
+      "category": "Editorial & Brutalist Poster",
+      "year": "2024",
+      "tools": "Adobe Photoshop",
+      "description": "Desain poster editorial monokrom biru cobalt bertema mobil klasik Mercedes-Benz 190 SL Roadster era 1950-an.",
+      "accent": "#1d4ed8",
+      "currentSlide": 0,
+      "slides": [
+        {
+          "title": "Vintage Editorial Poster — Mercedes-Benz 190 SL",
+          "caption": "Eksperimen layout editorial threshold biru dan tipografi tebal.",
+          "imageSrc": "https://raw.githubusercontent.com/ardan2056/hafidz-360-portfolio/main/public/uploads/design-mercedes-190sl-vintage.jpg",
+          "isRealImage": true,
+          "aspectRatio": 0.7998
+        }
+      ],
+      "code": "#86"
     }
   ],
-  "lastUpdated": "2026-11-12T09:36:42.618Z"
+  "lastUpdated": "2026-11-12T09:46:44.641Z"
 }
