@@ -1943,8 +1943,8 @@
       lat: 0,
       targetLon: 0,
       targetLat: 0,
-      fov: window.innerWidth < 640 ? 68 : 56,
-      targetFov: window.innerWidth < 640 ? 68 : 56,
+      fov: window.innerWidth < 640 ? 58 : 48,
+      targetFov: window.innerWidth < 640 ? 58 : 48,
       pinchStartDist: 0,
       uploadTargetIndex: 0,
       uploadMode: 'add',
@@ -2328,7 +2328,7 @@
     let latitudeRingMeshes = [];
     let kineticRingZenith = null, kineticRingNadir = null, starPointsMesh = null;
     let studioEnvGroup;
-    const SPHERE_RADIUS = 28;
+    const SPHERE_RADIUS = 20;
 
 
     function extractYouTubeId(url) {
